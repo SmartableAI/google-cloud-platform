@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-emb
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 640
     title: "How To Embrace The Hybrid Cloud Reality And Get It Right"
 
-secured: "fpUtV7u33GY5yhEAzQ2eAvwc6NPDqKXe/88cshKFQIOLOjuCBGEix14XhIRHl+CWrIPS15pqq8wWJp2TLjJtwWRndnxcyT/674BBmrKK2cH/PNJN0jEtAq4iqGUC3pVmznk6S65Gv6yQg2OF4d4uXieRJIpZZy+thhO/dBjeL5dRFxYp2kANsehCqwrxzev0jQt17VZYZjDAixT7VmEI6Zeg2dFck7Xh/zf7Aek6Y+h2AcYLPgqdDaFiI2LFsggQyTKjoA0ZtF0ER6fDfj2jMfnen2LvOPcG1semMgV5LNJF4mSbQ3xS1wS1SVH0rj0utmy3iIARMZEDQ+H9J6HPaiEYoe3xpjp/XJS0rOEHn1I3RLllShseiAAQuTXh+tEcsZi9bxDxBoMWHi2eyaiG5pUSr4/KIkk0Q0pVZy2nMiNZ0BLeGSjPlk1nOK8+O1l+5hxYWWnNkmPSDfjso5x7/dQGuh6yjV6UtxMIS6w8bNA=;+VwBSgq6mUkK6CZshBwulQ=="
+secured: "kpO9yCUipFIeE4HV5PXnNmuO99Vhq/P/Mr4VKOfb61Fs0NHRBV8TCIN4vZ1MjFVlfNOTBOZ3HfAYaA/iQBDCw9u4CNJtCSqWMaUE5h1r7wz/izSciZ2uL9UfKvCwWM86oRHBlEQ9EKUvPcOiDXueGXbaq3keDI+WMo0L0YWEhCikWtMexJNtnbylyFUG891CzYIGcfiz6BgY41OTGZp35qmdN+9IYCyQ/Iv4I79KRB5wybr0Z6JEYyyiF/hZ2RiKPWxHJBHZXTfdxOhvHkH1eQimsuncYzkwsJsfMhpgaTRRSUaWUW7LwtuBQ7k8HoRMdLvGex/GgaNslagC+1F8qYPc+hBuut2TrgB8fI8na0PK8MLJWYWaz3XoAqqGbjZ451n9Y2Z/j99bfi0KTh59rSuAbrpOrW2LiFnUd820omblPYinIBgi+JKzrAw5T/PjIWeg++YrVoHUnNM8B2oRMScJ/BSOjw+qZ7CdQP77/Kg=;Ft1OxHJVCRRUZDsx9p0h0g=="
 ---
 

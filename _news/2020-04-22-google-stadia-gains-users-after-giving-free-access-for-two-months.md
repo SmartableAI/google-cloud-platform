@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN224386"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN224386"
 type: article
 quality: 82
-heat: 82
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 545
     title: "Google Stadia gains users after giving free access for two months"
 
-secured: "8I/t1Cogxrr7nnzDHd456lQ5syVtrhcIEwCErmci4bI8L0CINfqwLhOynbR4sA31hmjCsh+R+E1l7ksmKxPPeE4XL1E9WFMESQZLSAkX6Ql4RIgFClgLTukpKUakBzCDZ8AkgPATmylvLHq+fGg8LaCpBeClE9UHGOfxqK8LuMG9thFwcEQ5fyOMmYfUvPAaqipluuON4AFBFVKXZogz+KlzrDfKKr9+5M+URTk+BIKMxf48KR4/qD2kuFjLo26yRnlX9+BTdbfdBWunJJSTpRFNga/LpxMIFXWlRpEqapYu3BsfsQBFdDamcRLxM3JLOnE4kpoS/2JUXRrtr090rxEaxNB1496ltqvoOLma1d4LQgb8L5bS3BT7BtkGhalGdUobgbb8CVpeSw/g7I0zz7iSGFU4lAcTjoiM55+UF18UFkbhubL/iTRJIHvvpUMmp9+fOAjMeGf1EAHlNJgOvc5uOsDljolvvvc3fIc4LXg=;cP2NytYjNkBhdH4x4LhMzA=="
+secured: "Fg3Tw6HXSnTt+N0NXrfIVLL6lB9FwCjZQTmhVfHezIFUdA9KzYEC5vRo+n03bdxL5XqP+or2L3MR/R/zGl26G0N5gEyA5AUgzFOUYzTd0nzD47lsudxy8EwdfjefxJEhUGAgRPo/hFOJH6a35WP590SzTdpZTz5+yCPqAZ8ONHlkEj12oDzuL+I8W6Rrw9Pm8AWI0uuss9II3/YaHuZ/cwoToIZ846ipEGBll59EtDDV/2BhTBqh2AFoKHOYnDnKL6fYw2EFdxa+yamWaF/TgESUcsfHYgeRyINWmk4hB/g6Wto5jI2KhPsveWXaIEPQa8jgn7pGBruxG2NAtnlFr3oswQa4o6OFO12Tro6yt2EpnLRM7lF9HwcvuvR/S18VkHRRTvnGfaZ+ZArogU4VQY/vZufkXjNgQLyl3pcGCPciFHhYxeMYSeC0dOOB/sS3Efw31yudXO6sWkkL5Tl269qkZ6VjUKjT0AbyAVvyF9c=;hyJNd5IBfYzKttiwjbQxQg=="
 ---
 
