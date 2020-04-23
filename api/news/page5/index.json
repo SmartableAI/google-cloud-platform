@@ -2,6 +2,78 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-13-g-suite-pro-tips-declutter-your-inbox-with-gmail-filters.md",
+      "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
+      "excerpt": "Editor’s note: In a previous blog post, Greg shared tips on how to use advanced search and labels to organize your inbox. Here, he explains how Gmail filters can help you prioritize your emails.As an airplane pilot, I have a lot to think about when flying, and cockpit management skills are key for flying",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GmailLaunch-03.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1554,
+          "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-how-ebsco-delivers-dynamic-research-services-with-apigee.md",
+      "title": "How EBSCO delivers dynamic research services with Apigee",
+      "excerpt": "Editor's note: Today we hear from Adam Ray, platform product manager at EBSCO Information Services, a leading provider of research databases, e-journals, magazines, and eBooks. Learn how the company is working with Apigee to connect with customers through APIs.For more than 70 years, EBSCO has supported",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_api-management-02_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How EBSCO delivers dynamic research services with Apigee",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce.md",
       "title": "Best practices for Chrome Enterprise admins to enable a remote workforce",
       "excerpt": "As more businesses consider how to enable their teams to work remotely, IT admins are increasingly thinking through how to best support a distributed workforce. Earlier this week we shared some tips and best practices, but if you’re an admin that uses Chromebooks or Chrome Browser in your environment,",
@@ -853,80 +925,6 @@
       "topics": [
         "Google Cloud",
         "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-new-dialogflow-mega-agent-for-contact-center-ai-increases-intents-by-10-times-to-20000.md",
-      "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
-      "excerpt": "Contact centers are one of the most important ways that businesses interact with customers. But, consistently providing great customer interactions over the range of potential conversations presents a number of complex challenges, challenges that businesses are increasingly turning to artificial intelligence",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
-      "publishedDateTime": "2020-02-19T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
-          "width": 2800,
-          "height": 1167,
-          "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-your-cloud-your-infrastructure-announcing-anthos-ready-storage.md",
-      "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
-      "excerpt": "We launched Anthos to provide customers with a platform to deliver and manage applications across all types of environments and infrastructure—most commonly, hybrid and multi-cloud environments—leveraging containers and Kubernetes.To date, we have seen an extremely enthusiastic response from customers",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
-      "publishedDateTime": "2020-02-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
       ]
     }
   ],

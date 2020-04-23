@@ -2,6 +2,80 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-19-new-dialogflow-mega-agent-for-contact-center-ai-increases-intents-by-10-times-to-20000.md",
+      "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
+      "excerpt": "Contact centers are one of the most important ways that businesses interact with customers. But, consistently providing great customer interactions over the range of potential conversations presents a number of complex challenges, challenges that businesses are increasingly turning to artificial intelligence",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
+      "publishedDateTime": "2020-02-19T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-your-cloud-your-infrastructure-announcing-anthos-ready-storage.md",
+      "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
+      "excerpt": "We launched Anthos to provide customers with a platform to deliver and manage applications across all types of environments and infrastructure—most commonly, hybrid and multi-cloud environments—leveraging containers and Kubernetes.To date, we have seen an extremely enthusiastic response from customers",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
+      "publishedDateTime": "2020-02-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-new-amd-epyc-based-compute-engine-family-now-in-beta.md",
       "title": "New AMD EPYC-based Compute Engine family, now in beta",
       "excerpt": "At Google Cloud, we want you to be able to choose the best VMs for your workloads. Today, we’re excited to announce a new addition to our general purpose VMs: the N2D family, built atop 2nd Gen AMD EPYC™ Processors. N2D VMs are a great option for both general-purpose workloads and workloads that require",
@@ -853,80 +927,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management.md",
-      "title": "New Anthos training: a masterclass in hybrid cloud architecture and management",
-      "excerpt": "You’re moving faster than ever to build new applications, innovate, and bring value to your customers. Anthos, Google Cloud’s open application modernization platform, can help you modernize your existing applications, making them more portable, maintainable, scalable and secure. And now, our newest learning",
-      "heat": 145,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/amp/",
-      "publishedDateTime": "2020-01-16T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_training_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "New Anthos training: a masterclass in hybrid cloud architecture and management",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-exploring-container-security-announcing-the-cis-google-kubernetes-engine-benchmark.md",
-      "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
-      "excerpt": "If you’re serious about the security of your Kubernetes operating environment, you need to build on a strong foundation. The Center for Internet Security’s (CIS) Kubernetes Benchmark give you just that: a set of Kubernetes security best practices that will help you build an operating environment that",
-      "heat": 143,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
-      "publishedDateTime": "2020-01-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Container_security_yWGpMGg.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

@@ -2,6 +2,86 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-23-google-cloud-ceo-coronavirus-will-create-a-new-digital-normal.md",
+      "title": "Google Cloud CEO: Coronavirus will create a new digital normal",
+      "excerpt": "The coronavirus will create a new normal baised on digital processes and accelerate business transformation, according to Google Cloud CEO Thomas Kurain. Speaking at NetApp Insight, Kurian called the potential impact of the pandemic \"shock momentum\" and said the world will \"reimagine and create new opportunities\" for what comes after the crisis.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355414/the-coronavirus-will-create-a-new-digital-normal",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355414/the-coronavirus-will-create-a-new-digital-normal?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/355414/the-coronavirus-will-create-a-new-digital-normal?amp",
+      "publishedDateTime": "2020-04-23T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587638309/itpro/Screenshot_2020-04-23_at_09.19.47.png",
+          "width": 1270,
+          "height": 716,
+          "title": "Google Cloud CEO: Coronavirus will create a new digital normal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-how-telus-international-got-employees-back-to-work-with-virtual-desktops.md",
+      "title": "How TELUS International got employees back to work with virtual desktops",
+      "excerpt": "Google Cloud CEO Thomas Kurian recently shared the many ways we’re helping people work remotely and remain productive, while ensuring the health and safety of employees around the world during the global COVID-19 pandemic. Along with internet connectivity, access to remote desktops is essential for many",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/remote-work/telus-runs-vdi-on-google-cloud-during-covid-closures/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WFH-06_1.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "How TELUS International got employees back to work with virtual desktops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-google-stadia-gains-users-after-giving-free-access-for-two-months.md",
       "title": "Google Stadia gains users after giving free access for two months",
       "excerpt": "Google’s cloud-based game, Stadia, has witnessed a surge in users after the tech giant gifted two months of free access to its premium version for gamers sheltering at home to curb the spread of the coronavirus.",
@@ -34,6 +114,50 @@
           "width": 850,
           "height": 545,
           "title": "Google Stadia gains users after giving free access for two months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-clouds-fully-managed-anthos-is-now-generally-available-for-aws.md",
+      "title": "Google Cloud’s fully-managed Anthos is now generally available for AWS",
+      "excerpt": "A year ago, back in the days of in-person conferences, Google officially announced the launch of its Anthos multi-cloud application modernization platform at its Cloud Next conference. The promise of Anthos was always that it would allow enterprises to write their applications once, package them into containers and then manage their multi-cloud ...",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
+      "publishedDateTime": "2020-04-22T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GOOGLENEXT_2019_0409_091100-0355_ALIVECOVE.max-2200x2200-1.png?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Google Cloud’s fully-managed Anthos is now generally available for AWS",
           "attribution": null
         }
       ],
@@ -232,50 +356,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-cloud-anthos-now-available-for-aws-with-azure-to-follow.md",
-      "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
-      "excerpt": "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "publishedDateTime": "2020-04-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
           "attribution": null
         }
       ],
@@ -1151,94 +1231,6 @@
           "width": 700,
           "height": 467,
           "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-coronavirus-test-troubles-cloud-trumps-efforts-to-reopen-country.md",
-      "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
-      "excerpt": "The United States is struggling to test enough people to track and control the spread of the novel coronavirus, a crucial first step to reopening parts of the economy, which President Donald Trump is pushing to do by May 1.",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1",
-      "ampWebUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
-      "publishedDateTime": "2020-04-18T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20108812937625.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know.md",
-      "title": "Google Stadia free tier, newest games and everything else you need to know",
-      "excerpt": "Google Stadia, the megacorp's service to stream playable games on TVs and mobile devices without a console or PC, is the company's leap into the melee of cloud gaming. Google is typically the biggest fish in any pond,",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
-      "publishedDateTime": "2020-04-17T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/yUWTwiSF9gNLBd6FlrNb7yjxtrs=/756x567/2019/11/15/a6594deb-1dba-451a-98bb-02fe83b80a9b/18-google-stadia.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Google Stadia free tier, newest games and everything else you need to know",
           "attribution": null
         }
       ],

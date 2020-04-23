@@ -2,6 +2,80 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-01-16-new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management.md",
+      "title": "New Anthos training: a masterclass in hybrid cloud architecture and management",
+      "excerpt": "You’re moving faster than ever to build new applications, innovate, and bring value to your customers. Anthos, Google Cloud’s open application modernization platform, can help you modernize your existing applications, making them more portable, maintainable, scalable and secure. And now, our newest learning",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/amp/",
+      "publishedDateTime": "2020-01-16T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_training_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New Anthos training: a masterclass in hybrid cloud architecture and management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-exploring-container-security-announcing-the-cis-google-kubernetes-engine-benchmark.md",
+      "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
+      "excerpt": "If you’re serious about the security of your Kubernetes operating environment, you need to build on a strong foundation. The Center for Internet Security’s (CIS) Kubernetes Benchmark give you just that: a set of Kubernetes security best practices that will help you build an operating environment that",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
+      "publishedDateTime": "2020-01-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Container_security_yWGpMGg.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-google-cloud-and-phoenix-labs-dauntless-in-the-face-of-demand-spikes.md",
       "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
       "excerpt": "In the role-playing video game Dauntless, players work in groups to battle monsters and protect the city-island of Ramsgate. Commitment reaps big rewards: with every beast slayed, you earn new weapons and armor made of the same materials as the Behemoth you took down, strengthening your arsenal for the",
@@ -854,80 +928,6 @@
       "topics": [
         "Google Cloud",
         "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-12-06-expanding-the-serverless-ecosystem-for-cloud-run.md",
-      "title": "Expanding the serverless ecosystem for Cloud Run",
-      "excerpt": "Increasingly, organizations want to write applications in containers, without having to worry about provisioning, managing and scaling the underlying infrastructure. They also want to pay only for what they use. Cloud Run, which recently became generally available, makes this possible, with additional",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/amp/",
-      "publishedDateTime": "2019-12-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WorkplaceTransformation-01_2FYra9X.max-1000x1000.png",
-          "width": 1000,
-          "height": 555,
-          "title": "Expanding the serverless ecosystem for Cloud Run",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-12-05-networking-cost-optimization-best-practices-an-overview.md",
-      "title": "Networking cost optimization best practices: an overview",
-      "excerpt": "Every cloud deployment needs a network over which to move data. Without a network, you can’t view cat videos or upload your selfies, much less allow microservices to talk to one another. Google Cloud provides a global, scalable, flexible network for your cloud-based workloads and services, and how you",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/networking-cost-optimization-best-practices/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/networking-cost-optimization-best-practices/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/networking-cost-optimization-best-practices/amp/",
-      "publishedDateTime": "2019-12-05T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google-networking.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Networking cost optimization best practices: an overview",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],
