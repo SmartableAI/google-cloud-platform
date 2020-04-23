@@ -22,6 +22,6 @@ images:
     height: 555
     title: "How Google Sites supports remote work and learning"
 
-secured: "QXNjFVQsZ8oEMMZZ+ld+BylLXNQyQqHh0fD4iQKqOaoZqXJD2QRMSE3cS/1SSOM4RmHmvFJBuRslX37t2Sql8A/UEmZlhOpgYHprC+D+lWs4udwz0K0Kh2CZ4hTbiVfAmrBrn9JU1UNl4AOxegP8oAltviOAbjUnKuhQgl4u6eOknVa/7qNo+tnIrWvaB4rH/YXtk8RTL352uU6j0gjwz0Jjd71z2UzzVenh0j+sN4CJBdaVG0kry0Rhg0jvRWly652c46ab5+Dv09GPnirzw6RmRpg3FXcb29EwBmRwST2gNlp47VfqoJU0H8u/FQWa;zw1/E594//UiQ/cMBtKypA=="
+secured: "TTIvZhh0UlbFXx9KpoNWZTqn41jAlK/AWpu6rezV3FSrHYQpQQ9Yr7axLAJKyvdtGqtnXxO90GEi6d3kSCu6+1sEZkoteZ9dY5N/bhX3dePwn3h11/ClotF+mzWofkZrIrWBLcIOfJA+OyxhV43332OzgA1x2nvhOnNz400uUQ8JP+xx+ipqpX7lMBE6fD31vC8ncSt/vvuKGskaPjOi/aCLk8y4DOIRb4h46ZXlpfZNIxO1bgMY7rpU8LaxAJASxzlqJc2PctUOHwgMbe1lvJJ22OWQBL4lV0iu/BMLejj67di4G2tu+JDAyXlGmPD2;2msEZyjEK70GaMkB3luq5w=="
 ---
 
