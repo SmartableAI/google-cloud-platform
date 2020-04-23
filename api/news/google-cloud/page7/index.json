@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-12-01-advancing-the-medical-imaging-field-with-cloud-based-solutions-at-rsna.md",
+      "title": "Advancing the medical imaging field with cloud-based solutions at RSNA",
+      "excerpt": "The healthcare industry is increasingly embracing the cloud, and to help, we’ve developedhealthcare andlife sciences solutions that make it easier for organizations to transition to cloud technologies. Today, at the annual meeting of the Radiological Society of North America (RSNA), we’re excited to",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/amp/",
+      "publishedDateTime": "2019-12-01T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Advancing the medical imaging field with cloud-based solutions at RSNA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2019-11-27-exploring-container-security-day-one-kubernetes-decisions.md",
       "title": "Exploring container security: Day one Kubernetes decisions",
       "excerpt": "Congratulations! You’ve decided to go with Google Kubernetes Engine (GKE) as your managed container orchestration platform. Your first order of business is to familiarize yourself with Kubernetes architecture, functionality and security principles. Then, as you get ready to install and configure your",
@@ -1070,43 +1107,6 @@
       "topics": [
         "Google Cloud",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-09-25-cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details.md",
-      "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
-      "excerpt": "Providing reliable data services that you can trust to serve your data is the most important goal for our database team here at Google Cloud Platform (GCP). That’s why we put money on the table in the form of availability service-level agreements (SLAs).We’re pleased to announce that all Cloud Spanner",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
-      "publishedDateTime": "2019-09-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Database_rqS3tmV.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
       ]
     }
   ],

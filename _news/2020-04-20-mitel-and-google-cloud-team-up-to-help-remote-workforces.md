@@ -38,6 +38,19 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/03/zero-trust_number_zero_by_anja_w_gettyimages-1093494478_binary_stream_vanishing-point_perspective_by_ismagilov_gettyimages-1087011790_2400x1600-100836034-large.jpg"
         width: 1200
         height: 800
+  - title: "Google Announces BeyondCorp Remote Access"
+    excerpt: "To help solve problems with remote access, Google announced April 20 th BeyondCorp Remote Access (BCRA). BCRA is a cloud-based remote access solution based on the zero-trust security model. Zero trust is a security framework that dates from 2009. The idea is that you shouldn’t trust anyone. Not even your own employees. Every person accessing ..."
+    publishedDateTime: 2020-04-23T15:50:00Z
+    webUrl: "https://www.petri.com/google-announces-beyondcorp-remote-access"
+    type: article
+    provider:
+      name: petri.com
+      domain: petri.com
+    quality: 22
+    images:
+      - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/03/dreamstime_m_46268649.jpg"
+        width: 1677
+        height: 943
 
 secured: "PgLr2UNlG8Q1HbIyVHHZcAZmmxoDzxOj5s7cyvwEWH0BOZziN8T+m5FPMHaljCEM/wRb/nHgrYMhZ+kEdENhy4UrcNnQU5H2g/wnXc5gTZOaNMQaRwkMFZhIHaQbDB38vy7KAcjgoh5zpbMm1R77f7yW8EL92S0mNUGi4xSwpuxmprO51T3hL4pzOCfeoyliUNIVJ2kFW7Aro96grSGsblK4VmIOzPZ4qhtxz2NzIboRQMako20MKLFI/FbdD8U8TkTe0WscyQ/KMq4oixHpxtcUkrAYEXxIIHysML8Mop7viqRJUgn5eLNXIju7Zw3PA/Iasaw612ggRQvFEYYoT5G5F1X/9fQ2elIwSjqJGXr5PU7sLSvNOKLaAD6bct7p6u7ofgJD2XMIiRItKenz14BFDRdoxKial/Y9mYHQbVFN3fzOF4M6Io1IWLd0t6Q7tTHfZgq4UxEfxANoPLFOfTMOdN3yRQ3PCiYKxeGDOBA=;V3v+MqZQSWoV729/YvqH8Q=="
 ---
