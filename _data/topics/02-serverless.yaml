@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: serverless
+name: Serverless
+shortname: Serverless
+description: App Engine, Cloud Run, Cloud Functions, Knative
+parent: Google Cloud
+keywords:
+  - cloud run
+  - cloud functions
+images:
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/serverless.jpg
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/serverless-2.jpg
+services:
+  news: https://smartableai.github.io/google-cloud-platform/api/news/serverless/
+  learning: https://smartableai.github.io/google-cloud-platform/api/learning/serverless/

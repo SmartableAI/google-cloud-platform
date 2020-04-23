@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: hybrid-cloud
+name: Hybrid Cloud
+shortname: Hybrid Cloud
+description: Anthos
+parent: Google Cloud
+keywords:
+  - anthos
+images:
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/hybrid-cloud.jpg
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/hybrid-cloud-2.jpg
+services:
+  news: https://smartableai.github.io/google-cloud-platform/api/news/hybrid-cloud/
+  learning: https://smartableai.github.io/google-cloud-platform/api/learning/hybrid-cloud/

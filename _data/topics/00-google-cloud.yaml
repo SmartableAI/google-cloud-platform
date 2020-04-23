@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: google-cloud
+name: Google Cloud
+keywords:
+  - google cloud
+  - google cloud platform
+  - gcp
+images:
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/google-cloud.jpg
+services:
+  news: https://smartableai.github.io/google-cloud-platform/api/news/
+  learning: https://smartableai.github.io/google-cloud-platform/api/learning/
+  people: https://smartableai.github.io/google-cloud-platform/api/people/
+  events: https://smartableai.github.io/google-cloud-platform/api/events/
+  newsletters: https://smartableai.github.io/google-cloud-platform/api/newsletters/

@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: networking
+name: Networking
+shortname: Networking
+description: Cloud Armor, Cloud CDN, Cloud DNS, Cloud Load Balancing, Network Intelligence Center, Virtual Private Cloud
+parent: Google Cloud
+keywords:
+  - networking
+images:
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/networking.jpg
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/networking-2.jpg
+services:
+  news: https://smartableai.github.io/google-cloud-platform/api/news/networking/
+  learning: https://smartableai.github.io/google-cloud-platform/api/learning/networking/

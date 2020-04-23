@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: analytics
+name: Analytics
+shortname: Analytics
+description: BigQuery, Cloud Dataproc, Data Studio, Cloud Composer, Cloud Pub/Sub, Data Catalog
+parent: Google Cloud
+keywords:
+  - bigquery
+images:
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/analytics.jpg
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/analytics-2.jpg
+services:
+  news: https://smartableai.github.io/google-cloud-platform/api/news/analytics/
+  learning: https://smartableai.github.io/google-cloud-platform/api/learning/analytics/

@@ -1,0 +1,16 @@
+taxonomy: topic
+_id: ai
+name: AI
+shortname: AI
+description: Machine Learning, AutoML, Vision AI, Video AI, Cloud Natural Language, Cloud Text-to-Speech, Cloud Speech-to-Text, Cloud Translation, Cloud Data Labeling
+parent: Google Cloud
+keywords:
+  - artificial intelligence
+  - machine learning
+  - automl
+images:
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/ai.jpg
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/ai-2.jpg
+services:
+  news: https://smartableai.github.io/google-cloud-platform/api/news/ai/
+  learning: https://smartableai.github.io/google-cloud-platform/api/learning/ai/

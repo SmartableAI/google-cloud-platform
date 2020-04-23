@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: databases
+name: Databases
+shortname: Databases
+description: Cloud Bigtable, Cloud Spanner, Cloud Firestore, Cloud SQL, Cloud Memorystore
+parent: Google Cloud
+keywords:
+  - cloud sql
+images:
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/databases.jpg
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/databases-2.jpg
+services:
+  news: https://smartableai.github.io/google-cloud-platform/api/news/databases/
+  learning: https://smartableai.github.io/google-cloud-platform/api/learning/databases/

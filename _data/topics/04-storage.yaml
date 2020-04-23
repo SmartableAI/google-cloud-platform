@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: storage
+name: Storage
+shortname: Storage
+description: Cloud Storage, Cloud Filestore
+parent: Google Cloud
+keywords:
+  - object storage
+  - blob storage
+images:
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/storage.jpg
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/storage-2.jpg
+services:
+  news: https://smartableai.github.io/google-cloud-platform/api/news/storage/
+  learning: https://smartableai.github.io/google-cloud-platform/api/learning/storage/

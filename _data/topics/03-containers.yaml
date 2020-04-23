@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: containers
+name: Containers
+shortname: Containers
+description: Google Kubernetes Engine
+parent: Google Cloud
+keywords:
+  - kubernetes
+  - containers
+images:
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/containers.jpg
+  - https://smartableai.github.io/google-cloud-platform/assets/images/topics/containers-2.jpg
+services:
+  news: https://smartableai.github.io/google-cloud-platform/api/news/containers/
+  learning: https://smartableai.github.io/google-cloud-platform/api/learning/containers/
