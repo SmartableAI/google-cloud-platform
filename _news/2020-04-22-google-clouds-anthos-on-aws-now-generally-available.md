@@ -23,6 +23,21 @@ images:
     title: "Google Cloud’s Anthos on AWS Now Generally Available"
 
 related:
+  - title: "Google Cloud Anthos now available for AWS, with Azure to follow"
+    excerpt: "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ..."
+    publishedDateTime: 2020-04-22T13:02:00Z
+    webUrl: "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html"
+    ampWebUrl: "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg"
+        width: 700
+        height: 467
   - title: "Google Cloud’s fully-managed Anthos is now generally available for AWS"
     excerpt: "A year ago, back in the days of in-person conferences, Google officially announced the launch of its Anthos multi-cloud application modernization platform at its Cloud Next conference. The promise of Anthos was always that it would allow enterprises to write their applications once, package them into containers and then manage their multi-cloud ..."
     publishedDateTime: 2020-04-22T16:21:00Z
@@ -53,47 +68,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/20/9021a19d-8385-4159-a469-938fc02a61b8/thumbnail/1200x675/cbf065087c17979ac675d04eff415ee0/moto-edge-fam.png"
         width: 1200
         height: 675
-  - title: "Google Cloud Anthos now available for AWS, with Azure to follow"
-    excerpt: "Google Cloud was planning on announcing the news during its big Cloud Next conference earlier this month, but pushed it back after the event was postponed due to the COVID-19 pandemic. Made generally available last year, Anthos promises customers a single platform from which to run container-based applications on-premises, in the Google Cloud ..."
-    publishedDateTime: 2020-04-22T13:02:00Z
-    webUrl: "https://www.itworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html"
-    ampWebUrl: "https://www.itworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html"
-    cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html"
-    type: article
-    provider:
-      name: ITworld
-      domain: itworld.com
-    quality: 57
-    images:
-      - url: "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg"
-        width: 700
-        height: 467
-  - title: "Google Anthos now supports multiple clouds – including Amazon’s"
-    excerpt: "Google LLC today announced some key updates to its Anthos application platform, enabling it to support more workloads in different computing environments at a reduced cost. Google Anthos is a hybrid cloud application development platform that runs atop the open-source Kubernetes container orchestration software. It’s designed to host ..."
-    publishedDateTime: 2020-04-22T16:32:00Z
-    webUrl: "https://siliconangle.com/2020/04/22/google-anthos-now-supports-multiple-clouds-including-aws/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Google-Anthos.png"
-        width: 962
-        height: 594
-  - title: "Google Aims Anthos Cloud Application Platform at Rival AWS, with Azure Next Up"
-    excerpt: "Google's Anthos multi-cloud and hybrid application platform now works with the rival Amazon Web Services (AWS) public cloud computing platform, with upcoming support for Microsoft Azure now in preview. Anthos aims to provide a consistent application development and IT operations experience spanning hybrid, multi-cloud and on-premises ..."
-    publishedDateTime: 2020-04-22T19:53:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/04/22/anthos-aws.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 18
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/BuildingBlocksGen_v4.jpg"
-        width: 647
-        height: 450
 
 secured: "SZQ2QDDOGliWEv9+RLojfLCTa/wDHV4ijFJK9yQ0yvYoCtcHCbHtBhvZA/8oKFN4uZlMs/RI/ujzS6pYG8uQGcvPN2+eNNcItBlR9s06kuiWVVzqRTYzq6vvMBGVGS92QMjNxvlBEtVflBQEBWKjG/bVKYZse6teHMxYNxiBbqwIiT96Hqr0keFuBFj02XEZMmEiYDdQJvV/NfBr89aytmtLGdZ7+T73Fe8/082t1n24EtmeEEmBrJaGdtsLRbIsrriclw6mdfitI3qiYu3fgTy0RxiyyX3RmmW2n76sk+8l1w+Jo5EdWh+tD0ZbbfrNHfMhf97Q29DpT576ejvh9IyqzeixM61oGF3bmgUeS9CIG0JZilaMx2bundRi13osbFuewWFavSzbhFJw4GG1WX8zKij7Wqc6uKyF66lMF2L3voDK/AyNoFMBPi7XdTyaEGzSdPADg3Xe1ERnhLfSiq9blg+j1iWW1Vou+HdftlA=;A2qczl4/83tDDEuFh9wqZg=="
 ---
