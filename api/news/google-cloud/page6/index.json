@@ -2,6 +2,81 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-01-23-cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut.md",
+      "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+      "excerpt": "Google Cloud offers a wide range of GPUs to accelerate everything from AI deployment to 3D visualization. These use cases are now even more affordable with the price reduction of the NVIDIA T4 GPU. As of early January, we’ve reduced T4 prices by more than 60%, making it the lowest cost GPU instance on",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "publishedDateTime": "2020-01-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GoogleCloud_AutoML.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-4-ways-anthos-delivers-roi-to-customers-according-to-new-forrester-consulting-study.md",
+      "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
+      "excerpt": "In our conversations with technology leaders about Anthos, we quickly get into the strategic questions about long term transformation and selection of the right technology architectures. At the heart of those discussions is an exploration of the potential economic value to their organization. So we commissioned",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/4-ways-anthos-delivers-roi-to-customers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
+      "publishedDateTime": "2020-01-22T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Anthos_A.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-want-to-use-automl-tables-from-a-jupyter-notebook-heres-how.md",
       "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
       "excerpt": "While there’s no doubt that machine learning (ML) can be a great tool for businesses of all shapes and sizes, actually building ML models can seem daunting at first. Cloud AutoML—Google Cloud’s suite of products—provides tools and functionality to help you build ML models that are tailored to your specific",
@@ -1039,80 +1114,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-12-03-better-bandit-building-advanced-personalization-the-easy-way-with-automl-tables.md",
-      "title": "Better bandit building: Advanced personalization the easy way with AutoML Tables",
-      "excerpt": "As demand grows for features like personalization systems, efficient information retrieval, and anomaly detection, the need for a solution to optimize these features has grown as well. Contextual bandit is a machine learning framework designed to tackle these—and other—complex situations.With contextual",
-      "heat": 144,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/amp/",
-      "publishedDateTime": "2019-12-03T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AutoML_tables.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Better bandit building: Advanced personalization the easy way with AutoML Tables",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-03-gartner-names-google-cloud-a-leader-in-operational-database-management-systems.md",
-      "title": "Gartner names Google Cloud a Leader in Operational Database Management Systems",
-      "excerpt": "We’re pleased to announce that Gartner has named Google Cloud a Leader in its 2019 Magic Quadrant report for Operational Database Management Systems (OPDBMS). This news reflects what we hear from our customers: that Google Cloud databases are flexible, open, and easy to use. These include our fully compatible",
-      "heat": 145,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/amp/",
-      "publishedDateTime": "2019-12-03T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Genric_GCP_TH9dE8M.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Gartner names Google Cloud a Leader in Operational Database Management Systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
       ]
     }
   ],

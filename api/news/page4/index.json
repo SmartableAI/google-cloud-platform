@@ -2,6 +2,80 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-03-connecting-to-google-cloud-your-networking-options-explained.md",
+      "title": "Connecting to Google Cloud: your networking options explained",
+      "excerpt": "So, your organization recently decided to adopt Google Cloud. Now you just need to decide how you’re going to connect your applications to it... Public IP addresses, or VPN? Via an interconnect or through peering? Should you want to go the interconnect route, should it be direct or through a partner?",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
+      "publishedDateTime": "2020-04-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Networking_lQ5HQBE.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Connecting to Google Cloud: your networking options explained",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-filling-the-ncaa-void-using-bigquery-to-simulate-march-madness.md",
+      "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+      "excerpt": "As COVID-19 continues to have enormous impact around the world, we’ve focused on supporting customers and making available public data to help research efforts, among various other initiatives. Beyond the essential issues at hand, it’s been a truly strange time for sports fans, with virtually every league",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/march-madness-simulations-with-machine-learning/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_basketball.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-powering-up-caching-with-memorystore-for-memcached.md",
       "title": "Powering up caching with Memorystore for Memcached",
       "excerpt": "In-memory data stores are a fundamental infrastructure for building scalable, high-performance applications. Whether it is building a highly responsive ecommerce website, creating multiplayer games with thousands of users, or doing real-time analysis on data pipelines with millions of events, an in-memory",
@@ -888,80 +962,6 @@
           "width": 2880,
           "height": 1200,
           "title": "Postponing Google Cloud Next ’20: Digital Connect",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-not-just-for-http-anymore-grpc-comes-to-cloud-run.md",
-      "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
-      "excerpt": "Cloud Run is a managed serverless compute offering from Google Cloud that lets you run stateless server containers in a fully managed environment, without the hassle of managing the underlying infrastructure. Since its release, Cloud Run has enabled many of our customers to focus on their business logic,",
-      "heat": 151,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
-      "publishedDateTime": "2020-03-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-data-processing-just-got-easier-with-apps-scripts-new-v8-runtime.md",
-      "title": "Data processing just got easier with Apps Script’s new V8 runtime",
-      "excerpt": "We’re excited to announce Apps Script is nowsupported by the V8 runtime that powers Chrome and Node.js. This update lets users take advantage of modern JavaScript features (ECMA 6 and new releases moving forward). It also enhances new or existing scripts, like those that transform data in Google Sheets,",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
-      "publishedDateTime": "2020-03-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppDev.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Data processing just got easier with Apps Script’s new V8 runtime",
           "attribution": null
         }
       ],
