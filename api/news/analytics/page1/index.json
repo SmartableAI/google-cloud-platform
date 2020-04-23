@@ -1,0 +1,1045 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-20-best-practices-for-optimizing-your-cloud-costs.md",
+      "title": "Best practices for optimizing your cloud costs",
+      "excerpt": "One of the greatest benefits of running in the cloud is being able to scale up and down to meet demand and reduce operational expenditures. And that’s especially true when you’re experiencing unexpected changes in customer demand.Here at Google Cloud, we have an entire team of Solutions Architects dedicated",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_5I5zzaa.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for optimizing your cloud costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Analytics",
+        "Networking",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-introducing-dataflow-template-to-stream-data-to-splunk.md",
+      "title": "Introducing Dataflow template to stream data to Splunk",
+      "excerpt": "At Google Cloud, we’re focused on solving customer problems and meeting them where they are. Many of you use third-party monitoring solutions from Splunk to keep a tab on both on-prem and cloud environments. These use cases include IT ops, security, application development, and business analytics. In",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/connect-to-splunk-with-a-dataflow-template/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics_B.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Introducing Dataflow template to stream data to Splunk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-how-do-i-move-data-from-mysql-to-bigquery.md",
+      "title": "How do I move data from MySQL to BigQuery?",
+      "excerpt": "In a market where streaming analytics is growing in popularity, it’s critical to optimize data processing so you can reduce costs and ensure data quality and integrity. One approach is to focus on working only with data that has changed instead of all available data. This is where change data capture",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/how-to-move-data-from-mysql-to-bigquery/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "How do I move data from MySQL to BigQuery?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-new-ai-driven-features-in-dataprep-enhance-the-wrangling-experience.md",
+      "title": "New AI-driven features in Dataprep enhance the wrangling experience",
+      "excerpt": "Since the inception of Cloud Dataprep by Trifacta, we’ve focused on making the data preparation work of data professionals more accessible and efficient, with a determined intention to make the work of preparing data more enjoyable (and even fun, in some cases!).The latest release of Dataprep brings",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/new-dataprep-ai-features-for-data-wrangling/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "New AI-driven features in Dataprep enhance the wrangling experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-machine-learning-with-xgboost-gets-faster-with-dataproc-on-gpus.md",
+      "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
+      "excerpt": "Google Cloud’s Dataproc gives data scientists an easy, scalable, fully managed way to analyze data using Apache Spark. Apache Spark was built for high performance, but data scientists and other teams need an even higher level of performance as more questions and predictions need to be answered using",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
+      "publishedDateTime": "2020-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Training_classification_model.max-800x800.jpg",
+          "width": 800,
+          "height": 308,
+          "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-filling-the-ncaa-void-using-bigquery-to-simulate-march-madness.md",
+      "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+      "excerpt": "As COVID-19 continues to have enormous impact around the world, we’ve focused on supporting customers and making available public data to help research efforts, among various other initiatives. Beyond the essential issues at hand, it’s been a truly strange time for sports fans, with virtually every league",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/march-madness-simulations-with-machine-learning/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_basketball.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-introducing-bigquery-column-level-security-new-fine-grained-access-controls.md",
+      "title": "Introducing BigQuery column-level security: new fine-grained access controls",
+      "excerpt": "We’re announcing a key capability to help organizations govern their data in Google Cloud. Our new BigQuery column-level security controls are an important step toward placing policies on data that differentiate between classes. This allows for compliance with regulations that mandate such distinction,",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-column-level-security/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-column-level-security/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-column-level-security/amp/",
+      "publishedDateTime": "2020-04-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security-identity-03.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing BigQuery column-level security: new fine-grained access controls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-covid-19-public-dataset-program-making-data-freely-accessible-for-better-public-outcomes.md",
+      "title": "COVID-19 public dataset program: Making data freely accessible for better public outcomes",
+      "excerpt": "Data always plays a critical role in the ability to research, study, and combat public health emergencies, and nowhere is this more true than in the case of a global crisis. Access to data sets—and tools that can analyze that data at cloud scale—are increasingly essential to the research process, and",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/",
+      "publishedDateTime": "2020-03-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "COVID-19 public dataset program: Making data freely accessible for better public outcomes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-loading-geospatial-data-into-bigquery-just-got-easier-with-fme.md",
+      "title": "Loading geospatial data into BigQuery just got easier with FME",
+      "excerpt": "With all of the geographical data available today, we made sure that Google Cloud’s BigQuery data warehouse includes first-class support for geospatial data types and functions. With this unique capability, you can process and analyze geospatial data at scale. To accelerate the workflows of our geospatial",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/loading-geospatial-data-into-bigquery-with-fme/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/loading-geospatial-data-into-bigquery-with-fme/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/loading-geospatial-data-into-bigquery-with-fme/amp/",
+      "publishedDateTime": "2020-03-27T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Data_Analytics.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Loading geospatial data into BigQuery just got easier with FME",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-modernizing-twitters-ad-engagement-analytics-platform.md",
+      "title": "Modernizing Twitter's ad engagement analytics platform",
+      "excerpt": "As part of the daily business operations on its advertising platform, Twitter serves billions of ad engagement events, each of which potentially affects hundreds of downstream aggregate metrics. To enable its advertisers to measure user engagement and track ad campaign efficiency, Twitter offers a variety",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/amp/",
+      "publishedDateTime": "2020-03-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modernizing Twitter's ad engagement analytics platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-modern-analytics-made-easy-with-new-redshift-s3-migration-tools.md",
+      "title": "Modern analytics made easy with new Redshift, S3 migration tools",
+      "excerpt": "Editor's note: This blog takes a closer look at some of the recently announced BigQuery product innovations and deepened partnerships that are helping enterprises fast-track their migration to BigQuery.In the past 40 years, the data warehouse has gone through many transformations, driven by business",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modern analytics made easy with new Redshift, S3 migration tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-get-the-flink-operator-for-kubernetes-in-anthos-on-marketplace.md",
+      "title": "Get the Flink Operator for Kubernetes in Anthos on Marketplace",
+      "excerpt": "At Google Cloud, our Dataproc team has been working to improve the integration of open source processing engines with Kubernetes. Dataproc is our managed service for running many of these open source engines, including Apache Spark and Apache Hadoop. Our goal is to make the underlying infrastructure",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/open-source-processing-engines-for-kubernetes/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/open-source-processing-engines-for-kubernetes/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/open-source-processing-engines-for-kubernetes/amp/",
+      "publishedDateTime": "2020-03-10T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Dataproc_1ZCbMuo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Get the Flink Operator for Kubernetes in Anthos on Marketplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-discords-migration-from-redshift-to-bigquery-lessons-learned.md",
+      "title": "Discord's migration from Redshift to BigQuery: lessons learned",
+      "excerpt": "Editor’s note: We’re hearing today from Discord, maker of a popular voice, video, and text chat app for gaming. They have to bring a great experience to millions of customers concurrently, and keep up with demand. Here’s how they moved from Redshift to Google Cloud’s BigQuery to support their growth. At",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/amp/",
+      "publishedDateTime": "2020-03-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Gaming_RWH0IxR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Discord's migration from Redshift to BigQuery: lessons learned",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-dml-without-limits-now-in-bigquery.md",
+      "title": "DML without limits, now in BigQuery",
+      "excerpt": "Data manipulation language (DML) statements in BigQuery, such as INSERT, UPDATE, DELETE, and MERGE, enable users to add, modify, and delete data stored in BigQuery, Google Cloud’s enterprise data warehouse. DML in BigQuery supports inserting, updating, or deleting an arbitrarily large number of rows",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/dml-without-limits-now-in-bigquery/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/dml-without-limits-now-in-bigquery/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/dml-without-limits-now-in-bigquery/amp/",
+      "publishedDateTime": "2020-03-03T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_Data_Analytics.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "DML without limits, now in BigQuery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-bigquery-leads-the-way-toward-modern-data-analytics.md",
+      "title": "BigQuery leads the way toward modern data analytics",
+      "excerpt": "At Google, we think you should have the right tools and support to let you embrace data growth. Enterprises and digital-native organizations are generating incredible value from their data using Google Cloud’s smart analytics platform. At the heart of the platform is BigQuery, a cloud-native enterprise",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/cloud-data-warehouse-bigquery-powers-analytics/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/cloud-data-warehouse-bigquery-powers-analytics/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/cloud-data-warehouse-bigquery-powers-analytics/amp/",
+      "publishedDateTime": "2020-02-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_Data_Analytics.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "BigQuery leads the way toward modern data analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-introducing-bigquery-flex-slots-for-unparalleled-flexibility-and-control.md",
+      "title": "Introducing BigQuery Flex Slots for unparalleled flexibility and control",
+      "excerpt": "Organizations of all sizes look to BigQuery to meet their growing analytics needs. We hear that customers value BigQuery’s radically innovative architecture, serverless delivery model, and integrated advanced capabilities in machine learning, real-time analytics, and business intelligence. To help you",
+      "heat": 148,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-flex-slots/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-flex-slots/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-flex-slots/amp/",
+      "publishedDateTime": "2020-02-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_BigQuery_FWMHfWn.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing BigQuery Flex Slots for unparalleled flexibility and control",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-taking-a-practical-approach-to-bigquery-slot-usage-analysis.md",
+      "title": "Taking a practical approach to BigQuery slot usage analysis",
+      "excerpt": "Google BigQuery is a fully managed serverless solution for your enterprise data warehouse workloads. Nothing could be easier than that: Just upload your data via batch or streaming and start running your queries. The underlying system will seamlessly take care of providing the infrastructural resources",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/amp/",
+      "publishedDateTime": "2020-02-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Taking a practical approach to BigQuery slot usage analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-google-completes-looker-acquisition.md",
+      "title": "Google completes Looker acquisition",
+      "excerpt": "I’m pleased to announce that Google has completed its acquisition of Looker. Together, we're excited to offer customers a comprehensive analytics solution that integrates and visualizes insights at every layer of their business.  Today, hundreds of joint customers already rely on Google Cloud and Looker",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-completes-looker-acquisition/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/google-completes-looker-acquisition/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/google-completes-looker-acquisition/amp/",
+      "publishedDateTime": "2020-02-12T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Looker.jpg",
+          "width": 1999,
+          "height": 834,
+          "title": "Google completes Looker acquisition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-google-cloud-named-a-leader-in-the-forrester-wave-data-management-for-analytics.md",
+      "title": "Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics",
+      "excerpt": "We’re pleased to announce that Forrester has named Google Cloud a Leader in its report, The Forrester Wave™: Data Management for Analytics (DMA) Q1, 2020. This is the first DMA Wave Forrester is publishing and it assesses Google Cloud’s broader data analytics portfolio, with BigQuery at the heart. In",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/google-a-leader-in-forrester-wave-data-management-for-analytics/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/google-a-leader-in-forrester-wave-data-management-for-analytics/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/google-a-leader-in-forrester-wave-data-management-for-analytics/amp/",
+      "publishedDateTime": "2020-02-12T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud-01_q1Ox36D.png",
+          "width": 2084,
+          "height": 1157,
+          "title": "Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-bigquery-under-the-hood-how-zone-assignments-work.md",
+      "title": "BigQuery under the hood: How zone assignments work",
+      "excerpt": "BigQuery is a serverless, highly scalable, and cost-effective cloud data warehouse. It’s designed to be flexible and easy to use. There are lots of interesting features and design decisions made when creating BigQuery, and we’ll dive into how zone assignments work in this post. Like other Google Cloud",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/how-bigquery-zone-assignments-work/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "BigQuery under the hood: How zone assignments work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-now-updated-our-data-engineering-learning-path.md",
+      "title": "Now updated: Our Data Engineering Learning Path",
+      "excerpt": "With the market for artificial intelligence and machine learning-powered solutions projected to grow to $1.2B by 2023, it’s important to consider business needs now and in the future. We've heard from our customers and have witnessed internally that the data engineering role has evolved and now requires",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
+      "publishedDateTime": "2020-02-11T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/560-GCP-Higher-Ed-Hero_Krk4pEL.max-1000x1000.png",
+          "width": 1000,
+          "height": 570,
+          "title": "Now updated: Our Data Engineering Learning Path",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-bring-2020-vision-to-your-pipelines-with-enhanced-monitoring.md",
+      "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
+      "excerpt": "Stream analytics is bringing data to life in a way that was previously unimaginable, unlocking new use cases, from connected medical devices in healthcare to predictive maintenance on the factory floor. But with new uses comes new challenges that, if left unaddressed, can lead to unintended behaviors",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
+      "publishedDateTime": "2020-02-11T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Dataflow.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-understanding-data-pipeline-security-in-cloud-data-fusion.md",
+      "title": "Understanding data pipeline security in Cloud Data Fusion",
+      "excerpt": "For those of you working in data analytics, ETL and ELT pipelines are an important piece of your data foundation. Cloud Data Fusion is our fully managed data integration service for quickly building and managing data pipelines. Cloud Data Fusion is built on the open source project CDAP, and this open",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/amp/",
+      "publishedDateTime": "2020-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Data_Fusion.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Understanding data pipeline security in Cloud Data Fusion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-scale-your-composer-environment-together-with-your-business.md",
+      "title": "Scale your Composer environment together with your business",
+      "excerpt": "When you’re building data pipelines, it’s important to consider business needs now and in the future. We often hear from customers that they want to configure and optimize their Cloud Composer environments. So we on the Cloud Composer engineering team will share in this post how Cloud Composer—built",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
+      "publishedDateTime": "2020-02-05T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Scale your Composer environment together with your business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-10-top-tips-unleash-your-bigquery-superpowers.md",
+      "title": "10 top tips: Unleash your BigQuery superpowers",
+      "excerpt": "Lots of us are already tech heroes by day. If you know SQL, for example, you’re a hero.You have the power to transform data into insights. You can save the day when someone in need comes to you to reveal the magic numbers they can then use in their business proposals. You can also amaze your colleagues",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/amp/",
+      "publishedDateTime": "2020-01-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GOOGLE_GCP_BANNER_2A.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "10 top tips: Unleash your BigQuery superpowers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-exploring-an-apache-kafka-to-pubsub-migration-major-considerations.md",
+      "title": "Exploring an Apache Kafka to Pub/Sub migration: Major considerations",
+      "excerpt": "The fastest way to migrate a business application into Google Cloud is to use the lift and shift strategy—and part of that transition is migrating any OSS, or third-party services that the application uses. But sometimes it can be more efficient and beneficial to leverage Google Cloud services instead. One",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/what-to-consider-in-an-apache-kafka-to-pubsub-migration/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/what-to-consider-in-an-apache-kafka-to-pubsub-migration/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/what-to-consider-in-an-apache-kafka-to-pubsub-migration/amp/",
+      "publishedDateTime": "2020-01-27T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/kafka_PubSub_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring an Apache Kafka to Pub/Sub migration: Major considerations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-whats-happening-in-bigquery-new-federated-queries-easier-ml-and-more-metadata.md",
+      "title": "What’s happening in BigQuery: New federated queries, easier ML, and more metadata",
+      "excerpt": "BigQuery, Google Cloud’s petabyte-scale data warehouse, lets you ingest and analyze data quickly and with high availability, so you can find new insights, trends, and predictions to efficiently run your business. Our engineering team is continually making improvements to BigQuery so you can get even",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/whats-happening-in-bigquery-jan2020/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/whats-happening-in-bigquery-jan2020/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/whats-happening-in-bigquery-jan2020/amp/",
+      "publishedDateTime": "2020-01-27T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_BigQuery.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "What’s happening in BigQuery: New federated queries, easier ML, and more metadata",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-new-ga-dataproc-features-extend-data-science-and-ml-capabilities.md",
+      "title": "New GA Dataproc features extend data science and ML capabilities",
+      "excerpt": "The life of a data scientist can be challenging. If you’re in this role, your job may involve anything from understanding the day-to-day business behind the data to keeping up with the latest machine learning academic research. With all that a data scientist must do to be effective, you shouldn’t have",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/amp/",
+      "publishedDateTime": "2020-01-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Dataproc_1ZCbMuo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New GA Dataproc features extend data science and ML capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    }
+  ],
+  "nextPage": null
+}

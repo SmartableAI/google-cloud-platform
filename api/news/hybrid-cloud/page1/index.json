@@ -1,0 +1,567 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-22-anthosdriving-business-agility-and-efficiency.md",
+      "title": "Anthos—driving business agility and efficiency",
+      "excerpt": "In business as in life, change is constant and unpredictable. When building the platforms to power your organization, you can’t be limited by yesterday’s technology decisions. Nor can the systems you create today constrain your ability to act tomorrow. In times of uncertainty, you need an architecture",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-for-aws-is-now-ga/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Anthos—driving business agility and efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-anthos-one-multi-cloud-management-layer-for-all-your-applications.md",
+      "title": "Anthos: one multi-cloud management layer for all your applications",
+      "excerpt": "When we first introduced Anthos in 2018, some observers described it as a way to modernize legacy applications. Simply drop your legacy on-prem application into a container, and you were on your way to cloud! But since becoming generally available last April, our customers tell us Anthos is how they",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-goes-multi-cloud-and-beyond/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
+      "publishedDateTime": "2020-03-05T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.gif",
+          "width": 1600,
+          "height": 900,
+          "title": "Anthos: one multi-cloud management layer for all your applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-your-cloud-your-infrastructure-announcing-anthos-ready-storage.md",
+      "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
+      "excerpt": "We launched Anthos to provide customers with a platform to deliver and manage applications across all types of environments and infrastructure—most commonly, hybrid and multi-cloud environments—leveraging containers and Kubernetes.To date, we have seen an extremely enthusiastic response from customers",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
+      "publishedDateTime": "2020-02-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-announcing-new-certifications-for-technical-leaders-and-devops-engineers.md",
+      "title": "Announcing new certifications for technical leaders and DevOps engineers",
+      "excerpt": "As the cloud continues to evolve, it’s paving the way for exciting innovations that were difficult to imagine even a few years ago. To take advantage of everything the latest cloud technology has to offer, organizations must be able to find people with the right combination of skills to make it happen.",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
+      "publishedDateTime": "2020-01-30T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_Training_and_Certification.max-1100x1100.jpg",
+          "width": 1100,
+          "height": 458,
+          "title": "Announcing new certifications for technical leaders and DevOps engineers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-expanding-our-alliance-with-cisco-in-hybrid-cloud-and-the-contact-center.md",
+      "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+      "excerpt": "Over the past three years, we’ve worked closely with Cisco to deliver a number of customer-focused solutions in areas such as hybrid cloud, multi-cloud, work transformation, and contact center integrations. This week at Cisco Live in Barcelona, we’re sharing updates on our joint work in two key areas",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "publishedDateTime": "2020-01-28T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-4-ways-anthos-delivers-roi-to-customers-according-to-new-forrester-consulting-study.md",
+      "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
+      "excerpt": "In our conversations with technology leaders about Anthos, we quickly get into the strategic questions about long term transformation and selection of the right technology architectures. At the heart of those discussions is an exploration of the potential economic value to their organization. So we commissioned",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/4-ways-anthos-delivers-roi-to-customers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
+      "publishedDateTime": "2020-01-22T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Anthos_A.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management.md",
+      "title": "New Anthos training: a masterclass in hybrid cloud architecture and management",
+      "excerpt": "You’re moving faster than ever to build new applications, innovate, and bring value to your customers. Anthos, Google Cloud’s open application modernization platform, can help you modernize your existing applications, making them more portable, maintainable, scalable and secure. And now, our newest learning",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/amp/",
+      "publishedDateTime": "2020-01-16T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_training_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New Anthos training: a masterclass in hybrid cloud architecture and management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-ibm-power-systems-now-available-on-google-cloud.md",
+      "title": "IBM Power Systems now available on Google Cloud",
+      "excerpt": "Enterprises looking to the cloud to modernize their existing infrastructure and streamline their business processes have many options. At one end of the spectrum, some organizations are replatforming entire legacy systems to adopt the cloud. Many others, however, want to continue leveraging their existing",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/ibm-power-systems-now-available-on-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/ibm-power-systems-now-available-on-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/ibm-power-systems-now-available-on-google-cloud/amp/",
+      "publishedDateTime": "2020-01-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_IBM.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "IBM Power Systems now available on Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-12-11-whats-new-in-cloud-run-for-anthos.md",
+      "title": "What’s new in Cloud Run for Anthos",
+      "excerpt": "Earlier this year, we announced Cloud Run, our newest compute platform for serverless containers, which runs either on Google’s fully managed infrastructure–or on your Google Kubernetes Engine (GKE) clusters with Cloud Run for Anthos. This portability is achieved with Knative open-source APIs.With Cloud",
+      "heat": 168,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/new-features-in-cloud-run-for-anthos-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
+      "publishedDateTime": "2019-12-11T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Serverless.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "What’s new in Cloud Run for Anthos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-20-bare-metal-solution-enabling-specialized-workloads-in-google-cloud.md",
+      "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
+      "excerpt": "Enterprises want to embrace the pace of innovation and an operational business model of the modern-day cloud, but they don’t want to disrupt their existing IT landscape or upgrade all their legacy applications. This presents a conundrum, as most legacy applications were not designed to run in the cloud,",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
+      "publishedDateTime": "2019-11-20T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Bare_Metal_Solution.png",
+          "width": 1999,
+          "height": 834,
+          "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-20-dont-just-move-to-the-cloud-modernize-with-google-cloud.md",
+      "title": "Don’t just move to the cloud, modernize with Google Cloud",
+      "excerpt": "Our customers tell us they don’t just want to migrate their applications from point A to point B, they want to modernize their applications with cloud-native technologies and techniques, wherever those applications may be. Today, we’re excited to tell you about a variety of new customers that are using",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
+      "publishedDateTime": "2019-11-20T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_GCP_HLl2OQm.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Don’t just move to the cloud, modernize with Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-18-helping-our-customers-migrate-to-the-cloud-google-acquires-cloudsimple.md",
+      "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
+      "excerpt": "Today, Google is excited to announce that it has acquired CloudSimple, a leading provider of secure, high performance, dedicated environments to run VMware workloads in the cloud. This acquisition builds on our existing partnership with CloudSimple that we announced earlier this year, allowing us to",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
+      "publishedDateTime": "2019-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_Cloud_Simple.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-14-cloud-run-a-managed-knative-service-is-ga.md",
+      "title": "Cloud Run, a managed Knative service, is GA",
+      "excerpt": "We want to empower developers no matter where their businesses are in their cloud journey, whether that's on-prem, operating in a managed Kubernetes environment, or running on a fully managed serverless computing platform. Today, we're announcing that Cloud Run is generally available, helping developers",
+      "heat": 153,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "publishedDateTime": "2019-11-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cloud Run, a managed Knative service, is GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-09-16-a-cios-guide-to-cloud-success-decouple-to-shift-your-business-into-high-gear.md",
+      "title": "A CIO’s guide to cloud success: decouple to shift your business into high gear",
+      "excerpt": "They say 80% of success is showing up—but unfortunately for enterprises moving to the cloud, this doesn’t always hold up. A recent McKinsey survey, for example, found that despite migrating to the cloud, many enterprises are nonetheless \"falling short of their IT agility expectations.” Because CTOs and",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/a-cios-guide-to-cloud-success-decouple-to-shift-your-business-into-high-gear/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/a-cios-guide-to-cloud-success-decouple-to-shift-your-business-into-high-gear/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/a-cios-guide-to-cloud-success-decouple-to-shift-your-business-into-high-gear/amp/",
+      "publishedDateTime": "2019-09-16T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud-01_xyGPYQS.png",
+          "width": 2084,
+          "height": 1157,
+          "title": "A CIO’s guide to cloud success: decouple to shift your business into high gear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-09-16-anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud.md",
+      "title": "Anthos simplifies application modernization with managed service mesh and serverless for your hybrid cloud",
+      "excerpt": "For decades, organizations built and ran applications in their own on-premises data centers. Then, they started deploying and running applications in the cloud. But, for most enterprises, the thought of moving all-in to the cloud was too daunting. They worried they would need different developers and",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud/amp/",
+      "publishedDateTime": "2019-09-16T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Anthos simplifies application modernization with managed service mesh and serverless for your hybrid cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    }
+  ],
+  "nextPage": null
+}

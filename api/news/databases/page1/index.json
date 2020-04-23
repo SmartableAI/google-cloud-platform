@@ -1,0 +1,489 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-21-back-up-on-demand-emulate-and-develop-with-ease-new-spanner-features.md",
+      "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
+      "excerpt": "At Google, we built Cloud Spanner to support our need for a scalable, multi-version database with relational semantics. It’s become an important capability for teams that need a globally distributed, strongly consistent database service. Spanner continues to launch new enterprise capabilities, and we’re",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/native-cloud-database-spanner-adds-features/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-improved-database-performance-data-key-visualizer-now-in-cloud-bigtable-console.md",
+      "title": "Improved database performance data: Key Visualizer now in Cloud Bigtable console",
+      "excerpt": "Cloud Bigtable is Google Cloud’s petabyte-scale NoSQL database service for demanding, data-driven workloads that need low latency, high throughput, and scale insurance. If you’ve been looking for more ways to monitor your Bigtable performance more easily, you’re in luck: Key Visualizer is now directly",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/cloud-database-monitoring-for-bigtable/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/cloud-database-monitoring-for-bigtable/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/cloud-database-monitoring-for-bigtable/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Key_Visualizer.max-1100x1100.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Improved database performance data: Key Visualizer now in Cloud Bigtable console",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-same-cloud-bigtable-database-now-for-smaller-workloads.md",
+      "title": "Same Cloud Bigtable database, now for smaller workloads",
+      "excerpt": "Cloud Bigtable is a fast, petabyte-scale NoSQL database service that has long supported massive workloads, both internally at Google and for Google Cloud customers. We are now announcing that Bigtable is expanding its support for smaller workloads.You can now create production instances with one or two",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/nosql-cloud-database-1-or-2-nodes/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/nosql-cloud-database-1-or-2-nodes/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/nosql-cloud-database-1-or-2-nodes/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/cloud_bigtable.gif",
+          "width": 1040,
+          "height": 1040,
+          "title": "Same Cloud Bigtable database, now for smaller workloads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-powering-up-caching-with-memorystore-for-memcached.md",
+      "title": "Powering up caching with Memorystore for Memcached",
+      "excerpt": "In-memory data stores are a fundamental infrastructure for building scalable, high-performance applications. Whether it is building a highly responsive ecommerce website, creating multiplayer games with thousands of users, or doing real-time analysis on data pipelines with millions of events, an in-memory",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/fully-managed-memorystore-for-memcached/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/fully-managed-memorystore-for-memcached/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/fully-managed-memorystore-for-memcached/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_3_ZIyuD1m.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Powering up caching with Memorystore for Memcached",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-architecting-multi-region-database-disaster-recovery-for-mysql.md",
+      "title": "Architecting multi-region database disaster recovery for MySQL",
+      "excerpt": "Enterprises expect extreme reliability of the database infrastructure that’s accessed by their applications. Despite your best intentions and careful engineering, database errors happen, whether that’s machine crashes or network partitioning. Good planning can help you stay ahead of problems and recover",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/disaster-recovery-for-mysql/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/disaster-recovery-for-mysql/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/disaster-recovery-for-mysql/amp/",
+      "publishedDateTime": "2020-03-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Architecting multi-region database disaster recovery for MySQL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-migrate-your-microsoft-sql-server-workloads-to-google-cloud.md",
+      "title": "Migrate your Microsoft SQL Server workloads to Google Cloud",
+      "excerpt": "Enterprise database workloads are the backbone of many of your applications and ecosystems. Also, guaranteed availability is critical when choosing a cloud provider. Many enterprises built their mission-critical applications on Microsoft SQL Server 2008, and it’s common still to run into older versions",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/migrate-your-microsoft-sql-server-workloads-to-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/migrate-your-microsoft-sql-server-workloads-to-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/migrate-your-microsoft-sql-server-workloads-to-google-cloud/amp/",
+      "publishedDateTime": "2020-02-24T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_3.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Migrate your Microsoft SQL Server workloads to Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-12-18-introducing-more-maintenance-controls-for-cloud-sql.md",
+      "title": "Introducing more maintenance controls for Cloud SQL",
+      "excerpt": "Routine maintenance is a part of every database user experience—it’s how we ensure you get the performance improvements and new feature updates that keep your business running smoothly and securely. But we get it: Nobody likes downtime, no matter how brief. That's why we’re pleased to announce that Cloud",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/introducing-more-maintenance-controls-for-cloud-sql/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
+      "publishedDateTime": "2019-12-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing more maintenance controls for Cloud SQL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-12-03-gartner-names-google-cloud-a-leader-in-operational-database-management-systems.md",
+      "title": "Gartner names Google Cloud a Leader in Operational Database Management Systems",
+      "excerpt": "We’re pleased to announce that Gartner has named Google Cloud a Leader in its 2019 Magic Quadrant report for Operational Database Management Systems (OPDBMS). This news reflects what we hear from our customers: that Google Cloud databases are flexible, open, and easy to use. These include our fully compatible",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/amp/",
+      "publishedDateTime": "2019-12-03T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Genric_GCP_TH9dE8M.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Gartner names Google Cloud a Leader in Operational Database Management Systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-11-20-bare-metal-solution-enabling-specialized-workloads-in-google-cloud.md",
+      "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
+      "excerpt": "Enterprises want to embrace the pace of innovation and an operational business model of the modern-day cloud, but they don’t want to disrupt their existing IT landscape or upgrade all their legacy applications. This presents a conundrum, as most legacy applications were not designed to run in the cloud,",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
+      "publishedDateTime": "2019-11-20T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Bare_Metal_Solution.png",
+          "width": 1999,
+          "height": 834,
+          "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-18-bringing-hibernate-orm-to-cloud-spanner-for-database-adoption.md",
+      "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
+      "excerpt": "When you’re adopting a new database technology, some things to consider can include learning a new SQL dialect or writing new boilerplate persistence logic. As much as possible, we’d like to make this simpler. For this type of work, Hibernate has become the de facto standard object relational mapping",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
+      "publishedDateTime": "2019-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/singer.max-600x600.png",
+          "width": 600,
+          "height": 394,
+          "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-11-06-opening-the-door-to-more-dev-tools-for-cloud-spanner.md",
+      "title": "Opening the door to more dev tools for Cloud Spanner",
+      "excerpt": "We recently released a new native open-source JDBC driver built by Google Cloud Platform (GCP) to enable the easy integration of Cloud Spanner into graphical database development tools. This can be useful for software engineers designing application database schemas in Cloud Spanner, database architects",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
+      "publishedDateTime": "2019-11-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Spanner_databases.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Opening the door to more dev tools for Cloud Spanner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-10-21-leave-no-database-behind-with-cloud-sql-for-sql-server.md",
+      "title": "Leave no database behind with Cloud SQL for SQL Server",
+      "excerpt": "At Google Cloud, we develop our database services to meet the needs of enterprise teams wherever they are in their cloud journey. We’re excited today to announce the beta launch of Cloud SQL for SQL Server and make it available to all of our customers. This addition to our database lineup means you can",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/amp/",
+      "publishedDateTime": "2019-10-21T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_databases.jpg",
+          "width": 1999,
+          "height": 834,
+          "title": "Leave no database behind with Cloud SQL for SQL Server",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-09-25-cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details.md",
+      "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
+      "excerpt": "Providing reliable data services that you can trust to serve your data is the most important goal for our database team here at Google Cloud Platform (GCP). That’s why we put money on the table in the form of availability service-level agreements (SLAs).We’re pleased to announce that all Cloud Spanner",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
+      "publishedDateTime": "2019-09-25T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Database_rqS3tmV.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    }
+  ],
+  "nextPage": null
+}

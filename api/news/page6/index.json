@@ -1,0 +1,934 @@
+{
+  "page": 6,
+  "value": [
+    {
+      "path": "_news/2020-02-18-new-amd-epyc-based-compute-engine-family-now-in-beta.md",
+      "title": "New AMD EPYC-based Compute Engine family, now in beta",
+      "excerpt": "At Google Cloud, we want you to be able to choose the best VMs for your workloads. Today, we’re excited to announce a new addition to our general purpose VMs: the N2D family, built atop 2nd Gen AMD EPYC™ Processors. N2D VMs are a great option for both general-purpose workloads and workloads that require",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/announcing-the-n2d-vm-family-based-on-amd/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/announcing-the-n2d-vm-family-based-on-amd/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/announcing-the-n2d-vm-family-based-on-amd/amp/",
+      "publishedDateTime": "2020-02-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_compute.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New AMD EPYC-based Compute Engine family, now in beta",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-taking-a-practical-approach-to-bigquery-slot-usage-analysis.md",
+      "title": "Taking a practical approach to BigQuery slot usage analysis",
+      "excerpt": "Google BigQuery is a fully managed serverless solution for your enterprise data warehouse workloads. Nothing could be easier than that: Just upload your data via batch or streaming and start running your queries. The underlying system will seamlessly take care of providing the infrastructural resources",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/amp/",
+      "publishedDateTime": "2020-02-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Taking a practical approach to BigQuery slot usage analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-how-udacity-students-succeed-with-google-cloud.md",
+      "title": "How Udacity students succeed with Google Cloud",
+      "excerpt": "Editor’s note: Today we hear from Udacity, which uses a variety of Google Cloud technologies for its online learning platform. Read on to learn how they built online workspaces that give students immediate access to fast, isolated compute resources and private data sets. At Udacity, we use advanced technologies",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/customers/how-udacity-uses-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/how-udacity-uses-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/how-udacity-uses-google-cloud/amp/",
+      "publishedDateTime": "2020-02-13T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Udacity.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How Udacity students succeed with Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-google-completes-looker-acquisition.md",
+      "title": "Google completes Looker acquisition",
+      "excerpt": "I’m pleased to announce that Google has completed its acquisition of Looker. Together, we're excited to offer customers a comprehensive analytics solution that integrates and visualizes insights at every layer of their business.  Today, hundreds of joint customers already rely on Google Cloud and Looker",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-completes-looker-acquisition/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/google-completes-looker-acquisition/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/google-completes-looker-acquisition/amp/",
+      "publishedDateTime": "2020-02-12T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Looker.jpg",
+          "width": 1999,
+          "height": 834,
+          "title": "Google completes Looker acquisition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-google-cloud-named-a-leader-in-the-forrester-wave-data-management-for-analytics.md",
+      "title": "Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics",
+      "excerpt": "We’re pleased to announce that Forrester has named Google Cloud a Leader in its report, The Forrester Wave™: Data Management for Analytics (DMA) Q1, 2020. This is the first DMA Wave Forrester is publishing and it assesses Google Cloud’s broader data analytics portfolio, with BigQuery at the heart. In",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/google-a-leader-in-forrester-wave-data-management-for-analytics/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/google-a-leader-in-forrester-wave-data-management-for-analytics/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/google-a-leader-in-forrester-wave-data-management-for-analytics/amp/",
+      "publishedDateTime": "2020-02-12T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud-01_q1Ox36D.png",
+          "width": 2084,
+          "height": 1157,
+          "title": "Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-bigquery-under-the-hood-how-zone-assignments-work.md",
+      "title": "BigQuery under the hood: How zone assignments work",
+      "excerpt": "BigQuery is a serverless, highly scalable, and cost-effective cloud data warehouse. It’s designed to be flexible and easy to use. There are lots of interesting features and design decisions made when creating BigQuery, and we’ll dive into how zone assignments work in this post. Like other Google Cloud",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/how-bigquery-zone-assignments-work/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "BigQuery under the hood: How zone assignments work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-exploring-container-security-run-what-you-trust-isolate-what-you-dont.md",
+      "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
+      "excerpt": "From vulnerabilities to cryptojacking to well, more cryptojacking, there were plenty of security events to keep container users on their toes throughout 2019. With Kubernetes being used to manage most container-based environments (and increasingly hybrid ones too), it’s no surprise that Forrester Research,",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548e_Container_security_full.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-running-workloads-on-dedicated-hardware-just-got-better.md",
+      "title": "Running workloads on dedicated hardware just got better",
+      "excerpt": "At Google Cloud, we repeatedly hear how important flexibility, openness, and choice are for your cloud migration and modernization journey. For enterprise customers that require dedicated hardware due to requirements such as performance isolation (for gaming), physical separation (for finance or healthcare),",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Compute_workload_pmsK0uM.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Running workloads on dedicated hardware just got better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-now-updated-our-data-engineering-learning-path.md",
+      "title": "Now updated: Our Data Engineering Learning Path",
+      "excerpt": "With the market for artificial intelligence and machine learning-powered solutions projected to grow to $1.2B by 2023, it’s important to consider business needs now and in the future. We've heard from our customers and have witnessed internally that the data engineering role has evolved and now requires",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
+      "publishedDateTime": "2020-02-11T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/560-GCP-Higher-Ed-Hero_Krk4pEL.max-1000x1000.png",
+          "width": 1000,
+          "height": 570,
+          "title": "Now updated: Our Data Engineering Learning Path",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-bring-2020-vision-to-your-pipelines-with-enhanced-monitoring.md",
+      "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
+      "excerpt": "Stream analytics is bringing data to life in a way that was previously unimaginable, unlocking new use cases, from connected medical devices in healthcare to predictive maintenance on the factory floor. But with new uses comes new challenges that, if left unaddressed, can lead to unintended behaviors",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
+      "publishedDateTime": "2020-02-11T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Dataflow.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-understanding-data-pipeline-security-in-cloud-data-fusion.md",
+      "title": "Understanding data pipeline security in Cloud Data Fusion",
+      "excerpt": "For those of you working in data analytics, ETL and ELT pipelines are an important piece of your data foundation. Cloud Data Fusion is our fully managed data integration service for quickly building and managing data pipelines. Cloud Data Fusion is built on the open source project CDAP, and this open",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/amp/",
+      "publishedDateTime": "2020-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Data_Fusion.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Understanding data pipeline security in Cloud Data Fusion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-scale-your-composer-environment-together-with-your-business.md",
+      "title": "Scale your Composer environment together with your business",
+      "excerpt": "When you’re building data pipelines, it’s important to consider business needs now and in the future. We often hear from customers that they want to configure and optimize their Cloud Composer environments. So we on the Cloud Composer engineering team will share in this post how Cloud Composer—built",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
+      "publishedDateTime": "2020-02-05T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Scale your Composer environment together with your business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-windows-server-applications-welcome-to-google-kubernetes-engine.md",
+      "title": "Windows Server applications, welcome to Google Kubernetes Engine",
+      "excerpt": "The promise of Kubernetes is to make container management easy and ubiquitous. Up until recently though, the benefits of Kubernetes were limited to Linux-based applications, preventing enterprise applications running on Windows Server from taking advantage of its agility, speed of deployment and simplified",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/run-windows-server-containers-on-gke/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
+      "publishedDateTime": "2020-01-30T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Containers_08.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Windows Server applications, welcome to Google Kubernetes Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-announcing-new-certifications-for-technical-leaders-and-devops-engineers.md",
+      "title": "Announcing new certifications for technical leaders and DevOps engineers",
+      "excerpt": "As the cloud continues to evolve, it’s paving the way for exciting innovations that were difficult to imagine even a few years ago. To take advantage of everything the latest cloud technology has to offer, organizations must be able to find people with the right combination of skills to make it happen.",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
+      "publishedDateTime": "2020-01-30T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_Training_and_Certification.max-1100x1100.jpg",
+          "width": 1100,
+          "height": 458,
+          "title": "Announcing new certifications for technical leaders and DevOps engineers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-expanding-our-alliance-with-cisco-in-hybrid-cloud-and-the-contact-center.md",
+      "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+      "excerpt": "Over the past three years, we’ve worked closely with Cisco to deliver a number of customer-focused solutions in areas such as hybrid cloud, multi-cloud, work transformation, and contact center integrations. This week at Cisco Live in Barcelona, we’re sharing updates on our joint work in two key areas",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "publishedDateTime": "2020-01-28T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-10-top-tips-unleash-your-bigquery-superpowers.md",
+      "title": "10 top tips: Unleash your BigQuery superpowers",
+      "excerpt": "Lots of us are already tech heroes by day. If you know SQL, for example, you’re a hero.You have the power to transform data into insights. You can save the day when someone in need comes to you to reveal the magic numbers they can then use in their business proposals. You can also amaze your colleagues",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/amp/",
+      "publishedDateTime": "2020-01-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GOOGLE_GCP_BANNER_2A.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "10 top tips: Unleash your BigQuery superpowers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-unify-kubernetes-and-gcp-resources-for-simpler-and-faster-deployments.md",
+      "title": "Unify Kubernetes and GCP resources for simpler and faster deployments",
+      "excerpt": "Adopting containers and Kubernetes means adopting new ways of doing things, not least of which is how you configure and maintain your resources. As a declarative system, Kubernetes allows you to express your intent for a given resource, and then creates and updates those resources using continuous reconciliation.",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/amp/",
+      "publishedDateTime": "2020-01-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes_tLRY5pW.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Unify Kubernetes and GCP resources for simpler and faster deployments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-exploring-an-apache-kafka-to-pubsub-migration-major-considerations.md",
+      "title": "Exploring an Apache Kafka to Pub/Sub migration: Major considerations",
+      "excerpt": "The fastest way to migrate a business application into Google Cloud is to use the lift and shift strategy—and part of that transition is migrating any OSS, or third-party services that the application uses. But sometimes it can be more efficient and beneficial to leverage Google Cloud services instead. One",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/what-to-consider-in-an-apache-kafka-to-pubsub-migration/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/what-to-consider-in-an-apache-kafka-to-pubsub-migration/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/what-to-consider-in-an-apache-kafka-to-pubsub-migration/amp/",
+      "publishedDateTime": "2020-01-27T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/kafka_PubSub_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring an Apache Kafka to Pub/Sub migration: Major considerations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-whats-happening-in-bigquery-new-federated-queries-easier-ml-and-more-metadata.md",
+      "title": "What’s happening in BigQuery: New federated queries, easier ML, and more metadata",
+      "excerpt": "BigQuery, Google Cloud’s petabyte-scale data warehouse, lets you ingest and analyze data quickly and with high availability, so you can find new insights, trends, and predictions to efficiently run your business. Our engineering team is continually making improvements to BigQuery so you can get even",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/whats-happening-in-bigquery-jan2020/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/whats-happening-in-bigquery-jan2020/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/whats-happening-in-bigquery-jan2020/amp/",
+      "publishedDateTime": "2020-01-27T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_BigQuery.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "What’s happening in BigQuery: New federated queries, easier ML, and more metadata",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-new-ga-dataproc-features-extend-data-science-and-ml-capabilities.md",
+      "title": "New GA Dataproc features extend data science and ML capabilities",
+      "excerpt": "The life of a data scientist can be challenging. If you’re in this role, your job may involve anything from understanding the day-to-day business behind the data to keeping up with the latest machine learning academic research. With all that a data scientist must do to be effective, you shouldn’t have",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/amp/",
+      "publishedDateTime": "2020-01-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Dataproc_1ZCbMuo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New GA Dataproc features extend data science and ML capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut.md",
+      "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+      "excerpt": "Google Cloud offers a wide range of GPUs to accelerate everything from AI deployment to 3D visualization. These use cases are now even more affordable with the price reduction of the NVIDIA T4 GPU. As of early January, we’ve reduced T4 prices by more than 60%, making it the lowest cost GPU instance on",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "publishedDateTime": "2020-01-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GoogleCloud_AutoML.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-4-ways-anthos-delivers-roi-to-customers-according-to-new-forrester-consulting-study.md",
+      "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
+      "excerpt": "In our conversations with technology leaders about Anthos, we quickly get into the strategic questions about long term transformation and selection of the right technology architectures. At the heart of those discussions is an exploration of the potential economic value to their organization. So we commissioned",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/4-ways-anthos-delivers-roi-to-customers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
+      "publishedDateTime": "2020-01-22T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Anthos_A.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-want-to-use-automl-tables-from-a-jupyter-notebook-heres-how.md",
+      "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
+      "excerpt": "While there’s no doubt that machine learning (ML) can be a great tool for businesses of all shapes and sizes, actually building ML models can seem daunting at first. Cloud AutoML—Google Cloud’s suite of products—provides tools and functionality to help you build ML models that are tailored to your specific",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/amp/",
+      "publishedDateTime": "2020-01-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WorkplaceTransformation-01_2FYra9X.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management.md",
+      "title": "New Anthos training: a masterclass in hybrid cloud architecture and management",
+      "excerpt": "You’re moving faster than ever to build new applications, innovate, and bring value to your customers. Anthos, Google Cloud’s open application modernization platform, can help you modernize your existing applications, making them more portable, maintainable, scalable and secure. And now, our newest learning",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management/amp/",
+      "publishedDateTime": "2020-01-16T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_training_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New Anthos training: a masterclass in hybrid cloud architecture and management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-exploring-container-security-announcing-the-cis-google-kubernetes-engine-benchmark.md",
+      "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
+      "excerpt": "If you’re serious about the security of your Kubernetes operating environment, you need to build on a strong foundation. The Center for Internet Security’s (CIS) Kubernetes Benchmark give you just that: a set of Kubernetes security best practices that will help you build an operating environment that",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
+      "publishedDateTime": "2020-01-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Container_security_yWGpMGg.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    }
+  ],
+  "nextPage": 7
+}

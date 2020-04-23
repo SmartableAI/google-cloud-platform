@@ -1,0 +1,460 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-03-17-not-just-for-http-anymore-grpc-comes-to-cloud-run.md",
+      "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
+      "excerpt": "Cloud Run is a managed serverless compute offering from Google Cloud that lets you run stateless server containers in a fully managed environment, without the hassle of managing the underlying infrastructure. Since its release, Cloud Run has enabled many of our customers to focus on their business logic,",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
+      "publishedDateTime": "2020-03-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions.md",
+      "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
+      "excerpt": "Do you wish you could access resources in your Virtual Private Cloud (VPC) with serverless applications running on App Engine or Cloud Functions? Now you can, with the new Serverless VPC Access service.Available now, Serverless VPC access lets you access virtual machines, Cloud Memorystore Redis instances,",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
+      "publishedDateTime": "2020-01-06T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-12-11-whats-new-in-cloud-run-for-anthos.md",
+      "title": "What’s new in Cloud Run for Anthos",
+      "excerpt": "Earlier this year, we announced Cloud Run, our newest compute platform for serverless containers, which runs either on Google’s fully managed infrastructure–or on your Google Kubernetes Engine (GKE) clusters with Cloud Run for Anthos. This portability is achieved with Knative open-source APIs.With Cloud",
+      "heat": 168,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/new-features-in-cloud-run-for-anthos-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
+      "publishedDateTime": "2019-12-11T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Serverless.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "What’s new in Cloud Run for Anthos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-12-10-8-production-ready-features-youll-find-in-cloud-run-fully-managed.md",
+      "title": "8 production-ready features you’ll find in Cloud Run fully managed",
+      "excerpt": "Since we launched Cloud Run at Google Cloud Next in April, developers have discovered that “serverless” and “containers” run well together. With Cloud Run, not only do you benefit from fully managed infrastructure, up and down auto-scaling, and pay-as-you-go pricing, but you’re also able to package your",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/a-developers-guide-to-new-features-in-cloud-run/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
+      "publishedDateTime": "2019-12-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run_blog.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "8 production-ready features you’ll find in Cloud Run fully managed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-12-06-expanding-the-serverless-ecosystem-for-cloud-run.md",
+      "title": "Expanding the serverless ecosystem for Cloud Run",
+      "excerpt": "Increasingly, organizations want to write applications in containers, without having to worry about provisioning, managing and scaling the underlying infrastructure. They also want to pay only for what they use. Cloud Run, which recently became generally available, makes this possible, with additional",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/amp/",
+      "publishedDateTime": "2019-12-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WorkplaceTransformation-01_2FYra9X.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Expanding the serverless ecosystem for Cloud Run",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-11-26-you-can-cook-turkey-in-a-toaster-oven-but-you-dont-have-to.md",
+      "title": "You can cook turkey in a toaster oven, but you don't have to",
+      "excerpt": "When I was in college and couldn't make it home for the Thanksgiving holiday, I would get together with other students in the same situation and do the next best thing: cook a traditional Thanksgiving feast of roast turkey, mashed potatoes and gravy, stuffing, and green beans by ourselves. In a dorm",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
+      "publishedDateTime": "2019-11-26T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Thanksgiving.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "You can cook turkey in a toaster oven, but you don't have to",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-11-22-google-kubernetes-engine-or-cloud-run-which-should-you-use.md",
+      "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
+      "excerpt": "When it comes to managed Kubernetes services, Google Kubernetes Engine (GKE) is a great choice if you are looking for a container orchestration platform that offers advanced scalability and configuration flexibility. GKE gives you complete control over every aspect of container orchestration, from networking,",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
+      "publishedDateTime": "2019-11-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_GKE.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-14-cloud-run-a-managed-knative-service-is-ga.md",
+      "title": "Cloud Run, a managed Knative service, is GA",
+      "excerpt": "We want to empower developers no matter where their businesses are in their cloud journey, whether that's on-prem, operating in a managed Kubernetes environment, or running on a fully managed serverless computing platform. Today, we're announcing that Cloud Run is generally available, helping developers",
+      "heat": 153,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "publishedDateTime": "2019-11-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cloud Run, a managed Knative service, is GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-06-updating-app-engine-with-more-new-runtimes-nodejs-12-go-113-php-73-and-python-38.md",
+      "title": "Updating App Engine with more new runtimes: Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8",
+      "excerpt": "Last week, we announced that the Java 11 runtime for App Engine standard environment is now generally available. But that’s not all the App Engine news we have to share. In addition to Java 11, developers can also now use Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8. These latest additions to App Engine",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/updating-app-engine-with-more-new-runtimes/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/updating-app-engine-with-more-new-runtimes/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/updating-app-engine-with-more-new-runtimes/amp/",
+      "publishedDateTime": "2019-11-06T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_serverless_computing.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Updating App Engine with more new runtimes: Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-11-06-opening-the-door-to-more-dev-tools-for-cloud-spanner.md",
+      "title": "Opening the door to more dev tools for Cloud Spanner",
+      "excerpt": "We recently released a new native open-source JDBC driver built by Google Cloud Platform (GCP) to enable the easy integration of Cloud Spanner into graphical database development tools. This can be useful for software engineers designing application database schemas in Cloud Spanner, database architects",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
+      "publishedDateTime": "2019-11-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Spanner_databases.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Opening the door to more dev tools for Cloud Spanner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-10-29-app-engine-java-11-is-gadeploy-a-jar-scale-it-all-fully-managed.md",
+      "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+      "excerpt": "Attention, Java developers. If you want to build modern Java backends, use modern frameworks, or use the latest language features of Java 11, know that you can now deploy and scale your Java 11 apps in App Engine with ease. We’re happy to announce that the App Engine standard environment Java 11 runtime",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "publishedDateTime": "2019-10-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppEngine.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-09-27-6-strategies-for-scaling-your-serverless-applications.md",
+      "title": "6 strategies for scaling your serverless applications",
+      "excerpt": "A core promise of a serverless compute platform like Cloud Functions is that you don't need to worry about infrastructure: write your code, deploy it and watch your service scale automatically. It’s a beautiful thing. That works great when your whole stack auto-scales. But what if your service depends",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/6-strategies-for-scaling-your-serverless-applications/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
+      "publishedDateTime": "2019-09-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_serverless.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "6 strategies for scaling your serverless applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    }
+  ],
+  "nextPage": null
+}

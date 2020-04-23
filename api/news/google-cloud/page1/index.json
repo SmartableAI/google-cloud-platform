@@ -1,0 +1,1255 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-22-google-stadia-gains-users-after-giving-free-access-for-two-months.md",
+      "title": "Google Stadia gains users after giving free access for two months",
+      "excerpt": "Google’s cloud-based game, Stadia, has witnessed a surge in users after the tech giant gifted two months of free access to its premium version for gamers sheltering at home to curb the spread of the coronavirus.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-google-stadia-idUSKCN224386",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN224386",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN224386",
+      "publishedDateTime": "2020-04-22T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200422&t=2&i=1516080494&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3L24Y",
+          "width": 850,
+          "height": 545,
+          "title": "Google Stadia gains users after giving free access for two months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure.md",
+      "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
+      "excerpt": "Anthos, Google’s platform for managing hybrid clouds that span Google Cloud and on-premise datacenters, has hit general availability for Amazon Web Services (AWS) and is in preview for Microsoft Azure. Additionally, Google today updated Anthos Config Management with a programmatic and declarative GitOps approach to manage policies for ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
+      "publishedDateTime": "2020-04-22T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/google-cloud-anthos.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-anthosdriving-business-agility-and-efficiency.md",
+      "title": "Anthos—driving business agility and efficiency",
+      "excerpt": "In business as in life, change is constant and unpredictable. When building the platforms to power your organization, you can’t be limited by yesterday’s technology decisions. Nor can the systems you create today constrain your ability to act tomorrow. In times of uncertainty, you need an architecture",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-for-aws-is-now-ga/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Anthos—driving business agility and efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-modernize-legacy-apps-with-migrate-for-anthos-introducing-support-for-day-two-operations.md",
+      "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+      "excerpt": "Not all application modernization strategies are created equal. One of the simplest approaches is to take an existing virtual machine and save it as a container. But while the resulting container will work, it won’t give you the benefits of more sophisticated modernization techniques—both in terms of",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/migrate-for-anthos-1-3-accelerates-modernization/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-were-rolling-out-4-top-requested-google-meet-features.md",
+      "title": "We’re rolling out 4 top-requested Google Meet features",
+      "excerpt": "Remote work has become increasingly necessary for public safety and wellbeing—which makes staying connected, even while we’re apart, more important than ever. Each day, a rapidly growing number of people connect on Google Meet, and we want to make sure they have the features they need to share and be",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/productivity-collaboration/introducing-tiled-view-and-other-top-requested-features-in-google-meet/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Meet_16.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "We’re rolling out 4 top-requested Google Meet features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-cloud-made-its-healthcare-api-available-to-providers-amid-the-pandemic.md",
+      "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
+      "excerpt": "Google Cloud made its Healthcare API generally available to healthcare organizations in response to the coronavirus pandemic.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/google-cloud-opens-healthcare-api-to-providers-amid-pandemic-2020-4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5db72045dee0190c79375578?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-cloud-anthos-now-available-for-aws-with-azure-to-follow.md",
+      "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
+      "excerpt": "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
+      "publishedDateTime": "2020-04-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-computing-platform-will-optimize-renewable-energy-use-in-datacenters.md",
+      "title": "Google computing platform will optimize renewable energy use in datacenters",
+      "excerpt": "As part of an ongoing effort to reduce the environmental impact of cloud computing, Google announced that it has developed a platform that maximizes the use of alternative energy sources at its sprawling network of datacenters. In a blog post, Google officials described the system as a “carbon-intelligent computing platform.” The system ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
+      "publishedDateTime": "2020-04-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google computing platform will optimize renewable energy use in datacenters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-how-to-embrace-the-hybrid-cloud-reality-and-get-it-right.md",
+      "title": "How To Embrace The Hybrid Cloud Reality And Get It Right",
+      "excerpt": "With the initial promise of the cloud, organizations were rushing to implement “the next great thing” — but many failed to successfully put a hybrid strategy in place. Are you one of those organizations?",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/amp/",
+      "publishedDateTime": "2020-04-22T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-33-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Embrace The Hybrid Cloud Reality And Get It Right",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-amazon-tells-cloud-customers-its-here-to-help-as-businesses-face-financial-hardship.md",
+      "title": "Amazon tells cloud customers it's 'here to help' as businesses face financial hardship",
+      "excerpt": "AWS sent an email to some customers on Monday, providing a way for them to ask for help while dealing with the coronavirus.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/21/aws-offers-to-help-customers-facing-financial-challenges-from-covid-19.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/21/aws-offers-to-help-customers-facing-financial-challenges-from-covid-19.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/21/aws-offers-to-help-customers-facing-financial-challenges-from-covid-19.html",
+      "publishedDateTime": "2020-04-21T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105416027-1535149821829gettyimages-670451702.jpeg?v=1585952485",
+          "width": 4000,
+          "height": 2667,
+          "title": "Amazon tells cloud customers it's 'here to help' as businesses face financial hardship",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform.md",
+      "title": "Pulumi brings support for more languages to its infrastructure-as-code platform",
+      "excerpt": "Seattle-based Pulumi has quickly made a name for itself as a modern platform that lets developers specify their infrastructure through ... “We still embrace what makes each of the clouds special. AWS, Azure, Google Cloud and Kubernetes,” Duffy said. “We’re not trying to be a PaaS that abstracts over all. We’re just helping to be ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform/amp/",
+      "publishedDateTime": "2020-04-21T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/pulumi_logo.png?w=1024",
+          "width": 1024,
+          "height": 489,
+          "title": "Pulumi brings support for more languages to its infrastructure-as-code platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-helping-our-customers-navigate-covid-19-and-build-for-the-future.md",
+      "title": "Helping our customers navigate COVID-19 and build for the future",
+      "excerpt": "As the global response to COVID-19 evolves, businesses everywhere are adapting to an ever-changing environment that forces them to think differently. Our focus at Google Cloud right now is helping our customers navigate the impacts of COVID-19, whether that’s helping employees work remotely, ensuring",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-our-customers-navigate-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud.md",
+      "title": "Google wants to make it easier to analyse health data in the cloud",
+      "excerpt": "Google has expanded the availability of its Cloud Healthcare API in a bid to improve healthcare interoperability and help providers drive insights from myriad sources of medical data. Google's Cloud Healthcare API allows healthcare organizations to collect and manage various types of medical data via the cloud, including Digital Imaging and ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "publishedDateTime": "2020-04-21T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/04/30/a1920c33-8bb2-426e-958c-757992604693/thumbnail/1200x675/70cdb5522ace34daae74aaedd541691e/istock-1127069581.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google wants to make it easier to analyse health data in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-back-up-on-demand-emulate-and-develop-with-ease-new-spanner-features.md",
+      "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
+      "excerpt": "At Google, we built Cloud Spanner to support our need for a scalable, multi-version database with relational semantics. It’s become an important capability for teams that need a globally distributed, strongly consistent database service. Spanner continues to launch new enterprise capabilities, and we’re",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/native-cloud-database-spanner-adds-features/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-cisco-and-google-announce-joint-sd-wan-cloud-hub.md",
+      "title": "Cisco and Google announce joint SD-WAN cloud hub",
+      "excerpt": "The multicloud network fabric helps facilitate application use across the enterprise and improve customer experience. Cisco and Google announced on Tuesday the release of its industry-first SD-WAN cloud hub. The application-focused multicloud networking fabric will guarantee applications and networks have shared service-level agreement settings ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/28/5d70ba10-7e3a-4376-be18-e1ab8a6a6fab/resize/1200x/e0fad44feb704990a94da5b15f28c698/istock-1140300211.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Cisco and Google announce joint SD-WAN cloud hub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub.md",
+      "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
+      "excerpt": "This latest integration is centered around Google Anthos, a platform launched last year for managing applications on premise or in any cloud environment. By tightly integrating Cisco SD-WAN services with Google Cloud and Anthos, the companies said they can offer a new turnkey, multicloud networking fabric called the Cisco SD-WAN Cloud Hub ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/ce6814ff-ce69-44ef-b6a8-89993fd7e787/thumbnail/1200x675/90a7834e7d694a76c76eaaced038ebe8/istock-1092964846.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-modernize-enterprise-networking-with-cisco-sd-wan-and-google-cloud.md",
+      "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
+      "excerpt": "Enterprises are increasingly adopting hybrid and multi-cloud to deliver the best experiences for their customers. The network is at the foundation of this transformation, but is getting exponentially more complex to manage, secure, and scale throughout an enterprise footprint that can include multiple",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-forgerock-nabs-935m-for-its-id-management-platform-gears-up-next-for-an-ipo.md",
+      "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
+      "excerpt": "The company is today announcing that it has raised $93.5 million in funding, a Series E it will use to continue expanding its product and take it to its next step as a business, specifically investing in R&D, cloud services ... a time when our platform can consume decentralised identity, on par with logins from Google or Facebook today.",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
+      "publishedDateTime": "2020-04-21T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/4157483192_7b6e4b41e2_k.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn.md",
+      "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
+      "excerpt": "The survey also found that the gap between public cloud platform providers is closing with Google Cloud, Amazon Web Services, and Microsoft Azure each getting an equal share of votes as a preferred cloud provider. Tech leaders are looking for providers ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
+      "publishedDateTime": "2020-04-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/20/7f41e818-d531-4993-9a76-4cba42ad6471/resize/1200x/5534a0088a1a141e343fc913e14c3a3d/opsramp-costcutting.jpg",
+          "width": 1200,
+          "height": 1148,
+          "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-in-pandemic-times.md",
+      "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
+      "excerpt": "RFIDs would also include the tokens needed to access our cloud-based medical history ... easy to enroll from a consumer experience perspective -- but it needs to have full platform integration for it to be completely seamless. If Apple and Google can cooperate on COVID-19 contact tracing, they can work on moving money around.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
+      "publishedDateTime": "2020-04-20T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/14/19c5dc91-c620-4112-b42e-86fba891b089/thumbnail/1200x675/85c560a226a9b6d969f608e96dd94cf6/istock-888701758.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-google-unveils-tech-to-make-it-easier-for-doctors-and-patients-to-share-health-info.md",
+      "title": "Google unveils tech to make it easier for doctors and patients to share health info",
+      "excerpt": "Google is announcing the general availability of technology that, if widely adopted, could make it easier for patients to access their own health information via third-party apps.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/20/google-cloud-health-api-released.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/20/google-cloud-health-api-released.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/20/google-cloud-health-api-released.html",
+      "publishedDateTime": "2020-04-20T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1582733192",
+          "width": 3000,
+          "height": 2003,
+          "title": "Google unveils tech to make it easier for doctors and patients to share health info",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-best-practices-for-optimizing-your-cloud-costs.md",
+      "title": "Best practices for optimizing your cloud costs",
+      "excerpt": "One of the greatest benefits of running in the cloud is being able to scale up and down to meet demand and reduce operational expenditures. And that’s especially true when you’re experiencing unexpected changes in customer demand.Here at Google Cloud, we have an entire team of Solutions Architects dedicated",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_5I5zzaa.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for optimizing your cloud costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Analytics",
+        "Networking",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-google-launches-cloud-healthcare-api-in-general-availability.md",
+      "title": "Google launches Cloud Healthcare API in general availability",
+      "excerpt": "As Google notes, even in the best of circumstances, collating healthcare data is often a challenge for health care and life science organizations. The API, then, enables providers to interact with data using endpoints and health plans, providing them a platform that scales and supports interoperability and patient access. Cloud Healthcare API ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
+      "publishedDateTime": "2020-04-20T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google launches Cloud Healthcare API in general availability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn.md",
+      "title": "Google rolls out BeyondCorp for secure remote network access without a VPN",
+      "excerpt": "With the number of employees working at home exploding during coronavirus lockdowns, Google is rolling out a new security service designed to allow remote access of internal systems without using a virtual private network. BeyondCorp Remote Access is a cloud-based security product based on a system that Google originally built for internal use ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/amp/",
+      "publishedDateTime": "2020-04-20T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/pasted-image-0-6-1-e1587375342626.png?fit=1414%2C569&strip=all",
+          "width": 1414,
+          "height": 569,
+          "title": "Google rolls out BeyondCorp for secure remote network access without a VPN",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-keep-your-teams-working-safely-with-beyondcorp-remote-access.md",
+      "title": "Keep your teams working safely with BeyondCorp Remote Access",
+      "excerpt": "The COVID-19 pandemic is affecting organizations in different ways, whether it’s hospitals or governments directly impacted by the coronavirus or businesses that need to rapidly evolve to support new work-from-home scenarios. Over the last few weeks, we’ve had numerous conversations with customers about",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/keep-your-teams-working-safely-with-beyondcorp-remote-access/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Keep your teams working safely with BeyondCorp Remote Access",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-our-healthcare-api-and-other-solutions-for-supporting-healthcare-and-life-sciences-organizations-during-the-pandemic.md",
+      "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
+      "excerpt": "Whether they’re caring for patients or advancing research towards a cure, healthcare and life sciences organizations are on the front lines in the fight against COVID-19. We know that the pandemic is impacting every aspect of the healthcare industry differently, and that the needs of organizations are",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-supporting-healthcare-and-life-sciences-organizations/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-alibaba-will-allocate-28-billion-in-three-years-to-expand-cloud-business.md",
+      "title": "Alibaba Will Allocate $28 Billion In Three Years to Expand Cloud Business",
+      "excerpt": "Alibaba will be hoping to gain market share from other large cloud players such as Amazon, Microsoft and Alphabet's Google. The global cloud infrastructure spending in 2019 stood at $107.1 billion, up 37.6% from $77.8 billion spent in the prior-year period, according to Canalys.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx?source=iedfolrf0000001",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx",
+      "publishedDateTime": "2020-04-20T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568677%2Falibaba-cloud.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Alibaba Will Allocate $28 Billion In Three Years to Expand Cloud Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
+      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+      "excerpt": "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-coronavirus-test-troubles-cloud-trumps-efforts-to-reopen-country.md",
+      "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
+      "excerpt": "The United States is struggling to test enough people to track and control the spread of the novel coronavirus, a crucial first step to reopening parts of the economy, which President Donald Trump is pushing to do by May 1.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1",
+      "ampWebUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
+      "publishedDateTime": "2020-04-18T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20108812937625.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know.md",
+      "title": "Google Stadia free tier, newest games and everything else you need to know",
+      "excerpt": "Google Stadia, the megacorp's service to stream playable games on TVs and mobile devices without a console or PC, is the company's leap into the melee of cloud gaming. Google is typically the biggest fish in any pond,",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
+      "publishedDateTime": "2020-04-17T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/yUWTwiSF9gNLBd6FlrNb7yjxtrs=/756x567/2019/11/15/a6594deb-1dba-451a-98bb-02fe83b80a9b/18-google-stadia.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Google Stadia free tier, newest games and everything else you need to know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    }
+  ],
+  "nextPage": 2
+}

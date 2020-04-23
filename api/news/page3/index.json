@@ -1,0 +1,918 @@
+{
+  "page": 3,
+  "value": [
+    {
+      "path": "_news/2020-04-15-private-access-with-serverless-managing-serverless-application-access-in-google-cloud-platform-gcp.md",
+      "title": "Private Access With Serverless — Managing Serverless Application Access in Google Cloud Platform (GCP)",
+      "excerpt": "Cloud Run and Google App Engine Flex (with custom runtime) have been my prime serverless choices in Google Cloud Platform (GCP). Both offer a high degree of flexibility — with the ability to deploy with any runtime due to its configuration dependency as a Dockerfile. App Engine has been made available as a commercial tool for a longer period ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/private-access-with-serverless-managing-serverless-application-access-in-google-cloud-platform-857c74bc55cd",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*s3SfHFu0tszfPURFr9mOFQ.jpeg",
+          "width": 1200,
+          "height": 796,
+          "title": "Private Access With Serverless — Managing Serverless Application Access in Google Cloud Platform (GCP)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-how-google-cloud-is-helping-global-governments-during-the-covid-19-pandemic-and-our-future-plans-to-work-with-the-public-sector.md",
+      "title": "How Google Cloud is helping global governments during the COVID-19 pandemic, and our future plans to work with the public sector",
+      "excerpt": "We are deeply committed to providing the public sector with the best technology to help improve government services and increase operational effectiveness, and we continue to work with government agencies to advocate for and contribute to the responsible and beneficial use of technology. Around the world,",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-global-governments-during-the-covid-19-pandemic/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_cloud_network-01.max-1000x1000.jpg",
+          "width": 1000,
+          "height": 416,
+          "title": "How Google Cloud is helping global governments during the COVID-19 pandemic, and our future plans to work with the public sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-how-google-cloud-is-helping-covid-19-academic-research.md",
+      "title": "How Google Cloud is helping COVID-19 academic research",
+      "excerpt": "As COVID-19 continues to grow in impact, healthcare and life science researchers are in a race to understand more about the novel coronavirus, and are increasingly turning to cloud technologies to aid them in their work.We’re so grateful for the work of these experts, and want to support them with tools",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-covid-19-academic-research/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_B3.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "How Google Cloud is helping COVID-19 academic research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-supporting-not-for-profit-covid-19-response-efforts-with-google-maps-platform-credits.md",
+      "title": "Supporting not-for-profit COVID-19 response efforts with Google Maps Platform credits",
+      "excerpt": "In the wake of the COVID-19 pandemic, we’ve seen an inspiring response from our developer community. To support response efforts, we’ve expedited the processing of Google Maps Platform credit applications for COVID-19-related not-for-profit projects that offer a publicly-available website or mobile app.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/supporting-not-profit-covid-19-response-efforts-google-maps-platform-credits/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/034-MAP-COVID_Response-SL_2880x1200_1.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Supporting not-for-profit COVID-19 response efforts with Google Maps Platform credits",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-find-and-fix-issues-faster-with-our-new-logs-viewer.md",
+      "title": "Find and fix issues faster with our new Logs Viewer",
+      "excerpt": "Monitoring your cloud infrastructure is an essential part of making sure your operations are running smoothly. Since announcing the new Cloud Logging interface in February, we’ve heard from users that the new interface is making it faster and easier to meet logging needs, including troubleshooting issues,",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/troubleshoot-issues-faster-with-cloud-logging/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Find and fix issues faster with our new Logs Viewer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-from-raw-data-to-machine-learning-model-no-coding-required.md",
+      "title": "From raw data to machine learning model, no coding required",
+      "excerpt": "Machine learning was once the domain of specialized researchers, with complex models and proprietary code required to build a solution. But, Cloud AutoML has made machine learning more accessible than ever before. By automating the model building process, users can create highly performant models with",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/from-raw-data-to-machine-learning-model-no-coding-required/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/AI_Deploy_nlfl0lU.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "From raw data to machine learning model, no coding required",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-how-do-i-move-data-from-mysql-to-bigquery.md",
+      "title": "How do I move data from MySQL to BigQuery?",
+      "excerpt": "In a market where streaming analytics is growing in popularity, it’s critical to optimize data processing so you can reduce costs and ensure data quality and integrity. One approach is to focus on working only with data that has changed instead of all available data. This is where change data capture",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/how-to-move-data-from-mysql-to-bigquery/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "How do I move data from MySQL to BigQuery?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-api-design-understanding-grpc-openapi-and-rest-and-when-to-use-them.md",
+      "title": "API design: Understanding gRPC, OpenAPI and REST and when to use them",
+      "excerpt": "As most software developers no doubt know, there are two primary models for API design: RPC and REST. Regardless of model, most modern APIs are implemented by mapping them in one way or another to the same HTTP protocol. It has also become common for RPC API designs to adopt one or two ideas from HTTP",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Blog_api-management-04_1.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "API design: Understanding gRPC, OpenAPI and REST and when to use them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-how-google-meet-supports-two-million-new-users-each-day.md",
+      "title": "How Google Meet supports two million new users each day",
+      "excerpt": "More than a decade ago we introduced secure, easy-to-use business collaboration and productivity apps (now known as G Suite), and we envisioned a new way of working in the cloud. And although we always knew the value of cloud-based collaboration, it is more important than ever at a time like this. Over",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-meet-supports-two-million-new-users-each-day/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Meet.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "How Google Meet supports two million new users each day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-helping-contact-centers-respond-rapidly-to-customer-concerns-about-covid-19.md",
+      "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
+      "excerpt": "As COVID-19 has spread globally, people are turning to governments, healthcare organizations, and other businesses with questions about their health and wellness, finances, and more. This sudden, unprecedented demand is putting strain on customer support resources, and many organizations are telling",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/support-for-contact-centers-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_contact_center_ai.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google.md",
+      "title": "Learn to build secure and reliable systems with a new book from Google",
+      "excerpt": "In the new “Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems” book, engineers across Google's security and SRE organizations share best practices to help you design scalable and reliable systems that are fundamentally secure. Reliability matters",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/G-Management-banner-05.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Learn to build secure and reliable systems with a new book from Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-new-ai-driven-features-in-dataprep-enhance-the-wrangling-experience.md",
+      "title": "New AI-driven features in Dataprep enhance the wrangling experience",
+      "excerpt": "Since the inception of Cloud Dataprep by Trifacta, we’ve focused on making the data preparation work of data professionals more accessible and efficient, with a determined intention to make the work of preparing data more enjoyable (and even fun, in some cases!).The latest release of Dataprep brings",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/new-dataprep-ai-features-for-data-wrangling/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "New AI-driven features in Dataprep enhance the wrangling experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-secure-connections-how-google-meet-keeps-your-video-conferences-protected.md",
+      "title": "Secure connections: How Google Meet keeps your video conferences protected",
+      "excerpt": "All over the world, businesses, schools and users depend on G Suite to help them stay connected and get work done. Google designs, builds, and operates our products on a secure foundation, aimed at thwarting attacks and providing the protections needed to keep you safe. G Suite and Google Meet are no",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-meet-keeps-video-conferences-secure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog-header--how-Hangouts-helped-one-of-Go.max-1200x1200_wYZQAj3.png",
+          "width": 1200,
+          "height": 631,
+          "title": "Secure connections: How Google Meet keeps your video conferences protected",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-last-month-today-march-in-google-cloud.md",
+      "title": "Last month today: March in Google Cloud",
+      "excerpt": "While many of us had plans for March—including simply carrying out our normal routines—life as we know it has been upended by the global coronavirus pandemic. In a time of social distancing, technology has played a greater role in bringing us together. Here’s a look at stories from March that explored",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/last-month-today-march-in-google-cloud-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GOOGLE_GCP_C_Rnd1_1HnkAko.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Last month today: March in Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-admin-essentials-simplifying-chrome-deployments-on-macos.md",
+      "title": "Admin Essentials: Simplifying Chrome deployments on macOS",
+      "excerpt": "At Google, the Chrome Browser Enterprise team is working to help make IT admins' jobs easier, and to make Chrome as flexible as possible. Because there are a lot of enterprise admins responsible for managing Macs, we recently made some changes aimed at simplifying deployment and to help ensure that Chrome",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ChromeEnterpriseSeries-01.png",
+          "width": 2000,
+          "height": 1110,
+          "title": "Admin Essentials: Simplifying Chrome deployments on macOS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-improved-database-performance-data-key-visualizer-now-in-cloud-bigtable-console.md",
+      "title": "Improved database performance data: Key Visualizer now in Cloud Bigtable console",
+      "excerpt": "Cloud Bigtable is Google Cloud’s petabyte-scale NoSQL database service for demanding, data-driven workloads that need low latency, high throughput, and scale insurance. If you’ve been looking for more ways to monitor your Bigtable performance more easily, you’re in luck: Key Visualizer is now directly",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/cloud-database-monitoring-for-bigtable/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/cloud-database-monitoring-for-bigtable/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/cloud-database-monitoring-for-bigtable/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Key_Visualizer.max-1100x1100.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Improved database performance data: Key Visualizer now in Cloud Bigtable console",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-same-cloud-bigtable-database-now-for-smaller-workloads.md",
+      "title": "Same Cloud Bigtable database, now for smaller workloads",
+      "excerpt": "Cloud Bigtable is a fast, petabyte-scale NoSQL database service that has long supported massive workloads, both internally at Google and for Google Cloud customers. We are now announcing that Bigtable is expanding its support for smaller workloads.You can now create production instances with one or two",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/nosql-cloud-database-1-or-2-nodes/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/nosql-cloud-database-1-or-2-nodes/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/nosql-cloud-database-1-or-2-nodes/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/cloud_bigtable.gif",
+          "width": 1040,
+          "height": 1040,
+          "title": "Same Cloud Bigtable database, now for smaller workloads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-announcing-the-winners-of-our-google-cloud-2019-partner-awards.md",
+      "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
+      "excerpt": "Day in and day out, our Google Cloud partners work tirelessly to help make our customers as successful as possible, and we want to share our gratitude. Today, we’re honored to recognize the hard work these partners do through our 2019 Partner Awards.Please join us in congratulating our 2019 winners.Click",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/announcing-the-winners-of-our-2019-partner-awards/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
+      "publishedDateTime": "2020-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_gNQBgP9.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-machine-learning-with-xgboost-gets-faster-with-dataproc-on-gpus.md",
+      "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
+      "excerpt": "Google Cloud’s Dataproc gives data scientists an easy, scalable, fully managed way to analyze data using Apache Spark. Apache Spark was built for high performance, but data scientists and other teams need an even higher level of performance as more questions and predictions need to be answered using",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
+      "publishedDateTime": "2020-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Training_classification_model.max-800x800.jpg",
+          "width": 800,
+          "height": 308,
+          "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-how-google-cloud-is-helping-us-public-sector-agencies-during-the-covid-19-pandemic-and-beyond.md",
+      "title": "How Google Cloud is helping U.S public sector agencies during the COVID-19 pandemic and beyond",
+      "excerpt": "In light of the current situation with COVID-19, public sector agencies are turning to the cloud more than ever, particularly as people increasingly need access to information and government services. Today, we’re happy to share more on our efforts to help governments with their COVID-19 needs and also",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/amp/",
+      "publishedDateTime": "2020-04-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-connecting-to-google-cloud-your-networking-options-explained.md",
+      "title": "Connecting to Google Cloud: your networking options explained",
+      "excerpt": "So, your organization recently decided to adopt Google Cloud. Now you just need to decide how you’re going to connect your applications to it... Public IP addresses, or VPN? Via an interconnect or through peering? Should you want to go the interconnect route, should it be direct or through a partner?",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
+      "publishedDateTime": "2020-04-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Networking_lQ5HQBE.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Connecting to Google Cloud: your networking options explained",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-filling-the-ncaa-void-using-bigquery-to-simulate-march-madness.md",
+      "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+      "excerpt": "As COVID-19 continues to have enormous impact around the world, we’ve focused on supporting customers and making available public data to help research efforts, among various other initiatives. Beyond the essential issues at hand, it’s been a truly strange time for sports fans, with virtually every league",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/march-madness-simulations-with-machine-learning/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_basketball.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-powering-up-caching-with-memorystore-for-memcached.md",
+      "title": "Powering up caching with Memorystore for Memcached",
+      "excerpt": "In-memory data stores are a fundamental infrastructure for building scalable, high-performance applications. Whether it is building a highly responsive ecommerce website, creating multiplayer games with thousands of users, or doing real-time analysis on data pipelines with millions of events, an in-memory",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/fully-managed-memorystore-for-memcached/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/fully-managed-memorystore-for-memcached/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/fully-managed-memorystore-for-memcached/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_3_ZIyuD1m.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Powering up caching with Memorystore for Memcached",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-introducing-bigquery-column-level-security-new-fine-grained-access-controls.md",
+      "title": "Introducing BigQuery column-level security: new fine-grained access controls",
+      "excerpt": "We’re announcing a key capability to help organizations govern their data in Google Cloud. Our new BigQuery column-level security controls are an important step toward placing policies on data that differentiate between classes. This allows for compliance with regulations that mandate such distinction,",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-column-level-security/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-column-level-security/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-column-level-security/amp/",
+      "publishedDateTime": "2020-04-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security-identity-03.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing BigQuery column-level security: new fine-grained access controls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-introducing-service-directory-manage-all-your-services-in-one-place-at-scale.md",
+      "title": "Introducing Service Directory: Manage all your services in one place at scale",
+      "excerpt": "Enterprises rely on increasing numbers of heterogeneous services across cloud and on-premises environments. Google Cloud customers, for example, may use services like Cloud Storage alongside third-party partner services such as Snowflake, MongoDB, and Redis, as well as their own company-owned applications.",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/introducing-service-directory/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/introducing-service-directory/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/introducing-service-directory/amp/",
+      "publishedDateTime": "2020-03-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Networking_02.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing Service Directory: Manage all your services in one place at scale",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    }
+  ],
+  "nextPage": 4
+}

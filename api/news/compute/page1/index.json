@@ -1,0 +1,758 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-20-best-practices-for-optimizing-your-cloud-costs.md",
+      "title": "Best practices for optimizing your cloud costs",
+      "excerpt": "One of the greatest benefits of running in the cloud is being able to scale up and down to meet demand and reduce operational expenditures. And that’s especially true when you’re experiencing unexpected changes in customer demand.Here at Google Cloud, we have an entire team of Solutions Architects dedicated",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_5I5zzaa.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for optimizing your cloud costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Analytics",
+        "Networking",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-protect-your-running-vms-with-new-os-patch-management-service.md",
+      "title": "Protect your running VMs with new OS patch management service",
+      "excerpt": "Managing patches effectively is a great way to keep your infrastructure up-to-date and reduce the risk of security vulnerabilities. But without the right tools, patching can be daunting and labor intensive.Today, we are announcing the general availability of Google Cloud’s OS patch management service",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/new-os-patch-management-service-protects-your-compute-engine-vms/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Protect your running VMs with new OS patch management service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-not-just-for-http-anymore-grpc-comes-to-cloud-run.md",
+      "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
+      "excerpt": "Cloud Run is a managed serverless compute offering from Google Cloud that lets you run stateless server containers in a fully managed environment, without the hassle of managing the underlying infrastructure. Since its release, Cloud Run has enabled many of our customers to focus on their business logic,",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
+      "publishedDateTime": "2020-03-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-compute-engine-instance-creation-made-easy-with-machine-images.md",
+      "title": "Compute Engine instance creation made easy with machine images",
+      "excerpt": "Today, we’re pleased to introduce machine images, a new type of Compute Engine resource that contains all the information you need to create, backup or restore a virtual machine, reducing the amount of time you spend managing your environment.If you administer applications that run on Compute Engine,",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/compute-engine-gets-machine-images/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/compute-engine-gets-machine-images/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/compute-engine-gets-machine-images/amp/",
+      "publishedDateTime": "2020-03-09T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Management_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Compute Engine instance creation made easy with machine images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-better-scalability-with-cloud-tpu-pods-and-tensorflow-21.md",
+      "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+      "excerpt": "Cloud TPU Pods have gained recognition recently for setting performance records in both training and inference. These custom-built AI supercomputers are now generally available to help all types of enterprises solve their biggest AI challenges. “We've been greatly impressed with the speed and scale of",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "publishedDateTime": "2020-03-03T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/tensorflow.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-your-ml-workloads-cheaper-and-faster-with-the-latest-gpus.md",
+      "title": "Your ML workloads cheaper and faster with the latest GPUs",
+      "excerpt": "Running ML workloads more cost effectivelyGoogle Cloud wants to help you run your ML workloads as efficiently as possible. To do this, we offer many options for accelerating ML training and prediction, including many types of NVIDIA GPUs. This flexibility is designed to let you get the right tradeoff",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "publishedDateTime": "2020-02-21T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ml-competition-2_0a76EvN.png",
+          "width": 2880,
+          "height": 1600,
+          "title": "Your ML workloads cheaper and faster with the latest GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-new-amd-epyc-based-compute-engine-family-now-in-beta.md",
+      "title": "New AMD EPYC-based Compute Engine family, now in beta",
+      "excerpt": "At Google Cloud, we want you to be able to choose the best VMs for your workloads. Today, we’re excited to announce a new addition to our general purpose VMs: the N2D family, built atop 2nd Gen AMD EPYC™ Processors. N2D VMs are a great option for both general-purpose workloads and workloads that require",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/announcing-the-n2d-vm-family-based-on-amd/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/announcing-the-n2d-vm-family-based-on-amd/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/announcing-the-n2d-vm-family-based-on-amd/amp/",
+      "publishedDateTime": "2020-02-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_compute.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New AMD EPYC-based Compute Engine family, now in beta",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-how-udacity-students-succeed-with-google-cloud.md",
+      "title": "How Udacity students succeed with Google Cloud",
+      "excerpt": "Editor’s note: Today we hear from Udacity, which uses a variety of Google Cloud technologies for its online learning platform. Read on to learn how they built online workspaces that give students immediate access to fast, isolated compute resources and private data sets. At Udacity, we use advanced technologies",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/customers/how-udacity-uses-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/how-udacity-uses-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/how-udacity-uses-google-cloud/amp/",
+      "publishedDateTime": "2020-02-13T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Udacity.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How Udacity students succeed with Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-running-workloads-on-dedicated-hardware-just-got-better.md",
+      "title": "Running workloads on dedicated hardware just got better",
+      "excerpt": "At Google Cloud, we repeatedly hear how important flexibility, openness, and choice are for your cloud migration and modernization journey. For enterprise customers that require dedicated hardware due to requirements such as performance isolation (for gaming), physical separation (for finance or healthcare),",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Compute_workload_pmsK0uM.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Running workloads on dedicated hardware just got better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-windows-server-applications-welcome-to-google-kubernetes-engine.md",
+      "title": "Windows Server applications, welcome to Google Kubernetes Engine",
+      "excerpt": "The promise of Kubernetes is to make container management easy and ubiquitous. Up until recently though, the benefits of Kubernetes were limited to Linux-based applications, preventing enterprise applications running on Windows Server from taking advantage of its agility, speed of deployment and simplified",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/run-windows-server-containers-on-gke/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
+      "publishedDateTime": "2020-01-30T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Containers_08.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Windows Server applications, welcome to Google Kubernetes Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut.md",
+      "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+      "excerpt": "Google Cloud offers a wide range of GPUs to accelerate everything from AI deployment to 3D visualization. These use cases are now even more affordable with the price reduction of the NVIDIA T4 GPU. As of early January, we’ve reduced T4 prices by more than 60%, making it the lowest cost GPU instance on",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "publishedDateTime": "2020-01-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GoogleCloud_AutoML.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions.md",
+      "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
+      "excerpt": "Do you wish you could access resources in your Virtual Private Cloud (VPC) with serverless applications running on App Engine or Cloud Functions? Now you can, with the new Serverless VPC Access service.Available now, Serverless VPC access lets you access virtual machines, Cloud Memorystore Redis instances,",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
+      "publishedDateTime": "2020-01-06T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-12-18-5-best-practices-for-compute-engine-cost-optimization.md",
+      "title": "5 best practices for Compute Engine Cost Optimization",
+      "excerpt": "When customers migrate to Google Cloud Platform (GCP), their first step is often to adopt Compute Engine, which makes it easy to procure and set up virtual machines (VMs) in the cloud that provide large amounts of computing power. Launched in 2012, Compute Engine offers multiple machine types, many innovative",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/5-best-practices-compute-engine-cost-optimization/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/5-best-practices-compute-engine-cost-optimization/amp/",
+      "publishedDateTime": "2019-12-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_compute.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "5 best practices for Compute Engine Cost Optimization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2019-12-11-introducing-e2-new-cost-optimized-general-purpose-vms-for-google-compute-engine.md",
+      "title": "Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine",
+      "excerpt": "Editor’s note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regionsGeneral-purpose virtual machines are the workhorses of cloud applications. Today, we’re excited to announce our E2 family of VMs for Google Compute Engine featuring dynamic resource management",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/amp/",
+      "publishedDateTime": "2019-12-11T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/e2-hero-2880x1200.png",
+          "width": 2881,
+          "height": 1200,
+          "title": "Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2019-12-11-performance-driven-dynamic-resource-management-in-e2-vms.md",
+      "title": "Performance-driven dynamic resource management in E2 VMs",
+      "excerpt": "Editor's note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regions. This is the second post in a two-post series. Click here for part 1: E2 introduction.As one of the most avid users of compute in the world, Google has invested heavily in making compute",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/understanding-dynamic-resource-management-in-e2-vms/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/understanding-dynamic-resource-management-in-e2-vms/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/understanding-dynamic-resource-management-in-e2-vms/amp/",
+      "publishedDateTime": "2019-12-11T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/e2-hero-technical.png",
+          "width": 2881,
+          "height": 1200,
+          "title": "Performance-driven dynamic resource management in E2 VMs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2019-12-11-whats-new-in-cloud-run-for-anthos.md",
+      "title": "What’s new in Cloud Run for Anthos",
+      "excerpt": "Earlier this year, we announced Cloud Run, our newest compute platform for serverless containers, which runs either on Google’s fully managed infrastructure–or on your Google Kubernetes Engine (GKE) clusters with Cloud Run for Anthos. This portability is achieved with Knative open-source APIs.With Cloud",
+      "heat": 168,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/new-features-in-cloud-run-for-anthos-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
+      "publishedDateTime": "2019-12-11T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Serverless.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "What’s new in Cloud Run for Anthos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-10-29-app-engine-java-11-is-gadeploy-a-jar-scale-it-all-fully-managed.md",
+      "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+      "excerpt": "Attention, Java developers. If you want to build modern Java backends, use modern frameworks, or use the latest language features of Java 11, know that you can now deploy and scale your Java 11 apps in App Engine with ease. We’re happy to announce that the App Engine standard environment Java 11 runtime",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "publishedDateTime": "2019-10-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppEngine.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-10-01-optimize-your-google-cloud-environment-with-new-ai-based-recommenders.md",
+      "title": "Optimize your Google Cloud environment with new AI-based recommenders",
+      "excerpt": "You want your Google Cloud environment to be as unique as your organization, configured for optimal security, cost and efficiency. We are excited to offer new recommenders for Google Cloud Platform (GCP) in beta, which automatically suggest ways to make your cloud deployment more secure and cost-effective,",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/amp/",
+      "publishedDateTime": "2019-10-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_security.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Optimize your Google Cloud environment with new AI-based recommenders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2019-09-18-virtual-display-devices-for-compute-engine-now-ga.md",
+      "title": "Virtual display devices for Compute Engine now GA",
+      "excerpt": "Today, we’re excited to announce the general availability (GA) of virtual display devices for Compute Engine virtual machines (VMs), letting you add a virtual display device to any VM on Google Cloud. This gives your VM Video Graphics Array (VGA) capabilities without having to use GPUs, which can be",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/virtual-display-devices-for-compute-engine-now-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/virtual-display-devices-for-compute-engine-now-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/virtual-display-devices-for-compute-engine-now-ga/amp/",
+      "publishedDateTime": "2019-09-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Compute_l9I1sep.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Virtual display devices for Compute Engine now GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2019-09-12-monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver.md",
+      "title": "Monitoring your Compute Engine footprint with Cloud Functions and Stackdriver",
+      "excerpt": "Compute Engine instances running on Google Cloud Platform (GCP) can scale up and down quickly as needed by your business. As your fleet of instances grows, you’ll want to ensure that you have enough Compute Engine quota for growth over time and that you understand your resource usage and costs. At scale,",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver/amp/",
+      "publishedDateTime": "2019-09-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Management_tools.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Monitoring your Compute Engine footprint with Cloud Functions and Stackdriver",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    }
+  ],
+  "nextPage": null
+}

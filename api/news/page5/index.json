@@ -1,0 +1,934 @@
+{
+  "page": 5,
+  "value": [
+    {
+      "path": "_news/2020-03-12-best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce.md",
+      "title": "Best practices for Chrome Enterprise admins to enable a remote workforce",
+      "excerpt": "As more businesses consider how to enable their teams to work remotely, IT admins are increasingly thinking through how to best support a distributed workforce. Earlier this week we shared some tips and best practices, but if you’re an admin that uses Chromebooks or Chrome Browser in your environment,",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/chrome_enterprise_wfh.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for Chrome Enterprise admins to enable a remote workforce",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-local-ssds-vms-love-at-first-terabyte.md",
+      "title": "Local SSDs + VMs = love at first (tera)byte",
+      "excerpt": "Data storage is the foundation for all kinds of enterprises and their workloads. For most of those, our Google Cloud standard object, block, and file storage products offer the necessary performance. But for companies doing compute-intensive work like analytics for ecommerce websites, or gaming and visual",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/larger-local-ssd-storage-available-now/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Local SSDs + VMs = love at first (tera)byte",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-modern-analytics-made-easy-with-new-redshift-s3-migration-tools.md",
+      "title": "Modern analytics made easy with new Redshift, S3 migration tools",
+      "excerpt": "Editor's note: This blog takes a closer look at some of the recently announced BigQuery product innovations and deepened partnerships that are helping enterprises fast-track their migration to BigQuery.In the past 40 years, the data warehouse has gone through many transformations, driven by business",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modern analytics made easy with new Redshift, S3 migration tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-introducing-cloud-ai-platform-pipelines.md",
+      "title": "Introducing Cloud AI Platform Pipelines",
+      "excerpt": "When you're just prototyping a machine learning (ML) model in a notebook, it can seem fairly straightforward. But when you need to start paying attention to the other pieces required to make a ML workflow sustainable and scalable, things become more complex. A machine learning workflow can involve many",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
+      "publishedDateTime": "2020-03-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Introducing Cloud AI Platform Pipelines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-get-the-flink-operator-for-kubernetes-in-anthos-on-marketplace.md",
+      "title": "Get the Flink Operator for Kubernetes in Anthos on Marketplace",
+      "excerpt": "At Google Cloud, our Dataproc team has been working to improve the integration of open source processing engines with Kubernetes. Dataproc is our managed service for running many of these open source engines, including Apache Spark and Apache Hadoop. Our goal is to make the underlying infrastructure",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/open-source-processing-engines-for-kubernetes/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/open-source-processing-engines-for-kubernetes/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/open-source-processing-engines-for-kubernetes/amp/",
+      "publishedDateTime": "2020-03-10T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Dataproc_1ZCbMuo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Get the Flink Operator for Kubernetes in Anthos on Marketplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-compute-engine-instance-creation-made-easy-with-machine-images.md",
+      "title": "Compute Engine instance creation made easy with machine images",
+      "excerpt": "Today, we’re pleased to introduce machine images, a new type of Compute Engine resource that contains all the information you need to create, backup or restore a virtual machine, reducing the amount of time you spend managing your environment.If you administer applications that run on Compute Engine,",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/compute-engine-gets-machine-images/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/compute-engine-gets-machine-images/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/compute-engine-gets-machine-images/amp/",
+      "publishedDateTime": "2020-03-09T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Management_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Compute Engine instance creation made easy with machine images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-architecting-multi-region-database-disaster-recovery-for-mysql.md",
+      "title": "Architecting multi-region database disaster recovery for MySQL",
+      "excerpt": "Enterprises expect extreme reliability of the database infrastructure that’s accessed by their applications. Despite your best intentions and careful engineering, database errors happen, whether that’s machine crashes or network partitioning. Good planning can help you stay ahead of problems and recover",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/disaster-recovery-for-mysql/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/disaster-recovery-for-mysql/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/disaster-recovery-for-mysql/amp/",
+      "publishedDateTime": "2020-03-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Architecting multi-region database disaster recovery for MySQL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-create-deployment-pipelines-for-your-gke-workloads-in-a-few-clicks.md",
+      "title": "Create deployment pipelines for your GKE workloads in a few clicks",
+      "excerpt": "With Kubernetes becoming the de facto standard for container orchestration, many development teams are looking to build, test, and deploy code quickly in a frictionless manner to Kubernetes. Traditional continuous integration and continuous delivery (CI/CD) tools not designed for cloud-native environments",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/automated-deployment-pipelines-come-to-gke/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/automated-deployment-pipelines-come-to-gke/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/automated-deployment-pipelines-come-to-gke/amp/",
+      "publishedDateTime": "2020-03-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppDev.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Create deployment pipelines for your GKE workloads in a few clicks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-enhanced-models-and-features-now-available-in-new-languages-on-speech-to-text.md",
+      "title": "Enhanced models and features now available in new languages on Speech-to-Text",
+      "excerpt": "From call analytics to automated video subtitles, speech interfaces are changing the way people interact with their surroundings and enabling new business opportunities. Speech recognition technology is at the heart of these transformations and is bringing these ideas to life. At Google Cloud, we’re",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/amp/",
+      "publishedDateTime": "2020-03-05T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Speech-to-text.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Enhanced models and features now available in new languages on Speech-to-Text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-anthos-one-multi-cloud-management-layer-for-all-your-applications.md",
+      "title": "Anthos: one multi-cloud management layer for all your applications",
+      "excerpt": "When we first introduced Anthos in 2018, some observers described it as a way to modernize legacy applications. Simply drop your legacy on-prem application into a container, and you were on your way to cloud! But since becoming generally available last April, our customers tell us Anthos is how they",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-goes-multi-cloud-and-beyond/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
+      "publishedDateTime": "2020-03-05T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.gif",
+          "width": 1600,
+          "height": 900,
+          "title": "Anthos: one multi-cloud management layer for all your applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-discords-migration-from-redshift-to-bigquery-lessons-learned.md",
+      "title": "Discord's migration from Redshift to BigQuery: lessons learned",
+      "excerpt": "Editor’s note: We’re hearing today from Discord, maker of a popular voice, video, and text chat app for gaming. They have to bring a great experience to millions of customers concurrently, and keep up with demand. Here’s how they moved from Redshift to Google Cloud’s BigQuery to support their growth. At",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/amp/",
+      "publishedDateTime": "2020-03-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Gaming_RWH0IxR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Discord's migration from Redshift to BigQuery: lessons learned",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-learning-custom-tf-hub-embeddings-with-swivel-and-kubeflow-pipeline.md",
+      "title": "Learning Custom TF-Hub Embeddings with Swivel and Kubeflow Pipeline",
+      "excerpt": "The goal of machine learning (ML) is to extract patterns from existing data to make predictions on new data. Embeddings are an important tool for creating useful representations for input features in ML, and are fundamental to search and retrieval, recommendation systems, and other use cases. In this",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/amp/",
+      "publishedDateTime": "2020-03-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Item2Hub.max-600x600.jpg",
+          "width": 336,
+          "height": 600,
+          "title": "Learning Custom TF-Hub Embeddings with Swivel and Kubeflow Pipeline",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-better-scalability-with-cloud-tpu-pods-and-tensorflow-21.md",
+      "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+      "excerpt": "Cloud TPU Pods have gained recognition recently for setting performance records in both training and inference. These custom-built AI supercomputers are now generally available to help all types of enterprises solve their biggest AI challenges. “We've been greatly impressed with the speed and scale of",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "publishedDateTime": "2020-03-03T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/tensorflow.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-dml-without-limits-now-in-bigquery.md",
+      "title": "DML without limits, now in BigQuery",
+      "excerpt": "Data manipulation language (DML) statements in BigQuery, such as INSERT, UPDATE, DELETE, and MERGE, enable users to add, modify, and delete data stored in BigQuery, Google Cloud’s enterprise data warehouse. DML in BigQuery supports inserting, updating, or deleting an arbitrarily large number of rows",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/dml-without-limits-now-in-bigquery/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/dml-without-limits-now-in-bigquery/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/dml-without-limits-now-in-bigquery/amp/",
+      "publishedDateTime": "2020-03-03T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_Data_Analytics.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "DML without limits, now in BigQuery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-how-to-detect-and-prevent-network-outagesand-stay-compliant-too.md",
+      "title": "How to detect and prevent network outages—and stay compliant too",
+      "excerpt": "By some estimates, 75% of network outages and performance issues are the result of a misconfiguration, and more often than not, these misconfigurations aren’t discovered until they’re in production. That’s stressful for network administrators and architects—not knowing the impact of a configuration change",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/how-to-test-for-and-help-prevent-bad-network-connectivity/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/how-to-test-for-and-help-prevent-bad-network-connectivity/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/how-to-test-for-and-help-prevent-bad-network-connectivity/amp/",
+      "publishedDateTime": "2020-03-02T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_networking.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How to detect and prevent network outages—and stay compliant too",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-with-kubeflow-10-run-ml-workflows-on-anthos-across-environments.md",
+      "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
+      "excerpt": "Google started the open-source Kubeflow Project with the goal of making Kubernetes the best way to run machine learning (ML) workloads in production. Today, Kubeflow 1.0 was released. Kubeflow helps companies standardize on a common infrastructure across software development and machine learning, leveraging",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
+      "publishedDateTime": "2020-03-02T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_kubeflow_1.0.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-google-named-a-leader-in-the-gartner-2020-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "Google named a Leader in the Gartner 2020 Magic Quadrant for Cloud AI Developer Services",
+      "excerpt": "The enterprise applications for artificial intelligence and machine learning seem to grow by the day. To take advantage of everything AI/ML technologies have to offer, it’s important to have a platform that supports your needs fully—whether you’re a developer, a data scientist, an analyst, or just interested",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services/amp/",
+      "publishedDateTime": "2020-02-27T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/CloudAutoML.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Google named a Leader in the Gartner 2020 Magic Quadrant for Cloud AI Developer Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-bigquery-leads-the-way-toward-modern-data-analytics.md",
+      "title": "BigQuery leads the way toward modern data analytics",
+      "excerpt": "At Google, we think you should have the right tools and support to let you embrace data growth. Enterprises and digital-native organizations are generating incredible value from their data using Google Cloud’s smart analytics platform. At the heart of the platform is BigQuery, a cloud-native enterprise",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/cloud-data-warehouse-bigquery-powers-analytics/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/cloud-data-warehouse-bigquery-powers-analytics/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/cloud-data-warehouse-bigquery-powers-analytics/amp/",
+      "publishedDateTime": "2020-02-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_Data_Analytics.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "BigQuery leads the way toward modern data analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-introducing-bigquery-flex-slots-for-unparalleled-flexibility-and-control.md",
+      "title": "Introducing BigQuery Flex Slots for unparalleled flexibility and control",
+      "excerpt": "Organizations of all sizes look to BigQuery to meet their growing analytics needs. We hear that customers value BigQuery’s radically innovative architecture, serverless delivery model, and integrated advanced capabilities in machine learning, real-time analytics, and business intelligence. To help you",
+      "heat": 148,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-flex-slots/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-flex-slots/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-flex-slots/amp/",
+      "publishedDateTime": "2020-02-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_BigQuery_FWMHfWn.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing BigQuery Flex Slots for unparalleled flexibility and control",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-migrate-your-microsoft-sql-server-workloads-to-google-cloud.md",
+      "title": "Migrate your Microsoft SQL Server workloads to Google Cloud",
+      "excerpt": "Enterprise database workloads are the backbone of many of your applications and ecosystems. Also, guaranteed availability is critical when choosing a cloud provider. Many enterprises built their mission-critical applications on Microsoft SQL Server 2008, and it’s common still to run into older versions",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/migrate-your-microsoft-sql-server-workloads-to-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/migrate-your-microsoft-sql-server-workloads-to-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/migrate-your-microsoft-sql-server-workloads-to-google-cloud/amp/",
+      "publishedDateTime": "2020-02-24T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_3.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Migrate your Microsoft SQL Server workloads to Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-your-ml-workloads-cheaper-and-faster-with-the-latest-gpus.md",
+      "title": "Your ML workloads cheaper and faster with the latest GPUs",
+      "excerpt": "Running ML workloads more cost effectivelyGoogle Cloud wants to help you run your ML workloads as efficiently as possible. To do this, we offer many options for accelerating ML training and prediction, including many types of NVIDIA GPUs. This flexibility is designed to let you get the right tradeoff",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "publishedDateTime": "2020-02-21T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ml-competition-2_0a76EvN.png",
+          "width": 2880,
+          "height": 1600,
+          "title": "Your ML workloads cheaper and faster with the latest GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-explaining-model-predictions-on-structured-data.md",
+      "title": "Explaining model predictions on structured data",
+      "excerpt": "Machine learning technology continues to improve at a rapid pace, with increasingly accurate models being used to solve more complex problems. However, with this increased accuracy comes greater complexity. This complexity makes debugging models more challenging. To help with this, last November Google",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/explaining-model-predictions-structured-data/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/explaining-model-predictions-structured-data/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/explaining-model-predictions-structured-data/amp/",
+      "publishedDateTime": "2020-02-20T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Explaining model predictions on structured data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-new-application-manager-brings-gitops-to-google-kubernetes-engine.md",
+      "title": "New Application Manager brings GitOps to Google Kubernetes Engine",
+      "excerpt": "Kubernetes is the de facto standard for managing containerized applications, but developers and app operators often struggle with end-to-end Kubernetes lifecycle management—things like authoring, releasing and managing Kubernetes applications. To simplify the management of application lifecycle and configuration,",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/amp/",
+      "publishedDateTime": "2020-02-19T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes_tJPVpVo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New Application Manager brings GitOps to Google Kubernetes Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-new-dialogflow-mega-agent-for-contact-center-ai-increases-intents-by-10-times-to-20000.md",
+      "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
+      "excerpt": "Contact centers are one of the most important ways that businesses interact with customers. But, consistently providing great customer interactions over the range of potential conversations presents a number of complex challenges, challenges that businesses are increasingly turning to artificial intelligence",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
+      "publishedDateTime": "2020-02-19T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-your-cloud-your-infrastructure-announcing-anthos-ready-storage.md",
+      "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
+      "excerpt": "We launched Anthos to provide customers with a platform to deliver and manage applications across all types of environments and infrastructure—most commonly, hybrid and multi-cloud environments—leveraging containers and Kubernetes.To date, we have seen an extremely enthusiastic response from customers",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
+      "publishedDateTime": "2020-02-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    }
+  ],
+  "nextPage": 6
+}

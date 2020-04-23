@@ -1,0 +1,1114 @@
+{
+  "page": 7,
+  "value": [
+    {
+      "path": "_news/2019-11-26-forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms.md",
+      "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
+      "excerpt": "We’re proud to announce that Forrester has named Google Cloud as a Leader in its report, The Forrester New Wave™: Computer Vision (CV) Platforms Q4, 2019. We believe Forrester’s report validates Google Cloud’s AI ​strategy, and echoes the feedback we’ve heard from customers: Google Cloud offers powerful,",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
+      "publishedDateTime": "2019-11-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Vision.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-26-how-automl-vision-is-helping-companies-create-visual-inspection-solutions-for-manufacturing.md",
+      "title": "How AutoML Vision is helping companies create visual inspection solutions for manufacturing",
+      "excerpt": "We consistently hear from our customers that they need new ways to apply the latest technologies, such as AI, to improve efficiency. One area that AI has proven to be particularly beneficial is in helping to automate the visual quality control process for manufacturing customers. These customers tell",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/amp/",
+      "publishedDateTime": "2019-11-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Visions.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How AutoML Vision is helping companies create visual inspection solutions for manufacturing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-26-you-can-cook-turkey-in-a-toaster-oven-but-you-dont-have-to.md",
+      "title": "You can cook turkey in a toaster oven, but you don't have to",
+      "excerpt": "When I was in college and couldn't make it home for the Thanksgiving holiday, I would get together with other students in the same situation and do the next best thing: cook a traditional Thanksgiving feast of roast turkey, mashed potatoes and gravy, stuffing, and green beans by ourselves. In a dorm",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
+      "publishedDateTime": "2019-11-26T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Thanksgiving.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "You can cook turkey in a toaster oven, but you don't have to",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-11-25-understanding-google-cloud-armors-new-waf-capabilities.md",
+      "title": "Understanding Google Cloud Armor’s new WAF capabilities",
+      "excerpt": "Protecting applications exposed to the internet is an increasingly difficult job. Since we launched Google Cloud Armor last December, it has helped enterprises protect themselves and their users with a native solution that protects big and small applications from Distributed Denial of Service (DDoS)",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/understanding-google-cloud-armors-new-waf-capabilities/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/understanding-google-cloud-armors-new-waf-capabilities/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/understanding-google-cloud-armors-new-waf-capabilities/amp/",
+      "publishedDateTime": "2019-11-25T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Armor.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Understanding Google Cloud Armor’s new WAF capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-11-22-google-kubernetes-engine-or-cloud-run-which-should-you-use.md",
+      "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
+      "excerpt": "When it comes to managed Kubernetes services, Google Kubernetes Engine (GKE) is a great choice if you are looking for a container orchestration platform that offers advanced scalability and configuration flexibility. GKE gives you complete control over every aspect of container orchestration, from networking,",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
+      "publishedDateTime": "2019-11-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_GKE.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-22-simplifying-service-mesh-with-istio-14.md",
+      "title": "Simplifying service mesh with Istio 1.4",
+      "excerpt": "Istio, the open-source service mesh that we created with IBM and Lyft, is now at version 1.4, and we’re very excited by how quickly the project is evolving and being adopted by end users. When we released Istio 1.1 in March, we announced that we would move to quarterly releases to get functionality out",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/simplifying-service-mesh-istio-1-4/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/simplifying-service-mesh-istio-1-4/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/simplifying-service-mesh-istio-1-4/amp/",
+      "publishedDateTime": "2019-11-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Istio.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Simplifying service mesh with Istio 1.4",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-11-21-introducing-new-assistive-features-in-g-suite-to-help-businesses-focus-on-what-matters.md",
+      "title": "Introducing new assistive features in G Suite to help businesses focus on what matters",
+      "excerpt": "We’re dedicated to creating products that are helpful for our users, including those in a business setting. G Suite helps companies of all sizes transform how they work by encouraging people to focus on what really matters, whether that be fostering a culture of collaboration like Iron Mountain or reducing",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/introducing-new-assistive-features-in-gsuite/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/introducing-new-assistive-features-in-gsuite/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/introducing-new-assistive-features-in-gsuite/amp/",
+      "publishedDateTime": "2019-11-21T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gsuite_assist_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing new assistive features in G Suite to help businesses focus on what matters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-20-bare-metal-solution-enabling-specialized-workloads-in-google-cloud.md",
+      "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
+      "excerpt": "Enterprises want to embrace the pace of innovation and an operational business model of the modern-day cloud, but they don’t want to disrupt their existing IT landscape or upgrade all their legacy applications. This presents a conundrum, as most legacy applications were not designed to run in the cloud,",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
+      "publishedDateTime": "2019-11-20T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Bare_Metal_Solution.png",
+          "width": 1999,
+          "height": 834,
+          "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-20-dont-just-move-to-the-cloud-modernize-with-google-cloud.md",
+      "title": "Don’t just move to the cloud, modernize with Google Cloud",
+      "excerpt": "Our customers tell us they don’t just want to migrate their applications from point A to point B, they want to modernize their applications with cloud-native technologies and techniques, wherever those applications may be. Today, we’re excited to tell you about a variety of new customers that are using",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
+      "publishedDateTime": "2019-11-20T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_GCP_HLl2OQm.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Don’t just move to the cloud, modernize with Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-20-key-access-justifications-a-new-level-of-control-and-visibility.md",
+      "title": "Key Access Justifications: a new level of control and visibility",
+      "excerpt": "Editor’s note: The following post was updated on 1/08/20 to provide additional clarity on Cloud External Key Manager and Key Access Justifications.As enterprises move to the cloud, they want to control when and how their data is accessed. At Google Cloud, we believe that customers should have the strongest",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/control-access-to-gcp-data-with-key-access-justifications/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/control-access-to-gcp-data-with-key-access-justifications/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/control-access-to-gcp-data-with-key-access-justifications/amp/",
+      "publishedDateTime": "2019-11-20T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Security_BlogHeader_B_epmyJP1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Key Access Justifications: a new level of control and visibility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-11-18-bringing-hibernate-orm-to-cloud-spanner-for-database-adoption.md",
+      "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
+      "excerpt": "When you’re adopting a new database technology, some things to consider can include learning a new SQL dialect or writing new boilerplate persistence logic. As much as possible, we’d like to make this simpler. For this type of work, Hibernate has become the de facto standard object relational mapping",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
+      "publishedDateTime": "2019-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/singer.max-600x600.png",
+          "width": 600,
+          "height": 394,
+          "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-11-18-helping-our-customers-migrate-to-the-cloud-google-acquires-cloudsimple.md",
+      "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
+      "excerpt": "Today, Google is excited to announce that it has acquired CloudSimple, a leading provider of secure, high performance, dedicated environments to run VMware workloads in the cloud. This acquisition builds on our existing partnership with CloudSimple that we announced earlier this year, allowing us to",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
+      "publishedDateTime": "2019-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_Cloud_Simple.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-15-introducing-batch-on-gkemodernizing-hpc-with-kubernetes-in-the-cloud.md",
+      "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
+      "excerpt": "One of our most important goals at Google Cloud is to make cloud computing easier, so that you can focus on answering questions that matter the most to you, your business and your users—not on managing infrastructure. Today, we are excited to announce the preview of Batch on Google Kubernetes Engine",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
+      "publishedDateTime": "2019-11-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Batch.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-14-cloud-run-a-managed-knative-service-is-ga.md",
+      "title": "Cloud Run, a managed Knative service, is GA",
+      "excerpt": "We want to empower developers no matter where their businesses are in their cloud journey, whether that's on-prem, operating in a managed Kubernetes environment, or running on a fully managed serverless computing platform. Today, we're announcing that Cloud Run is generally available, helping developers",
+      "heat": 153,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "publishedDateTime": "2019-11-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cloud Run, a managed Knative service, is GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-13-announcing-network-intelligence-centertowards-proactive-network-operations.md",
+      "title": "Announcing Network Intelligence Center—towards proactive network operations",
+      "excerpt": "We are very excited to introduce Network Intelligence Center, Google Cloud’s comprehensive network monitoring, verification, and optimization platform across the cloud and on-prem data centers, along with an initial set of modules. Organizations are increasingly adopting multi-cloud implementations and",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/announcing-network-intelligence-center/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/announcing-network-intelligence-center/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/announcing-network-intelligence-center/amp/",
+      "publishedDateTime": "2019-11-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Networking_3zUkxrK.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Announcing Network Intelligence Center—towards proactive network operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-11-07-kubernetes-development-simplifiedskaffold-is-now-ga.md",
+      "title": "Kubernetes development, simplified—Skaffold is now GA",
+      "excerpt": "Back in 2017, we noticed that developers creating Kubernetes-native applications spent a long time building and managing container images across registries, manually updating their Kubernetes manifests, and redeploying their applications every time they made even the smallest code changes. We set out",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/amp/",
+      "publishedDateTime": "2019-11-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Skaffold.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Kubernetes development, simplified—Skaffold is now GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-06-updating-app-engine-with-more-new-runtimes-nodejs-12-go-113-php-73-and-python-38.md",
+      "title": "Updating App Engine with more new runtimes: Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8",
+      "excerpt": "Last week, we announced that the Java 11 runtime for App Engine standard environment is now generally available. But that’s not all the App Engine news we have to share. In addition to Java 11, developers can also now use Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8. These latest additions to App Engine",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/updating-app-engine-with-more-new-runtimes/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/updating-app-engine-with-more-new-runtimes/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/updating-app-engine-with-more-new-runtimes/amp/",
+      "publishedDateTime": "2019-11-06T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_serverless_computing.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Updating App Engine with more new runtimes: Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-11-06-opening-the-door-to-more-dev-tools-for-cloud-spanner.md",
+      "title": "Opening the door to more dev tools for Cloud Spanner",
+      "excerpt": "We recently released a new native open-source JDBC driver built by Google Cloud Platform (GCP) to enable the easy integration of Cloud Spanner into graphical database development tools. This can be useful for software engineers designing application database schemas in Cloud Spanner, database architects",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
+      "publishedDateTime": "2019-11-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Spanner_databases.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Opening the door to more dev tools for Cloud Spanner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-10-30-tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier.md",
+      "title": "TensorFlow Enterprise makes accessing data on Google Cloud faster and easier",
+      "excerpt": "Data is at the heart of all AI initiatives. Put simply, you need to collect and store a lot of it to train a deep learning model, and with the advancements and increased availability of accelerators such asGPUs andCloud TPUs, the speed of getting the data from its storage location to the training process",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier/amp/",
+      "publishedDateTime": "2019-10-30T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/TensorFlowEnterprise.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "TensorFlow Enterprise makes accessing data on Google Cloud faster and easier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-10-30-cloud-storage-data-protection-that-fits-your-business.md",
+      "title": "Cloud storage data protection that fits your business",
+      "excerpt": "As you’re moving apps and workloads to the cloud, you’ll have new options for data storage. It’s just as important to keep your data safe in the cloud as it was on-premises, though. We’ve recently released several enhancements to Persistent Disk that offer more options for keeping your disks available",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
+      "publishedDateTime": "2019-10-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Cloud storage data protection that fits your business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-10-29-app-engine-java-11-is-gadeploy-a-jar-scale-it-all-fully-managed.md",
+      "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+      "excerpt": "Attention, Java developers. If you want to build modern Java backends, use modern frameworks, or use the latest language features of Java 11, know that you can now deploy and scale your Java 11 apps in App Engine with ease. We’re happy to announce that the App Engine standard environment Java 11 runtime",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "publishedDateTime": "2019-10-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppEngine.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-10-29-bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration.md",
+      "title": "Bring Your Own IP addresses: the secret to Bitly’s shortened cloud migration",
+      "excerpt": "Enterprises want to move their applications to the cloud, but worry about having to swap their IP addresses for ones from their cloud provider. We hear from our customers that managing the migration of IP addresses can be one of the most challenging aspects of a cloud migration for network administrators.Here",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/amp/",
+      "publishedDateTime": "2019-10-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-10-21-leave-no-database-behind-with-cloud-sql-for-sql-server.md",
+      "title": "Leave no database behind with Cloud SQL for SQL Server",
+      "excerpt": "At Google Cloud, we develop our database services to meet the needs of enterprise teams wherever they are in their cloud journey. We’re excited today to announce the beta launch of Cloud SQL for SQL Server and make it available to all of our customers. This addition to our database lineup means you can",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/amp/",
+      "publishedDateTime": "2019-10-21T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_databases.jpg",
+          "width": 1999,
+          "height": 834,
+          "title": "Leave no database behind with Cloud SQL for SQL Server",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-10-17-improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options.md",
+      "title": "Improve your connectivity to Google Cloud with enhanced hybrid connectivity options",
+      "excerpt": "Whatever the requirement—from enterprise-readiness fundamentals like reliability, performance, and security, to innovations for enabling microservices architecture or hybrid and multi-cloud deployments—the Google Cloud networking portfolio has something to offer.  At NEXT ‘19 in San Francisco, we announced",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/amp/",
+      "publishedDateTime": "2019-10-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP-networking.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Improve your connectivity to Google Cloud with enhanced hybrid connectivity options",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-10-02-archive-media-for-the-long-term-with-preservation-masters.md",
+      "title": "Archive media for the long term with preservation masters",
+      "excerpt": "Media and entertainment companies have plenty of storage needs, and have to make sure they’re storing the right data for the right period of time. Media archives are often thought of as repositories of readily available media to be accessed for various workflow needs in the near and immediate term, such",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
+      "publishedDateTime": "2019-10-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_Data_Transfer.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Archive media for the long term with preservation masters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-10-01-optimize-your-google-cloud-environment-with-new-ai-based-recommenders.md",
+      "title": "Optimize your Google Cloud environment with new AI-based recommenders",
+      "excerpt": "You want your Google Cloud environment to be as unique as your organization, configured for optimal security, cost and efficiency. We are excited to offer new recommenders for Google Cloud Platform (GCP) in beta, which automatically suggest ways to make your cloud deployment more secure and cost-effective,",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/amp/",
+      "publishedDateTime": "2019-10-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_security.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Optimize your Google Cloud environment with new AI-based recommenders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2019-09-27-6-strategies-for-scaling-your-serverless-applications.md",
+      "title": "6 strategies for scaling your serverless applications",
+      "excerpt": "A core promise of a serverless compute platform like Cloud Functions is that you don't need to worry about infrastructure: write your code, deploy it and watch your service scale automatically. It’s a beautiful thing. That works great when your whole stack auto-scales. But what if your service depends",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/6-strategies-for-scaling-your-serverless-applications/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
+      "publishedDateTime": "2019-09-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_serverless.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "6 strategies for scaling your serverless applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-09-25-cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details.md",
+      "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
+      "excerpt": "Providing reliable data services that you can trust to serve your data is the most important goal for our database team here at Google Cloud Platform (GCP). That’s why we put money on the table in the form of availability service-level agreements (SLAs).We’re pleased to announce that all Cloud Spanner",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
+      "publishedDateTime": "2019-09-25T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Database_rqS3tmV.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-09-20-container-native-load-balancing-on-gke-now-generally-available.md",
+      "title": "Container-native load balancing on GKE now generally available",
+      "excerpt": "Last year, we announced container-native load balancing, a feature that allows you to create services using network endpoint groups (NEGs) so that requests to your service get load balanced directly to the containers serving the requests. Since announcing the beta, we have worked hard to improve the",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/amp/",
+      "publishedDateTime": "2019-09-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/002-GoogleCloud-Blog-Header_xeak7mk.png",
+          "width": 4167,
+          "height": 2313,
+          "title": "Container-native load balancing on GKE now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-09-18-google-cloud-firewall-rules-logging-how-and-why-you-should-use-it.md",
+      "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
+      "excerpt": "Google Cloud Platform (GCP) firewall rules are a great tool for securing applications. Firewall rules are customizable software-defined networking constructs that let you allow or deny traffic to and from your virtual machine (VM) instances. To secure applications and respond to modern threats, firewall",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
+      "publishedDateTime": "2019-09-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/002-GoogleCloud-Blog-Header.max-1000x1000.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    }
+  ],
+  "nextPage": 8
+}

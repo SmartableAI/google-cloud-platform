@@ -1,0 +1,826 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-13-from-raw-data-to-machine-learning-model-no-coding-required.md",
+      "title": "From raw data to machine learning model, no coding required",
+      "excerpt": "Machine learning was once the domain of specialized researchers, with complex models and proprietary code required to build a solution. But, Cloud AutoML has made machine learning more accessible than ever before. By automating the model building process, users can create highly performant models with",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/from-raw-data-to-machine-learning-model-no-coding-required/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/AI_Deploy_nlfl0lU.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "From raw data to machine learning model, no coding required",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-helping-contact-centers-respond-rapidly-to-customer-concerns-about-covid-19.md",
+      "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
+      "excerpt": "As COVID-19 has spread globally, people are turning to governments, healthcare organizations, and other businesses with questions about their health and wellness, finances, and more. This sudden, unprecedented demand is putting strain on customer support resources, and many organizations are telling",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/support-for-contact-centers-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_contact_center_ai.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-introducing-cloud-ai-platform-pipelines.md",
+      "title": "Introducing Cloud AI Platform Pipelines",
+      "excerpt": "When you're just prototyping a machine learning (ML) model in a notebook, it can seem fairly straightforward. But when you need to start paying attention to the other pieces required to make a ML workflow sustainable and scalable, things become more complex. A machine learning workflow can involve many",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
+      "publishedDateTime": "2020-03-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Introducing Cloud AI Platform Pipelines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-enhanced-models-and-features-now-available-in-new-languages-on-speech-to-text.md",
+      "title": "Enhanced models and features now available in new languages on Speech-to-Text",
+      "excerpt": "From call analytics to automated video subtitles, speech interfaces are changing the way people interact with their surroundings and enabling new business opportunities. Speech recognition technology is at the heart of these transformations and is bringing these ideas to life. At Google Cloud, we’re",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/amp/",
+      "publishedDateTime": "2020-03-05T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Speech-to-text.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Enhanced models and features now available in new languages on Speech-to-Text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-learning-custom-tf-hub-embeddings-with-swivel-and-kubeflow-pipeline.md",
+      "title": "Learning Custom TF-Hub Embeddings with Swivel and Kubeflow Pipeline",
+      "excerpt": "The goal of machine learning (ML) is to extract patterns from existing data to make predictions on new data. Embeddings are an important tool for creating useful representations for input features in ML, and are fundamental to search and retrieval, recommendation systems, and other use cases. In this",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/amp/",
+      "publishedDateTime": "2020-03-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Item2Hub.max-600x600.jpg",
+          "width": 336,
+          "height": 600,
+          "title": "Learning Custom TF-Hub Embeddings with Swivel and Kubeflow Pipeline",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-better-scalability-with-cloud-tpu-pods-and-tensorflow-21.md",
+      "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+      "excerpt": "Cloud TPU Pods have gained recognition recently for setting performance records in both training and inference. These custom-built AI supercomputers are now generally available to help all types of enterprises solve their biggest AI challenges. “We've been greatly impressed with the speed and scale of",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "publishedDateTime": "2020-03-03T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/tensorflow.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-with-kubeflow-10-run-ml-workflows-on-anthos-across-environments.md",
+      "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
+      "excerpt": "Google started the open-source Kubeflow Project with the goal of making Kubernetes the best way to run machine learning (ML) workloads in production. Today, Kubeflow 1.0 was released. Kubeflow helps companies standardize on a common infrastructure across software development and machine learning, leveraging",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
+      "publishedDateTime": "2020-03-02T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_kubeflow_1.0.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-google-named-a-leader-in-the-gartner-2020-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "Google named a Leader in the Gartner 2020 Magic Quadrant for Cloud AI Developer Services",
+      "excerpt": "The enterprise applications for artificial intelligence and machine learning seem to grow by the day. To take advantage of everything AI/ML technologies have to offer, it’s important to have a platform that supports your needs fully—whether you’re a developer, a data scientist, an analyst, or just interested",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services/amp/",
+      "publishedDateTime": "2020-02-27T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/CloudAutoML.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Google named a Leader in the Gartner 2020 Magic Quadrant for Cloud AI Developer Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-your-ml-workloads-cheaper-and-faster-with-the-latest-gpus.md",
+      "title": "Your ML workloads cheaper and faster with the latest GPUs",
+      "excerpt": "Running ML workloads more cost effectivelyGoogle Cloud wants to help you run your ML workloads as efficiently as possible. To do this, we offer many options for accelerating ML training and prediction, including many types of NVIDIA GPUs. This flexibility is designed to let you get the right tradeoff",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "publishedDateTime": "2020-02-21T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ml-competition-2_0a76EvN.png",
+          "width": 2880,
+          "height": 1600,
+          "title": "Your ML workloads cheaper and faster with the latest GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-explaining-model-predictions-on-structured-data.md",
+      "title": "Explaining model predictions on structured data",
+      "excerpt": "Machine learning technology continues to improve at a rapid pace, with increasingly accurate models being used to solve more complex problems. However, with this increased accuracy comes greater complexity. This complexity makes debugging models more challenging. To help with this, last November Google",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/explaining-model-predictions-structured-data/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/explaining-model-predictions-structured-data/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/explaining-model-predictions-structured-data/amp/",
+      "publishedDateTime": "2020-02-20T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Explaining model predictions on structured data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-new-dialogflow-mega-agent-for-contact-center-ai-increases-intents-by-10-times-to-20000.md",
+      "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
+      "excerpt": "Contact centers are one of the most important ways that businesses interact with customers. But, consistently providing great customer interactions over the range of potential conversations presents a number of complex challenges, challenges that businesses are increasingly turning to artificial intelligence",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
+      "publishedDateTime": "2020-02-19T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-expanding-our-alliance-with-cisco-in-hybrid-cloud-and-the-contact-center.md",
+      "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+      "excerpt": "Over the past three years, we’ve worked closely with Cisco to deliver a number of customer-focused solutions in areas such as hybrid cloud, multi-cloud, work transformation, and contact center integrations. This week at Cisco Live in Barcelona, we’re sharing updates on our joint work in two key areas",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "publishedDateTime": "2020-01-28T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut.md",
+      "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+      "excerpt": "Google Cloud offers a wide range of GPUs to accelerate everything from AI deployment to 3D visualization. These use cases are now even more affordable with the price reduction of the NVIDIA T4 GPU. As of early January, we’ve reduced T4 prices by more than 60%, making it the lowest cost GPU instance on",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "publishedDateTime": "2020-01-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GoogleCloud_AutoML.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-want-to-use-automl-tables-from-a-jupyter-notebook-heres-how.md",
+      "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
+      "excerpt": "While there’s no doubt that machine learning (ML) can be a great tool for businesses of all shapes and sizes, actually building ML models can seem daunting at first. Cloud AutoML—Google Cloud’s suite of products—provides tools and functionality to help you build ML models that are tailored to your specific",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/amp/",
+      "publishedDateTime": "2020-01-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WorkplaceTransformation-01_2FYra9X.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-exploratory-data-analysis-feature-selection-for-better-ml-models.md",
+      "title": "Exploratory data analysis, feature selection for better ML models",
+      "excerpt": "When you’re getting started with a machine learning (ML) project, one critical principle to keep in mind is that data is everything. It is often said that if ML is the rocket engine, then the fuel is the (high-quality) data fed to ML algorithms. However, deriving truth and insight from a pile of data",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/building-ml-models-with-eda-feature-selection/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/building-ml-models-with-eda-feature-selection/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/building-ml-models-with-eda-feature-selection/amp/",
+      "publishedDateTime": "2020-01-09T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_Data_Analytics.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploratory data analysis, feature selection for better ML models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-12-12-discover-insights-from-text-with-automl-natural-language-now-generally-available.md",
+      "title": "Discover insights from text with AutoML Natural Language, now generally available",
+      "excerpt": "Organizations are managing and processing greater volumes of text-heavy, unstructured data than ever before. To manage this information more efficiently, organizations are looking to machine learning to help with the complex sorting, processing, and analysis this content needs. In particular, natural",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/amp/",
+      "publishedDateTime": "2019-12-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AutoML.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Discover insights from text with AutoML Natural Language, now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-12-03-better-bandit-building-advanced-personalization-the-easy-way-with-automl-tables.md",
+      "title": "Better bandit building: Advanced personalization the easy way with AutoML Tables",
+      "excerpt": "As demand grows for features like personalization systems, efficient information retrieval, and anomaly detection, the need for a solution to optimize these features has grown as well. Contextual bandit is a machine learning framework designed to tackle these—and other—complex situations.With contextual",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/amp/",
+      "publishedDateTime": "2019-12-03T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AutoML_tables.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Better bandit building: Advanced personalization the easy way with AutoML Tables",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-12-01-advancing-the-medical-imaging-field-with-cloud-based-solutions-at-rsna.md",
+      "title": "Advancing the medical imaging field with cloud-based solutions at RSNA",
+      "excerpt": "The healthcare industry is increasingly embracing the cloud, and to help, we’ve developedhealthcare andlife sciences solutions that make it easier for organizations to transition to cloud technologies. Today, at the annual meeting of the Radiological Society of North America (RSNA), we’re excited to",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/amp/",
+      "publishedDateTime": "2019-12-01T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Advancing the medical imaging field with cloud-based solutions at RSNA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-27-how-cloud-ai-is-shaping-the-future-of-retailonline-and-in-store.md",
+      "title": "How Cloud AI is shaping the future of retail—online and in-store",
+      "excerpt": "Technology has played a key role in retail for decades, from early innovations like barcode scanning and digital point of sale devices, to the global frontier of modern logistics. Through it all, however, the fundamentals remain the same: retailers generate huge quantities of data, face unpredictable",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/amp/",
+      "publishedDateTime": "2019-11-27T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Fashion.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How Cloud AI is shaping the future of retail—online and in-store",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-26-forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms.md",
+      "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
+      "excerpt": "We’re proud to announce that Forrester has named Google Cloud as a Leader in its report, The Forrester New Wave™: Computer Vision (CV) Platforms Q4, 2019. We believe Forrester’s report validates Google Cloud’s AI ​strategy, and echoes the feedback we’ve heard from customers: Google Cloud offers powerful,",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
+      "publishedDateTime": "2019-11-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Vision.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-26-how-automl-vision-is-helping-companies-create-visual-inspection-solutions-for-manufacturing.md",
+      "title": "How AutoML Vision is helping companies create visual inspection solutions for manufacturing",
+      "excerpt": "We consistently hear from our customers that they need new ways to apply the latest technologies, such as AI, to improve efficiency. One area that AI has proven to be particularly beneficial is in helping to automate the visual quality control process for manufacturing customers. These customers tell",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/amp/",
+      "publishedDateTime": "2019-11-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Visions.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How AutoML Vision is helping companies create visual inspection solutions for manufacturing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-21-introducing-new-assistive-features-in-g-suite-to-help-businesses-focus-on-what-matters.md",
+      "title": "Introducing new assistive features in G Suite to help businesses focus on what matters",
+      "excerpt": "We’re dedicated to creating products that are helpful for our users, including those in a business setting. G Suite helps companies of all sizes transform how they work by encouraging people to focus on what really matters, whether that be fostering a culture of collaboration like Iron Mountain or reducing",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/introducing-new-assistive-features-in-gsuite/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/introducing-new-assistive-features-in-gsuite/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/introducing-new-assistive-features-in-gsuite/amp/",
+      "publishedDateTime": "2019-11-21T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gsuite_assist_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing new assistive features in G Suite to help businesses focus on what matters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": null
+}

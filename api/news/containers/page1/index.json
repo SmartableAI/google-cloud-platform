@@ -1,0 +1,827 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-22-modernize-legacy-apps-with-migrate-for-anthos-introducing-support-for-day-two-operations.md",
+      "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+      "excerpt": "Not all application modernization strategies are created equal. One of the simplest approaches is to take an existing virtual machine and save it as a container. But while the resulting container will work, it won’t give you the benefits of more sophisticated modernization techniques—both in terms of",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/migrate-for-anthos-1-3-accelerates-modernization/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-how-anthos-gke-surge-upgrades-improve-operational-efficiency.md",
+      "title": "How Anthos GKE surge upgrades improve operational efficiency",
+      "excerpt": "A big part of keeping a Kubernetes environment healthy is performing regular upgrades. At Google Cloud, we automatically upgrade the cluster control plane for Google Kubernetes Engine (GKE) users, but you’re responsible for upgrading the cluster’s individual nodes, as well as any additional software",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-surge-upgrades-for-anthos-gke/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "How Anthos GKE surge upgrades improve operational efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-introducing-cloud-ai-platform-pipelines.md",
+      "title": "Introducing Cloud AI Platform Pipelines",
+      "excerpt": "When you're just prototyping a machine learning (ML) model in a notebook, it can seem fairly straightforward. But when you need to start paying attention to the other pieces required to make a ML workflow sustainable and scalable, things become more complex. A machine learning workflow can involve many",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
+      "publishedDateTime": "2020-03-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Introducing Cloud AI Platform Pipelines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-create-deployment-pipelines-for-your-gke-workloads-in-a-few-clicks.md",
+      "title": "Create deployment pipelines for your GKE workloads in a few clicks",
+      "excerpt": "With Kubernetes becoming the de facto standard for container orchestration, many development teams are looking to build, test, and deploy code quickly in a frictionless manner to Kubernetes. Traditional continuous integration and continuous delivery (CI/CD) tools not designed for cloud-native environments",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/automated-deployment-pipelines-come-to-gke/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/automated-deployment-pipelines-come-to-gke/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/automated-deployment-pipelines-come-to-gke/amp/",
+      "publishedDateTime": "2020-03-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppDev.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Create deployment pipelines for your GKE workloads in a few clicks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-with-kubeflow-10-run-ml-workflows-on-anthos-across-environments.md",
+      "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
+      "excerpt": "Google started the open-source Kubeflow Project with the goal of making Kubernetes the best way to run machine learning (ML) workloads in production. Today, Kubeflow 1.0 was released. Kubeflow helps companies standardize on a common infrastructure across software development and machine learning, leveraging",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
+      "publishedDateTime": "2020-03-02T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_kubeflow_1.0.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-new-application-manager-brings-gitops-to-google-kubernetes-engine.md",
+      "title": "New Application Manager brings GitOps to Google Kubernetes Engine",
+      "excerpt": "Kubernetes is the de facto standard for managing containerized applications, but developers and app operators often struggle with end-to-end Kubernetes lifecycle management—things like authoring, releasing and managing Kubernetes applications. To simplify the management of application lifecycle and configuration,",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/amp/",
+      "publishedDateTime": "2020-02-19T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes_tJPVpVo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New Application Manager brings GitOps to Google Kubernetes Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-exploring-container-security-run-what-you-trust-isolate-what-you-dont.md",
+      "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
+      "excerpt": "From vulnerabilities to cryptojacking to well, more cryptojacking, there were plenty of security events to keep container users on their toes throughout 2019. With Kubernetes being used to manage most container-based environments (and increasingly hybrid ones too), it’s no surprise that Forrester Research,",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548e_Container_security_full.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-windows-server-applications-welcome-to-google-kubernetes-engine.md",
+      "title": "Windows Server applications, welcome to Google Kubernetes Engine",
+      "excerpt": "The promise of Kubernetes is to make container management easy and ubiquitous. Up until recently though, the benefits of Kubernetes were limited to Linux-based applications, preventing enterprise applications running on Windows Server from taking advantage of its agility, speed of deployment and simplified",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/run-windows-server-containers-on-gke/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
+      "publishedDateTime": "2020-01-30T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Containers_08.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Windows Server applications, welcome to Google Kubernetes Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-unify-kubernetes-and-gcp-resources-for-simpler-and-faster-deployments.md",
+      "title": "Unify Kubernetes and GCP resources for simpler and faster deployments",
+      "excerpt": "Adopting containers and Kubernetes means adopting new ways of doing things, not least of which is how you configure and maintain your resources. As a declarative system, Kubernetes allows you to express your intent for a given resource, and then creates and updates those resources using continuous reconciliation.",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/amp/",
+      "publishedDateTime": "2020-01-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes_tLRY5pW.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Unify Kubernetes and GCP resources for simpler and faster deployments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-exploring-container-security-announcing-the-cis-google-kubernetes-engine-benchmark.md",
+      "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
+      "excerpt": "If you’re serious about the security of your Kubernetes operating environment, you need to build on a strong foundation. The Center for Internet Security’s (CIS) Kubernetes Benchmark give you just that: a set of Kubernetes security best practices that will help you build an operating environment that",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
+      "publishedDateTime": "2020-01-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Container_security_yWGpMGg.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-google-cloud-and-phoenix-labs-dauntless-in-the-face-of-demand-spikes.md",
+      "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
+      "excerpt": "In the role-playing video game Dauntless, players work in groups to battle monsters and protect the city-island of Ramsgate. Commitment reaps big rewards: with every beast slayed, you earn new weapons and armor made of the same materials as the Behemoth you took down, strengthening your arsenal for the",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
+      "publishedDateTime": "2020-01-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/dauntless-artwork_stormchasers_illustration-fullsize.jpg",
+          "width": 4190,
+          "height": 2160,
+          "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-exploring-container-security-navigate-the-security-seas-with-ease-in-gke-v115.md",
+      "title": "Exploring container security:  Navigate the security seas with ease in GKE v1.15",
+      "excerpt": "Your container fleet, like a flotilla, needs ongoing maintenance and attention to stay afloat—and stay secure. In the olden days of seafaring, you grounded your ship at high tide and turned it on its side to clean and repair the hull, essentially taking it “offline.” We know that isn’t practical for",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/new-kubernetes-security-settings-2019/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/new-kubernetes-security-settings-2019/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/new-kubernetes-security-settings-2019/amp/",
+      "publishedDateTime": "2020-01-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548d_Container_security_full.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security:  Navigate the security seas with ease in GKE v1.15",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-07-your-guide-to-kubernetes-best-practices.md",
+      "title": "Your guide to Kubernetes best practices",
+      "excerpt": "Kubernetes made a splash when it brought containerized app management to the world a few years back. Now, many of us are using it in production to deploy and manage apps at scale. Along the way, we’ve gathered tips and best practices on using Kubernetes and Google Kubernetes Engine (GKE) to your best",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/your-guide-kubernetes-best-practices/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/your-guide-kubernetes-best-practices/amp/",
+      "publishedDateTime": "2020-01-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Your guide to Kubernetes best practices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-12-20-kubernetes-podcast-in-2019-year-end-recap.md",
+      "title": "Kubernetes Podcast in 2019: year-end recap",
+      "excerpt": "At the Kubernetes Podcast, we bring you a weekly round-up of cloud-native news, accompanied by an in-depth interview with a community member. As we publish our 50th and final episode for 2019, it's time to look back on some of our favorite moments from the year.This year, we stepped out of the studio.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/amp/",
+      "publishedDateTime": "2019-12-20T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Kubernetes_A.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Kubernetes Podcast in 2019: year-end recap",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-12-10-exploring-container-security-performing-forensics-on-your-gke-environment.md",
+      "title": "Exploring container security: Performing forensics on your GKE environment",
+      "excerpt": "Running workloads in containers can be much easier to manage and more flexible for developers than running them in VMs, but what happens if a container gets attacked? It can be bad news. We recently published some guidance for how to collect and analyze forensic data in Google Kubernetes Engine (GKE),",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/amp/",
+      "publishedDateTime": "2019-12-10T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_container_security.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security: Performing forensics on your GKE environment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-12-10-8-production-ready-features-youll-find-in-cloud-run-fully-managed.md",
+      "title": "8 production-ready features you’ll find in Cloud Run fully managed",
+      "excerpt": "Since we launched Cloud Run at Google Cloud Next in April, developers have discovered that “serverless” and “containers” run well together. With Cloud Run, not only do you benefit from fully managed infrastructure, up and down auto-scaling, and pay-as-you-go pricing, but you’re also able to package your",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/a-developers-guide-to-new-features-in-cloud-run/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
+      "publishedDateTime": "2019-12-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run_blog.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "8 production-ready features you’ll find in Cloud Run fully managed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-12-09-modernize-your-apps-with-migrate-for-anthos.md",
+      "title": "Modernize your apps with Migrate for Anthos",
+      "excerpt": "In a perfect cloud world, you would host all your applications in containers running on Kubernetes and Istio, benefitting from the portability and improved resource utilization of containers, plus a robust orchestration platform with advanced application management, networking, and security functionality.",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/cloud-migration/modernize-your-apps-with-migrate-for-anthos/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/cloud-migration/modernize-your-apps-with-migrate-for-anthos/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/cloud-migration/modernize-your-apps-with-migrate-for-anthos/amp/",
+      "publishedDateTime": "2019-12-09T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modernize your apps with Migrate for Anthos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-27-exploring-container-security-day-one-kubernetes-decisions.md",
+      "title": "Exploring container security: Day one Kubernetes decisions",
+      "excerpt": "Congratulations! You’ve decided to go with Google Kubernetes Engine (GKE) as your managed container orchestration platform. Your first order of business is to familiarize yourself with Kubernetes architecture, functionality and security principles. Then, as you get ready to install and configure your",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/security-considerations-for-google-kubernetes-engine/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/security-considerations-for-google-kubernetes-engine/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/security-considerations-for-google-kubernetes-engine/amp/",
+      "publishedDateTime": "2019-11-27T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548e_Container_security_full.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security: Day one Kubernetes decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-22-google-kubernetes-engine-or-cloud-run-which-should-you-use.md",
+      "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
+      "excerpt": "When it comes to managed Kubernetes services, Google Kubernetes Engine (GKE) is a great choice if you are looking for a container orchestration platform that offers advanced scalability and configuration flexibility. GKE gives you complete control over every aspect of container orchestration, from networking,",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
+      "publishedDateTime": "2019-11-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_GKE.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-15-introducing-batch-on-gkemodernizing-hpc-with-kubernetes-in-the-cloud.md",
+      "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
+      "excerpt": "One of our most important goals at Google Cloud is to make cloud computing easier, so that you can focus on answering questions that matter the most to you, your business and your users—not on managing infrastructure. Today, we are excited to announce the preview of Batch on Google Kubernetes Engine",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
+      "publishedDateTime": "2019-11-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Batch.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-14-cloud-run-a-managed-knative-service-is-ga.md",
+      "title": "Cloud Run, a managed Knative service, is GA",
+      "excerpt": "We want to empower developers no matter where their businesses are in their cloud journey, whether that's on-prem, operating in a managed Kubernetes environment, or running on a fully managed serverless computing platform. Today, we're announcing that Cloud Run is generally available, helping developers",
+      "heat": 153,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "publishedDateTime": "2019-11-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cloud Run, a managed Knative service, is GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-07-kubernetes-development-simplifiedskaffold-is-now-ga.md",
+      "title": "Kubernetes development, simplified—Skaffold is now GA",
+      "excerpt": "Back in 2017, we noticed that developers creating Kubernetes-native applications spent a long time building and managing container images across registries, manually updating their Kubernetes manifests, and redeploying their applications every time they made even the smallest code changes. We set out",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/amp/",
+      "publishedDateTime": "2019-11-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Skaffold.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Kubernetes development, simplified—Skaffold is now GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    }
+  ],
+  "nextPage": null
+}

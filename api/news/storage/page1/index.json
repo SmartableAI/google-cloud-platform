@@ -1,0 +1,342 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-20-best-practices-for-optimizing-your-cloud-costs.md",
+      "title": "Best practices for optimizing your cloud costs",
+      "excerpt": "One of the greatest benefits of running in the cloud is being able to scale up and down to meet demand and reduce operational expenditures. And that’s especially true when you’re experiencing unexpected changes in customer demand.Here at Google Cloud, we have an entire team of Solutions Architects dedicated",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_5I5zzaa.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for optimizing your cloud costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Analytics",
+        "Networking",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-local-ssds-vms-love-at-first-terabyte.md",
+      "title": "Local SSDs + VMs = love at first (tera)byte",
+      "excerpt": "Data storage is the foundation for all kinds of enterprises and their workloads. For most of those, our Google Cloud standard object, block, and file storage products offer the necessary performance. But for companies doing compute-intensive work like analytics for ecommerce websites, or gaming and visual",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/larger-local-ssd-storage-available-now/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Local SSDs + VMs = love at first (tera)byte",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-01-08-put-your-archive-data-on-ice-with-new-storage-offering.md",
+      "title": "Put your archive data on ice with new storage offering",
+      "excerpt": "Data storage provides a key part of the foundation for enterprise data infrastructure, including cloud-based workloads. At Google Cloud, we think that you should have a range of straightforward storage options that allow you to more securely and reliably access your data when and where you need it, without",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/archive-storage-class-for-coldest-data-now-available/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/archive-storage-class-for-coldest-data-now-available/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/archive-storage-class-for-coldest-data-now-available/amp/",
+      "publishedDateTime": "2020-01-08T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Cloud_Storage.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Put your archive data on ice with new storage offering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-12-17-file-storage-made-easier-with-netapp-cloud-volumes-now-ga.md",
+      "title": "File storage made easier with NetApp Cloud Volumes, now GA",
+      "excerpt": "At both NetApp and Google Cloud, we share a mission to offer our users a top-notch file service in Google Cloud. Whether you’re moving workloads to cloud or deploying net-new applications in cloud that need file interfaces, our aim is to offer a highly available, feature-rich, and high-performing file",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/amp/",
+      "publishedDateTime": "2019-12-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Storage_Data_Transfer_01.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "File storage made easier with NetApp Cloud Volumes, now GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-12-12-introducing-storage-transfer-service-for-on-premises-data.md",
+      "title": "Introducing Storage Transfer Service for on-premises data",
+      "excerpt": "There’s an enormous amount of data in the world today, and your company likely operates its own storage infrastructure to store this data. Running your business in the cloud can generate more value from your data and facilitate collaboration across your organization, all while optimizing for infrastructure",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/amp/",
+      "publishedDateTime": "2019-12-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_806_GCP_TransferService_JR01.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": "Introducing Storage Transfer Service for on-premises data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-11-20-key-access-justifications-a-new-level-of-control-and-visibility.md",
+      "title": "Key Access Justifications: a new level of control and visibility",
+      "excerpt": "Editor’s note: The following post was updated on 1/08/20 to provide additional clarity on Cloud External Key Manager and Key Access Justifications.As enterprises move to the cloud, they want to control when and how their data is accessed. At Google Cloud, we believe that customers should have the strongest",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/control-access-to-gcp-data-with-key-access-justifications/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/control-access-to-gcp-data-with-key-access-justifications/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/control-access-to-gcp-data-with-key-access-justifications/amp/",
+      "publishedDateTime": "2019-11-20T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Security_BlogHeader_B_epmyJP1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Key Access Justifications: a new level of control and visibility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-10-30-tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier.md",
+      "title": "TensorFlow Enterprise makes accessing data on Google Cloud faster and easier",
+      "excerpt": "Data is at the heart of all AI initiatives. Put simply, you need to collect and store a lot of it to train a deep learning model, and with the advancements and increased availability of accelerators such asGPUs andCloud TPUs, the speed of getting the data from its storage location to the training process",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier/amp/",
+      "publishedDateTime": "2019-10-30T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/TensorFlowEnterprise.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "TensorFlow Enterprise makes accessing data on Google Cloud faster and easier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-10-30-cloud-storage-data-protection-that-fits-your-business.md",
+      "title": "Cloud storage data protection that fits your business",
+      "excerpt": "As you’re moving apps and workloads to the cloud, you’ll have new options for data storage. It’s just as important to keep your data safe in the cloud as it was on-premises, though. We’ve recently released several enhancements to Persistent Disk that offer more options for keeping your disks available",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
+      "publishedDateTime": "2019-10-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Cloud storage data protection that fits your business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-10-02-archive-media-for-the-long-term-with-preservation-masters.md",
+      "title": "Archive media for the long term with preservation masters",
+      "excerpt": "Media and entertainment companies have plenty of storage needs, and have to make sure they’re storing the right data for the right period of time. Media archives are often thought of as repositories of readily available media to be accessed for various workflow needs in the near and immediate term, such",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
+      "publishedDateTime": "2019-10-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_Data_Transfer.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Archive media for the long term with preservation masters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    }
+  ],
+  "nextPage": null
+}

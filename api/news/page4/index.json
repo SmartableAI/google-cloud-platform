@@ -1,0 +1,975 @@
+{
+  "page": 4,
+  "value": [
+    {
+      "path": "_news/2020-03-30-google-cloud-releases-covid-19-data-sets-to-foster-coronavirus-fighting-ai-models.md",
+      "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
+      "excerpt": "The corpora within the COVID-19 Public Datasets program include the Johns Hopkins Center for Systems Science and Engineering (JHU CSSE) data set, Global Health Data from the World Bank, and OpenStreetMap data, all of which are stored for free on Google Cloud. (Google says it’ll reach out to organizations whose data sets are pre-selected for ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
+      "publishedDateTime": "2020-03-30T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-covid-19-public-dataset-program-making-data-freely-accessible-for-better-public-outcomes.md",
+      "title": "COVID-19 public dataset program: Making data freely accessible for better public outcomes",
+      "excerpt": "Data always plays a critical role in the ability to research, study, and combat public health emergencies, and nowhere is this more true than in the case of a global crisis. Access to data sets—and tools that can analyze that data at cloud scale—are increasingly essential to the research process, and",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/",
+      "publishedDateTime": "2020-03-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "COVID-19 public dataset program: Making data freely accessible for better public outcomes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-customer-engineers-bring-people-and-technology-together.md",
+      "title": "Customer engineers bring people and technology together",
+      "excerpt": "Editor’s note: We’re celebrating Women’s History Month by talking with Cloud Googlers about identity and how it influences their work in technology. At Google Cloud, our customer engineers bring technology and people together, helping our customers choose the right tools to solve their problems, and",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/customer-engineers-at-google-cloud-talk-tech/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/customer-engineers-at-google-cloud-talk-tech/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/customer-engineers-at-google-cloud-talk-tech/amp/",
+      "publishedDateTime": "2020-03-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_cloud_5.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Customer engineers bring people and technology together",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-google-microsoft-and-palantir-are-building-a-covid-19-dashboard-for-the-uks-health-system.md",
+      "title": "Google, Microsoft, and Palantir are building a COVID-19 dashboard for the UK's health system",
+      "excerpt": "The NHS says all data will remain under its control.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3",
+      "ampWebUrl": "https://www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3?amp",
+      "publishedDateTime": "2020-03-30T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e7ddb8d671de001c164e5b3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google, Microsoft, and Palantir are building a COVID-19 dashboard for the UK's health system",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-google-sets-aside-800m-in-ads-and-loans-to-help-in-covid-19-fight.md",
+      "title": "Google sets aside $800M in ads and loans to help in COVID-19 fight",
+      "excerpt": "The credits are good through the end of the year. They’ll be giving away $20 million worth of Google Cloud credits to academic institutions and researchers that are tackling COVID-19. $200 million will go to an investment fund for nonprofits and financial institutions to provide small businesses with loans. Google further reiterated they will ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/27/google-sets-aside-800m-in-ads-and-cash-to-help-in-covid-19-fight/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/27/google-sets-aside-800m-in-ads-and-cash-to-help-in-covid-19-fight/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/27/google-sets-aside-800m-in-ads-and-cash-to-help-in-covid-19-fight/amp/",
+      "publishedDateTime": "2020-03-27T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/08/174351909.jpg?w=1024",
+          "width": 1024,
+          "height": 592,
+          "title": "Google sets aside $800M in ads and loans to help in COVID-19 fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-loading-geospatial-data-into-bigquery-just-got-easier-with-fme.md",
+      "title": "Loading geospatial data into BigQuery just got easier with FME",
+      "excerpt": "With all of the geographical data available today, we made sure that Google Cloud’s BigQuery data warehouse includes first-class support for geospatial data types and functions. With this unique capability, you can process and analyze geospatial data at scale. To accelerate the workflows of our geospatial",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/loading-geospatial-data-into-bigquery-with-fme/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/loading-geospatial-data-into-bigquery-with-fme/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/loading-geospatial-data-into-bigquery-with-fme/amp/",
+      "publishedDateTime": "2020-03-27T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Data_Analytics.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Loading geospatial data into BigQuery just got easier with FME",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-one-business-winner-amid-coronavirus-lockdowns-the-cloud.md",
+      "title": "One Business Winner Amid Coronavirus Lockdowns: the Cloud",
+      "excerpt": "Cloud-computing providers are emerging as among the few corporate winners in the coronavirus pandemic as office and store closures across the globe have pushed more activity online.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/one-business-winner-amid-coronavirus-lockdowns-the-cloud-11585327905",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/one-business-winner-amid-coronavirus-lockdowns-the-cloud-11585327905",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/one-business-winner-amid-coronavirus-lockdowns-the-cloud-11585327905",
+      "publishedDateTime": "2020-03-27T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-169796/social",
+          "width": 1280,
+          "height": 640,
+          "title": "One Business Winner Amid Coronavirus Lockdowns: the Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
+      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+      "excerpt": "Semantic Reactor, then, which is currently a whitelisted experiment in the Google Cloud AI Workshop, allows users to sort lines of text in a sheet using a range of AI models. (Testing it requires filling out a form and awaiting emailed instructions about how to install it.) It offers ranking methods that determine how lists will be sorted based ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "publishedDateTime": "2020-03-27T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-g-suite-developers-scaling-best-practices-for-higher-user-demands.md",
+      "title": "G Suite developers: Scaling best practices for higher user demands",
+      "excerpt": "As people around the globe increasingly work or learn from home, we want to recognize the impact this shift is having on software providers. Many third-party developers rely on G Suite APIs to deliver richly integrated experiences to users, and it’s crucial for them to plan proactively for potential",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-to-scale-best-practices-for-increased-user-demand/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/how-to-scale-best-practices-for-increased-user-demand/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/how-to-scale-best-practices-for-increased-user-demand/amp/",
+      "publishedDateTime": "2020-03-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_API_Management.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "G Suite developers: Scaling best practices for higher user demands",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-a-note-to-our-customers-how-were-supporting-you-through-covid-19.md",
+      "title": "A note to our customers: How we’re supporting you through COVID-19",
+      "excerpt": "As COVID-19 makes its way across the globe, we know you are under extraordinary pressure to keep your organizations up and running. You rely on Google Cloud to stay connected and get work done every day. Whether it's helping you run a high-demand e-commerce site, augment your call center staff with Contact",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-clouds-coronavirus-response/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/google-clouds-coronavirus-response/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/google-clouds-coronavirus-response/amp/",
+      "publishedDateTime": "2020-03-26T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud-01_q1Ox36D.png",
+          "width": 2084,
+          "height": 1157,
+          "title": "A note to our customers: How we’re supporting you through COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-simplifying-google-drives-folder-structure-and-sharing-models.md",
+      "title": "Simplifying Google Drive’s folder structure and sharing models",
+      "excerpt": "The G Suite team has been working hard to make it easier to organize and share content in Google Drive, and help direct users to relevant files across various drives. These efforts have resulted in Drive shortcuts, which are files that act as pointers to other files in Google Drive. Shortcut files can",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/simplifying-google-drives-folder-structure-and-sharing-models/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/simplifying-google-drives-folder-structure-and-sharing-models/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/simplifying-google-drives-folder-structure-and-sharing-models/amp/",
+      "publishedDateTime": "2020-03-26T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/DriveForresterAnnouncement-03_1.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Simplifying Google Drive’s folder structure and sharing models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-when-girls-are-the-shero-of-the-story.md",
+      "title": "When girls are the shero of the story",
+      "excerpt": "Editor’s note: We’re celebrating Women’s History Month by talking with Cloud Googlers about identity and how it influences their work in technology. Cloud Googler Komal Singh’s path has taken her from India to Waterloo, Canada, where she’s an engineering program manager working on serverless products.",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/helping-girls-see-themselves-as-engineers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/helping-girls-see-themselves-as-engineers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/helping-girls-see-themselves-as-engineers/amp/",
+      "publishedDateTime": "2020-03-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/google_cloud_women.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "When girls are the shero of the story",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-amazon-settles-non-compete-lawsuit-involving-aws-sales-exec-who-joined-google-cloud.md",
+      "title": "Amazon settles non-compete lawsuit involving AWS sales exec who joined Google Cloud",
+      "excerpt": "Amazon settled a lawsuit involving a former Amazon Web Services sales executive who joined rival Google Cloud last year. Amazon sued Philip Moyer in July after he left the company to join Google. In its lawsuit, the tech giant argued Moyer’s move to Google would “threaten the disclosure of Amazon’s highly confidential information,” in ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazon-settles-non-compete-lawsuit-involving-aws-sales-exec-joined-google-cloud/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-settles-non-compete-lawsuit-involving-aws-sales-exec-joined-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-settles-non-compete-lawsuit-involving-aws-sales-exec-joined-google-cloud/amp/",
+      "publishedDateTime": "2020-03-23T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/07/philip-moyer-300x300.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": "Amazon settles non-compete lawsuit involving AWS sales exec who joined Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud.md",
+      "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
+      "excerpt": "Unity’s newest tool allows game developers to run cloud-based playtests at unprecedented speed and scale with machine learning. T0day, as part of the Google for Games Developer Summit, Unity Technologies announced Unity Game Simulation.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/",
+      "ampWebUrl": "https://www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/amp/",
+      "publishedDateTime": "2020-03-23T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78dcbcc7b02d000666f0b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 605,
+          "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-simplified-global-game-management-introducing-game-servers.md",
+      "title": "Simplified global game management: Introducing Game Servers",
+      "excerpt": "To deliver the multiplayer gaming experiences gamers expect, game developers are increasingly relying on dedicated game servers as the default option for connecting players. But hosting and scaling a game server fleet to support a global game can be challenging, and many game companies either end up",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gaming/introducing-google-cloud-game-servers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gaming/introducing-google-cloud-game-servers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gaming/introducing-google-cloud-game-servers/amp/",
+      "publishedDateTime": "2020-03-23T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Gaming_LgLTGIJ.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Simplified global game management: Introducing Game Servers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-22-get-certified-on-the-google-cloud-platform-for-just-9.md",
+      "title": "Get certified on the Google Cloud Platform for just $9",
+      "excerpt": "How else are the corporations going to process all the data they hold about us? Get fully trained for the Google Data Engineer and Cloud Architect certification exams. Over 2,000 people have already signed up, but the deal is ending soon. To find out more, follow the link below.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/google-cloud-platform-deal-1095642/",
+      "ampWebUrl": "https://www.androidauthority.com/google-cloud-platform-deal-1095642/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-cloud-platform-deal-1095642/amp/",
+      "publishedDateTime": "2020-03-22T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2018/08/Google-Eye-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Get certified on the Google Cloud Platform for just $9",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-google-cloud-named-a-leader-in-the-forrester-wave-for-public-cloud-development-and-infrastructure-platforms.md",
+      "title": "Google Cloud named a leader in the Forrester Wave for Public Cloud Development and Infrastructure Platforms",
+      "excerpt": "Today, we’re announcing that Google Cloud has been named a leader in The Forrester Wave™ for Public Cloud Development and Infrastructure Platforms, Q1 2020. This report evaluated cloud providers’ infrastructure and application development capabilities—important considerations for enterprises turning",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-recognized-in-new-forrester-wave/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/google-cloud-recognized-in-new-forrester-wave/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/google-cloud-recognized-in-new-forrester-wave/amp/",
+      "publishedDateTime": "2020-03-19T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_jxB08Ak.max-1000x1000.jpg",
+          "width": 1000,
+          "height": 555,
+          "title": "Google Cloud named a leader in the Forrester Wave for Public Cloud Development and Infrastructure Platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-modernizing-twitters-ad-engagement-analytics-platform.md",
+      "title": "Modernizing Twitter's ad engagement analytics platform",
+      "excerpt": "As part of the daily business operations on its advertising platform, Twitter serves billions of ad engagement events, each of which potentially affects hundreds of downstream aggregate metrics. To enable its advertisers to measure user engagement and track ad campaign efficiency, Twitter offers a variety",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/amp/",
+      "publishedDateTime": "2020-03-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modernizing Twitter's ad engagement analytics platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-protect-users-in-your-apps-with-multi-factor-authentication.md",
+      "title": "Protect users in your apps with multi-factor authentication",
+      "excerpt": "These days, using a password alone to secure user accounts containing sensitive, identifiable, or private information just isn’t sufficient. Passwords are often subject to reuse and can easily be phished and stolen. With this in mind, we recently teamed up with researchers from New York University and",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/protect-users-in-your-apps-with-multi-factor-authentication/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/protect-users-in-your-apps-with-multi-factor-authentication/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/protect-users-in-your-apps-with-multi-factor-authentication/amp/",
+      "publishedDateTime": "2020-03-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Security-identity.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Protect users in your apps with multi-factor authentication",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-postponing-google-cloud-next-20-digital-connect.md",
+      "title": "Postponing Google Cloud Next ’20: Digital Connect",
+      "excerpt": "Google Cloud has decided to postpone Google Cloud Next ‘20: Digital Connect out of concern for the health and safety of our customers, partners, employees and local communities, and based on recent decisions made by the federal and local governments regarding the coronavirus (COVID-19). Right now, the",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/amp/",
+      "publishedDateTime": "2020-03-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_7.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Postponing Google Cloud Next ’20: Digital Connect",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-not-just-for-http-anymore-grpc-comes-to-cloud-run.md",
+      "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
+      "excerpt": "Cloud Run is a managed serverless compute offering from Google Cloud that lets you run stateless server containers in a fully managed environment, without the hassle of managing the underlying infrastructure. Since its release, Cloud Run has enabled many of our customers to focus on their business logic,",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
+      "publishedDateTime": "2020-03-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-data-processing-just-got-easier-with-apps-scripts-new-v8-runtime.md",
+      "title": "Data processing just got easier with Apps Script’s new V8 runtime",
+      "excerpt": "We’re excited to announce Apps Script is nowsupported by the V8 runtime that powers Chrome and Node.js. This update lets users take advantage of modern JavaScript features (ECMA 6 and new releases moving forward). It also enhances new or existing scripts, like those that transform data in Google Sheets,",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
+      "publishedDateTime": "2020-03-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppDev.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Data processing just got easier with Apps Script’s new V8 runtime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-finding-a-problem-at-the-bottom-of-the-google-stack.md",
+      "title": "Finding a problem at the bottom of the Google stack",
+      "excerpt": "At Google, our teams follow site reliability engineering (SRE) practices to help keep systems healthy and users productive. There is a phrase we often use on our SRE teams: \"At Google scale, million-to-one chances happen all the time.\" This illustrates the massive complexity of the system that powers",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/management-tools/sre-keeps-digging-to-prevent-problems/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/management-tools/sre-keeps-digging-to-prevent-problems/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_5KDV2JX.max-800x800.jpg",
+          "width": 800,
+          "height": 591,
+          "title": "Finding a problem at the bottom of the Google stack",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-g-suite-pro-tips-declutter-your-inbox-with-gmail-filters.md",
+      "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
+      "excerpt": "Editor’s note: In a previous blog post, Greg shared tips on how to use advanced search and labels to organize your inbox. Here, he explains how Gmail filters can help you prioritize your emails.As an airplane pilot, I have a lot to think about when flying, and cockpit management skills are key for flying",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GmailLaunch-03.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1554,
+          "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-how-ebsco-delivers-dynamic-research-services-with-apigee.md",
+      "title": "How EBSCO delivers dynamic research services with Apigee",
+      "excerpt": "Editor's note: Today we hear from Adam Ray, platform product manager at EBSCO Information Services, a leading provider of research databases, e-journals, magazines, and eBooks. Learn how the company is working with Apigee to connect with customers through APIs.For more than 70 years, EBSCO has supported",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_api-management-02_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How EBSCO delivers dynamic research services with Apigee",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    }
+  ],
+  "nextPage": 5
+}

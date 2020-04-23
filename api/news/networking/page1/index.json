@@ -1,0 +1,667 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-21-modernize-enterprise-networking-with-cisco-sd-wan-and-google-cloud.md",
+      "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
+      "excerpt": "Enterprises are increasingly adopting hybrid and multi-cloud to deliver the best experiences for their customers. The network is at the foundation of this transformation, but is getting exponentially more complex to manage, secure, and scale throughout an enterprise footprint that can include multiple",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-best-practices-for-optimizing-your-cloud-costs.md",
+      "title": "Best practices for optimizing your cloud costs",
+      "excerpt": "One of the greatest benefits of running in the cloud is being able to scale up and down to meet demand and reduce operational expenditures. And that’s especially true when you’re experiencing unexpected changes in customer demand.Here at Google Cloud, we have an entire team of Solutions Architects dedicated",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_5I5zzaa.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for optimizing your cloud costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Analytics",
+        "Networking",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-keep-your-teams-working-safely-with-beyondcorp-remote-access.md",
+      "title": "Keep your teams working safely with BeyondCorp Remote Access",
+      "excerpt": "The COVID-19 pandemic is affecting organizations in different ways, whether it’s hospitals or governments directly impacted by the coronavirus or businesses that need to rapidly evolve to support new work-from-home scenarios. Over the last few weeks, we’ve had numerous conversations with customers about",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/keep-your-teams-working-safely-with-beyondcorp-remote-access/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Keep your teams working safely with BeyondCorp Remote Access",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-connecting-to-google-cloud-your-networking-options-explained.md",
+      "title": "Connecting to Google Cloud: your networking options explained",
+      "excerpt": "So, your organization recently decided to adopt Google Cloud. Now you just need to decide how you’re going to connect your applications to it... Public IP addresses, or VPN? Via an interconnect or through peering? Should you want to go the interconnect route, should it be direct or through a partner?",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
+      "publishedDateTime": "2020-04-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Networking_lQ5HQBE.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Connecting to Google Cloud: your networking options explained",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-introducing-service-directory-manage-all-your-services-in-one-place-at-scale.md",
+      "title": "Introducing Service Directory: Manage all your services in one place at scale",
+      "excerpt": "Enterprises rely on increasing numbers of heterogeneous services across cloud and on-premises environments. Google Cloud customers, for example, may use services like Cloud Storage alongside third-party partner services such as Snowflake, MongoDB, and Redis, as well as their own company-owned applications.",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/introducing-service-directory/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/introducing-service-directory/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/introducing-service-directory/amp/",
+      "publishedDateTime": "2020-03-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Networking_02.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing Service Directory: Manage all your services in one place at scale",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-how-to-detect-and-prevent-network-outagesand-stay-compliant-too.md",
+      "title": "How to detect and prevent network outages—and stay compliant too",
+      "excerpt": "By some estimates, 75% of network outages and performance issues are the result of a misconfiguration, and more often than not, these misconfigurations aren’t discovered until they’re in production. That’s stressful for network administrators and architects—not knowing the impact of a configuration change",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/how-to-test-for-and-help-prevent-bad-network-connectivity/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/how-to-test-for-and-help-prevent-bad-network-connectivity/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/how-to-test-for-and-help-prevent-bad-network-connectivity/amp/",
+      "publishedDateTime": "2020-03-02T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_networking.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How to detect and prevent network outages—and stay compliant too",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-performance-art-making-cloud-network-performance-benchmarking-faster-and-easier.md",
+      "title": "Performance art: Making cloud network performance benchmarking faster and easier",
+      "excerpt": "Before you migrate workloads to the cloud, you need to benchmark network performance in order to understand how that performance affects your business applications. Unfortunately, the cloud hasn’t offered the standards, tools, and methods to do the benchmark testing you need. As a result, you’re forced",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance/amp/",
+      "publishedDateTime": "2020-01-13T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP-networking-01.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Performance art: Making cloud network performance benchmarking faster and easier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-a-home-away-from-home-wayfair-goes-hybrid-on-google-cloud-with-100-gbps-dedicated-interconnect.md",
+      "title": "A home away from home: Wayfair goes hybrid on Google Cloud with 100 Gbps Dedicated Interconnect",
+      "excerpt": "Whatever the requirement—everything from enterprise-readiness fundamentals like reliability, performance, and security, to innovations for enabling microservices architecture or hybrid/multi-cloud deployments—the Google Cloud networking portfolio has something to offer.  For Wayfair Inc., an American",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/customers/wayfair-uses-google-clouds-100gbps-dedicated-interconnect/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/wayfair-uses-google-clouds-100gbps-dedicated-interconnect/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/wayfair-uses-google-clouds-100gbps-dedicated-interconnect/amp/",
+      "publishedDateTime": "2020-01-10T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Wayfair.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "A home away from home: Wayfair goes hybrid on Google Cloud with 100 Gbps Dedicated Interconnect",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-12-16-availability-scale-and-ease-of-management-with-new-layer-4-internal-load-balancing-features.md",
+      "title": "Availability, scale, and ease of management with new Layer-4 Internal Load Balancing features",
+      "excerpt": "Like many Google Cloud customers, you probably have workloads that need to be private without access to and from the public internet. For scaling and resilience of those workloads, we offer regional layer-4 Internal Load Balancing (L4 ILB), and we’ve recently added two new L4 ILB features - ILB global",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/new-features-for-l4-internal-load-balancer/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/new-features-for-l4-internal-load-balancer/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/new-features-for-l4-internal-load-balancer/amp/",
+      "publishedDateTime": "2019-12-16T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/client_VM_in_Europe-West.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": "Availability, scale, and ease of management with new Layer-4 Internal Load Balancing features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-12-10-packet-mirroring-visualize-and-protect-your-cloud-network.md",
+      "title": "Packet Mirroring: Visualize and protect your cloud network",
+      "excerpt": "As networks grow in complexity, network and security administrators need to be able to analyze and monitor network traffic to respond to security breaches and attacks. However, in public cloud environments, getting access to network traffic can be challenging.Many customers use advanced security and",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/packet-mirroring-visualize-and-protect-your-cloud-network/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/packet-mirroring-visualize-and-protect-your-cloud-network/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/packet-mirroring-visualize-and-protect-your-cloud-network/amp/",
+      "publishedDateTime": "2019-12-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_networking.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Packet Mirroring: Visualize and protect your cloud network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-12-05-networking-cost-optimization-best-practices-an-overview.md",
+      "title": "Networking cost optimization best practices: an overview",
+      "excerpt": "Every cloud deployment needs a network over which to move data. Without a network, you can’t view cat videos or upload your selfies, much less allow microservices to talk to one another. Google Cloud provides a global, scalable, flexible network for your cloud-based workloads and services, and how you",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/networking-cost-optimization-best-practices/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/networking-cost-optimization-best-practices/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/networking-cost-optimization-best-practices/amp/",
+      "publishedDateTime": "2019-12-05T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google-networking.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Networking cost optimization best practices: an overview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-11-25-understanding-google-cloud-armors-new-waf-capabilities.md",
+      "title": "Understanding Google Cloud Armor’s new WAF capabilities",
+      "excerpt": "Protecting applications exposed to the internet is an increasingly difficult job. Since we launched Google Cloud Armor last December, it has helped enterprises protect themselves and their users with a native solution that protects big and small applications from Distributed Denial of Service (DDoS)",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/understanding-google-cloud-armors-new-waf-capabilities/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/understanding-google-cloud-armors-new-waf-capabilities/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/understanding-google-cloud-armors-new-waf-capabilities/amp/",
+      "publishedDateTime": "2019-11-25T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Armor.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Understanding Google Cloud Armor’s new WAF capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-11-22-simplifying-service-mesh-with-istio-14.md",
+      "title": "Simplifying service mesh with Istio 1.4",
+      "excerpt": "Istio, the open-source service mesh that we created with IBM and Lyft, is now at version 1.4, and we’re very excited by how quickly the project is evolving and being adopted by end users. When we released Istio 1.1 in March, we announced that we would move to quarterly releases to get functionality out",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/simplifying-service-mesh-istio-1-4/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/simplifying-service-mesh-istio-1-4/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/simplifying-service-mesh-istio-1-4/amp/",
+      "publishedDateTime": "2019-11-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Istio.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Simplifying service mesh with Istio 1.4",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-11-13-announcing-network-intelligence-centertowards-proactive-network-operations.md",
+      "title": "Announcing Network Intelligence Center—towards proactive network operations",
+      "excerpt": "We are very excited to introduce Network Intelligence Center, Google Cloud’s comprehensive network monitoring, verification, and optimization platform across the cloud and on-prem data centers, along with an initial set of modules. Organizations are increasingly adopting multi-cloud implementations and",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/announcing-network-intelligence-center/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/announcing-network-intelligence-center/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/announcing-network-intelligence-center/amp/",
+      "publishedDateTime": "2019-11-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Networking_3zUkxrK.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Announcing Network Intelligence Center—towards proactive network operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-10-29-bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration.md",
+      "title": "Bring Your Own IP addresses: the secret to Bitly’s shortened cloud migration",
+      "excerpt": "Enterprises want to move their applications to the cloud, but worry about having to swap their IP addresses for ones from their cloud provider. We hear from our customers that managing the migration of IP addresses can be one of the most challenging aspects of a cloud migration for network administrators.Here",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/amp/",
+      "publishedDateTime": "2019-10-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-10-17-improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options.md",
+      "title": "Improve your connectivity to Google Cloud with enhanced hybrid connectivity options",
+      "excerpt": "Whatever the requirement—from enterprise-readiness fundamentals like reliability, performance, and security, to innovations for enabling microservices architecture or hybrid and multi-cloud deployments—the Google Cloud networking portfolio has something to offer.  At NEXT ‘19 in San Francisco, we announced",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/amp/",
+      "publishedDateTime": "2019-10-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP-networking.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Improve your connectivity to Google Cloud with enhanced hybrid connectivity options",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-09-20-container-native-load-balancing-on-gke-now-generally-available.md",
+      "title": "Container-native load balancing on GKE now generally available",
+      "excerpt": "Last year, we announced container-native load balancing, a feature that allows you to create services using network endpoint groups (NEGs) so that requests to your service get load balanced directly to the containers serving the requests. Since announcing the beta, we have worked hard to improve the",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/amp/",
+      "publishedDateTime": "2019-09-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/002-GoogleCloud-Blog-Header_xeak7mk.png",
+          "width": 4167,
+          "height": 2313,
+          "title": "Container-native load balancing on GKE now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-09-18-google-cloud-firewall-rules-logging-how-and-why-you-should-use-it.md",
+      "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
+      "excerpt": "Google Cloud Platform (GCP) firewall rules are a great tool for securing applications. Firewall rules are customizable software-defined networking constructs that let you allow or deny traffic to and from your virtual machine (VM) instances. To secure applications and respond to modern threats, firewall",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
+      "publishedDateTime": "2019-09-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/002-GoogleCloud-Blog-Header.max-1000x1000.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    }
+  ],
+  "nextPage": null
+}
