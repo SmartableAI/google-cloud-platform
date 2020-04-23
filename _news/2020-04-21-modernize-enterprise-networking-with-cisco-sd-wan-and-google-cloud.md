@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-21T14:00:00Z
 webUrl: "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/"
 type: article
 quality: 144
-heat: 164
+heat: 165
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
         width: 560
         height: 300
 
-secured: "mrhIniGrUWsHF+IMzQEM7riqVr8qNdB6kMYhBdiBcmtn6WaPUdOAEJkNfCWb7xaGc/MrejdXcwdb23bvC5neSp6X6PrzRe2/UIUt4PkHOjxlt74HlrXFcdeyhbp/xG+tPsJr22rwscSjy1sSIy5P4wVYdYpjur93iaocc81JxQuqhOHSBTKS6OEzVecY8LL09tM4gcxNuuLFtziBZPsTkVAo7Jptl401C/wscoLry5iv+3igsyU3RvDfavCAB476f1K+o3DZC+bQpd8mw4VBOUdub0vA6pt7+RMiV5AT3vgP1bNoElSCHMS7iBGY8JWFYz0DJSo2L2H8gdgvK97Asg==;Q6wzDbLx8NwOdq7Fu8hRww=="
+secured: "Bx5YfrBA96muR+2wXjinXpoIEtFp6clrYmCO1qsGe968U2wo01tcWSTlEwJcKrFzKP6OxFTl+k6TXTvlJPdDqPtVbnucg33UwO5kO8RErnfhL+3qySkknSusMILL9y5TgP0/Dc15Y/UOYSm0zv16EXRoF7Z6jGxuKaLtw2PqhKywK8Ar73uZx0onLrYi8d7ZLGxNYxigSezd7qG73jDiZe1xzEZLKPZPc94mg+i+MkscG2Ccp8VwShS/p1K9HQNx3bnKoSYk/AellDS/IYcp152ww0rIMi8RHJHK7JzTcEwD6aBIsSsb4j8PB+lcrLqT;AY4Z0ykkq2AqvP4gdvgk7A=="
 ---
 

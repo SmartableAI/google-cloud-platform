@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-20T17:00:00Z
 webUrl: "https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs/"
 type: article
 quality: 120
-heat: 130
+heat: 133
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
         width: 1252
         height: 633
 
-secured: "8rNzBFNnVsYDMi7OazqN4pYaP4Dgwh7SLCZGU8t6rTz2HjGoA8fUJP/7oun0ZIjTmDV0AHU4t/Qb8nmF9PO4YC5Tdjika4mcWpgeyH2WIEB+qpyliIzfUeUcQqGvDRpzuYecJBIjxxdWaD5bUTPtsJDZkHQkljcX0riKYtWFekVwJgaretZmk2BxCSJnQKCkCM/+Hf8Rf78R37iJo8qLPaJGOvxq1Qz4nqllqQMH2SuhGpef09PYqQuXtSQZbt1iG/Algyuj9a2sQmqkGK/QYAYlt/w+nvDJO6do9/enp2I50HfQUimNNYFpX8L0rp/BapiktwWptXxQfYV2HXItRg==;CYlpWtow4nTO37uKuYwAnw=="
+secured: "4V3FWZQC8MNvxNIuHwn4qZRRveioDtNpwHQx6btm5pUNMQYTyrnN+aGDudz3015PHERplZgJqlToQudvboxArPr7AGFJK18zlU7bUyDTMQUKcVALYAByD9oB//ASb0WCdTX1cDIhmTNr1cFhYIql7hN8i58EwkXdEcBDLs2pSc4AyVeOBj+RVryRfYQyOLhLdD9EA7eUY2X3dY+v0LLxic3OQlfu9j4pmujX4dmFpmWfcmk6sG/Ug5jmKXMbJUSFJ5KRG/rGbE5p0lhbAFe7G7XVlIHYS7INNYhhRTJMGG1bdFMO7nh2d0rwmZnsYYlS;uOcAi2iRrrZFxgFJk3LQWQ=="
 ---
 
