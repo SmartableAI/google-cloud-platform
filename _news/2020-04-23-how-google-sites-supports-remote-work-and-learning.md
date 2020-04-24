@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T16:00:00Z
 webUrl: "https://cloud.google.com/blog/products/g-suite/how-google-sites-supports-remote-work-and-learning/"
 type: article
 quality: 112
-heat: 113
+heat: 114
 published: true
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 555
     title: "How Google Sites supports remote work and learning"
 
-secured: "TTIvZhh0UlbFXx9KpoNWZTqn41jAlK/AWpu6rezV3FSrHYQpQQ9Yr7axLAJKyvdtGqtnXxO90GEi6d3kSCu6+1sEZkoteZ9dY5N/bhX3dePwn3h11/ClotF+mzWofkZrIrWBLcIOfJA+OyxhV43332OzgA1x2nvhOnNz400uUQ8JP+xx+ipqpX7lMBE6fD31vC8ncSt/vvuKGskaPjOi/aCLk8y4DOIRb4h46ZXlpfZNIxO1bgMY7rpU8LaxAJASxzlqJc2PctUOHwgMbe1lvJJ22OWQBL4lV0iu/BMLejj67di4G2tu+JDAyXlGmPD2;2msEZyjEK70GaMkB3luq5w=="
+secured: "vgCCdQrvo3iLl527/sWSeP8VMvNYeAWqLreLylkAmlHHXhFSRQLasn9vFBzXWSsKcSWqSZsS8gD8Atntz0I0ekb/wwegZjAaLCE8pbd6TLwf4SaW2z4rjsNAkbbxoWX1BYz1RTEKddxmMk3rqVt/7hjGUWO5AFZBTBJCaqVTplcuVhmVreZGfTJ4B3xmc1SgWfrowFT7Way+wz3BTOl9WVE8OCeAOebwDlwDl7qafbIbv7uQiNwQagSj5aZe8HOOi7AjWGhpCiTmZHeOvgEJBhXJR6qzW3LAFiIyIElXTAMeg4QN97unkBkEXu3SWrxa;GYHzogb1wvJyNuBT0Y0H9A=="
 ---
 
