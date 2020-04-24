@@ -22,6 +22,6 @@ images:
     height: 555
     title: "How Google Sites supports remote work and learning"
 
-secured: "qs70jlsEdo/mt0WXKKBIgBMPunozOFQD8aKoV8bPANztjONTbTBDkXiXlZ7I6Tr+7xQSnrmFnFnzc81XESHXk5hFDkQwtqx1iwp8YTWtKGJjwzgkoEKetQlBUR9e/9srR3Gmk+yMOvhylFCrar+GoGdE8tZuZ1UzfisY7D2b2nqGDtviZS5sArrku2tAwurHZNCyjyiyVGDPrE3vnhRNgssWMH9xLyt3mdIIPW3y9ONTCTh86D44p81UA31e1VwyXTlvBEqpXOz68l/HZYOrZpL1b0dWIYevAlz5r3lGnfyqrkIj0fjpAAJlOuxR9q0j;f8OwVk9V3zN5pdiMY5T4jA=="
+secured: "DrFekNz6tW20230y34LYEnSPk+KTaeIIyULByFiGDJ5LBX10peHa3pZIPYD2+JClHwlhntE8M5qhxb4Gc/jAU3enQ9QvJnJJvymcGLChaSLOujwQRak7+ZzKMrVTJpWoGmJSIBu2FWiAUj5/6qGH43nvB8qk57xzVCeiHoA5aaWmrVWkcq/NXBmFpjP9PlRGNUeKf9U/Lx14Cf8JWa0pYupY7cpNEgDeidGCYHGYKE67Xf76hesHNPuh9sQXg3U5nU69P7rutiAXlKphsI5NYN8NFTz8gTUAfhWoY0r2X+r+aOpScCXAHGr/xktfYKOO;vk5+ViBMot+yxgw0uXwKHg=="
 ---
 

@@ -2,6 +2,86 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
+      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+      "excerpt": "Semantic Reactor, then, which is currently a whitelisted experiment in the Google Cloud AI Workshop, allows users to sort lines of text in a sheet using a range of AI models. (Testing it requires filling out a form and awaiting emailed instructions about how to install it.) It offers ranking methods that determine how lists will be sorted based ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "publishedDateTime": "2020-03-27T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-g-suite-developers-scaling-best-practices-for-higher-user-demands.md",
+      "title": "G Suite developers: Scaling best practices for higher user demands",
+      "excerpt": "As people around the globe increasingly work or learn from home, we want to recognize the impact this shift is having on software providers. Many third-party developers rely on G Suite APIs to deliver richly integrated experiences to users, and it’s crucial for them to plan proactively for potential",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-to-scale-best-practices-for-increased-user-demand/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/how-to-scale-best-practices-for-increased-user-demand/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/how-to-scale-best-practices-for-increased-user-demand/amp/",
+      "publishedDateTime": "2020-03-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_API_Management.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "G Suite developers: Scaling best practices for higher user demands",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-a-note-to-our-customers-how-were-supporting-you-through-covid-19.md",
       "title": "A note to our customers: How we’re supporting you through COVID-19",
       "excerpt": "As COVID-19 makes its way across the globe, we know you are under extraordinary pressure to keep your organizations up and running. You rely on Google Cloud to stay connected and get work done every day. Whether it's helping you run a high-demand e-commerce site, augment your call center staff with Contact",
@@ -1046,81 +1126,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-better-scalability-with-cloud-tpu-pods-and-tensorflow-21.md",
-      "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
-      "excerpt": "Cloud TPU Pods have gained recognition recently for setting performance records in both training and inference. These custom-built AI supercomputers are now generally available to help all types of enterprises solve their biggest AI challenges. “We've been greatly impressed with the speed and scale of",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
-      "publishedDateTime": "2020-03-03T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/tensorflow.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-dml-without-limits-now-in-bigquery.md",
-      "title": "DML without limits, now in BigQuery",
-      "excerpt": "Data manipulation language (DML) statements in BigQuery, such as INSERT, UPDATE, DELETE, and MERGE, enable users to add, modify, and delete data stored in BigQuery, Google Cloud’s enterprise data warehouse. DML in BigQuery supports inserting, updating, or deleting an arbitrarily large number of rows",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/dml-without-limits-now-in-bigquery/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/dml-without-limits-now-in-bigquery/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/dml-without-limits-now-in-bigquery/amp/",
-      "publishedDateTime": "2020-03-03T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_Data_Analytics.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "DML without limits, now in BigQuery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

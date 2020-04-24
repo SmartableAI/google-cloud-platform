@@ -2,6 +2,86 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-24-google-opens-its-cloud-healthcare-api-to-help-covid-19-doctors.md",
+      "title": "Google opens its Cloud Healthcare API to help COVID-19 doctors",
+      "excerpt": "The Cloud Healthcare API will allow doctors to analyse data using cloud-computing technologies.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/24/ebd1a882-f291-4e47-a522-90448bad9c3b/thumbnail/770x578/3d9ef60d318581abeab767fec7adce7d/google-wants-to-make-it-easier-to-analys-5ea1d8c41c719e452658f1bd-1-apr-24-2020-17-50-50-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Google opens its Cloud Healthcare API to help COVID-19 doctors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-how-the-google-maps-platform-community-is-responding-to-covid-19-visualizing-helpful-info.md",
+      "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
+      "excerpt": "Editor’s Note: Over the past few months we’ve seen an inspiring response to COVID-19 from our community. To thank the organizations that are building tools to help us through, in the coming weeks we’ll highlight some of the many projects our customers have created to support their communities.The first",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-google-maps-platform-community-responding-covid-19-visualizing-helpful-info/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/038-MAP-Covid_Visualizing_Helpful_Info-BLO.max-2200x2200.png",
+          "width": 2200,
+          "height": 917,
+          "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-admin-essentials-managing-chrome-browser-in-a-controlled-environment.md",
       "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
       "excerpt": "IT teams often require a range of controls to support different groups and users. In some cases, users need more permissions and access based on their role. Other situations might call for more restrictive measures, with limited access or heightened security measures. These tighter controls can be driven",
@@ -77,7 +157,7 @@
       "path": "_news/2020-04-23-google-cloud-anthos-now-supports-multi-cloud.md",
       "title": "Google Cloud Anthos now supports multi-cloud",
       "excerpt": "Google Cloud has announced that its platform to manage multi-cloud workloads Anthos is now generally available for AWS though the company plans to add support for Microsoft Azure by the end of this year. Anthos aims to deliver on the promise of write once, run anywhere by allowing businesses to run their applications on existing on-prem ...",
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techradar.com/au/news/google-cloud-anthos-now-supports-multi-cloud",
@@ -278,6 +358,50 @@
       ]
     },
     {
+      "path": "_news/2020-04-22-google-clouds-fully-managed-anthos-is-now-generally-available-for-aws.md",
+      "title": "Google Cloud’s fully-managed Anthos is now generally available for AWS",
+      "excerpt": "A year ago, back in the days of in-person conferences, Google officially announced the launch of its Anthos multi-cloud application modernization platform at its Cloud Next conference. The promise of Anthos was always that it would allow enterprises to write their applications once, package them into containers and then manage their multi-cloud ...",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
+      "publishedDateTime": "2020-04-22T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GOOGLENEXT_2019_0409_091100-0355_ALIVECOVE.max-2200x2200-1.png?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Google Cloud’s fully-managed Anthos is now generally available for AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure.md",
       "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
       "excerpt": "Anthos, Google’s platform for managing hybrid clouds that span Google Cloud and on-premise datacenters, has hit general availability for Amazon Web Services (AWS) and is in preview for Microsoft Azure. Additionally, Google today updated Anthos Config Management with a programmatic and declarative GitOps approach to manage policies for ...",
@@ -464,50 +588,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-cloud-anthos-now-available-for-aws-with-azure-to-follow.md",
-      "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
-      "excerpt": "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "publishedDateTime": "2020-04-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
           "attribution": null
         }
       ],
@@ -1143,94 +1223,6 @@
         "Analytics",
         "Networking",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-google-launches-cloud-healthcare-api-in-general-availability.md",
-      "title": "Google launches Cloud Healthcare API in general availability",
-      "excerpt": "As Google notes, even in the best of circumstances, collating healthcare data is often a challenge for health care and life science organizations. The API, then, enables providers to interact with data using endpoints and health plans, providing them a platform that scales and supports interoperability and patient access. Cloud Healthcare API ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
-      "publishedDateTime": "2020-04-20T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google launches Cloud Healthcare API in general availability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn.md",
-      "title": "Google rolls out BeyondCorp for secure remote network access without a VPN",
-      "excerpt": "With the number of employees working at home exploding during coronavirus lockdowns, Google is rolling out a new security service designed to allow remote access of internal systems without using a virtual private network. BeyondCorp Remote Access is a cloud-based security product based on a system that Google originally built for internal use ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/amp/",
-      "publishedDateTime": "2020-04-20T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/pasted-image-0-6-1-e1587375342626.png?fit=1414%2C569&strip=all",
-          "width": 1414,
-          "height": 569,
-          "title": "Google rolls out BeyondCorp for secure remote network access without a VPN",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],
