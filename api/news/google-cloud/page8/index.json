@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-10-02-archive-media-for-the-long-term-with-preservation-masters.md",
+      "title": "Archive media for the long term with preservation masters",
+      "excerpt": "Media and entertainment companies have plenty of storage needs, and have to make sure they’re storing the right data for the right period of time. Media archives are often thought of as repositories of readily available media to be accessed for various workflow needs in the near and immediate term, such",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
+      "publishedDateTime": "2019-10-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_Data_Transfer.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Archive media for the long term with preservation masters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2019-10-01-optimize-your-google-cloud-environment-with-new-ai-based-recommenders.md",
       "title": "Optimize your Google Cloud environment with new AI-based recommenders",
       "excerpt": "You want your Google Cloud environment to be as unique as your organization, configured for optimal security, cost and efficiency. We are excited to offer new recommenders for Google Cloud Platform (GCP) in beta, which automatically suggest ways to make your cloud deployment more secure and cost-effective,",

@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-24-migrate-your-microsoft-sql-server-workloads-to-google-cloud.md",
+      "title": "Migrate your Microsoft SQL Server workloads to Google Cloud",
+      "excerpt": "Enterprise database workloads are the backbone of many of your applications and ecosystems. Also, guaranteed availability is critical when choosing a cloud provider. Many enterprises built their mission-critical applications on Microsoft SQL Server 2008, and it’s common still to run into older versions",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/migrate-your-microsoft-sql-server-workloads-to-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/migrate-your-microsoft-sql-server-workloads-to-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/migrate-your-microsoft-sql-server-workloads-to-google-cloud/amp/",
+      "publishedDateTime": "2020-02-24T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_3.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Migrate your Microsoft SQL Server workloads to Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-your-ml-workloads-cheaper-and-faster-with-the-latest-gpus.md",
       "title": "Your ML workloads cheaper and faster with the latest GPUs",
       "excerpt": "Running ML workloads more cost effectivelyGoogle Cloud wants to help you run your ML workloads as efficiently as possible. To do this, we offer many options for accelerating ML training and prediction, including many types of NVIDIA GPUs. This flexibility is designed to let you get the right tradeoff",
@@ -880,43 +917,6 @@
           "width": 2880,
           "height": 1200,
           "title": "What’s happening in BigQuery: New federated queries, easier ML, and more metadata",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-new-ga-dataproc-features-extend-data-science-and-ml-capabilities.md",
-      "title": "New GA Dataproc features extend data science and ML capabilities",
-      "excerpt": "The life of a data scientist can be challenging. If you’re in this role, your job may involve anything from understanding the day-to-day business behind the data to keeping up with the latest machine learning academic research. With all that a data scientist must do to be effective, you shouldn’t have",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/amp/",
-      "publishedDateTime": "2020-01-24T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Dataproc_1ZCbMuo.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "New GA Dataproc features extend data science and ML capabilities",
           "attribution": null
         }
       ],

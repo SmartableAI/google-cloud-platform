@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-01-24-new-ga-dataproc-features-extend-data-science-and-ml-capabilities.md",
+      "title": "New GA Dataproc features extend data science and ML capabilities",
+      "excerpt": "The life of a data scientist can be challenging. If you’re in this role, your job may involve anything from understanding the day-to-day business behind the data to keeping up with the latest machine learning academic research. With all that a data scientist must do to be effective, you shouldn’t have",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/cloud-data-science-and-ml-with-open-source-tools/amp/",
+      "publishedDateTime": "2020-01-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Dataproc_1ZCbMuo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New GA Dataproc features extend data science and ML capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut.md",
       "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
       "excerpt": "Google Cloud offers a wide range of GPUs to accelerate everything from AI deployment to 3D visualization. These use cases are now even more affordable with the price reduction of the NVIDIA T4 GPU. As of early January, we’ve reduced T4 prices by more than 60%, making it the lowest cost GPU instance on",
@@ -891,43 +928,6 @@
         "Compute",
         "Serverless",
         "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2019-12-10-exploring-container-security-performing-forensics-on-your-gke-environment.md",
-      "title": "Exploring container security: Performing forensics on your GKE environment",
-      "excerpt": "Running workloads in containers can be much easier to manage and more flexible for developers than running them in VMs, but what happens if a container gets attacked? It can be bad news. We recently published some guidance for how to collect and analyze forensic data in Google Kubernetes Engine (GKE),",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/amp/",
-      "publishedDateTime": "2019-12-10T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_container_security.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Exploring container security: Performing forensics on your GKE environment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

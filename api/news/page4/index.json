@@ -2,6 +2,34 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-03-how-google-cloud-is-helping-us-public-sector-agencies-during-the-covid-19-pandemic-and-beyond.md",
+      "title": "How Google Cloud is helping U.S public sector agencies during the COVID-19 pandemic and beyond",
+      "excerpt": "In light of the current situation with COVID-19, public sector agencies are turning to the cloud more than ever, particularly as people increasingly need access to information and government services. Today, we’re happy to share more on our efforts to help governments with their COVID-19 needs and also",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/amp/",
+      "publishedDateTime": "2020-04-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-connecting-to-google-cloud-your-networking-options-explained.md",
       "title": "Connecting to Google Cloud: your networking options explained",
       "excerpt": "So, your organization recently decided to adopt Google Cloud. Now you just need to decide how you’re going to connect your applications to it... Public IP addresses, or VPN? Via an interconnect or through peering? Should you want to go the interconnect route, should it be direct or through a partner?",
@@ -926,42 +954,6 @@
           "width": 2880,
           "height": 1200,
           "title": "Protect users in your apps with multi-factor authentication",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-postponing-google-cloud-next-20-digital-connect.md",
-      "title": "Postponing Google Cloud Next ’20: Digital Connect",
-      "excerpt": "Google Cloud has decided to postpone Google Cloud Next ‘20: Digital Connect out of concern for the health and safety of our customers, partners, employees and local communities, and based on recent decisions made by the federal and local governments regarding the coronavirus (COVID-19). Right now, the",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/amp/",
-      "publishedDateTime": "2020-03-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_7.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Postponing Google Cloud Next ’20: Digital Connect",
           "attribution": null
         }
       ],
