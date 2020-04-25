@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-21T14:00:00Z
 webUrl: "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/"
 type: article
 quality: 144
-heat: 165
+heat: 164
 published: true
 
 provider:

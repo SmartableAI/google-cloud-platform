@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-20T17:00:00Z
 webUrl: "https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs/"
 type: article
 quality: 120
-heat: 133
+heat: 130
 published: true
 
 provider:

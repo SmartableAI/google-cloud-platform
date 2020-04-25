@@ -24,6 +24,6 @@ images:
     height: 360
     title: "Google Stadia Connect Event Will Show Off \"A Few New Games\" Next Week"
 
-secured: "tOp8Xe9eNqp9U/WULkTcvvCkZnISqrNYOKe5VdrFQkajiwUKTBsJEBNJkVU0K5i4A9HiCMl1oqz61kTLjkPj3U/79uMrgLN35ZMxelyumg5ueRhztU7MnrXGi+YxLTHZ7KlqFX+MzkHzodID+5BH7BVKBiivbO07LCWMOcgy7FMWLTwsuqjggvhkEoZgIVP+a69uW8VZGBvV/NmzJr9y3zAFfRiM6hClZjevQraTZzyJYICn8/yqBZfZ7JYIS6VNY8A8Q3qGtE/DYbKTRh+Sdj7JqZmrg8pC+wc/b/zHsxLeHLmuk4cF33U7HUTVjB9n;un0p9CyQ9WScg3iMZwZ3Ug=="
+secured: "1gXiO+Hic6NzmJ85nY0D6EqSpgjffAdiN24iUYkxF9olf8S4dJ+vizwBfdVBDP5lSRgJfDVGMIofL8hse3pgksyTCm/RhYWwWx+Ul9zCBxG8Erha9kXCyKugGQ0Y+HpdmQx9865jkiYPtcRjlooEysm8NmJK5iITvoCrdgAHn6lY893tdPpa98Px0mTG4h+jyinOuvtU/8t8YjNxd6ks4v3oUacapTRk7rpb/EjGQyOsvHUfoTugLGfU5wDGMRi4YfvkR+dY9KE7gg8TV3zsCRfI5ZzJ5qDi1Pc4hp+jgji5o1wj6UKCwYHew9VajldyjASl27DP8/dqL0isF2w2/8inM+0hDxr/2dUPqBB3Hk3milm0/kGfuTcvhKxSD8USdBbT4gCHZ3yC7DAymlHs0+a70KjBvu2mFX5XoxGMXZhOZBVoFkwLy6btiIYs8hzUCGagD4ZWog1PKk/Dr9DU6TKdJRwUXZCsx4ybO7D65vg=;PY6jbeD3U+9cQVswoSB92w=="
 ---
 
