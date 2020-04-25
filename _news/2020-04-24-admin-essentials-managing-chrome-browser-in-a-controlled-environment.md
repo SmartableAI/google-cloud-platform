@@ -22,6 +22,6 @@ images:
     height: 1110
     title: "Admin Essentials: Managing Chrome Browser in a controlled environment"
 
-secured: "dwS94ZGOY+5hogD460304r7xpoH/oNl17kqeqJhHShb6nBQIPc5O7zgpEyckx4hGjpgbSl+bYyWghTO6Y1P0xcTP23ozPVxmGnK4MiaM9Yus2RNJ/bcI+sb+gqjnAkMy5wp0G699/NPFn7V/atbEOfkJkVwrb6hvYVbWCaLp/KeXDqGpROaSRT3jbUHqd+rTrVkkLxl+SbjnEwB/ul3uWumk3YvSz9ovz842BeIXfWH33/zv3zDoUAhrY0g0h2vSPpWla4qDDb2+GY+bMaKW2qYgSaErXuJ69WlhKrlRKQkX7gKKx5YUGZxzgOZIleAU;H2hACAHWGQoEeMJJMcgeFA=="
+secured: "nkfyWYfGpN9C9dfMU2PD8XhHoATr3X+q+vCJ8HCFGzqf7LynotT/330rgG12Z1xXb6KzXxRoSgky895KjB0GiXct0ilgkMzhwcB/fMFuWGG/ZD5XpiY5JO+I9bpaixacLphePkiC0zJjZQcdx3B3rKzVWKykM8rbs0sHuL461nBgMAtWNqJ9wjoeo+yNC2vLnCG11KJbUV8UiIZEUOjnQXCchuvBHcD9IYzJMEIDeG26+/RhIENWcB+grQNZ2MMwqp2Rix/RSqQ9oUNh0Lffm+tS48akGkQk/jE9ovQ4JfvXQUZsIRwq3jp06Hzh00v1;AKDFT4aqUTEAG2+qwQztew=="
 ---
 
