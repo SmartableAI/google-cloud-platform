@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/google-cloud-anthos-now-suppor
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/google-cloud-anthos-now-supports-multi-cloud"
 type: article
 quality: 97
-heat: 107
+heat: 108
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         width: 962
         height: 594
 
-secured: "CLvRz/Gg0kpqLFX03Ydudi5PPk14gpU6CDvGY3NWZlls/EiYBX+AnFC1Z/OaSI5V6Ge5ImROymSXYZAOwizb2BvRKEHAer3o9i0Yc7cpnfogqC8H4iE95gz7NAotAbuHQA5Lqmr4FyGqDWSEiYZaxH+GFnfNCgVPvzQOkEBSWWaF5H2Axs3heCQ1XADkLmJF459Dh781ep7oXHaSYucICF9VWAzELMX/OAjDlugKh98w+ZXcgaqlGpVCdneuQ52SajkZaXDgS4AEGmdqBupoTDdcsOCIfmMFMiSczscOuGEdAcbBjAnZkvaqPjWmPoXJ;0GYBMLEkWNeWmiGrOrvzPA=="
+secured: "Dlcrov8/A7UeEsQb8nD4MadYbLEIIq0ujpAi1lTPihWOzgptcxtABINjDuC1K0HZODmspvuE0OMLsCD0YW6ub/3kZ5PVCbFvtZdy8ym/i9baLiI9pIfGFwsqVbH960gakgYK/xSynuHQ7RfiyFKojYxb3kDX+eftx5KwtVvQdIfU8NFYTC4i3hYry+6qqh/FscwFSgHtrcvGpRyn4RC+Ky9OT/XMVQpHNXYLyX7hVdiMbrWNNECtNIPZzrUAEpBF0/Ddv5eO8eqne1hffiD/tbgwbDlOugfi5md0hk+j/DggKah3c2Uzs0sHmzmZiT39;zaWZ+7P07NyMPOdjKi2+rw=="
 ---
 

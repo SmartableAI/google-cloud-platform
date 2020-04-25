@@ -22,6 +22,6 @@ images:
     height: 555
     title: "How Google Sites supports remote work and learning"
 
-secured: "0Yn5uknhbMXzvLb79Oakjbo9XvqxvS1az8k4xkzodd5qJsynoGbScJgSYMAXw8htzyDJ9b7uVNXKjd0aRGZD9AchwDolUz06aK6o79Cke4xVO7GB1/+PfMTQBohMc8RJbq55z1K778WDeN2W3CC+GTrQ7e+lvKLF7OYmz/ujLrcUAtI4c2z6Xqj8vidCD8p2zV+NhSlBIIxBlj6pNzSxXAvaIWEQ6FzkdV9IeSLJK6d1f2DO2za7ao50b4VjZfLGcLAO5rVtbYxvvuVQnXEGNK4ZhAkNhvsjFe9psa0shUffbkb2f840ZZw/M+hchxM4;WkT9RjF7gIWWo7+9rrqOQQ=="
+secured: "dHmjvXXbD9Nd364WGVnRCzTsfz7E8xA9Rx2727QFVhVUEQ1LkpPneBc/KVydd520e8nasesYWnO4FbwhLpSApqWI4+tPQUpQiCtbwHqoBjhmAWO+4kMJrEvcxdQy7pgQk102O2OcQp1AHbPFlfklTporyr32sVHqxo2rqtG8U8VR1kl3Ee+af+u7RHDMtPIw0MjebwNNYY8DrtuRMEILy8vH+rdkIvRwV7mlzQW8mytgyLbN0XedAxZNJsI6pArCTfhI2H0i+9C75k3m6H+ZlMO/NZ3Eq04gHL+Vya+6G2/DyoBZrLxVgmUj9823gmMp;HK8KBeacigj8aSXGk0XGmQ=="
 ---
 
