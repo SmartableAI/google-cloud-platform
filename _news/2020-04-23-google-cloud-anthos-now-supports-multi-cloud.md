@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/google-cloud-anthos-now-suppor
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/google-cloud-anthos-now-supports-multi-cloud"
 type: article
 quality: 97
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     height: 450
     title: "Google Cloud Anthos now supports multi-cloud"
 
-secured: "btjHfA0eibTevXQCHyF6HV2hicA6DUtomA7ToTczb81sN0IdvwFqUPLnN/jz0DwSWPkGvLhq/0gGnD+wwEIU8Fmm1voSzGfa7l68tJ8ZzJtw8jWH/WVA2/Wr/xG0vlWbEmmWNAVOWbpu7ANC29mKtYES35E9Q6xmKlEON3TcFX1YkPq/6VSvEovHxyVk5cctSPZiMRd8kVefH5bFGrxB3dp6UOiyCAOTqO6LRYZ5c4D3EUT6eIO/LMfy30j8DSzDNg1KetnpF7r0Fju1sr/LI7wMGE+gQioBk74Jne2XXGFm4ktVaOIH5WwQumqnz4QG;tdyQYAEj/Jj5v3mIfCGY+w=="
+related:
+  - title: "Google Anthos now supports multiple clouds – including Amazon’s"
+    excerpt: "Google LLC today announced some key updates to its Anthos application platform, enabling it to support more workloads in different computing environments at a reduced cost. Google Anthos is a hybrid cloud application development platform that runs atop the open-source Kubernetes container orchestration software. It’s designed to host ..."
+    publishedDateTime: 2020-04-22T16:32:00Z
+    webUrl: "https://siliconangle.com/2020/04/22/google-anthos-now-supports-multiple-clouds-including-aws/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Google-Anthos.png"
+        width: 962
+        height: 594
+
+secured: "5T/tG7/zlPLpKCpeMrG6ExeiSorNqqiRf9IAtW5+Z5hrQf+6oS66V79WqxFqSez5vCIudNkzBw1M5nmkgcm/CqMk/STiXQrypy+husZBBJALZ4Gcq9MbthsrKC6P80xm4vdmhBdb8UsUP46u71IJsnXBNXz11LSL/vZ5E79rH48w7mxIsAywBZ94s3FLcTzZcxMtrMAu3U4sX9IkmQ2fZW8ISIC9mz1oNG6RchjKetIgxAfAa/eGHsIRuFimOlFknAj2kP06o97lQS1Z5K+QYu+Dc4J6ZvoWBCWc3fUg/rUxn4T60OCnfY4Aib0VnHgq;/W112Zay1GY0rSjy+QL/mQ=="
 ---
 

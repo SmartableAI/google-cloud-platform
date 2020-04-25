@@ -24,6 +24,6 @@ images:
     height: 864
     title: "Hands-on: Teamstack lets you securely manage your cloud apps with ease [Video]"
 
-secured: "Scw+vfLK3fmOiFbpnOy1NgnJFKrjyE49gq8qestfDD+5B7UK9TiHiNYvd1C8/OZ9RNuFEs+4E3wqr4mqRRFkraNv/zeiwYDrLxXm/mm9bwHVIs48BdOUKKPzHfvd+XW0+VXlHHlOTC3whi23Bw+xu2qchYtxmTJFg51M3iQNU0Q6QSjLlgYATIuRGyTYhn6CExlEw0fD/bNSYhQU6p8WKl+/VETvbsU2gW85DDdaNK9P/MxaR7eKaHkB0IRLAImf0XCNOY6E82ShUdXPU6VWq1USoNW+7st3V/dLU5WipFh9UTDVwMs7Ki5gVI7fgZE+;KgN/yHb/i+EgsbyXQMU44A=="
+secured: "RSOpL128rmPssCKSrD4DEm7su3CvxRbN3KblVLn671+poPT+oU++dnoP/krDjSac1VOMD379uiDAmHO413sRLtwP8G+VzC10wn5Wq2ybzC8XLRrEVmtxcwYQHOZYK+Nk1X4duTUlvvmE4keuFAlzvVrFNuXC2TiYW2kBoMmO0js1FdRmenhJ4jWpNAaDJw0xYoYaZ6E/nR6obfOrpLZhP2lCrPIAW1zNnC17WRpoOd9zB4EZCJ0A0BL9iFvBdeJK8Ruo6M9X1u8mhx+M08b9GQFMAwo9kUrumA9guTn9rCs2FiX450BT0sUoCd3dGwzHl9DojOQcHmXqwUyS7ZgpgYL2m4/O6AwYPkhNiGmi1YaIKoSIpUd1imZ2MzTbRGuBJXJPUChdYlS2WL4aZq4wcg4uMxNAxojkLeH5yWvvDbUGi3t8z4ky/ihlbJ+p6eR1hAK51Fb97ZqEdMJ4YGXjjTa7p3ssQl9bFWLRBsg4wEk=;mYh7CNfOx9ndvBahvRVKGA=="
 ---
 
