@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Google Cloud Anthos now available for AWS, with Azure to follow"
-excerpt: "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ..."
+excerpt: "Google Cloud’s software for managing Kubernetes workloads across multiple on-prem and cloud environments reaches out to its biggest rivals By Scott Carey UK Group Editor, InfoWorld | Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud ..."
 publishedDateTime: 2020-04-22T13:02:00Z
-webUrl: "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html"
-ampWebUrl: "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html"
+webUrl: "https://www.itworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html"
+ampWebUrl: "https://www.itworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html"
+cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html"
 type: article
-quality: 97
-heat: 127
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ITworld
+  domain: itworld.com
 
 topics:
   - Google Cloud
@@ -72,7 +68,33 @@ related:
       - url: "https://www.crn.com/resources/025c-0f3c85aa76f6-9ac13df815ed-1000/google-cloud-next-intro_002_.jpg"
         width: 609
         height: 456
+  - title: "Google Anthos now supports multiple clouds – including Amazon’s"
+    excerpt: "Google LLC today announced some key updates to its Anthos application platform, enabling it to support more workloads in different computing environments at a reduced cost. Google Anthos is a hybrid cloud application development platform that runs atop the open-source Kubernetes container orchestration software. It’s designed to host ..."
+    publishedDateTime: 2020-04-22T16:32:00Z
+    webUrl: "https://siliconangle.com/2020/04/22/google-anthos-now-supports-multiple-clouds-including-aws/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Google-Anthos.png"
+        width: 962
+        height: 594
+  - title: "Google Aims Anthos Cloud Application Platform at Rival AWS, with Azure Next Up"
+    excerpt: "Google's Anthos multi-cloud and hybrid application platform now works with the rival Amazon Web Services (AWS) public cloud computing platform, with upcoming support for Microsoft Azure now in preview. Anthos aims to provide a consistent application development and IT operations experience spanning hybrid, multi-cloud and on-premises ..."
+    publishedDateTime: 2020-04-22T19:53:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/04/22/anthos-aws.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 18
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/BuildingBlocksGen_v4.jpg"
+        width: 647
+        height: 450
 
-secured: "b4sGEwuwTh/DDTcVJGHSgu1UEsEH1tIliNztF53etCla3lJBQ2bl172I9VbVh5cL1W1cnNZk4/hjuMgRXDmubXaA2PjXPL1pkknJdUxKupUQorVzClSOjINn/huKXriy9zU70uGHXD7fYkiW6SThxkBgM2ev7MxYto3Xp8rphfzsUKVuf/ft9AehRilRGJVLOyu79d1AhiNUAJQ2DOZa90+TL1P64ul8oMKk3hTWer+jnbrm9Sn8+shXXG2dffMHyx3eJgJQT8iSX+xT5WHSdCdmedaZCM3OKiBM/3O2o0bfIoBpD9oVDjr2PuW2gieb;Ye5yg+ZvDrVlHKjsoQPuag=="
+secured: "sZJclMQWn6cu1elSs4KE/GM5MWkw+Xfp3Q8+Z4jzqH+O//84zJqGk8EhvbyjPWVbJjx/SrbFP+YpEVIDIjgg352+yfmEBRx/Z1YuWfH3LSqw8Dvn95Gz/dN7TllbZYTHOcgZc3kcvvF3yR4uY7HWdk4zzVKjmcRg8UVLHCotbAJptk0jfXy7lGRtrthzcLOGZC4dhPDUGE6JLGb/QPVxI8woRvpOnHrI6B1ls/WMlqNHXOe7z1L87rPe5g813lpxxknUtcXrvwwTdPRuqZcIq8UIygXHqOOkTv2dlVH7ls44DP3nVoobdgpWN5T2kqGx;tUf2a+QeOCK37846z9cnEw=="
 ---
 
