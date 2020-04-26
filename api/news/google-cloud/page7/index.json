@@ -2,6 +2,44 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-12-10-8-production-ready-features-youll-find-in-cloud-run-fully-managed.md",
+      "title": "8 production-ready features you’ll find in Cloud Run fully managed",
+      "excerpt": "Since we launched Cloud Run at Google Cloud Next in April, developers have discovered that “serverless” and “containers” run well together. With Cloud Run, not only do you benefit from fully managed infrastructure, up and down auto-scaling, and pay-as-you-go pricing, but you’re also able to package your",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/a-developers-guide-to-new-features-in-cloud-run/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
+      "publishedDateTime": "2019-12-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run_blog.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "8 production-ready features you’ll find in Cloud Run fully managed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2019-12-10-packet-mirroring-visualize-and-protect-your-cloud-network.md",
       "title": "Packet Mirroring: Visualize and protect your cloud network",
       "excerpt": "As networks grow in complexity, network and security administrators need to be able to analyze and monitor network traffic to respond to security breaches and attacks. However, in public cloud environments, getting access to network traffic can be challenging.Many customers use advanced security and",
@@ -1077,44 +1115,6 @@
       "topics": [
         "Google Cloud",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-10-29-app-engine-java-11-is-gadeploy-a-jar-scale-it-all-fully-managed.md",
-      "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
-      "excerpt": "Attention, Java developers. If you want to build modern Java backends, use modern frameworks, or use the latest language features of Java 11, know that you can now deploy and scale your Java 11 apps in App Engine with ease. We’re happy to announce that the App Engine standard environment Java 11 runtime",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
-      "publishedDateTime": "2019-10-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppEngine.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Serverless"
       ]
     }
   ],
