@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T16:00:00Z
 webUrl: "https://cloud.google.com/blog/products/g-suite/how-google-sites-supports-remote-work-and-learning/"
 type: article
 quality: 112
-heat: 115
+heat: 112
 published: true
 
 provider:

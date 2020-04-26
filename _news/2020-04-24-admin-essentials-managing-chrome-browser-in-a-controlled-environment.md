@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-24T16:00:00Z
 webUrl: "https://cloud.google.com/blog/products/chrome-enterprise/managing-chrome-browser-in-a-controlled-environment/"
 type: article
 quality: 112
-heat: 113
+heat: 112
 published: true
 
 provider:

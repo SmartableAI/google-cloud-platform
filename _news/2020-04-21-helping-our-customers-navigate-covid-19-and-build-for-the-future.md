@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-21T19:00:00Z
 webUrl: "https://cloud.google.com/blog/topics/inside-google-cloud/helping-our-customers-navigate-covid-19/"
 type: article
 quality: 92
-heat: 92
+heat: 93
 published: true
 
 provider:
@@ -16,6 +16,6 @@ provider:
 topics:
   - Google Cloud
 
-secured: "pf1IFUHDeqcSsfL4T93DYargT8HlIWfGlQPGlAQzjh8uDlKYNNwBSGBu63uffUFMIxU+jmFXufiDLDW4BoKfSu5lAXNLE1FwtV69EcVm+Oe8wqDyqSA2jQS6dEBvoGvs5LxxSrC+2Z1HnjE6cvzrOpy4CDIQnzdR76UV2n6scEoRT8ewE13FlA4YcdG0Y92SeKCefso5S7H1t97fDBilnklzJyzq5Ztla3u6SD1/RCPL1enJXK8UnKYAZeySADrFVvCNlgvvHX4lxlWCy66cpNcSBZxBW9R7OgiYxlA9UmB70FNIrDFYNWP06jScgrIHFK0eLCFyBnnc1E2HsrVmXQ==;MPbfc4iU4rE4eUslIqYnOQ=="
+secured: "5/fDLWoqxGOmX3V75S7ISGUNqqHEoisJsaVWFAL0tDBUoSXH0pj6zTI2WZYpKwel0IZBr5BiuIU0pIstCXytyOg87rcHuvJ2g+OMMr0/BhfihDZ5amh1xh4FOdm2Q5GIaEs6p1O/8prfBk/5Lp23MtfztGHRG2oML7qRVSWwg1ns5619jKeXcyKzRd0OR5w9V5X5ttzHvLmON/wDj3R/R/mO1Pd2vVOoJtPu+wX+K1Ye28OAAsK9tr/sBeILAcg/Zss01bX/u2Qz8jAb5/rxhwo0T0EH8YmIdG68Tb+9ur/E77V2cYVyiH2apxZH/I5h6Bs8pypUf3ngR8JP/+b3kw==;7CzG3ZDDiTwEv1YmTl65IA=="
 ---
 
