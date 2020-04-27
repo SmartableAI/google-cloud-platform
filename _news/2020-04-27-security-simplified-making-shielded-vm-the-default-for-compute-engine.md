@@ -22,6 +22,6 @@ images:
     height: 1200
     title: "Security, simplified: Making Shielded VM the default for Compute Engine"
 
-secured: "rgzu4g8o3oYjZwyXGltklLEbVhzKHrCDwz23kDlINi/oXUPsQxe7FWXI4HNygqa3OCC2KFMZdM3vWMLaE2ITOz3sH76oR3ITBej6JclnkMr2LaD5FM0ljBdlddfQ5bzBhe1xp9J8pn8O6pfYAsV1dQipZsmtKi3FEWcso2D9G2nvwz/WsLGgZ2pBD54RhL+JurDRSdaT16wZn3CIa/YrzEqMkkROjSStAaqFnlWlO1Kxzw6uP7YIJMRbwg8nb/b6sAexQixswX0WOtzx6qmwYSbP4O4zeBRvJl40dCoGiQTpn1jYib7AE6E+0e92nzGMyOWoMmp1XyFyhTq6cQBvgQ==;vjd3Ah3Xpk4RJ0xs5+VPBQ=="
+secured: "slUc+W+8a1/zG3yXU73wRA/fGraK4jUpJAm2QNcAQI1N7sa0G5nATysdbHdNwk7LgRhWJbjjSxILZOgVL9hp1aEytDxoeuKlPiBoMuHzpeYH1QIAS734mgPKO5QMDnb3ot+jTm6z6Qb6VQ5feQ14uefrNfxkutcW/sg8jMcY9qkYLAISJfcE10jpfev0Ko3K6K4T9I0DNL28sdZOCKc4ENWwibgBT+fEp7q9P+B7ULfOmVfTIq/mM1t3LVFY4nvU3+O8iPjlT1GcDHs5euyKEtrQq5lxQZbmWSFXU7xqgRwgCmge8wK32O1IRDwtXwOeBw/vBXF7AfQKqBIOQOW3fQ==;R2O1bwiTq6vZjmCspPXJxw=="
 ---
 

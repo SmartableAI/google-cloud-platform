@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/cisco-and-google-ann
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "Cisco and Google announce joint SD-WAN cloud hub"
 
 related:
+  - title: "Cisco, Google Cloud to Roll Out SD-WAN Cloud Hub"
+    excerpt: "WAN Cloud Hub with Google Cloud won’t be available until next year. But there is good news for channel partners, who will play a key role in distribution and deployment. They can launch and support customers’ coronavirus-fueled SD-WAN and cloud deployments now with the capability in mind."
+    publishedDateTime: 2020-04-27T20:30:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/04/27/cisco-google-cloud-to-roll-out-sd-wan-cloud-hub/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2019/11/CPaaS-770x285.jpg"
+        width: 770
+        height: 285
   - title: "Google & Cisco Announce Joint Cloud Hub"
     excerpt: "Cisco and Google made a joint announcement. They are hoping to release a turnkey networking solution that currently has the very long name of: Cisco SD-WAN (Software Defined-Wide Area Network) Cloud Hub with Google Cloud. Google is hopeful they’ll be able to release it sometime in the first half of 2021. With a target date that vague ..."
     publishedDateTime: 2020-04-22T18:17:00Z

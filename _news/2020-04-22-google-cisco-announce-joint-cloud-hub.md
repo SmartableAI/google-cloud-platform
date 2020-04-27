@@ -38,6 +38,19 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/02/28/5d70ba10-7e3a-4376-be18-e1ab8a6a6fab/resize/1200x/e0fad44feb704990a94da5b15f28c698/istock-1140300211.jpg"
         width: 1200
         height: 801
+  - title: "Cisco, Google Cloud to Roll Out SD-WAN Cloud Hub"
+    excerpt: "WAN Cloud Hub with Google Cloud won’t be available until next year. But there is good news for channel partners, who will play a key role in distribution and deployment. They can launch and support customers’ coronavirus-fueled SD-WAN and cloud deployments now with the capability in mind."
+    publishedDateTime: 2020-04-27T20:30:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/04/27/cisco-google-cloud-to-roll-out-sd-wan-cloud-hub/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2019/11/CPaaS-770x285.jpg"
+        width: 770
+        height: 285
   - title: "Cisco announces SD-WAN Cloud Hub with Google Cloud"
     excerpt: "Today, Cisco and Google Cloud are announcing their intent to develop the industry’s first application-centric multi-cloud networking fabric. This automated solution will ensure that applications and enterprise networks will be able to share service-level agreement settings, security policy, and compliance data, to provide predictable ..."
     publishedDateTime: 2020-04-21T14:39:00Z
