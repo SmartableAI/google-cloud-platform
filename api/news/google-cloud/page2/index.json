@@ -2,6 +2,159 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-21-helping-our-customers-navigate-covid-19-and-build-for-the-future.md",
+      "title": "Helping our customers navigate COVID-19 and build for the future",
+      "excerpt": "As the global response to COVID-19 evolves, businesses everywhere are adapting to an ever-changing environment that forces them to think differently. Our focus at Google Cloud right now is helping our customers navigate the impacts of COVID-19, whether that’s helping employees work remotely, ensuring",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-our-customers-navigate-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud.md",
+      "title": "Google wants to make it easier to analyse health data in the cloud",
+      "excerpt": "Google has expanded the availability of its Cloud Healthcare API in a bid to improve healthcare interoperability and help providers drive insights from myriad sources of medical data. Google's Cloud Healthcare API allows healthcare organizations to collect and manage various types of medical data via the cloud, including Digital Imaging and ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "publishedDateTime": "2020-04-21T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/04/30/a1920c33-8bb2-426e-958c-757992604693/thumbnail/1200x675/70cdb5522ace34daae74aaedd541691e/istock-1127069581.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google wants to make it easier to analyse health data in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-back-up-on-demand-emulate-and-develop-with-ease-new-spanner-features.md",
+      "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
+      "excerpt": "At Google, we built Cloud Spanner to support our need for a scalable, multi-version database with relational semantics. It’s become an important capability for teams that need a globally distributed, strongly consistent database service. Spanner continues to launch new enterprise capabilities, and we’re",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/native-cloud-database-spanner-adds-features/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-cisco-and-google-announce-joint-sd-wan-cloud-hub.md",
+      "title": "Cisco and Google announce joint SD-WAN cloud hub",
+      "excerpt": "The multicloud network fabric helps facilitate application use across the enterprise and improve customer experience. Cisco and Google announced on Tuesday the release of its industry-first SD-WAN cloud hub. The application-focused multicloud networking fabric will guarantee applications and networks have shared service-level agreement settings ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/28/5d70ba10-7e3a-4376-be18-e1ab8a6a6fab/resize/1200x/e0fad44feb704990a94da5b15f28c698/istock-1140300211.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Cisco and Google announce joint SD-WAN cloud hub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub.md",
       "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
       "excerpt": "This latest integration is centered around Google Anthos, a platform launched last year for managing applications on premise or in any cloud environment. By tightly integrating Cisco SD-WAN services with Google Cloud and Anthos, the companies said they can offer a new turnkey, multicloud networking fabric called the Cisco SD-WAN Cloud Hub ...",
@@ -1070,182 +1223,6 @@
           "width": 1200,
           "height": 675,
           "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them.md",
-      "title": "Your Zoom videos could live on in the cloud even after you delete them",
-      "excerpt": "If you clicked Record to Cloud during a Zoom meeting, you might have assumed Zoom and the cloud storage provider would have password-protected your video by default once it was uploaded. And if you deleted that video from your Zoom account,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
-      "publishedDateTime": "2020-04-16T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/zDJ-1qDidz7r3PiL8M2Uve6ZhOo=/756x567/2020/03/24/6d4a4d41-f7f5-4389-989d-65525058d751/14-zoom-app-meetings-work-from-home-coronavirus.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Your Zoom videos could live on in the cloud even after you delete them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-google-cloud-to-join-rolls-royce-coronavirus-alliance.md",
-      "title": "Google Cloud to join Rolls-Royce coronavirus alliance",
-      "excerpt": "Google Cloud has announced that it will be joining a new alliance of data analytics companies that aims to support businesses and governments in recovering from the coronavirus pandemic. Emer2gent is set to combine traditional economic, business, travel and retail data sets with behaviour and sentiment data, in order to facilitate the global ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/business/business-operations/355341/google-cloud-to-join-rolls-royce-coronavirus-alliance",
-      "ampWebUrl": "https://www.itpro.co.uk/business/business-operations/355341/google-cloud-to-join-rolls-royce-coronavirus-alliance?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business/business-operations/355341/google-cloud-to-join-rolls-royce-coronavirus-alliance?amp",
-      "publishedDateTime": "2020-04-16T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587039042/itpro/shutterstock_1435966289.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Google Cloud to join Rolls-Royce coronavirus alliance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-open-source-made-the-cloud-in-its-image.md",
-      "title": "Open source made the cloud in its image",
-      "excerpt": "Hence, the next time you pull together different components to build an application on Microsoft Azure, Google Cloud, AWS, or another cloud, realize that the reason you can do this is because the open source ethos permeates the cloud. Open source has become so commonplace today that we are apt to forget its origins. While it would be an ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3537517/open-source-made-the-cloud-in-its-image.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3537517/open-source-made-the-cloud-in-its-image.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3537517/open-source-made-the-cloud-in-its-image.amp.html",
-      "publishedDateTime": "2020-04-16T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/cq5dam_web_1280_clouds-100817664-large.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": "Open source made the cloud in its image",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-the-best-google-home-compatible-security-devices-for-2020.md",
-      "title": "The best Google Home-compatible security devices for 2020",
-      "excerpt": "However, there are still a number of reliable security cameras that will work with Google Home or Nest. The Wyze Cam 2 is one good option that includes free 14-day cloud storage, night vision, motion sensors, and other important modern security tech. Or you could stick with Google’s own Nest devices. The Nest Cam is a reliable indoor cam ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/home/best-google-home-compatible-devices/",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-google-home-compatible-devices/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-google-home-compatible-devices/?amp",
-      "publishedDateTime": "2020-04-15T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/hands-on-google-home_4652-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "The best Google Home-compatible security devices for 2020",
           "attribution": null
         }
       ],

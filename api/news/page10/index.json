@@ -2,6 +2,154 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-09-27-6-strategies-for-scaling-your-serverless-applications.md",
+      "title": "6 strategies for scaling your serverless applications",
+      "excerpt": "A core promise of a serverless compute platform like Cloud Functions is that you don't need to worry about infrastructure: write your code, deploy it and watch your service scale automatically. It’s a beautiful thing. That works great when your whole stack auto-scales. But what if your service depends",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/6-strategies-for-scaling-your-serverless-applications/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
+      "publishedDateTime": "2019-09-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_serverless.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "6 strategies for scaling your serverless applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-09-25-cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details.md",
+      "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
+      "excerpt": "Providing reliable data services that you can trust to serve your data is the most important goal for our database team here at Google Cloud Platform (GCP). That’s why we put money on the table in the form of availability service-level agreements (SLAs).We’re pleased to announce that all Cloud Spanner",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
+      "publishedDateTime": "2019-09-25T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Database_rqS3tmV.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-09-20-container-native-load-balancing-on-gke-now-generally-available.md",
+      "title": "Container-native load balancing on GKE now generally available",
+      "excerpt": "Last year, we announced container-native load balancing, a feature that allows you to create services using network endpoint groups (NEGs) so that requests to your service get load balanced directly to the containers serving the requests. Since announcing the beta, we have worked hard to improve the",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/amp/",
+      "publishedDateTime": "2019-09-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/002-GoogleCloud-Blog-Header_xeak7mk.png",
+          "width": 4167,
+          "height": 2313,
+          "title": "Container-native load balancing on GKE now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-09-18-google-cloud-firewall-rules-logging-how-and-why-you-should-use-it.md",
+      "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
+      "excerpt": "Google Cloud Platform (GCP) firewall rules are a great tool for securing applications. Firewall rules are customizable software-defined networking constructs that let you allow or deny traffic to and from your virtual machine (VM) instances. To secure applications and respond to modern threats, firewall",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
+      "publishedDateTime": "2019-09-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/002-GoogleCloud-Blog-Header.max-1000x1000.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2019-09-18-virtual-display-devices-for-compute-engine-now-ga.md",
       "title": "Virtual display devices for Compute Engine now GA",
       "excerpt": "Today, we’re excited to announce the general availability (GA) of virtual display devices for Compute Engine virtual machines (VMs), letting you add a virtual display device to any VM on Google Cloud. This gives your VM Video Graphics Array (VGA) capabilities without having to use GPUs, which can be",

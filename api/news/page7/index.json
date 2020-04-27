@@ -2,6 +2,154 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-12-exploring-container-security-run-what-you-trust-isolate-what-you-dont.md",
+      "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
+      "excerpt": "From vulnerabilities to cryptojacking to well, more cryptojacking, there were plenty of security events to keep container users on their toes throughout 2019. With Kubernetes being used to manage most container-based environments (and increasingly hybrid ones too), it’s no surprise that Forrester Research,",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548e_Container_security_full.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-running-workloads-on-dedicated-hardware-just-got-better.md",
+      "title": "Running workloads on dedicated hardware just got better",
+      "excerpt": "At Google Cloud, we repeatedly hear how important flexibility, openness, and choice are for your cloud migration and modernization journey. For enterprise customers that require dedicated hardware due to requirements such as performance isolation (for gaming), physical separation (for finance or healthcare),",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Compute_workload_pmsK0uM.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Running workloads on dedicated hardware just got better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-now-updated-our-data-engineering-learning-path.md",
+      "title": "Now updated: Our Data Engineering Learning Path",
+      "excerpt": "With the market for artificial intelligence and machine learning-powered solutions projected to grow to $1.2B by 2023, it’s important to consider business needs now and in the future. We've heard from our customers and have witnessed internally that the data engineering role has evolved and now requires",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
+      "publishedDateTime": "2020-02-11T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/560-GCP-Higher-Ed-Hero_Krk4pEL.max-1000x1000.png",
+          "width": 1000,
+          "height": 570,
+          "title": "Now updated: Our Data Engineering Learning Path",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-bring-2020-vision-to-your-pipelines-with-enhanced-monitoring.md",
+      "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
+      "excerpt": "Stream analytics is bringing data to life in a way that was previously unimaginable, unlocking new use cases, from connected medical devices in healthcare to predictive maintenance on the factory floor. But with new uses comes new challenges that, if left unaddressed, can lead to unintended behaviors",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
+      "publishedDateTime": "2020-02-11T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Dataflow.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-understanding-data-pipeline-security-in-cloud-data-fusion.md",
       "title": "Understanding data pipeline security in Cloud Data Fusion",
       "excerpt": "For those of you working in data analytics, ETL and ELT pipelines are an important piece of your data foundation. Cloud Data Fusion is our fully managed data integration service for quickly building and managing data pipelines. Cloud Data Fusion is built on the open source project CDAP, and this open",
@@ -779,155 +927,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-put-your-archive-data-on-ice-with-new-storage-offering.md",
-      "title": "Put your archive data on ice with new storage offering",
-      "excerpt": "Data storage provides a key part of the foundation for enterprise data infrastructure, including cloud-based workloads. At Google Cloud, we think that you should have a range of straightforward storage options that allow you to more securely and reliably access your data when and where you need it, without",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/archive-storage-class-for-coldest-data-now-available/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/archive-storage-class-for-coldest-data-now-available/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/archive-storage-class-for-coldest-data-now-available/amp/",
-      "publishedDateTime": "2020-01-08T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Cloud_Storage.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Put your archive data on ice with new storage offering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-your-guide-to-kubernetes-best-practices.md",
-      "title": "Your guide to Kubernetes best practices",
-      "excerpt": "Kubernetes made a splash when it brought containerized app management to the world a few years back. Now, many of us are using it in production to deploy and manage apps at scale. Along the way, we’ve gathered tips and best practices on using Kubernetes and Google Kubernetes Engine (GKE) to your best",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/your-guide-kubernetes-best-practices/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/your-guide-kubernetes-best-practices/amp/",
-      "publishedDateTime": "2020-01-07T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Your guide to Kubernetes best practices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-01-06-connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions.md",
-      "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
-      "excerpt": "Do you wish you could access resources in your Virtual Private Cloud (VPC) with serverless applications running on App Engine or Cloud Functions? Now you can, with the new Serverless VPC Access service.Available now, Serverless VPC access lets you access virtual machines, Cloud Memorystore Redis instances,",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
-      "publishedDateTime": "2020-01-06T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-12-20-kubernetes-podcast-in-2019-year-end-recap.md",
-      "title": "Kubernetes Podcast in 2019: year-end recap",
-      "excerpt": "At the Kubernetes Podcast, we bring you a weekly round-up of cloud-native news, accompanied by an in-depth interview with a community member. As we publish our 50th and final episode for 2019, it's time to look back on some of our favorite moments from the year.This year, we stepped out of the studio.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/amp/",
-      "publishedDateTime": "2019-12-20T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Kubernetes_A.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Kubernetes Podcast in 2019: year-end recap",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

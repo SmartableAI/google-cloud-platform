@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-02-filling-the-ncaa-void-using-bigquery-to-simulate-march-madness.md",
+      "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+      "excerpt": "As COVID-19 continues to have enormous impact around the world, we’ve focused on supporting customers and making available public data to help research efforts, among various other initiatives. Beyond the essential issues at hand, it’s been a truly strange time for sports fans, with virtually every league",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/march-madness-simulations-with-machine-learning/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_basketball.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-powering-up-caching-with-memorystore-for-memcached.md",
+      "title": "Powering up caching with Memorystore for Memcached",
+      "excerpt": "In-memory data stores are a fundamental infrastructure for building scalable, high-performance applications. Whether it is building a highly responsive ecommerce website, creating multiplayer games with thousands of users, or doing real-time analysis on data pipelines with millions of events, an in-memory",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/fully-managed-memorystore-for-memcached/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/fully-managed-memorystore-for-memcached/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/fully-managed-memorystore-for-memcached/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_3_ZIyuD1m.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Powering up caching with Memorystore for Memcached",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-introducing-bigquery-column-level-security-new-fine-grained-access-controls.md",
+      "title": "Introducing BigQuery column-level security: new fine-grained access controls",
+      "excerpt": "We’re announcing a key capability to help organizations govern their data in Google Cloud. Our new BigQuery column-level security controls are an important step toward placing policies on data that differentiate between classes. This allows for compliance with regulations that mandate such distinction,",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-column-level-security/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-column-level-security/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-column-level-security/amp/",
+      "publishedDateTime": "2020-04-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security-identity-03.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing BigQuery column-level security: new fine-grained access controls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-introducing-service-directory-manage-all-your-services-in-one-place-at-scale.md",
+      "title": "Introducing Service Directory: Manage all your services in one place at scale",
+      "excerpt": "Enterprises rely on increasing numbers of heterogeneous services across cloud and on-premises environments. Google Cloud customers, for example, may use services like Cloud Storage alongside third-party partner services such as Snowflake, MongoDB, and Redis, as well as their own company-owned applications.",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/introducing-service-directory/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/introducing-service-directory/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/introducing-service-directory/amp/",
+      "publishedDateTime": "2020-03-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Networking_02.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing Service Directory: Manage all your services in one place at scale",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-google-cloud-releases-covid-19-data-sets-to-foster-coronavirus-fighting-ai-models.md",
       "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
       "excerpt": "The corpora within the COVID-19 Public Datasets program include the Johns Hopkins Center for Systems Science and Engineering (JHU CSSE) data set, Global Health Data from the World Bank, and OpenStreetMap data, all of which are stored for free on Google Cloud. (Google says it’ll reach out to organizations whose data sets are pre-selected for ...",
@@ -1004,155 +1152,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-local-ssds-vms-love-at-first-terabyte.md",
-      "title": "Local SSDs + VMs = love at first (tera)byte",
-      "excerpt": "Data storage is the foundation for all kinds of enterprises and their workloads. For most of those, our Google Cloud standard object, block, and file storage products offer the necessary performance. But for companies doing compute-intensive work like analytics for ecommerce websites, or gaming and visual",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/larger-local-ssd-storage-available-now/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
-      "publishedDateTime": "2020-03-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
-          "width": 2800,
-          "height": 1167,
-          "title": "Local SSDs + VMs = love at first (tera)byte",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-modern-analytics-made-easy-with-new-redshift-s3-migration-tools.md",
-      "title": "Modern analytics made easy with new Redshift, S3 migration tools",
-      "excerpt": "Editor's note: This blog takes a closer look at some of the recently announced BigQuery product innovations and deepened partnerships that are helping enterprises fast-track their migration to BigQuery.In the past 40 years, the data warehouse has gone through many transformations, driven by business",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
-      "publishedDateTime": "2020-03-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Modern analytics made easy with new Redshift, S3 migration tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-introducing-cloud-ai-platform-pipelines.md",
-      "title": "Introducing Cloud AI Platform Pipelines",
-      "excerpt": "When you're just prototyping a machine learning (ML) model in a notebook, it can seem fairly straightforward. But when you need to start paying attention to the other pieces required to make a ML workflow sustainable and scalable, things become more complex. A machine learning workflow can involve many",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
-      "publishedDateTime": "2020-03-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
-          "width": 2800,
-          "height": 1167,
-          "title": "Introducing Cloud AI Platform Pipelines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-get-the-flink-operator-for-kubernetes-in-anthos-on-marketplace.md",
-      "title": "Get the Flink Operator for Kubernetes in Anthos on Marketplace",
-      "excerpt": "At Google Cloud, our Dataproc team has been working to improve the integration of open source processing engines with Kubernetes. Dataproc is our managed service for running many of these open source engines, including Apache Spark and Apache Hadoop. Our goal is to make the underlying infrastructure",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/open-source-processing-engines-for-kubernetes/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/open-source-processing-engines-for-kubernetes/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/open-source-processing-engines-for-kubernetes/amp/",
-      "publishedDateTime": "2020-03-10T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Dataproc_1ZCbMuo.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Get the Flink Operator for Kubernetes in Anthos on Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-27-6-new-device-data-and-user-controls-to-help-g-suite-customers-stay-secure.md",
+      "title": "6 new device, data, and user controls to help G Suite customers stay secure",
+      "excerpt": "At G Suite, we know that there’s a new reality facing many IT admins: with an increasingly remote workforce, you’re balancing priorities from business leaders focused on meeting business goals and your CISO focused on security, all while keeping your users online and productive. You’re doing you best,",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/6-new-controls-to-help-g-suite-customers-stay-secure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security-identity-04.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "6 new device, data, and user controls to help G Suite customers stay secure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-online-event-helping-financial-services-organizations-deliver-the-foundations-for-true-resilience.md",
+      "title": "Online event: Helping financial services organizations deliver the foundations for true resilience",
+      "excerpt": "Financial services firms are increasingly turning to the cloud to create digital banking solutions and to build resiliency and agility into their core business infrastructure. This trend has only accelerated as the world adapts to virtual working environments and entirely new ways of doing business. To",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/financial-services/helping-financial-services-organizations-deliver-foundations-true-resilience/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/0710_Bankingonthecloud-BlogHeader.max-1300.max-2800x2800.png",
+          "width": 2800,
+          "height": 1555,
+          "title": "Online event: Helping financial services organizations deliver the foundations for true resilience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-your-top-network-performance-problems-and-how-to-fix-them.md",
+      "title": "Your top network performance problems and how to fix them",
+      "excerpt": "Got network trouble, and don’t know where to start? Whether you’re trying to troubleshoot a performance problem or understand your network performance in order to make optimal deployment decisions, Google Cloud has a comprehensive set of tools for network monitoring, verification and optimization. With",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/your-top-network-performance-problems-and-how-to-fix-them/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Your top network performance problems and how to fix them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-this-analyst-thinks-cloud-stocks-are-overvalued-is-he-right.md",
+      "title": "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?",
+      "excerpt": "If you think cloud stocks are overvalued, you're not alone. JPMorgan Chase analyst Mark Murphy slashed his ratings on a number of well-known SaaS (software-as-a-service) companies -- Alteryx ( NYSE:AYX) ,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx",
+      "publishedDateTime": "2020-04-27T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/c4900b39802be3daf7670618fa458d90.png",
+          "width": 720,
+          "height": 386,
+          "title": "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-explaining-model-predictions-on-image-data.md",
       "title": "Explaining model predictions on image data",
       "excerpt": "Editor's note: This is the second blog post in a series covering how to use AI Explanations with different data types. The first post explained how to use Explainable AI with tabular data.As machine learning technology continues to improve and models become increasingly accurate, we’re using ML to solve",
@@ -829,182 +982,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-cloud-anthos-now-available-for-aws-with-azure-to-follow.md",
-      "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
-      "excerpt": "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "publishedDateTime": "2020-04-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-computing-platform-will-optimize-renewable-energy-use-in-datacenters.md",
-      "title": "Google computing platform will optimize renewable energy use in datacenters",
-      "excerpt": "As part of an ongoing effort to reduce the environmental impact of cloud computing, Google announced that it has developed a platform that maximizes the use of alternative energy sources at its sprawling network of datacenters. In a blog post, Google officials described the system as a “carbon-intelligent computing platform.” The system ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
-      "publishedDateTime": "2020-04-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google computing platform will optimize renewable energy use in datacenters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-to-embrace-the-hybrid-cloud-reality-and-get-it-right.md",
-      "title": "How To Embrace The Hybrid Cloud Reality And Get It Right",
-      "excerpt": "With the initial promise of the cloud, organizations were rushing to implement “the next great thing” — but many failed to successfully put a hybrid strategy in place. Are you one of those organizations?",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/amp/",
-      "publishedDateTime": "2020-04-22T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-33-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How To Embrace The Hybrid Cloud Reality And Get It Right",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-amazon-tells-cloud-customers-its-here-to-help-as-businesses-face-financial-hardship.md",
-      "title": "Amazon tells cloud customers it's 'here to help' as businesses face financial hardship",
-      "excerpt": "AWS sent an email to some customers on Monday, providing a way for them to ask for help while dealing with the coronavirus.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/21/aws-offers-to-help-customers-facing-financial-challenges-from-covid-19.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/21/aws-offers-to-help-customers-facing-financial-challenges-from-covid-19.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/21/aws-offers-to-help-customers-facing-financial-challenges-from-covid-19.html",
-      "publishedDateTime": "2020-04-21T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105416027-1535149821829gettyimages-670451702.jpeg?v=1585952485",
-          "width": 4000,
-          "height": 2667,
-          "title": "Amazon tells cloud customers it's 'here to help' as businesses face financial hardship",
           "attribution": null
         }
       ],
