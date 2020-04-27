@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-27-explaining-model-predictions-on-image-data.md",
+      "title": "Explaining model predictions on image data",
+      "excerpt": "Editor's note: This is the second blog post in a series covering how to use AI Explanations with different data types. The first post explained how to use Explainable AI with tabular data.As machine learning technology continues to improve and models become increasingly accurate, we’re using ML to solve",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/explaining-model-predictions-on-image-data/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_explainable_ai.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Explaining model predictions on image data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-security-simplified-making-shielded-vm-the-default-for-compute-engine.md",
+      "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
+      "excerpt": "Last April we announced the general availability of Shielded VM—virtual machine instances that are hardened with a set of easily configurable security features to ensure that when your VM boots, it’s running a verified bootloader and kernel. To make it accessible to everyone, we offered Shielded VM at",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/security-simplified-making-shielded-vm-default-compute-engine/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_shielded_vms.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-see-how-dozens-rethinks-the-fintech-industry-with-the-help-of-google-maps-platform.md",
+      "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
+      "excerpt": "Editor’s note: Today’s post comes from Aritra Chakravarty, Founder and CEO of Dozens. Dozens is rethinking the banking industry using Google Maps Platform to help its customers change the way they spend and save money.When we started Dozens in 2018, we wanted to create a new kind of fintech startup.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/see-how-dozens-rethinks-fintech-industry-help-google-maps-platform/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Dozens_payments.png",
+          "width": 1308,
+          "height": 774,
+          "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code.md",
+      "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+      "excerpt": "Thanks to smartphones and their downsized keyboards, autocomplete has become a nearly ubiquitous feature of how we write these days. To save us precious seconds composing and (at least in my fat-thumbed case) correcting words,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "publishedDateTime": "2020-04-27T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1187635203.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes.md",
       "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
       "excerpt": "Multiplayer gaming has come alive on Google Stadia since it went free. We check out the multiplayer experience in several of Stadia's big games.",
@@ -49,7 +202,7 @@
       "path": "_news/2020-04-26-you-can-finally-change-your-ok-google-sensitivity-settings-heres-how.md",
       "title": "You can finally change your OK, Google sensitivity settings. Here's how",
       "excerpt": "Now your Google Home can. The search giant is officially rolling out new controls that let you adjust the sensitivity of your smart speaker to its wake word. That means you can fine-tune your Google Home ($49 at Walmart) or Nest devices to pick up \"Hey,",
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/how-to/you-can-finally-change-your-ok-google-sensitivity-settings-heres-how/",
@@ -1049,175 +1202,6 @@
           "width": 1200,
           "height": 801,
           "title": "Cisco and Google announce joint SD-WAN cloud hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub.md",
-      "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
-      "excerpt": "This latest integration is centered around Google Anthos, a platform launched last year for managing applications on premise or in any cloud environment. By tightly integrating Cisco SD-WAN services with Google Cloud and Anthos, the companies said they can offer a new turnkey, multicloud networking fabric called the Cisco SD-WAN Cloud Hub ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
-      "publishedDateTime": "2020-04-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/ce6814ff-ce69-44ef-b6a8-89993fd7e787/thumbnail/1200x675/90a7834e7d694a76c76eaaced038ebe8/istock-1092964846.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-modernize-enterprise-networking-with-cisco-sd-wan-and-google-cloud.md",
-      "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
-      "excerpt": "Enterprises are increasingly adopting hybrid and multi-cloud to deliver the best experiences for their customers. The network is at the foundation of this transformation, but is getting exponentially more complex to manage, secure, and scale throughout an enterprise footprint that can include multiple",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-forgerock-nabs-935m-for-its-id-management-platform-gears-up-next-for-an-ipo.md",
-      "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
-      "excerpt": "The company is today announcing that it has raised $93.5 million in funding, a Series E it will use to continue expanding its product and take it to its next step as a business, specifically investing in R&D, cloud services ... a time when our platform can consume decentralised identity, on par with logins from Google or Facebook today.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
-      "publishedDateTime": "2020-04-21T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/4157483192_7b6e4b41e2_k.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn.md",
-      "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
-      "excerpt": "The survey also found that the gap between public cloud platform providers is closing with Google Cloud, Amazon Web Services, and Microsoft Azure each getting an equal share of votes as a preferred cloud provider. Tech leaders are looking for providers ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "publishedDateTime": "2020-04-20T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/20/7f41e818-d531-4993-9a76-4cba42ad6471/resize/1200x/5534a0088a1a141e343fc913e14c3a3d/opsramp-costcutting.jpg",
-          "width": 1200,
-          "height": 1148,
-          "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
           "attribution": null
         }
       ],

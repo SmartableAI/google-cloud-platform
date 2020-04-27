@@ -2,6 +2,175 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-15-pileus-helps-businesses-cut-their-cloud-spend.md",
+      "title": "Pileus helps businesses cut their cloud spend",
+      "excerpt": "Using machine learning, the company’s platform continuously learns about how a user typically uses a given cloud and then provides forecasts and daily personalized recommendations to help them stay within a budget. Pileus currently supports AWS, with support for Google Cloud and Microsoft Azure coming soon. With all of the information it ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
+      "publishedDateTime": "2020-04-15T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/register_mockup_image.27280a96.png",
+          "width": 622,
+          "height": 364,
+          "title": "Pileus helps businesses cut their cloud spend",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing.md",
+      "title": "How Apple and Google plan to combat the coronavirus through contact tracing",
+      "excerpt": "Anticipating this concern, Apple and Google have both addressed it. In one of its documents, Apple explained that the proximity identifier changes every 15 minutes and requires the necessary key in order to be traced back to the user. These identifiers are processed on the device and not in the cloud. Each user chooses whether to contribute to ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
+      "publishedDateTime": "2020-04-15T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/15/d196417e-97e5-46e1-b2d0-185b234bd6a1/resize/1200x/5c40b60c64e46a2dcd1d9fa6ee53ac0c/istock-612616318.jpg",
+          "width": 1200,
+          "height": 939,
+          "title": "How Apple and Google plan to combat the coronavirus through contact tracing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-how-anthos-gke-surge-upgrades-improve-operational-efficiency.md",
+      "title": "How Anthos GKE surge upgrades improve operational efficiency",
+      "excerpt": "A big part of keeping a Kubernetes environment healthy is performing regular upgrades. At Google Cloud, we automatically upgrade the cluster control plane for Google Kubernetes Engine (GKE) users, but you’re responsible for upgrading the cluster’s individual nodes, as well as any additional software",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-surge-upgrades-for-anthos-gke/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "How Anthos GKE surge upgrades improve operational efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand.md",
+      "title": "Pentagon's inspector general says Microsoft's JEDI cloud win should stand",
+      "excerpt": "From the 313-page Inspector General's report: \"We sought to review whether there was any White House influence on the JEDI cloud procurement. We could not review this matter ... Amazon and Microsoft emerged as the two final bidders in the winner-take-all deal. (Google dropped out of the JEDI bidding late last year, while Oracle and IBM were ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/",
+      "publishedDateTime": "2020-04-15T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg",
+          "width": 877,
+          "height": 593,
+          "title": "Pentagon's inspector general says Microsoft's JEDI cloud win should stand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-this-cloud-software-startup-used-by-the-us-air-force-just-raised-30-million-from-vcs-and-the-cia.md",
       "title": "This Cloud Software Startup Used By The U.S. Air Force Just Raised $30 Million From VCs And The CIA",
       "excerpt": "Many of those still in high-demand operate in cloud computing, such as HashiCorp, which raised $175 million at a $5.1 billion valuation in March, and Notion, a workflow productivity platform that competes with Google Docs and Slack, that raised $50 million at a $2 billion valuation also last month. Entwistle says Coder is not yet profitable as ...",
@@ -955,167 +1124,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-google-cloud-releases-covid-19-data-sets-to-foster-coronavirus-fighting-ai-models.md",
-      "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
-      "excerpt": "The corpora within the COVID-19 Public Datasets program include the Johns Hopkins Center for Systems Science and Engineering (JHU CSSE) data set, Global Health Data from the World Bank, and OpenStreetMap data, all of which are stored for free on Google Cloud. (Google says it’ll reach out to organizations whose data sets are pre-selected for ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
-      "publishedDateTime": "2020-03-30T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-covid-19-public-dataset-program-making-data-freely-accessible-for-better-public-outcomes.md",
-      "title": "COVID-19 public dataset program: Making data freely accessible for better public outcomes",
-      "excerpt": "Data always plays a critical role in the ability to research, study, and combat public health emergencies, and nowhere is this more true than in the case of a global crisis. Access to data sets—and tools that can analyze that data at cloud scale—are increasingly essential to the research process, and",
-      "heat": 125,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/",
-      "publishedDateTime": "2020-03-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "COVID-19 public dataset program: Making data freely accessible for better public outcomes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-customer-engineers-bring-people-and-technology-together.md",
-      "title": "Customer engineers bring people and technology together",
-      "excerpt": "Editor’s note: We’re celebrating Women’s History Month by talking with Cloud Googlers about identity and how it influences their work in technology. At Google Cloud, our customer engineers bring technology and people together, helping our customers choose the right tools to solve their problems, and",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/customer-engineers-at-google-cloud-talk-tech/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/customer-engineers-at-google-cloud-talk-tech/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/customer-engineers-at-google-cloud-talk-tech/amp/",
-      "publishedDateTime": "2020-03-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_cloud_5.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Customer engineers bring people and technology together",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-google-microsoft-and-palantir-are-building-a-covid-19-dashboard-for-the-uks-health-system.md",
-      "title": "Google, Microsoft, and Palantir are building a COVID-19 dashboard for the UK's health system",
-      "excerpt": "The NHS says all data will remain under its control.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3?amp",
-      "publishedDateTime": "2020-03-30T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e7ddb8d671de001c164e5b3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google, Microsoft, and Palantir are building a COVID-19 dashboard for the UK's health system",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

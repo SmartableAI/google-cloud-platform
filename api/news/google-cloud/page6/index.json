@@ -2,6 +2,155 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-06-understanding-data-pipeline-security-in-cloud-data-fusion.md",
+      "title": "Understanding data pipeline security in Cloud Data Fusion",
+      "excerpt": "For those of you working in data analytics, ETL and ELT pipelines are an important piece of your data foundation. Cloud Data Fusion is our fully managed data integration service for quickly building and managing data pipelines. Cloud Data Fusion is built on the open source project CDAP, and this open",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/amp/",
+      "publishedDateTime": "2020-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Data_Fusion.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Understanding data pipeline security in Cloud Data Fusion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-scale-your-composer-environment-together-with-your-business.md",
+      "title": "Scale your Composer environment together with your business",
+      "excerpt": "When you’re building data pipelines, it’s important to consider business needs now and in the future. We often hear from customers that they want to configure and optimize their Cloud Composer environments. So we on the Cloud Composer engineering team will share in this post how Cloud Composer—built",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
+      "publishedDateTime": "2020-02-05T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Scale your Composer environment together with your business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-windows-server-applications-welcome-to-google-kubernetes-engine.md",
+      "title": "Windows Server applications, welcome to Google Kubernetes Engine",
+      "excerpt": "The promise of Kubernetes is to make container management easy and ubiquitous. Up until recently though, the benefits of Kubernetes were limited to Linux-based applications, preventing enterprise applications running on Windows Server from taking advantage of its agility, speed of deployment and simplified",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/run-windows-server-containers-on-gke/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
+      "publishedDateTime": "2020-01-30T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Containers_08.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Windows Server applications, welcome to Google Kubernetes Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-announcing-new-certifications-for-technical-leaders-and-devops-engineers.md",
+      "title": "Announcing new certifications for technical leaders and DevOps engineers",
+      "excerpt": "As the cloud continues to evolve, it’s paving the way for exciting innovations that were difficult to imagine even a few years ago. To take advantage of everything the latest cloud technology has to offer, organizations must be able to find people with the right combination of skills to make it happen.",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
+      "publishedDateTime": "2020-01-30T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_Training_and_Certification.max-1100x1100.jpg",
+          "width": 1100,
+          "height": 458,
+          "title": "Announcing new certifications for technical leaders and DevOps engineers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-expanding-our-alliance-with-cisco-in-hybrid-cloud-and-the-contact-center.md",
       "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
       "excerpt": "Over the past three years, we’ve worked closely with Cisco to deliver a number of customer-focused solutions in areas such as hybrid cloud, multi-cloud, work transformation, and contact center integrations. This week at Cisco Live in Barcelona, we’re sharing updates on our joint work in two key areas",
@@ -964,156 +1113,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-12-introducing-storage-transfer-service-for-on-premises-data.md",
-      "title": "Introducing Storage Transfer Service for on-premises data",
-      "excerpt": "There’s an enormous amount of data in the world today, and your company likely operates its own storage infrastructure to store this data. Running your business in the cloud can generate more value from your data and facilitate collaboration across your organization, all while optimizing for infrastructure",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/amp/",
-      "publishedDateTime": "2019-12-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_806_GCP_TransferService_JR01.gif",
-          "width": 1920,
-          "height": 1080,
-          "title": "Introducing Storage Transfer Service for on-premises data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-12-11-introducing-e2-new-cost-optimized-general-purpose-vms-for-google-compute-engine.md",
-      "title": "Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine",
-      "excerpt": "Editor’s note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regionsGeneral-purpose virtual machines are the workhorses of cloud applications. Today, we’re excited to announce our E2 family of VMs for Google Compute Engine featuring dynamic resource management",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/amp/",
-      "publishedDateTime": "2019-12-11T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/e2-hero-2880x1200.png",
-          "width": 2881,
-          "height": 1200,
-          "title": "Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2019-12-11-performance-driven-dynamic-resource-management-in-e2-vms.md",
-      "title": "Performance-driven dynamic resource management in E2 VMs",
-      "excerpt": "Editor's note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regions. This is the second post in a two-post series. Click here for part 1: E2 introduction.As one of the most avid users of compute in the world, Google has invested heavily in making compute",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/understanding-dynamic-resource-management-in-e2-vms/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/understanding-dynamic-resource-management-in-e2-vms/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/understanding-dynamic-resource-management-in-e2-vms/amp/",
-      "publishedDateTime": "2019-12-11T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/e2-hero-technical.png",
-          "width": 2881,
-          "height": 1200,
-          "title": "Performance-driven dynamic resource management in E2 VMs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2019-12-11-whats-new-in-cloud-run-for-anthos.md",
-      "title": "What’s new in Cloud Run for Anthos",
-      "excerpt": "Earlier this year, we announced Cloud Run, our newest compute platform for serverless containers, which runs either on Google’s fully managed infrastructure–or on your Google Kubernetes Engine (GKE) clusters with Cloud Run for Anthos. This portability is achieved with Knative open-source APIs.With Cloud",
-      "heat": 168,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/new-features-in-cloud-run-for-anthos-ga/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
-      "publishedDateTime": "2019-12-11T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Serverless.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "What’s new in Cloud Run for Anthos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Serverless",
-        "Hybrid Cloud"
       ]
     }
   ],

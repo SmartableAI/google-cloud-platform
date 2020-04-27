@@ -2,6 +2,167 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-30-google-cloud-releases-covid-19-data-sets-to-foster-coronavirus-fighting-ai-models.md",
+      "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
+      "excerpt": "The corpora within the COVID-19 Public Datasets program include the Johns Hopkins Center for Systems Science and Engineering (JHU CSSE) data set, Global Health Data from the World Bank, and OpenStreetMap data, all of which are stored for free on Google Cloud. (Google says it’ll reach out to organizations whose data sets are pre-selected for ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
+      "publishedDateTime": "2020-03-30T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-covid-19-public-dataset-program-making-data-freely-accessible-for-better-public-outcomes.md",
+      "title": "COVID-19 public dataset program: Making data freely accessible for better public outcomes",
+      "excerpt": "Data always plays a critical role in the ability to research, study, and combat public health emergencies, and nowhere is this more true than in the case of a global crisis. Access to data sets—and tools that can analyze that data at cloud scale—are increasingly essential to the research process, and",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/",
+      "publishedDateTime": "2020-03-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "COVID-19 public dataset program: Making data freely accessible for better public outcomes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-customer-engineers-bring-people-and-technology-together.md",
+      "title": "Customer engineers bring people and technology together",
+      "excerpt": "Editor’s note: We’re celebrating Women’s History Month by talking with Cloud Googlers about identity and how it influences their work in technology. At Google Cloud, our customer engineers bring technology and people together, helping our customers choose the right tools to solve their problems, and",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/customer-engineers-at-google-cloud-talk-tech/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/customer-engineers-at-google-cloud-talk-tech/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/customer-engineers-at-google-cloud-talk-tech/amp/",
+      "publishedDateTime": "2020-03-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_cloud_5.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Customer engineers bring people and technology together",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-google-microsoft-and-palantir-are-building-a-covid-19-dashboard-for-the-uks-health-system.md",
+      "title": "Google, Microsoft, and Palantir are building a COVID-19 dashboard for the UK's health system",
+      "excerpt": "The NHS says all data will remain under its control.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3",
+      "ampWebUrl": "https://www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3?amp",
+      "publishedDateTime": "2020-03-30T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e7ddb8d671de001c164e5b3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google, Microsoft, and Palantir are building a COVID-19 dashboard for the UK's health system",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-google-sets-aside-800m-in-ads-and-loans-to-help-in-covid-19-fight.md",
       "title": "Google sets aside $800M in ads and loans to help in COVID-19 fight",
       "excerpt": "The credits are good through the end of the year. They’ll be giving away $20 million worth of Google Cloud credits to academic institutions and researchers that are tackling COVID-19. $200 million will go to an investment fund for nonprofits and financial institutions to provide small businesses with loans. Google further reiterated they will ...",
@@ -992,154 +1153,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-compute-engine-instance-creation-made-easy-with-machine-images.md",
-      "title": "Compute Engine instance creation made easy with machine images",
-      "excerpt": "Today, we’re pleased to introduce machine images, a new type of Compute Engine resource that contains all the information you need to create, backup or restore a virtual machine, reducing the amount of time you spend managing your environment.If you administer applications that run on Compute Engine,",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/compute-engine-gets-machine-images/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/compute-engine-gets-machine-images/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/compute-engine-gets-machine-images/amp/",
-      "publishedDateTime": "2020-03-09T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Management_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Compute Engine instance creation made easy with machine images",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-architecting-multi-region-database-disaster-recovery-for-mysql.md",
-      "title": "Architecting multi-region database disaster recovery for MySQL",
-      "excerpt": "Enterprises expect extreme reliability of the database infrastructure that’s accessed by their applications. Despite your best intentions and careful engineering, database errors happen, whether that’s machine crashes or network partitioning. Good planning can help you stay ahead of problems and recover",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/disaster-recovery-for-mysql/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/disaster-recovery-for-mysql/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/disaster-recovery-for-mysql/amp/",
-      "publishedDateTime": "2020-03-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Architecting multi-region database disaster recovery for MySQL",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-create-deployment-pipelines-for-your-gke-workloads-in-a-few-clicks.md",
-      "title": "Create deployment pipelines for your GKE workloads in a few clicks",
-      "excerpt": "With Kubernetes becoming the de facto standard for container orchestration, many development teams are looking to build, test, and deploy code quickly in a frictionless manner to Kubernetes. Traditional continuous integration and continuous delivery (CI/CD) tools not designed for cloud-native environments",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/automated-deployment-pipelines-come-to-gke/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/automated-deployment-pipelines-come-to-gke/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/automated-deployment-pipelines-come-to-gke/amp/",
-      "publishedDateTime": "2020-03-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppDev.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Create deployment pipelines for your GKE workloads in a few clicks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-enhanced-models-and-features-now-available-in-new-languages-on-speech-to-text.md",
-      "title": "Enhanced models and features now available in new languages on Speech-to-Text",
-      "excerpt": "From call analytics to automated video subtitles, speech interfaces are changing the way people interact with their surroundings and enabling new business opportunities. Speech recognition technology is at the heart of these transformations and is bringing these ideas to life. At Google Cloud, we’re",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/amp/",
-      "publishedDateTime": "2020-03-05T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Speech-to-text.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Enhanced models and features now available in new languages on Speech-to-Text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
       ]
     }
   ],

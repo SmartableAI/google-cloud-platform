@@ -2,6 +2,158 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-16-protecting-businesses-against-cyber-threats-during-covid-19-and-beyond.md",
+      "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
+      "excerpt": "No matter the size of your business, IT teams are facing increased pressure to navigate the challenges of COVID-19. At the same time, some things remain constant: Security is at the top of the priority list, and phishing is still one of the most effective methods that attackers use to compromise accounts",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/protecting-against-cyber-threats-during-covid-19-and-beyond/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Security-identity-04.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-how-to-get-remote-workers-up-and-running-quickly-and-securely-with-chrome-enterprise.md",
+      "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
+      "excerpt": "Shifting to a remote workforce is an important way businesses and organizations have supported their communities in response to COVID-19. But ensuring workers have remote access to the apps and data they need can be challenging, and in the rush to deploy devices quickly, many businesses worry about threats",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/remote-work-toolkit-from-chrome-enterprise/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/12985_RemoteWorker_BlogIllo_v011x.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-google-may-let-some-air-out-of-its-cloud.md",
+      "title": "Google May Let Some Air Out of Its Cloud",
+      "excerpt": "Google will be “recalibrating” its focus and pace of investments in areas like data centers and machines—the components underpinning cloud computing.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
+      "publishedDateTime": "2020-04-16T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-176970/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Google May Let Some Air Out of Its Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-kotlin-meet-grpc-a-new-open-source-project-for-modern-apps.md",
+      "title": "Kotlin, meet gRPC: a new open-source project for modern apps",
+      "excerpt": "As developers work to modernize applications, they need foundational tools that are simple and scalable. gRPC is a high-performance, open-source, universal RPC framework originally developed here at Google that developers are adopting in tremendous numbers, helping them connect services more easily and",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_AppDev.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Kotlin, meet gRPC: a new open-source project for modern apps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-protect-your-running-vms-with-new-os-patch-management-service.md",
       "title": "Protect your running VMs with new OS patch management service",
       "excerpt": "Managing patches effectively is a great way to keep your infrastructure up-to-date and reduce the risk of security vulnerabilities. But without the right tools, patching can be daunting and labor intensive.Today, we are announcing the general availability of Google Cloud’s OS patch management service",
@@ -840,151 +992,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google.md",
-      "title": "Learn to build secure and reliable systems with a new book from Google",
-      "excerpt": "In the new “Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems” book, engineers across Google's security and SRE organizations share best practices to help you design scalable and reliable systems that are fundamentally secure. Reliability matters",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/management-tools/learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/G-Management-banner-05.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Learn to build secure and reliable systems with a new book from Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-new-ai-driven-features-in-dataprep-enhance-the-wrangling-experience.md",
-      "title": "New AI-driven features in Dataprep enhance the wrangling experience",
-      "excerpt": "Since the inception of Cloud Dataprep by Trifacta, we’ve focused on making the data preparation work of data professionals more accessible and efficient, with a determined intention to make the work of preparing data more enjoyable (and even fun, in some cases!).The latest release of Dataprep brings",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/new-dataprep-ai-features-for-data-wrangling/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "New AI-driven features in Dataprep enhance the wrangling experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-secure-connections-how-google-meet-keeps-your-video-conferences-protected.md",
-      "title": "Secure connections: How Google Meet keeps your video conferences protected",
-      "excerpt": "All over the world, businesses, schools and users depend on G Suite to help them stay connected and get work done. Google designs, builds, and operates our products on a secure foundation, aimed at thwarting attacks and providing the protections needed to keep you safe. G Suite and Google Meet are no",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-meet-keeps-video-conferences-secure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog-header--how-Hangouts-helped-one-of-Go.max-1200x1200_wYZQAj3.png",
-          "width": 1200,
-          "height": 631,
-          "title": "Secure connections: How Google Meet keeps your video conferences protected",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-last-month-today-march-in-google-cloud.md",
-      "title": "Last month today: March in Google Cloud",
-      "excerpt": "While many of us had plans for March—including simply carrying out our normal routines—life as we know it has been upended by the global coronavirus pandemic. In a time of social distancing, technology has played a greater role in bringing us together. Here’s a look at stories from March that explored",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/gcp/last-month-today-march-in-google-cloud-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GOOGLE_GCP_C_Rnd1_1HnkAko.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Last month today: March in Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

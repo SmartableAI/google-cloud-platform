@@ -24,6 +24,17 @@ images:
     height: 2950
     title: "Scoop: Google in talks to acquire D2iQ"
 
+related:
+  - title: "Google in talks to acquire cloud firm D2iQ - Axios"
+    excerpt: "Google (GOOG +0.5%, GOOGL +0.4%) is in discussions to acquire D2iQ (the cloud start-up formerly known as Mesosphere), Axios reports. Such a deal would be for more than the $250M raised from VCs, but"
+    publishedDateTime: 2020-04-27T14:18:00Z
+    webUrl: "https://seekingalpha.com/news/3564663-google-in-talks-to-acquire-cloud-firm-d2iq-axios"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
+
 secured: "pFKeRQN9y5y7ESeqEzQ+WnR6lxxjKhw1OP2vHYzZNC9OCgXhFlTpjMuw9rt4409fzrhiTWRw15oLHmdpKXaGN6coaMpC+q2dcvXTIvd3phijACmv4+Ozu8Be6FbphLn8EGuK12HYpdIiMwHJYDsVU1jKbI+8NLzraM88K2uyPCdJGU0AeGCGzwGmrYoaXXTjaXVsXrcnZDMdQXWAwDPs6hacpZaYs1aMg8z/0dZjOFcoVDAJDASGw/0sflUpff4kXq5sTStrwVL1Vcx8/VCXdtQeyehtwIYZtJTd3PJh+WPinclkyq322wJwLL8hAnb8;shCxpKHPTpOw4K5+WMnvJQ=="
 ---
 

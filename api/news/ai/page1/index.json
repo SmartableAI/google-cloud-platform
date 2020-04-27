@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-27-explaining-model-predictions-on-image-data.md",
+      "title": "Explaining model predictions on image data",
+      "excerpt": "Editor's note: This is the second blog post in a series covering how to use AI Explanations with different data types. The first post explained how to use Explainable AI with tabular data.As machine learning technology continues to improve and models become increasingly accurate, we’re using ML to solve",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/explaining-model-predictions-on-image-data/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_explainable_ai.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Explaining model predictions on image data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-from-raw-data-to-machine-learning-model-no-coding-required.md",
       "title": "From raw data to machine learning model, no coding required",
       "excerpt": "Machine learning was once the domain of specialized researchers, with complex models and proprietary code required to build a solution. But, Cloud AutoML has made machine learning more accessible than ever before. By automating the model building process, users can create highly performant models with",
