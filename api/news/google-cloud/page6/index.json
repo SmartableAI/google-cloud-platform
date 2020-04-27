@@ -2,6 +2,44 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-01-28-expanding-our-alliance-with-cisco-in-hybrid-cloud-and-the-contact-center.md",
+      "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+      "excerpt": "Over the past three years, we’ve worked closely with Cisco to deliver a number of customer-focused solutions in areas such as hybrid cloud, multi-cloud, work transformation, and contact center integrations. This week at Cisco Live in Barcelona, we’re sharing updates on our joint work in two key areas",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "publishedDateTime": "2020-01-28T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-10-top-tips-unleash-your-bigquery-superpowers.md",
       "title": "10 top tips: Unleash your BigQuery superpowers",
       "excerpt": "Lots of us are already tech heroes by day. If you know SQL, for example, you’re a hero.You have the power to transform data into insights. You can save the day when someone in need comes to you to reveal the magic numbers they can then use in their business proposals. You can also amaze your colleagues",
@@ -1076,43 +1114,6 @@
         "Compute",
         "Serverless",
         "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2019-12-10-exploring-container-security-performing-forensics-on-your-gke-environment.md",
-      "title": "Exploring container security: Performing forensics on your GKE environment",
-      "excerpt": "Running workloads in containers can be much easier to manage and more flexible for developers than running them in VMs, but what happens if a container gets attacked? It can be bad news. We recently published some guidance for how to collect and analyze forensic data in Google Kubernetes Engine (GKE),",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/amp/",
-      "publishedDateTime": "2019-12-10T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_container_security.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Exploring container security: Performing forensics on your GKE environment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

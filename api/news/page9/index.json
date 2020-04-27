@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-11-20-key-access-justifications-a-new-level-of-control-and-visibility.md",
+      "title": "Key Access Justifications: a new level of control and visibility",
+      "excerpt": "Editor’s note: The following post was updated on 1/08/20 to provide additional clarity on Cloud External Key Manager and Key Access Justifications.As enterprises move to the cloud, they want to control when and how their data is accessed. At Google Cloud, we believe that customers should have the strongest",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/control-access-to-gcp-data-with-key-access-justifications/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/control-access-to-gcp-data-with-key-access-justifications/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/control-access-to-gcp-data-with-key-access-justifications/amp/",
+      "publishedDateTime": "2019-11-20T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Security_BlogHeader_B_epmyJP1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Key Access Justifications: a new level of control and visibility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2019-11-18-bringing-hibernate-orm-to-cloud-spanner-for-database-adoption.md",
       "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
       "excerpt": "When you’re adopting a new database technology, some things to consider can include learning a new SQL dialect or writing new boilerplate persistence logic. As much as possible, we’d like to make this simpler. For this type of work, Hibernate has become the de facto standard object relational mapping",

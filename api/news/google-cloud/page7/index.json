@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-12-10-exploring-container-security-performing-forensics-on-your-gke-environment.md",
+      "title": "Exploring container security: Performing forensics on your GKE environment",
+      "excerpt": "Running workloads in containers can be much easier to manage and more flexible for developers than running them in VMs, but what happens if a container gets attacked? It can be bad news. We recently published some guidance for how to collect and analyze forensic data in Google Kubernetes Engine (GKE),",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/best-practices-for-performing-forensics-on-containers/amp/",
+      "publishedDateTime": "2019-12-10T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_container_security.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security: Performing forensics on your GKE environment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2019-12-10-8-production-ready-features-youll-find-in-cloud-run-fully-managed.md",
       "title": "8 production-ready features you’ll find in Cloud Run fully managed",
       "excerpt": "Since we launched Cloud Run at Google Cloud Next in April, developers have discovered that “serverless” and “containers” run well together. With Cloud Run, not only do you benefit from fully managed infrastructure, up and down auto-scaling, and pay-as-you-go pricing, but you’re also able to package your",
@@ -1068,43 +1105,6 @@
           "width": 2880,
           "height": 1200,
           "title": "TensorFlow Enterprise makes accessing data on Google Cloud faster and easier",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-10-30-cloud-storage-data-protection-that-fits-your-business.md",
-      "title": "Cloud storage data protection that fits your business",
-      "excerpt": "As you’re moving apps and workloads to the cloud, you’ll have new options for data storage. It’s just as important to keep your data safe in the cloud as it was on-premises, though. We’ve recently released several enhancements to Persistent Disk that offer more options for keeping your disks available",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
-      "publishedDateTime": "2019-10-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
-          "width": 2800,
-          "height": 1167,
-          "title": "Cloud storage data protection that fits your business",
           "attribution": null
         }
       ],

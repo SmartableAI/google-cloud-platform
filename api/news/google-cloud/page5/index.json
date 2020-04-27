@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-05-anthos-one-multi-cloud-management-layer-for-all-your-applications.md",
+      "title": "Anthos: one multi-cloud management layer for all your applications",
+      "excerpt": "When we first introduced Anthos in 2018, some observers described it as a way to modernize legacy applications. Simply drop your legacy on-prem application into a container, and you were on your way to cloud! But since becoming generally available last April, our customers tell us Anthos is how they",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-goes-multi-cloud-and-beyond/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
+      "publishedDateTime": "2020-03-05T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.gif",
+          "width": 1600,
+          "height": 900,
+          "title": "Anthos: one multi-cloud management layer for all your applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-discords-migration-from-redshift-to-bigquery-lessons-learned.md",
       "title": "Discord's migration from Redshift to BigQuery: lessons learned",
       "excerpt": "Editor’s note: We’re hearing today from Discord, maker of a popular voice, video, and text chat app for gaming. They have to bring a great experience to millions of customers concurrently, and keep up with demand. Here’s how they moved from Redshift to Google Cloud’s BigQuery to support their growth. At",
@@ -1075,44 +1112,6 @@
       ],
       "topics": [
         "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-expanding-our-alliance-with-cisco-in-hybrid-cloud-and-the-contact-center.md",
-      "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
-      "excerpt": "Over the past three years, we’ve worked closely with Cisco to deliver a number of customer-focused solutions in areas such as hybrid cloud, multi-cloud, work transformation, and contact center integrations. This week at Cisco Live in Barcelona, we’re sharing updates on our joint work in two key areas",
-      "heat": 135,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
-      "publishedDateTime": "2020-01-28T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI",
         "Hybrid Cloud"
       ]
     }
