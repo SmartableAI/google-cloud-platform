@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/google-cloud-anthos-now-suppor
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/google-cloud-anthos-now-supports-multi-cloud"
 type: article
 quality: 97
-heat: 108
+heat: 107
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-21T19:00:00Z
 webUrl: "https://cloud.google.com/blog/topics/inside-google-cloud/helping-our-customers-navigate-covid-19/"
 type: article
 quality: 92
-heat: 93
+heat: 92
 published: true
 
 provider:
