@@ -2,10 +2,98 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-28-zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.md",
+      "title": "Zoom taps Oracle for cloud deal, passing over Amazon, Microsoft",
+      "excerpt": "The Covid-19 pandemic has pushed many companies and schools to remote work, which allowed Zoom to emerge as a key player. The videoconferencing software company last week surpassed 300 million daily users,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html",
+      "publishedDateTime": "2020-04-28T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106411476-1582742955089gettyimages-1173631560.jpeg?v=1585759755",
+          "width": 4000,
+          "height": 2670,
+          "title": "Zoom taps Oracle for cloud deal, passing over Amazon, Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share.md",
+      "title": "Multicloud deployments become go-to strategy as AWS, Microsoft Azure, Google Cloud grab wallet share",
+      "excerpt": "Flexera's State of the Cloud 2020 report highlights how multicloud is becoming a default strategy for many enterprises and the big three providers are grabbing more of your cloud budget.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share/",
+      "publishedDateTime": "2020-04-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/04/24/e0f20bdd-b937-4683-b57b-1a402eb52f64/flexera-state-of-cloud-2020-f.png",
+          "width": 701,
+          "height": 343,
+          "title": "Multicloud deployments become go-to strategy as AWS, Microsoft Azure, Google Cloud grab wallet share",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro.md",
       "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
       "excerpt": "IT's future belongs to containers and Kubernetes, and Red Hat thinks its latest OpenShift Kubernetes distro will take you there.",
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
@@ -918,79 +1006,6 @@
       "topics": [
         "Google Cloud",
         "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-modernize-legacy-apps-with-migrate-for-anthos-introducing-support-for-day-two-operations.md",
-      "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
-      "excerpt": "Not all application modernization strategies are created equal. One of the simplest approaches is to take an existing virtual machine and save it as a container. But while the resulting container will work, it won’t give you the benefits of more sophisticated modernization techniques—both in terms of",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/migrate-for-anthos-1-3-accelerates-modernization/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-were-rolling-out-4-top-requested-google-meet-features.md",
-      "title": "We’re rolling out 4 top-requested Google Meet features",
-      "excerpt": "Remote work has become increasingly necessary for public safety and wellbeing—which makes staying connected, even while we’re apart, more important than ever. Each day, a rapidly growing number of people connect on Google Meet, and we want to make sure they have the features they need to share and be",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/productivity-collaboration/introducing-tiled-view-and-other-top-requested-features-in-google-meet/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Meet_16.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "We’re rolling out 4 top-requested Google Meet features",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],
