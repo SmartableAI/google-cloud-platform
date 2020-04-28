@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-28-red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro.md",
+      "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
+      "excerpt": "IT's future belongs to containers and Kubernetes, and Red Hat thinks its latest OpenShift Kubernetes distro will take you there.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
+      "publishedDateTime": "2020-04-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/17/80f9289a-950c-41d9-9434-64906e178775/thumbnail/1200x675/1503a8d0f23cb307b71eda70d8ddcada/openshift-container-logo.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-this-analyst-thinks-cloud-stocks-are-overvalued-is-he-right.md",
       "title": "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?",
       "excerpt": "Follow @tmfbowman If you think cloud stocks are overvalued, you're not alone. JPMorgan Chase analyst Mark Murphy slashed his ratings on a number of well-known SaaS (software-as-a-service) companies  -- Alteryx (NYSE:AYX),",
@@ -938,50 +982,6 @@
           "width": 2880,
           "height": 1200,
           "title": "We’re rolling out 4 top-requested Google Meet features",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-cloud-made-its-healthcare-api-available-to-providers-amid-the-pandemic.md",
-      "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
-      "excerpt": "Google Cloud made its Healthcare API generally available to healthcare organizations in response to the coronavirus pandemic.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/google-cloud-opens-healthcare-api-to-providers-amid-pandemic-2020-4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5db72045dee0190c79375578?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
           "attribution": null
         }
       ],

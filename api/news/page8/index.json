@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-09-exploratory-data-analysis-feature-selection-for-better-ml-models.md",
+      "title": "Exploratory data analysis, feature selection for better ML models",
+      "excerpt": "When you’re getting started with a machine learning (ML) project, one critical principle to keep in mind is that data is everything. It is often said that if ML is the rocket engine, then the fuel is the (high-quality) data fed to ML algorithms. However, deriving truth and insight from a pile of data",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/building-ml-models-with-eda-feature-selection/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/building-ml-models-with-eda-feature-selection/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/building-ml-models-with-eda-feature-selection/amp/",
+      "publishedDateTime": "2020-01-09T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_Data_Analytics.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploratory data analysis, feature selection for better ML models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-08-put-your-archive-data-on-ice-with-new-storage-offering.md",
       "title": "Put your archive data on ice with new storage offering",
       "excerpt": "Data storage provides a key part of the foundation for enterprise data infrastructure, including cloud-based workloads. At Google Cloud, we think that you should have a range of straightforward storage options that allow you to more securely and reliably access your data when and where you need it, without",
@@ -881,43 +918,6 @@
           "width": 2880,
           "height": 1200,
           "title": "How Cloud AI is shaping the future of retail—online and in-store",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-26-forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms.md",
-      "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
-      "excerpt": "We’re proud to announce that Forrester has named Google Cloud as a Leader in its report, The Forrester New Wave™: Computer Vision (CV) Platforms Q4, 2019. We believe Forrester’s report validates Google Cloud’s AI ​strategy, and echoes the feedback we’ve heard from customers: Google Cloud offers powerful,",
-      "heat": 143,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
-      "publishedDateTime": "2019-11-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Vision.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
           "attribution": null
         }
       ],
