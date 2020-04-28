@@ -2,6 +2,188 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-13-g-suite-pro-tips-declutter-your-inbox-with-gmail-filters.md",
+      "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
+      "excerpt": "Editor’s note: In a previous blog post, Greg shared tips on how to use advanced search and labels to organize your inbox. Here, he explains how Gmail filters can help you prioritize your emails.As an airplane pilot, I have a lot to think about when flying, and cockpit management skills are key for flying",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GmailLaunch-03.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1554,
+          "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-how-ebsco-delivers-dynamic-research-services-with-apigee.md",
+      "title": "How EBSCO delivers dynamic research services with Apigee",
+      "excerpt": "Editor's note: Today we hear from Adam Ray, platform product manager at EBSCO Information Services, a leading provider of research databases, e-journals, magazines, and eBooks. Learn how the company is working with Apigee to connect with customers through APIs.For more than 70 years, EBSCO has supported",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_api-management-02_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How EBSCO delivers dynamic research services with Apigee",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce.md",
+      "title": "Best practices for Chrome Enterprise admins to enable a remote workforce",
+      "excerpt": "As more businesses consider how to enable their teams to work remotely, IT admins are increasingly thinking through how to best support a distributed workforce. Earlier this week we shared some tips and best practices, but if you’re an admin that uses Chromebooks or Chrome Browser in your environment,",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/chrome_enterprise_wfh.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for Chrome Enterprise admins to enable a remote workforce",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-local-ssds-vms-love-at-first-terabyte.md",
+      "title": "Local SSDs + VMs = love at first (tera)byte",
+      "excerpt": "Data storage is the foundation for all kinds of enterprises and their workloads. For most of those, our Google Cloud standard object, block, and file storage products offer the necessary performance. But for companies doing compute-intensive work like analytics for ecommerce websites, or gaming and visual",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/larger-local-ssd-storage-available-now/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Local SSDs + VMs = love at first (tera)byte",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-modern-analytics-made-easy-with-new-redshift-s3-migration-tools.md",
+      "title": "Modern analytics made easy with new Redshift, S3 migration tools",
+      "excerpt": "Editor's note: This blog takes a closer look at some of the recently announced BigQuery product innovations and deepened partnerships that are helping enterprises fast-track their migration to BigQuery.In the past 40 years, the data warehouse has gone through many transformations, driven by business",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modern analytics made easy with new Redshift, S3 migration tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-introducing-cloud-ai-platform-pipelines.md",
       "title": "Introducing Cloud AI Platform Pipelines",
       "excerpt": "When you're just prototyping a machine learning (ML) model in a notebook, it can seem fairly straightforward. But when you need to start paying attention to the other pieces required to make a ML workflow sustainable and scalable, things become more complex. A machine learning workflow can involve many",
@@ -743,191 +925,6 @@
       "topics": [
         "Google Cloud",
         "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-new-dialogflow-mega-agent-for-contact-center-ai-increases-intents-by-10-times-to-20000.md",
-      "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
-      "excerpt": "Contact centers are one of the most important ways that businesses interact with customers. But, consistently providing great customer interactions over the range of potential conversations presents a number of complex challenges, challenges that businesses are increasingly turning to artificial intelligence",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/new-dialogflow-mega-agent-contact-center-ai-increases-intents-10-times-20000/amp/",
-      "publishedDateTime": "2020-02-19T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
-          "width": 2800,
-          "height": 1167,
-          "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-your-cloud-your-infrastructure-announcing-anthos-ready-storage.md",
-      "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
-      "excerpt": "We launched Anthos to provide customers with a platform to deliver and manage applications across all types of environments and infrastructure—most commonly, hybrid and multi-cloud environments—leveraging containers and Kubernetes.To date, we have seen an extremely enthusiastic response from customers",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/announcing-the-anthos-ready-storage-qualification/amp/",
-      "publishedDateTime": "2020-02-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Your cloud, your infrastructure: Announcing Anthos Ready Storage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-new-amd-epyc-based-compute-engine-family-now-in-beta.md",
-      "title": "New AMD EPYC-based Compute Engine family, now in beta",
-      "excerpt": "At Google Cloud, we want you to be able to choose the best VMs for your workloads. Today, we’re excited to announce a new addition to our general purpose VMs: the N2D family, built atop 2nd Gen AMD EPYC™ Processors. N2D VMs are a great option for both general-purpose workloads and workloads that require",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/announcing-the-n2d-vm-family-based-on-amd/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/announcing-the-n2d-vm-family-based-on-amd/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/announcing-the-n2d-vm-family-based-on-amd/amp/",
-      "publishedDateTime": "2020-02-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_compute.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "New AMD EPYC-based Compute Engine family, now in beta",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-taking-a-practical-approach-to-bigquery-slot-usage-analysis.md",
-      "title": "Taking a practical approach to BigQuery slot usage analysis",
-      "excerpt": "Google BigQuery is a fully managed serverless solution for your enterprise data warehouse workloads. Nothing could be easier than that: Just upload your data via batch or streaming and start running your queries. The underlying system will seamlessly take care of providing the infrastructural resources",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/amp/",
-      "publishedDateTime": "2020-02-14T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Taking a practical approach to BigQuery slot usage analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-how-udacity-students-succeed-with-google-cloud.md",
-      "title": "How Udacity students succeed with Google Cloud",
-      "excerpt": "Editor’s note: Today we hear from Udacity, which uses a variety of Google Cloud technologies for its online learning platform. Read on to learn how they built online workspaces that give students immediate access to fast, isolated compute resources and private data sets. At Udacity, we use advanced technologies",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/customers/how-udacity-uses-google-cloud/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/how-udacity-uses-google-cloud/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/how-udacity-uses-google-cloud/amp/",
-      "publishedDateTime": "2020-02-13T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Udacity.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How Udacity students succeed with Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
       ]
     }
   ],
