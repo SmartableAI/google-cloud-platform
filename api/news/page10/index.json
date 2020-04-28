@@ -2,6 +2,119 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-11-18-helping-our-customers-migrate-to-the-cloud-google-acquires-cloudsimple.md",
+      "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
+      "excerpt": "Today, Google is excited to announce that it has acquired CloudSimple, a leading provider of secure, high performance, dedicated environments to run VMware workloads in the cloud. This acquisition builds on our existing partnership with CloudSimple that we announced earlier this year, allowing us to",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
+      "publishedDateTime": "2019-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_Cloud_Simple.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-15-introducing-batch-on-gkemodernizing-hpc-with-kubernetes-in-the-cloud.md",
+      "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
+      "excerpt": "One of our most important goals at Google Cloud is to make cloud computing easier, so that you can focus on answering questions that matter the most to you, your business and your users—not on managing infrastructure. Today, we are excited to announce the preview of Batch on Google Kubernetes Engine",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
+      "publishedDateTime": "2019-11-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Batch.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-14-cloud-run-a-managed-knative-service-is-ga.md",
+      "title": "Cloud Run, a managed Knative service, is GA",
+      "excerpt": "We want to empower developers no matter where their businesses are in their cloud journey, whether that's on-prem, operating in a managed Kubernetes environment, or running on a fully managed serverless computing platform. Today, we're announcing that Cloud Run is generally available, helping developers",
+      "heat": 153,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "publishedDateTime": "2019-11-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cloud Run, a managed Knative service, is GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2019-11-13-announcing-network-intelligence-centertowards-proactive-network-operations.md",
       "title": "Announcing Network Intelligence Center—towards proactive network operations",
       "excerpt": "We are very excited to introduce Network Intelligence Center, Google Cloud’s comprehensive network monitoring, verification, and optimization platform across the cloud and on-prem data centers, along with an initial set of modules. Organizations are increasingly adopting multi-cloud implementations and",

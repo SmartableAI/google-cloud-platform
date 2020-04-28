@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-20-alibaba-will-allocate-28-billion-in-three-years-to-expand-cloud-business.md",
+      "title": "Alibaba Will Allocate $28 Billion In Three Years to Expand Cloud Business",
+      "excerpt": "Alibaba will be hoping to gain market share from other large cloud players such as Amazon, Microsoft and Alphabet's Google. The global cloud infrastructure spending in 2019 stood at $107.1 billion, up 37.6% from $77.8 billion spent in the prior-year period, according to Canalys.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx?source=iedfolrf0000001",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx",
+      "publishedDateTime": "2020-04-20T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568677%2Falibaba-cloud.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Alibaba Will Allocate $28 Billion In Three Years to Expand Cloud Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
+      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+      "excerpt": "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-coronavirus-test-troubles-cloud-trumps-efforts-to-reopen-country.md",
+      "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
+      "excerpt": "The United States is struggling to test enough people to track and control the spread of the novel coronavirus, a crucial first step to reopening parts of the economy, which President Donald Trump is pushing to do by May 1.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1",
+      "ampWebUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
+      "publishedDateTime": "2020-04-18T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20108812937625.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know.md",
       "title": "Google Stadia free tier, newest games and everything else you need to know",
       "excerpt": "Google Stadia, the megacorp's service to stream playable games on TVs and mobile devices without a console or PC, is the company's leap into the melee of cloud gaming. Google is typically the biggest fish in any pond,",
@@ -1103,115 +1235,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-how-do-i-move-data-from-mysql-to-bigquery.md",
-      "title": "How do I move data from MySQL to BigQuery?",
-      "excerpt": "In a market where streaming analytics is growing in popularity, it’s critical to optimize data processing so you can reduce costs and ensure data quality and integrity. One approach is to focus on working only with data that has changed instead of all available data. This is where change data capture",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/how-to-move-data-from-mysql-to-bigquery/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "How do I move data from MySQL to BigQuery?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-api-design-understanding-grpc-openapi-and-rest-and-when-to-use-them.md",
-      "title": "API design: Understanding gRPC, OpenAPI and REST and when to use them",
-      "excerpt": "As most software developers no doubt know, there are two primary models for API design: RPC and REST. Regardless of model, most modern APIs are implemented by mapping them in one way or another to the same HTTP protocol. It has also become common for RPC API designs to adopt one or two ideas from HTTP",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Blog_api-management-04_1.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "API design: Understanding gRPC, OpenAPI and REST and when to use them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-how-google-meet-supports-two-million-new-users-each-day.md",
-      "title": "How Google Meet supports two million new users each day",
-      "excerpt": "More than a decade ago we introduced secure, easy-to-use business collaboration and productivity apps (now known as G Suite), and we envisioned a new way of working in the cloud. And although we always knew the value of cloud-based collaboration, it is more important than ever at a time like this. Over",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-meet-supports-two-million-new-users-each-day/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Meet.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "How Google Meet supports two million new users each day",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

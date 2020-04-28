@@ -2,6 +2,117 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-12-03-gartner-names-google-cloud-a-leader-in-operational-database-management-systems.md",
+      "title": "Gartner names Google Cloud a Leader in Operational Database Management Systems",
+      "excerpt": "We’re pleased to announce that Gartner has named Google Cloud a Leader in its 2019 Magic Quadrant report for Operational Database Management Systems (OPDBMS). This news reflects what we hear from our customers: that Google Cloud databases are flexible, open, and easy to use. These include our fully compatible",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/amp/",
+      "publishedDateTime": "2019-12-03T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Genric_GCP_TH9dE8M.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Gartner names Google Cloud a Leader in Operational Database Management Systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-12-01-advancing-the-medical-imaging-field-with-cloud-based-solutions-at-rsna.md",
+      "title": "Advancing the medical imaging field with cloud-based solutions at RSNA",
+      "excerpt": "The healthcare industry is increasingly embracing the cloud, and to help, we’ve developedhealthcare andlife sciences solutions that make it easier for organizations to transition to cloud technologies. Today, at the annual meeting of the Radiological Society of North America (RSNA), we’re excited to",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/amp/",
+      "publishedDateTime": "2019-12-01T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Advancing the medical imaging field with cloud-based solutions at RSNA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-27-exploring-container-security-day-one-kubernetes-decisions.md",
+      "title": "Exploring container security: Day one Kubernetes decisions",
+      "excerpt": "Congratulations! You’ve decided to go with Google Kubernetes Engine (GKE) as your managed container orchestration platform. Your first order of business is to familiarize yourself with Kubernetes architecture, functionality and security principles. Then, as you get ready to install and configure your",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/security-considerations-for-google-kubernetes-engine/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/security-considerations-for-google-kubernetes-engine/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/security-considerations-for-google-kubernetes-engine/amp/",
+      "publishedDateTime": "2019-11-27T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548e_Container_security_full.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security: Day one Kubernetes decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2019-11-27-how-cloud-ai-is-shaping-the-future-of-retailonline-and-in-store.md",
       "title": "How Cloud AI is shaping the future of retail—online and in-store",
       "excerpt": "Technology has played a key role in retail for decades, from early innovations like barcode scanning and digital point of sale devices, to the global frontier of modern logistics. Through it all, however, the fundamentals remain the same: retailers generate huge quantities of data, face unpredictable",
@@ -996,117 +1107,6 @@
       "topics": [
         "Google Cloud",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2019-09-27-6-strategies-for-scaling-your-serverless-applications.md",
-      "title": "6 strategies for scaling your serverless applications",
-      "excerpt": "A core promise of a serverless compute platform like Cloud Functions is that you don't need to worry about infrastructure: write your code, deploy it and watch your service scale automatically. It’s a beautiful thing. That works great when your whole stack auto-scales. But what if your service depends",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/6-strategies-for-scaling-your-serverless-applications/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
-      "publishedDateTime": "2019-09-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_serverless.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "6 strategies for scaling your serverless applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-09-25-cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details.md",
-      "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
-      "excerpt": "Providing reliable data services that you can trust to serve your data is the most important goal for our database team here at Google Cloud Platform (GCP). That’s why we put money on the table in the form of availability service-level agreements (SLAs).We’re pleased to announce that all Cloud Spanner",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/cloud-spanner-amps-up-sla-adds-csv-support-and-sharpens-monitoring-details/amp/",
-      "publishedDateTime": "2019-09-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Database_rqS3tmV.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Cloud Spanner amps up SLA, adds CSV support, and sharpens monitoring details",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-09-20-container-native-load-balancing-on-gke-now-generally-available.md",
-      "title": "Container-native load balancing on GKE now generally available",
-      "excerpt": "Last year, we announced container-native load balancing, a feature that allows you to create services using network endpoint groups (NEGs) so that requests to your service get load balanced directly to the containers serving the requests. Since announcing the beta, we have worked hard to improve the",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/amp/",
-      "publishedDateTime": "2019-09-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/002-GoogleCloud-Blog-Header_xeak7mk.png",
-          "width": 4167,
-          "height": 2313,
-          "title": "Container-native load balancing on GKE now generally available",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],

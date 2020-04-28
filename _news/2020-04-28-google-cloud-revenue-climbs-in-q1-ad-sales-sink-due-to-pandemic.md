@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Alphabet reports $41.2 billion in Q1 2020 revenue: Google Cloud up 52%, YouTube up 33%, and Other Bets down 21%"
-excerpt: "Google parent company Alphabet today reported earnings for its first fiscal quarter of 2020, including revenue of $41.2 billion, net income of $6.8 billion, and earnings per share of $9.87 (compared to revenue of $36.3 billion, net income of $8.3 billion, and earnings per share of $11.90 in Q1 2019). Given the global pandemic’s impact on ..."
-publishedDateTime: 2020-04-28T20:07:00Z
-webUrl: "https://venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/"
-ampWebUrl: "https://venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/amp/"
+title: "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic"
+excerpt: "While Advertising continues to generate the most revenue for Google, the number is down significantly compared to last quarter. In Q1, Google ad revenues came to $33.76 billion, c"
+publishedDateTime: 2020-04-28T20:25:00Z
+webUrl: "https://www.zdnet.com/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/"
 type: article
-quality: 77
-heat: -1
-published: false
+quality: 97
+heat: 137
+published: true
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,27 +23,12 @@ topics:
   - Google Cloud
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2017/10/alphabet_logo.jpg?fit=1200%2C600&strip=all"
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/03/27/1b7fafa5-dea5-4795-868f-c2763cca7bfc/thumbnail/1200x675/1c3625f42ed28bf6afd7d68469d6b1b9/managing-ai-in-the-enterprise-intro-thumb.jpg"
     width: 1200
-    height: 600
-    title: "Alphabet reports $41.2 billion in Q1 2020 revenue: Google Cloud up 52%, YouTube up 33%, and Other Bets down 21%"
+    height: 675
+    title: "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic"
 
 related:
-  - title: "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic"
-    excerpt: "While Advertising continues to generate the most revenue for Google, the number is down significantly compared to last quarter. In Q1, Google ad revenues came to $33.76 billion, c"
-    publishedDateTime: 2020-04-28T20:25:00Z
-    webUrl: "https://www.zdnet.com/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/03/27/1b7fafa5-dea5-4795-868f-c2763cca7bfc/thumbnail/1200x675/1c3625f42ed28bf6afd7d68469d6b1b9/managing-ai-in-the-enterprise-intro-thumb.jpg"
-        width: 1200
-        height: 675
   - title: "Google Cloud revenue rises 52% as tech giant tempers hiring and spending plans amid crisis"
     excerpt: "Google Cloud revenue increased 52% to $2.78 billion in the first quarter, helping Google parent Alphabet beat Wall Street’s revenue expectations even as the company’s broader advertising"
     publishedDateTime: 2020-04-28T21:18:00Z
@@ -59,6 +44,21 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/04/IMG_2762-630x473.jpg"
         width: 630
         height: 473
+  - title: "Alphabet reports $41.2 billion in Q1 2020 revenue: Google Cloud up 52%, YouTube up 33%, and Other Bets down 21%"
+    excerpt: "Google parent company Alphabet today reported earnings for its first fiscal quarter of 2020, including revenue of $41.2 billion, net income of $6.8 billion, and earnings per share of $9.87 (compared to revenue of $36.3 billion, net income of $8.3 billion, and earnings per share of $11.90 in Q1 2019). Given the global pandemic’s impact on ..."
+    publishedDateTime: 2020-04-28T20:07:00Z
+    webUrl: "https://venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/"
+    ampWebUrl: "https://venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/10/alphabet_logo.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Google Parent Alphabet Beats Q1 Revenue Expectations Despite Coronavirus Downturn"
     excerpt: "Alphabet disclosed first quarter revenue of $41.2 billion, beating Wall Street expectations $40.3 billion. The company’s revenue growth rate fell to 13%, down from 17% in the previous quarter. Advertising sales still make up most of Alphabet’s total revenue (82%) and rose to $33."
     publishedDateTime: 2020-04-28T21:01:00Z
@@ -88,6 +88,6 @@ related:
         width: 1024
         height: 682
 
-secured: "ToNGdlar5CjS118D6JwPbs1DHj2YnrBaQQnh/cAMPN+FL5QNvZaJ/Q8Sn/+SfM0l8UKfx0dMopITNYazAGWG6rgOH8HKhgHDOJY8q25+cXBHeQbCYwmGdP3zt9uNnzV3H/moSTPZNe1MjMMbVfKYL5aS9mAsNzXcWMA1eDQ+RowmSP0Mgwie1NXp0KQ0aOkNAKZ6yjhH79/KiLsbcOmw9oWgAp1oYplgmw0mRinGiuqUwX51ySEnDOKYibUBAH2B8Dhb400nuR3BkEIzjngGorKQOSHrYzOJRsiSVSY+yxi1Csnp7FKxLDEIrCxs0yeQ2TvxhdFb8qbeY/CiIRiCL/PRyVpLxwFdC/Lm8naQ3tAVVBE8tpPYKB+T/Po4hInQS4hJAdVPQCu5XUW3KAKqHrXfqJmcfZpXZ9YtPfFfeLr6vxaPvhacvucARSOZY8FFzrxx4MUkF+73eajh1prkZQk/sMd29GzT5fct2Sm1j58=;PfNtDMSYNOV2xFWWnSvoNw=="
+secured: "mbWY9GkJiR59b5dCQaG5oUB4T2Wvj5h3Uw3Vm3rvcmmSTDyG+60ja1hU89mv0oO96ZNzerWin9Jzi3E1UJA2gfGMo/r8if1euEykKwCcWz6GE9AgAfsJbIPD60oX0kAjpYOEWnNysvv7+dmepyGMMCW4DY5hqNcyrvWfcAuO2B9Wu+7fWlCdWrzmfagDto5rOVeLflW6KnE3Bi5R28OxhiHMOZ5wjkSL5lwnuk1gV+HIZ615d9+K+/NOgDPW+KuB9XJYR748KVWj1AgXoz0qx3hgBTO6PfsrEgW+329bAQrZRAQKyrsaKL7US3nF9Zeq;0DODVB48Nnqx+u97PXGWkw=="
 ---
 

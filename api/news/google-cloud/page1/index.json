@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-04-28-alphabet-reports-412-billion-in-q1-2020-revenue-google-cloud-up-52-youtube-up-33-and-other-bets-down-21.md",
-      "title": "Alphabet reports $41.2 billion in Q1 2020 revenue: Google Cloud up 52%, YouTube up 33%, and Other Bets down 21%",
-      "excerpt": "Google parent company Alphabet today reported earnings for its first fiscal quarter of 2020, including revenue of $41.2 billion, net income of $6.8 billion, and earnings per share of $9.87 (compared to revenue of $36.3 billion, net income of $8.3 billion, and earnings per share of $11.90 in Q1 2019). Given the global pandemic’s impact on ...",
-      "heat": 77,
+      "path": "_news/2020-04-28-google-cloud-generated-nearly-28-billion-in-revenue-this-quarter-up-52-from-a-year-ago.md",
+      "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
+      "excerpt": "Google Cloud reported 52% year-over-year revenue growth. Google Cloud CEO Thomas Kurian has previously spoken about plans to triple its salesforce.",
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/amp/",
-      "publishedDateTime": "2020-04-28T13:07:00-07:00",
+      "webUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
+      "publishedDateTime": "2020-04-28T14:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,142 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/10/alphabet_logo.jpg?fit=1200%2C600&strip=all",
+          "url": "https://i.insider.com/5cf9809111e20513e77b4df7?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
-          "title": "Alphabet reports $41.2 billion in Q1 2020 revenue: Google Cloud up 52%, YouTube up 33%, and Other Bets down 21%",
+          "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-google-parent-alphabet-tops-sales-estimates-despite-virus-hammering-economy.md",
+      "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
+      "excerpt": "Alphabet Inc on Tuesday beat analysts' estimate for quarterly revenue as its Google unit experienced a smaller drop-off in advertiser spending than had been anticipated given economic concerns related to the novel coronavirus.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-results-idUSKCN22A37K",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22A37K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22A37K",
+      "publishedDateTime": "2020-04-28T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200428&t=2&i=1516782288&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3R28N",
+          "width": 841,
+          "height": 545,
+          "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-google-extending-cloud-reach-with-cisco-amazon-and-microsoft-connections.md",
+      "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
+      "excerpt": "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "publishedDateTime": "2020-04-28T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg",
+          "width": 2461,
+          "height": 1200,
+          "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic.md",
+      "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
+      "excerpt": "While Advertising continues to generate the most revenue for Google, the number is down significantly compared to last quarter. In Q1, Google ad revenues came to $33.76 billion, c",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
+      "publishedDateTime": "2020-04-28T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/03/27/1b7fafa5-dea5-4795-868f-c2763cca7bfc/thumbnail/1200x675/1c3625f42ed28bf6afd7d68469d6b1b9/managing-ai-in-the-enterprise-intro-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
           "attribution": null
         }
       ],
@@ -225,7 +357,7 @@
       "path": "_news/2020-04-28-ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia.md",
       "title": "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia",
       "excerpt": "Google revealed today during its latest Google Stadia Connect presentation that Electronic Arts is bringing some big games to the cloud gaming service.",
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/",
@@ -1092,130 +1224,6 @@
           "width": 2880,
           "height": 1200,
           "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-google-cloud-anthos-now-supports-multi-cloud.md",
-      "title": "Google Cloud Anthos now supports multi-cloud",
-      "excerpt": "Google Cloud has announced that its platform to manage multi-cloud workloads Anthos is now generally available for AWS though the company plans to add support for Microsoft Azure by the end of this year. Anthos aims to deliver on the promise of write once, run anywhere by allowing businesses to run their applications on existing on-prem ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/google-cloud-anthos-now-supports-multi-cloud",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/google-cloud-anthos-now-supports-multi-cloud",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/google-cloud-anthos-now-supports-multi-cloud",
-      "publishedDateTime": "2020-04-23T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8KyQTpRGfAJ86XhCPZLMVb-1200-80.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Google Cloud Anthos now supports multi-cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-how-google-sites-supports-remote-work-and-learning.md",
-      "title": "How Google Sites supports remote work and learning",
-      "excerpt": "Quickly communicating and finding critical information is more important than ever. As businesses shift to remote work setups and educational institutions roll out distance learning programs, Google Sites can be a helpful tool for centralizing and sharing important information across large, dispersed",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-sites-supports-remote-work-and-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/AppBuilder.blog_2.max-1000x1000.png",
-          "width": 1000,
-          "height": 555,
-          "title": "How Google Sites supports remote work and learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-google-cloud-ceo-coronavirus-will-create-a-new-digital-normal.md",
-      "title": "Google Cloud CEO: Coronavirus will create a new digital normal",
-      "excerpt": "The coronavirus will create a new normal baised on digital processes and accelerate business transformation, according to Google Cloud CEO Thomas Kurain. Speaking at NetApp Insight, Kurian called the potential impact of the pandemic \"shock momentum\" and said the world will \"reimagine and create new opportunities\" for what comes after the crisis.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355414/the-coronavirus-will-create-a-new-digital-normal",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355414/the-coronavirus-will-create-a-new-digital-normal?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/355414/the-coronavirus-will-create-a-new-digital-normal?amp",
-      "publishedDateTime": "2020-04-23T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587638309/itpro/Screenshot_2020-04-23_at_09.19.47.png",
-          "width": 1270,
-          "height": 716,
-          "title": "Google Cloud CEO: Coronavirus will create a new digital normal",
           "attribution": null
         }
       ],

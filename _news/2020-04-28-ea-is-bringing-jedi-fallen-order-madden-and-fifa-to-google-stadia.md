@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/amp/"
 type: article
 quality: 82
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia"
 
 related:
-  - title: "Electronic Arts to Make Its Games Available on Google Stadia"
-    excerpt: "Google announced a new partnership that will send five EA games to Google's gaming service, Google Stadia, later this year and into 2021. Google Stadia is a cloud-based subscription service that lets players play a selection of games for a monthly fee."
-    publishedDateTime: 2020-04-28T19:49:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570119%2Fman-playing-video-games-cloud-streaming.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
   - title: "PUBG, Madden, Star Wars Jedi: Fallen Order heading to Google Stadia"
     excerpt: "Google held a Stadia Connect on Tuesday to give some news of what's coming to the cloud-streaming service in 2020. The big reveal was that PlayerUnknown's Battlegrounds, better known as PUBG, is available now for free to Stadia Pro subscribers."
     publishedDateTime: 2020-04-28T16:21:00Z

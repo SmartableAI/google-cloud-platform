@@ -2,6 +2,138 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-16-your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them.md",
+      "title": "Your Zoom videos could live on in the cloud even after you delete them",
+      "excerpt": "If you clicked Record to Cloud during a Zoom meeting, you might have assumed Zoom and the cloud storage provider would have password-protected your video by default once it was uploaded. And if you deleted that video from your Zoom account,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
+      "publishedDateTime": "2020-04-16T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/zDJ-1qDidz7r3PiL8M2Uve6ZhOo=/756x567/2020/03/24/6d4a4d41-f7f5-4389-989d-65525058d751/14-zoom-app-meetings-work-from-home-coronavirus.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Your Zoom videos could live on in the cloud even after you delete them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-google-cloud-to-join-rolls-royce-coronavirus-alliance.md",
+      "title": "Google Cloud to join Rolls-Royce coronavirus alliance",
+      "excerpt": "Google Cloud has announced that it will be joining a new alliance of data analytics companies that aims to support businesses and governments in recovering from the coronavirus pandemic. Emer2gent is set to combine traditional economic, business, travel and retail data sets with behaviour and sentiment data, in order to facilitate the global ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/business/business-operations/355341/google-cloud-to-join-rolls-royce-coronavirus-alliance",
+      "ampWebUrl": "https://www.itpro.co.uk/business/business-operations/355341/google-cloud-to-join-rolls-royce-coronavirus-alliance?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business/business-operations/355341/google-cloud-to-join-rolls-royce-coronavirus-alliance?amp",
+      "publishedDateTime": "2020-04-16T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587039042/itpro/shutterstock_1435966289.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Google Cloud to join Rolls-Royce coronavirus alliance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-open-source-made-the-cloud-in-its-image.md",
+      "title": "Open source made the cloud in its image",
+      "excerpt": "Hence, the next time you pull together different components to build an application on Microsoft Azure, Google Cloud, AWS, or another cloud, realize that the reason you can do this is because the open source ethos permeates the cloud. Open source has become so commonplace today that we are apt to forget its origins. While it would be an ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3537517/open-source-made-the-cloud-in-its-image.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3537517/open-source-made-the-cloud-in-its-image.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3537517/open-source-made-the-cloud-in-its-image.amp.html",
+      "publishedDateTime": "2020-04-16T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/cq5dam_web_1280_clouds-100817664-large.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": "Open source made the cloud in its image",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-the-best-google-home-compatible-security-devices-for-2020.md",
       "title": "The best Google Home-compatible security devices for 2020",
       "excerpt": "However, there are still a number of reliable security cameras that will work with Google Home or Nest. The Wyze Cam 2 is one good option that includes free 14-day cloud storage, night vision, motion sensors, and other important modern security tech. Or you could stick with Google’s own Nest devices. The Nest Cam is a reliable indoor cam ...",
@@ -845,116 +977,6 @@
       "topics": [
         "Google Cloud",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-same-cloud-bigtable-database-now-for-smaller-workloads.md",
-      "title": "Same Cloud Bigtable database, now for smaller workloads",
-      "excerpt": "Cloud Bigtable is a fast, petabyte-scale NoSQL database service that has long supported massive workloads, both internally at Google and for Google Cloud customers. We are now announcing that Bigtable is expanding its support for smaller workloads.You can now create production instances with one or two",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/nosql-cloud-database-1-or-2-nodes/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/nosql-cloud-database-1-or-2-nodes/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/nosql-cloud-database-1-or-2-nodes/amp/",
-      "publishedDateTime": "2020-04-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/cloud_bigtable.gif",
-          "width": 1040,
-          "height": 1040,
-          "title": "Same Cloud Bigtable database, now for smaller workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-announcing-the-winners-of-our-google-cloud-2019-partner-awards.md",
-      "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
-      "excerpt": "Day in and day out, our Google Cloud partners work tirelessly to help make our customers as successful as possible, and we want to share our gratitude. Today, we’re honored to recognize the hard work these partners do through our 2019 Partner Awards.Please join us in congratulating our 2019 winners.Click",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/partners/announcing-the-winners-of-our-2019-partner-awards/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
-      "publishedDateTime": "2020-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_gNQBgP9.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-machine-learning-with-xgboost-gets-faster-with-dataproc-on-gpus.md",
-      "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
-      "excerpt": "Google Cloud’s Dataproc gives data scientists an easy, scalable, fully managed way to analyze data using Apache Spark. Apache Spark was built for high performance, but data scientists and other teams need an even higher level of performance as more questions and predictions need to be answered using",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
-      "publishedDateTime": "2020-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Training_classification_model.max-800x800.jpg",
-          "width": 800,
-          "height": 308,
-          "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

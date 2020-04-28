@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Google may acquire enterprise cloud software firm D2iQ"
-excerpt: "Google is reportedly in negotiation to acquire enterprise cloud software company D2iQ for over $250 million, the media reported. D2iQ is a Google Cloud Platform and G Suite partner and acquiring D2iQ could help Google better compete with Amazon. \"Google originally developed Kubernetes, the open source server-management technology that D2iQ has ..."
-publishedDateTime: 2020-04-28T10:30:00Z
-webUrl: "https://news.webindia123.com/news/Articles/Science/20200428/3548616.html"
+excerpt: "D2iQ investors include Hewlett Packard Enterprise, Khosla Ventures, Koch Disruptive Technologies, Microsoft, Andreessen Horowitz and T. Rowe Price Associates."
+publishedDateTime: 2020-04-28T20:45:00Z
+webUrl: "https://www.hindustantimes.com/tech/google-may-acquire-enterprise-cloud-software-firm-d2iq/story-ZkS5d9adTot39Quwd4kV7N.html"
+ampWebUrl: "https://m.hindustantimes.com/tech/google-may-acquire-enterprise-cloud-software-firm-d2iq/story-ZkS5d9adTot39Quwd4kV7N_amp.html"
+cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/google-may-acquire-enterprise-cloud-software-firm-d2iq/story-ZkS5d9adTot39Quwd4kV7N_amp.html"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - Google Cloud
@@ -33,6 +35,6 @@ related:
         width: 720
         height: 406
 
-secured: "lMq420utx61xsqi5By+dfl6jkVCg8Z3O5OIWL/89qwJJFf853zLOJHcx0RBCZmbr4TuGsVxUCEQZfF3HDaZ3pIbdFMN4CE9mFjoP3aHkZgnFQZxid8CPoZ/q5lZLBFq00H+kAFCvD9hXd+WfaAo7VQZsFb5/72R/w15oQuyuZWM7I54EpHNWGgmPCgz2VsNBGak7U0yoerz3s1TTzApYbZ7fX+IWZk3sWrXJJPA/F6IiAX0ACLyPAAH0UtAYJH83omiQqxvphBHVnFSdYV/itHQOgWBO34u5CJT2wWlVKIMOOtKQGrfQdeLZh/gQiHHm;jwcOszh7k7/Th4TPtzI6WQ=="
+secured: "trGqPz/6nsRBCwix4W3cY8Qf85FkgpNWyPIdc8lFGkyItv2WryGSw05J42QYs30CEglmKepN0tCDKOgapYiaJVRYpLhHcObfYxQHZMyOE46Y79jzVBqmmzgWqPIiJ4CUUMrdsOg+riTDFPE3pXUrAOn9KAzLgAzCN6RUEzgy7yjkd3DuIxcSrufIoJgikHCtn+UGHv8yBmwGnYlMeE/aRjyfZZrrGm8WRkvC4cImnKeGeHqgEXYGoT6coWU/efTbsThBODC+FcPFOhpWjxGWp6/rCNffMN/VRegxZQnSHmDg1YmuBtrjoXhbJmWMGZ5h;W6y+pIphcJ3eqzAP5+dGXA=="
 ---
 

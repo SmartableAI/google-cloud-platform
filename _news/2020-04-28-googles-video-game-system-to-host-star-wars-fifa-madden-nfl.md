@@ -40,21 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/greez.jpg?fit=1391%2C941&strip=all"
         width: 1391
         height: 941
-  - title: "Electronic Arts to Make Its Games Available on Google Stadia"
-    excerpt: "Google announced a new partnership that will send five EA games to Google's gaming service, Google Stadia, later this year and into 2021. Google Stadia is a cloud-based subscription service that lets players play a selection of games for a monthly fee."
-    publishedDateTime: 2020-04-28T19:49:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570119%2Fman-playing-video-games-cloud-streaming.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
   - title: "PUBG, Madden, Star Wars Jedi: Fallen Order heading to Google Stadia"
     excerpt: "Google held a Stadia Connect on Tuesday to give some news of what's coming to the cloud-streaming service in 2020. The big reveal was that PlayerUnknown's Battlegrounds, better known as PUBG, is available now for free to Stadia Pro subscribers."
     publishedDateTime: 2020-04-28T16:21:00Z
@@ -121,6 +106,6 @@ related:
       domain: worthplaying.com
     quality: 2
 
-secured: "ACmJS34o114zDcEbKNiL7H3C3NA33b71SQXKvsQfGTyaGuSYF9A9rD2bZgGYmOEVecPTnJMKqmNfcKkj/vM8EB9x154VPn/RH1bmMyt4Mc6AFS/WqA++IZu446o418WCdh8HdLlz0WMSMTcYlKmCRTyxsatuC1HM1vohK1icsJTKZ4GOXYuFE8PMY8B1eTV4Dvz0PKA7RJfKfpbzZAj/AmLyDaZCTRLHKMpXbaIkiJfxWEUSHMPFj9AJx0GpGzj4Bu0D8nazzZWp276JCAkHeG/DcMhE6VRbjL5GNysu4iKupB06/fA5umWzWTXzrgAn;4O5eDtXPq4q66n3Mse+y6A=="
+secured: "sLSM5yF2+BYivpkCf8B63sE/3SZtyiosjekfzh1+fRf0+AplsV7vhaJnlDP6CsX4Y9ksDuysH+GaK3DK028Dg6E2VeclRlcMWo8lRX3LEZHnWC9xT6UKpmp2XwJNS/uoaww2a4JHSZFYZIVAhN52poQNdfdXU1sljSG4DCCQiGa43jrrFAqNu+sOSSojrnZCd6IanEp5GpeVGJZOVvZSUfj3Wi3wRgPJ9KFvYUBMjZHVtAFeYhXx5YYDn5Y2/FaCT52oKDO4akI6pvGd2cpVw3afGcrJeQ1fYjGHmRvCP+SRve/HBwNWq6HwNTOtk1uWgj+wjXxeS84QB/rXVaW86GXxl/AF2YXL4FC5MSn6mUon3rWJspRVQ7ydUg/ESrYSOE+TkKDtSiOmDJ1s4z2Za+3vKJdSARa6Ecs5crle1Fasj+cWKoclm05ZzJnht/9sFJUnZSNSqNzsoee8XhXJg9Q+XH1+WNPNKT6b9gtcUVs=;pjRgqMPKLPMECDqvzBLABw=="
 ---
 
