@@ -38,6 +38,19 @@ related:
       - url: "https://www.crn.com/resources/025c-0f4604e4d28f-f002df4d965f-1000/google-cloud-next-intro_002_.jpg"
         width: 609
         height: 456
+  - title: "Google in talks to acquire Kubernetes startup D2iQ"
+    excerpt: "Google LLC is reportedly targeting container software company D2iQ Inc. as a potential acquisition. D2iQ, formerly known as Mesosphere Inc., sells a platform and management tools for cloud-native applications built atop of Kubernetes,"
+    publishedDateTime: 2020-04-28T06:40:00Z
+    webUrl: "https://siliconangle.com/2020/04/28/google-talks-acquire-kubernetes-startup-d2iq/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/3766865469_f279df394b_k.jpg"
+        width: 2048
+        height: 1536
   - title: "Google in talks to acquire cloud firm D2iQ - Axios"
     excerpt: "Google (GOOG +0.5%, GOOGL +0.4%) is in discussions to acquire D2iQ (the cloud start-up formerly known as Mesosphere), Axios reports. Such a deal would be for more than the $250M raised from VCs, but"
     publishedDateTime: 2020-04-27T14:18:00Z

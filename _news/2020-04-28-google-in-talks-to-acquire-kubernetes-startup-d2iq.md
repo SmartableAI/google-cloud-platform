@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Google in talks to acquire cloud firm D2iQ - Axios"
-excerpt: "Google (GOOG +0.5%, GOOGL +0.4%) is in discussions to acquire D2iQ (the cloud start-up formerly known as Mesosphere), Axios reports. Such a deal would be for more than the $250M raised from VCs, but"
-publishedDateTime: 2020-04-27T14:18:00Z
-webUrl: "https://seekingalpha.com/news/3564663-google-in-talks-to-acquire-cloud-firm-d2iq-axios"
+title: "Google in talks to acquire Kubernetes startup D2iQ"
+excerpt: "Google LLC is reportedly targeting container software company D2iQ Inc. as a potential acquisition. D2iQ, formerly known as Mesosphere Inc., sells a platform and management tools for cloud-native applications built atop of Kubernetes,"
+publishedDateTime: 2020-04-28T06:40:00Z
+webUrl: "https://siliconangle.com/2020/04/28/google-talks-acquire-kubernetes-startup-d2iq/"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Google Cloud
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/3766865469_f279df394b_k.jpg"
+    width: 2048
+    height: 1536
+    title: "Google in talks to acquire Kubernetes startup D2iQ"
 
 related:
   - title: "Scoop: Google in talks to acquire D2iQ"
@@ -45,20 +51,16 @@ related:
       - url: "https://www.crn.com/resources/025c-0f4604e4d28f-f002df4d965f-1000/google-cloud-next-intro_002_.jpg"
         width: 609
         height: 456
-  - title: "Google in talks to acquire Kubernetes startup D2iQ"
-    excerpt: "Google LLC is reportedly targeting container software company D2iQ Inc. as a potential acquisition. D2iQ, formerly known as Mesosphere Inc., sells a platform and management tools for cloud-native applications built atop of Kubernetes,"
-    publishedDateTime: 2020-04-28T06:40:00Z
-    webUrl: "https://siliconangle.com/2020/04/28/google-talks-acquire-kubernetes-startup-d2iq/"
+  - title: "Google in talks to acquire cloud firm D2iQ - Axios"
+    excerpt: "Google (GOOG +0.5%, GOOGL +0.4%) is in discussions to acquire D2iQ (the cloud start-up formerly known as Mesosphere), Axios reports. Such a deal would be for more than the $250M raised from VCs, but"
+    publishedDateTime: 2020-04-27T14:18:00Z
+    webUrl: "https://seekingalpha.com/news/3564663-google-in-talks-to-acquire-cloud-firm-d2iq-axios"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/3766865469_f279df394b_k.jpg"
-        width: 2048
-        height: 1536
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
-secured: "u0dtOKxP5rtzIXb9H8jCsOXfYZdnsxnhUwMW+UmdjqSyA8RyFS1ZER53vUgJug8mQmeFmPmk1lYm3AaA/J2URDGhJdnXieUD/tcxm94dBwLuKiprs9WieaugfkiypcVh3MaYtkI5OiG5w2JkC1qI7s30dSx2X4v6z9Kq1k070oGiM2s2kXzviH20hkBiwTU+LUJHSCw8gAcLOyTkHvPfTtFAd1mlrkwDyrSJl/JD30Gv+sEsI2tqOvqcstEtCzz0n8MFOgnD8xIh+QEL1qVSqOdsd2pwIRQzmq12+2SNDzHbr8hLQcg7jtlDaD9Cb9D9;gOkfqRCABayR+uo7kk/wSg=="
+secured: "SQLotLkFo5Zp/fe9F08Sf1kSBmMv63qenD2O/gsZcDvfoGfTkS+HMHWeg71wlb4Erq+x29ekE4jv7Fi9swXbVyE9H8V/00UUB4mveHx/vOBP/UWrlAy70IHldogFypTS/hvHzMRsAWHJhb0Xs/sy/tIRp/7P3yjZpJGbDOuP1W+hwVwadWB5VIdtxDa4aPpzK6RmvGn+l5qoobh775nRC3KhtsMxWCmsmnFlETB2p2HzpS3U1+vS8jwrvbbiJ0PyXtH5qHSqF/wJGN91wDhh7FcqhosckdURSbi5LqTAEvpy/wuN7K7hep0hcjr8U791;ro6POYs67Z6qoR+lR4g0ZQ=="
 ---
 
