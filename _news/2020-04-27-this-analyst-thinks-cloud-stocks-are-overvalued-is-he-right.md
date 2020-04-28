@@ -1,9 +1,9 @@
 ---
 category: news
 title: "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?"
-excerpt: "If you think cloud stocks are overvalued, you're not alone. JPMorgan Chase analyst Mark Murphy slashed his ratings on a number of well-known SaaS (software-as-a-service) companies -- Alteryx ( NYSE:AYX) ,"
-publishedDateTime: 2020-04-27T16:24:00Z
-webUrl: "https://www.fool.com/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx"
+excerpt: "Follow @tmfbowman If you think cloud stocks are overvalued, you're not alone. JPMorgan Chase analyst Mark Murphy slashed his ratings on a number of well-known SaaS (software-as-a-service) companies  -- Alteryx (NYSE:AYX),"
+publishedDateTime: 2020-04-27T20:20:00Z
+webUrl: "https://www.fool.com/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 386
     title: "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?"
 
-secured: "pYCxnjxsCzV0khWv6eTKDRn/uPs6lA/zmVN4FtbA+QoKVeNCAD1oFSAvQBSSfGecZ7A+UHGbuRDpXehzCwFJyxE+Ys4ItFeA7FXJtggscdOkTMs831GMkx7+Ww+1Hb4Glm4WzZy8e+gj284LxBQFaZZeOCnIX1fGNyucUwca7zlbWukNeIQN5tqAuIpzJnjGcgoSlF8zI0r3sBDK2lEyuppD79sf4ahXfy2k7j7cg7tVZUdGWlzCxOZeh6/AFOmsqaKp8xHNJz34mUE6xLQPm5vGVCEswUPyhXeua/AzapZpluUwHeQVT2nn5mlkLbZOO3B4qsbcN2c6sEjnNHp/CSJGBYf+a5gJpnPCLwnrOZwPnZ2KRSaR9avOQJEcy+CnVWKrM17mcoU5RpYadizo6v5LdSp9OKFsmFgXy33QRUQpawPZyA1Y8CEISqboCbPTR3TsOxkGMehEDW8yOVgvw25ciTWYFVszIElg4HuqdTs=;Z16aFiYj/3HjQeiXd/gyYw=="
+secured: "99lBsGJfkEiGNNesQ0O9DqQkn20F3Q9GRRT7mvsottsIi/yvXe+YGivF0P7JVibA08LsDklQOg5ijwW+ZOSll4swqH99gpD8dRxXdYJQ8ZHay80UjnwQu2Dfm4kyhJ9WhvuwG1VFhqZiKmhxDW0L92SG5243MxkQApWTw6PFIviU7FIW8EkRhNQaF0cQAjnGfGrzgj0h8QthYnYkV78jKkV/N93BMUcMAetLctqPr8Q0iuj5VKUo+Zmn4AQwBSHgaFWOIVYY9asfsuXi1Tt1diR96shXmk1QFooWIy28iQ7qH678Pgiuak8e74UIyDxA;/+cSnz46MbOER9SIa2EZwA=="
 ---
 
