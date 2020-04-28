@@ -22,6 +22,6 @@ images:
     height: 774
     title: "See how Dozens rethinks the fintech industry with the help of Google Maps Platform"
 
-secured: "cc5Yetof+1A4jupVW5H7wL9lXqh4KQAIE1wX1mYWjzvwn996pIDFuCU3SNXAUVw04LPCCbx4vjqYQ8jfkE9rktSL4qx7oWndGFlcGyrKWO7KlK17mxYTwqs/Y61kd6r+annuhd5sUG/wMBE47DP23cnaTbp5JcuTayxg59LgnzOsTvp1McpiBAL5qbNnvj6vXx0ngj4aeV/EG1zvMDB1IbcvaLNow2fI6QRr0o2NxawUNoljXMKazSeVyUO3j1YxBPsplaCZJMcIndfJzz75Ke2xR5jsVFsPi1hmZ5XWE/8JnF97WjlN8/h9Yw+UgxOxReRSRfkY1Z17VBObDbsDHg==;LKdZNiaahMoRG6UT5fNAmQ=="
+secured: "eqnvWiszTO59fqZaVhkSqx1JevDeO8FiSAxMEkr6w4uMveveYmQIGT0+1H/s2hX0QdFCMoZbhMM5v4a+atKQ8poRTOavwwwlPxeckAGYzfoBYBphOQysXaW6Hl+uS4jRfCnSflwIxAfBO+fNLXK6syBWcIx0RWe1nve7V9uTCXf8uhUHmlHrEwQ5csF0oWPxebgs3vA/22EuGQTXbbgIsECu4dMDprxLI2nWf/m9rE9TWIZVsz9FKjKfYOomL19Ro8JcZFGTWS4CLRYCbgTr0ODgD/mj6f6JQDLTNvkcKsiau+/yMXJ0NgQMyhna3vC7cGhVWkCx96USycaaunB2+Q==;hx4kjKUB9zWQnJIqmTLWag=="
 ---
 
