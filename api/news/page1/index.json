@@ -2,6 +2,182 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-28-alphabet-reports-412-billion-in-q1-2020-revenue-google-cloud-up-52-youtube-up-33-and-other-bets-down-21.md",
+      "title": "Alphabet reports $41.2 billion in Q1 2020 revenue: Google Cloud up 52%, YouTube up 33%, and Other Bets down 21%",
+      "excerpt": "Google parent company Alphabet today reported earnings for its first fiscal quarter of 2020, including revenue of $41.2 billion, net income of $6.8 billion, and earnings per share of $9.87 (compared to revenue of $36.3 billion, net income of $8.3 billion, and earnings per share of $11.90 in Q1 2019). Given the global pandemic’s impact on ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/alphabet-earnings-q1-2020/amp/",
+      "publishedDateTime": "2020-04-28T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/alphabet_logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Alphabet reports $41.2 billion in Q1 2020 revenue: Google Cloud up 52%, YouTube up 33%, and Other Bets down 21%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million.md",
+      "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
+      "excerpt": "platform offers real-time remediation with configurable bots and over 200 out-of-the-box guardrail policies. It works across public clouds such as Amazon Web Services, Google Cloud, and Azure and ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
+      "publishedDateTime": "2020-04-28T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1065824694-1-e1579193201293.jpg?fit=1200%2C601&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-live-here-come-google-and-alphabets-q1-earnings.md",
+      "title": "Live: Here come Google and Alphabet's Q1 earnings",
+      "excerpt": "Alphabet is set to announce its Q1 2020 earnings, and all eyes are on how much damage the pandemic is doing to its ad business.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4?amp",
+      "publishedDateTime": "2020-04-28T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8735ea2fd91369d26c673?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Live: Here come Google and Alphabet's Q1 earnings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-can-googles-new-pixel-buds-finally-challenge-apples-airpods-dominance.md",
+      "title": "Can Google's New Pixel Buds Finally Challenge Apple's AirPods Dominance?",
+      "excerpt": "About two and a half years after Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) subsidiary Google launched its original Pixel Buds, the search juggernaut is finally releasing a revamped second-generation model that has high hopes of challenging Apple's (NASDAQ:AAPL) AirPods,",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/28/can-googles-new-pixel-buds-finally-challenge-apple.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/28/can-googles-new-pixel-buds-finally-challenge-apple.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/can-googles-new-pixel-buds-finally-challenge-apple.aspx",
+      "publishedDateTime": "2020-04-28T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569863%2Fpixel-buds-2.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 600,
+          "title": "Can Google's New Pixel Buds Finally Challenge Apple's AirPods Dominance?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-cloud-security-company-cloudflare-makes-maverick-big-bet-on-china.md",
       "title": "Cloud Security Company Cloudflare Makes ‘Maverick’ Big Bet On China",
       "excerpt": "With U.S.-China relations at a frigid moment as the COVID-19 pandemic grinds world trade to a trickle, it might seem an unlikely moment for a Silicon Valley tech company to make a big China push. But to hear Cloudflare CEO Matthew Prince tell it,",
@@ -49,7 +225,7 @@
       "path": "_news/2020-04-28-ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia.md",
       "title": "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia",
       "excerpt": "Google revealed today during its latest Google Stadia Connect presentation that Electronic Arts is bringing some big games to the cloud gaming service.",
-      "heat": 122,
+      "heat": 152,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/",
@@ -844,158 +1020,6 @@
           "width": 2200,
           "height": 917,
           "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-admin-essentials-managing-chrome-browser-in-a-controlled-environment.md",
-      "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
-      "excerpt": "IT teams often require a range of controls to support different groups and users. In some cases, users need more permissions and access based on their role. Other situations might call for more restrictive measures, with limited access or heightened security measures. These tighter controls can be driven",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/managing-chrome-browser-in-a-controlled-environment/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ChromeEnterpriseSeries-01.png",
-          "width": 2000,
-          "height": 1110,
-          "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-how-to-add-buy-online-pick-up-in-store-capabilities-to-your-website-with-google-maps-platform.md",
-      "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
-      "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices over the coming weeks for adding new functionality to your apps and websites.One of the most common questions retailers ask us is how they can quickly add “buy online,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-add-buy-online-pick-store-capabilities-your-website-google-maps-platform/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/037-MAP-Buy_Online_Pick_Up_In_Store-2-BLOG_2880x1200_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-google-cloud-anthos-now-supports-multi-cloud.md",
-      "title": "Google Cloud Anthos now supports multi-cloud",
-      "excerpt": "Google Cloud has announced that its platform to manage multi-cloud workloads Anthos is now generally available for AWS though the company plans to add support for Microsoft Azure by the end of this year. Anthos aims to deliver on the promise of write once, run anywhere by allowing businesses to run their applications on existing on-prem ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/google-cloud-anthos-now-supports-multi-cloud",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/google-cloud-anthos-now-supports-multi-cloud",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/google-cloud-anthos-now-supports-multi-cloud",
-      "publishedDateTime": "2020-04-23T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8KyQTpRGfAJ86XhCPZLMVb-1200-80.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Google Cloud Anthos now supports multi-cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-how-google-sites-supports-remote-work-and-learning.md",
-      "title": "How Google Sites supports remote work and learning",
-      "excerpt": "Quickly communicating and finding critical information is more important than ever. As businesses shift to remote work setups and educational institutions roll out distance learning programs, Google Sites can be a helpful tool for centralizing and sharing important information across large, dispersed",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-sites-supports-remote-work-and-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/AppBuilder.blog_2.max-1000x1000.png",
-          "width": 1000,
-          "height": 555,
-          "title": "How Google Sites supports remote work and learning",
           "attribution": null
         }
       ],

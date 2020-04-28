@@ -44,6 +44,51 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/greez.jpg?fit=1391%2C941&strip=all"
         width: 1391
         height: 941
+  - title: "Electronic Arts to Make Its Games Available on Google Stadia"
+    excerpt: "Google announced a new partnership that will send five EA games to Google's gaming service, Google Stadia, later this year and into 2021. Google Stadia is a cloud-based subscription service that lets players play a selection of games for a monthly fee."
+    publishedDateTime: 2020-04-28T19:49:00Z
+    webUrl: "https://www.fool.com/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570119%2Fman-playing-video-games-cloud-streaming.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+  - title: "Google Stadia Picks Up More Games, Including Octopath Traveler and PUBG"
+    excerpt: "The Stadia Connect of the year revealed that some new games are coming to the platform, though it'll take a while for them all to arrive. Several new games are coming to Google's cloud gaming service,"
+    publishedDateTime: 2020-04-28T19:55:00Z
+    webUrl: "https://www.usgamer.net/articles/google-stadia-octopath-traveler-pubg-more-games"
+    ampWebUrl: "https://www.usgamer.net/amp/google-stadia-octopath-traveler-pubg-more-games"
+    cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/google-stadia-octopath-traveler-pubg-more-games"
+    type: article
+    provider:
+      name: USgamer
+      domain: usgamer.net
+    quality: 42
+    images:
+      - url: "https://cdn.gamer-network.net/2020/usgamer/octopath_traveler_featured.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/google-stadia-octopath-traveler-pubg-more-games.jpg"
+        width: 1920
+        height: 1080
+  - title: "Google’s video game system to host ‘Star Wars,’ ‘FIFA,’ ‘Madden NFL’"
+    excerpt: "Google and video game maker Electronic Arts Inc. are launching five games on its cloud-based gaming platform Stadia. The system will feature EA’s hit “Star Wars Jedi: Fallen Order” by the end of the year."
+    publishedDateTime: 2020-04-28T19:53:00Z
+    webUrl: "https://www.foxbusiness.com/media/googles-statdia-video-game-electronic-arts"
+    ampWebUrl: "https://www.foxbusiness.com/media/googles-statdia-video-game-electronic-arts.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/media/googles-statdia-video-game-electronic-arts.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 42
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202004/1622/854081161001_6150059874001_6150063548001-vs.jpg"
+        width: 1280
+        height: 720
   - title: "PUBG Has Officially Come To Google Stadia Today"
     excerpt: "Today during the Stadia Connect event, we learned that PUBG has officially come to the platform starting today."
     publishedDateTime: 2020-04-28T17:48:00Z
@@ -80,6 +125,6 @@ related:
       domain: worthplaying.com
     quality: 2
 
-secured: "h7QKfOLwH8yKpD3/FfOn2qwg2uWWVMO56otkTrpGHuQ5jU5pLsLUBJAdk7NUhcalnv227CcpftshKJB9h0rP/vUJnBV4g7USykUjYTguk3S95pBQXsMteIHk46I+dF+xKzgrUO1yw8F7j/BR3jwI9pnFI00xqEL5qSbBBIiG7gnXuGBWlZOulzvv/aAv+0BpOzWOL6XGNOO8u3G60gIJl17XKYz3aNZj5n+oRIQlDPDm2tJ5NcAJC+MAyA6+1UXwxCE/IPDWe5XtkMmr7AUoFUO0eaS0N9j3ue0/GnSsZIIjpIBruNGmjL1Z/xH/xIaw;htYi3EGKu9Ra/2MCY0/1/A=="
+secured: "kZXMachrEGcX9dv/9cjum0L4iUy5x6vvjCzacjoKbXnjVulip/dptqOuhhHaHtdjZx7DoS48eLgTYm+BbL9BVtHbMfytU6GFjmZ4tp4T53mQGY0dk349JJ9sSehqTntOkiIZFAwVassHt6Ua0ynYH2oZp9x06+9YmUciNyrqyz3wrb44nrMayzSvbZUTtQaXKLPxK/Kt9IBu/5b89cMdSloTaVlG1efNVjYzJj0UgjBMj4zve4Lec297DHj/eZ1B1XJxTaTwXLzrWE5VuoIl5YKuv4XgiG3byXZgFd6fdnjLBNYctSmy3tuzchLTMgzDaWEBgPeeuTPBTqGtiDKmXxjPhmXbaxwkn98oXTKZ6ZcAC5o8nJXLc/vgSEapdzCsVG2ssuXovA25AzvLVUnEjW9KLB6H+rZ5GAvIZRARYOzE9ogzl7Q6epu665y4H/TiUHYMRQS+HwoT2wJdKqKpR/LYh24BmO8uhS8aCEAnp/U=;cfbUk90HFLKkUdoRte4aGg=="
 ---
 

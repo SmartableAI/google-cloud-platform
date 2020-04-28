@@ -2,6 +2,154 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-09-18-google-cloud-firewall-rules-logging-how-and-why-you-should-use-it.md",
+      "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
+      "excerpt": "Google Cloud Platform (GCP) firewall rules are a great tool for securing applications. Firewall rules are customizable software-defined networking constructs that let you allow or deny traffic to and from your virtual machine (VM) instances. To secure applications and respond to modern threats, firewall",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
+      "publishedDateTime": "2019-09-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/002-GoogleCloud-Blog-Header.max-1000x1000.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-09-18-virtual-display-devices-for-compute-engine-now-ga.md",
+      "title": "Virtual display devices for Compute Engine now GA",
+      "excerpt": "Today, we’re excited to announce the general availability (GA) of virtual display devices for Compute Engine virtual machines (VMs), letting you add a virtual display device to any VM on Google Cloud. This gives your VM Video Graphics Array (VGA) capabilities without having to use GPUs, which can be",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/virtual-display-devices-for-compute-engine-now-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/virtual-display-devices-for-compute-engine-now-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/virtual-display-devices-for-compute-engine-now-ga/amp/",
+      "publishedDateTime": "2019-09-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Compute_l9I1sep.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Virtual display devices for Compute Engine now GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2019-09-16-a-cios-guide-to-cloud-success-decouple-to-shift-your-business-into-high-gear.md",
+      "title": "A CIO’s guide to cloud success: decouple to shift your business into high gear",
+      "excerpt": "They say 80% of success is showing up—but unfortunately for enterprises moving to the cloud, this doesn’t always hold up. A recent McKinsey survey, for example, found that despite migrating to the cloud, many enterprises are nonetheless \"falling short of their IT agility expectations.” Because CTOs and",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/a-cios-guide-to-cloud-success-decouple-to-shift-your-business-into-high-gear/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/a-cios-guide-to-cloud-success-decouple-to-shift-your-business-into-high-gear/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/a-cios-guide-to-cloud-success-decouple-to-shift-your-business-into-high-gear/amp/",
+      "publishedDateTime": "2019-09-16T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud-01_xyGPYQS.png",
+          "width": 2084,
+          "height": 1157,
+          "title": "A CIO’s guide to cloud success: decouple to shift your business into high gear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-09-16-anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud.md",
+      "title": "Anthos simplifies application modernization with managed service mesh and serverless for your hybrid cloud",
+      "excerpt": "For decades, organizations built and ran applications in their own on-premises data centers. Then, they started deploying and running applications in the cloud. But, for most enterprises, the thought of moving all-in to the cloud was too daunting. They worried they would need different developers and",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud/amp/",
+      "publishedDateTime": "2019-09-16T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Anthos simplifies application modernization with managed service mesh and serverless for your hybrid cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2019-09-12-monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver.md",
       "title": "Monitoring your Compute Engine footprint with Cloud Functions and Stackdriver",
       "excerpt": "Compute Engine instances running on Google Cloud Platform (GCP) can scale up and down quickly as needed by your business. As your fleet of instances grows, you’ll want to ensure that you have enough Compute Engine quota for growth over time and that you understand your resource usage and costs. At scale,",

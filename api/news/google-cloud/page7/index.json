@@ -2,6 +2,154 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-01-15-exploring-container-security-announcing-the-cis-google-kubernetes-engine-benchmark.md",
+      "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
+      "excerpt": "If you’re serious about the security of your Kubernetes operating environment, you need to build on a strong foundation. The Center for Internet Security’s (CIS) Kubernetes Benchmark give you just that: a set of Kubernetes security best practices that will help you build an operating environment that",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/gke-cis-benchmarks-deliver-security-best-practices/amp/",
+      "publishedDateTime": "2020-01-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Container_security_yWGpMGg.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-google-cloud-and-phoenix-labs-dauntless-in-the-face-of-demand-spikes.md",
+      "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
+      "excerpt": "In the role-playing video game Dauntless, players work in groups to battle monsters and protect the city-island of Ramsgate. Commitment reaps big rewards: with every beast slayed, you earn new weapons and armor made of the same materials as the Behemoth you took down, strengthening your arsenal for the",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
+      "publishedDateTime": "2020-01-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/dauntless-artwork_stormchasers_illustration-fullsize.jpg",
+          "width": 4190,
+          "height": 2160,
+          "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-ibm-power-systems-now-available-on-google-cloud.md",
+      "title": "IBM Power Systems now available on Google Cloud",
+      "excerpt": "Enterprises looking to the cloud to modernize their existing infrastructure and streamline their business processes have many options. At one end of the spectrum, some organizations are replatforming entire legacy systems to adopt the cloud. Many others, however, want to continue leveraging their existing",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/ibm-power-systems-now-available-on-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/ibm-power-systems-now-available-on-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/ibm-power-systems-now-available-on-google-cloud/amp/",
+      "publishedDateTime": "2020-01-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_IBM.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "IBM Power Systems now available on Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-performance-art-making-cloud-network-performance-benchmarking-faster-and-easier.md",
+      "title": "Performance art: Making cloud network performance benchmarking faster and easier",
+      "excerpt": "Before you migrate workloads to the cloud, you need to benchmark network performance in order to understand how that performance affects your business applications. Unfortunately, the cloud hasn’t offered the standards, tools, and methods to do the benchmark testing you need. As a result, you’re forced",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance/amp/",
+      "publishedDateTime": "2020-01-13T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP-networking-01.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Performance art: Making cloud network performance benchmarking faster and easier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-01-10-exploring-container-security-navigate-the-security-seas-with-ease-in-gke-v115.md",
       "title": "Exploring container security:  Navigate the security seas with ease in GKE v1.15",
       "excerpt": "Your container fleet, like a flotilla, needs ongoing maintenance and attention to stay afloat—and stay secure. In the olden days of seafaring, you grounded your ship at high tide and turned it on its side to clean and repair the hull, essentially taking it “offline.” We know that isn’t practical for",
@@ -965,154 +1113,6 @@
       "topics": [
         "Google Cloud",
         "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-11-27-how-cloud-ai-is-shaping-the-future-of-retailonline-and-in-store.md",
-      "title": "How Cloud AI is shaping the future of retail—online and in-store",
-      "excerpt": "Technology has played a key role in retail for decades, from early innovations like barcode scanning and digital point of sale devices, to the global frontier of modern logistics. Through it all, however, the fundamentals remain the same: retailers generate huge quantities of data, face unpredictable",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/amp/",
-      "publishedDateTime": "2019-11-27T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Fashion.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How Cloud AI is shaping the future of retail—online and in-store",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-26-forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms.md",
-      "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
-      "excerpt": "We’re proud to announce that Forrester has named Google Cloud as a Leader in its report, The Forrester New Wave™: Computer Vision (CV) Platforms Q4, 2019. We believe Forrester’s report validates Google Cloud’s AI ​strategy, and echoes the feedback we’ve heard from customers: Google Cloud offers powerful,",
-      "heat": 143,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
-      "publishedDateTime": "2019-11-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Vision.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-26-how-automl-vision-is-helping-companies-create-visual-inspection-solutions-for-manufacturing.md",
-      "title": "How AutoML Vision is helping companies create visual inspection solutions for manufacturing",
-      "excerpt": "We consistently hear from our customers that they need new ways to apply the latest technologies, such as AI, to improve efficiency. One area that AI has proven to be particularly beneficial is in helping to automate the visual quality control process for manufacturing customers. These customers tell",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/amp/",
-      "publishedDateTime": "2019-11-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Visions.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How AutoML Vision is helping companies create visual inspection solutions for manufacturing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-26-you-can-cook-turkey-in-a-toaster-oven-but-you-dont-have-to.md",
-      "title": "You can cook turkey in a toaster oven, but you don't have to",
-      "excerpt": "When I was in college and couldn't make it home for the Thanksgiving holiday, I would get together with other students in the same situation and do the next best thing: cook a traditional Thanksgiving feast of roast turkey, mashed potatoes and gravy, stuffing, and green beans by ourselves. In a dorm",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
-      "publishedDateTime": "2019-11-26T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Thanksgiving.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "You can cook turkey in a toaster oven, but you don't have to",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
       ]
     }
   ],

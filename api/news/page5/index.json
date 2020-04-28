@@ -2,6 +2,145 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-03-how-google-cloud-is-helping-us-public-sector-agencies-during-the-covid-19-pandemic-and-beyond.md",
+      "title": "How Google Cloud is helping U.S public sector agencies during the COVID-19 pandemic and beyond",
+      "excerpt": "In light of the current situation with COVID-19, public sector agencies are turning to the cloud more than ever, particularly as people increasingly need access to information and government services. Today, we’re happy to share more on our efforts to help governments with their COVID-19 needs and also",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/amp/",
+      "publishedDateTime": "2020-04-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-connecting-to-google-cloud-your-networking-options-explained.md",
+      "title": "Connecting to Google Cloud: your networking options explained",
+      "excerpt": "So, your organization recently decided to adopt Google Cloud. Now you just need to decide how you’re going to connect your applications to it... Public IP addresses, or VPN? Via an interconnect or through peering? Should you want to go the interconnect route, should it be direct or through a partner?",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
+      "publishedDateTime": "2020-04-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Networking_lQ5HQBE.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Connecting to Google Cloud: your networking options explained",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-filling-the-ncaa-void-using-bigquery-to-simulate-march-madness.md",
+      "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+      "excerpt": "As COVID-19 continues to have enormous impact around the world, we’ve focused on supporting customers and making available public data to help research efforts, among various other initiatives. Beyond the essential issues at hand, it’s been a truly strange time for sports fans, with virtually every league",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/march-madness-simulations-with-machine-learning/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_basketball.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-powering-up-caching-with-memorystore-for-memcached.md",
+      "title": "Powering up caching with Memorystore for Memcached",
+      "excerpt": "In-memory data stores are a fundamental infrastructure for building scalable, high-performance applications. Whether it is building a highly responsive ecommerce website, creating multiplayer games with thousands of users, or doing real-time analysis on data pipelines with millions of events, an in-memory",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/fully-managed-memorystore-for-memcached/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/fully-managed-memorystore-for-memcached/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/fully-managed-memorystore-for-memcached/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_3_ZIyuD1m.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Powering up caching with Memorystore for Memcached",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-introducing-bigquery-column-level-security-new-fine-grained-access-controls.md",
       "title": "Introducing BigQuery column-level security: new fine-grained access controls",
       "excerpt": "We’re announcing a key capability to help organizations govern their data in Google Cloud. Our new BigQuery column-level security controls are an important step toward placing policies on data that differentiate between classes. This allows for compliance with regulations that mandate such distinction,",
@@ -815,152 +954,6 @@
           "width": 2880,
           "height": 1200,
           "title": "Protect users in your apps with multi-factor authentication",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-postponing-google-cloud-next-20-digital-connect.md",
-      "title": "Postponing Google Cloud Next ’20: Digital Connect",
-      "excerpt": "Google Cloud has decided to postpone Google Cloud Next ‘20: Digital Connect out of concern for the health and safety of our customers, partners, employees and local communities, and based on recent decisions made by the federal and local governments regarding the coronavirus (COVID-19). Right now, the",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/amp/",
-      "publishedDateTime": "2020-03-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_7.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Postponing Google Cloud Next ’20: Digital Connect",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-not-just-for-http-anymore-grpc-comes-to-cloud-run.md",
-      "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
-      "excerpt": "Cloud Run is a managed serverless compute offering from Google Cloud that lets you run stateless server containers in a fully managed environment, without the hassle of managing the underlying infrastructure. Since its release, Cloud Run has enabled many of our customers to focus on their business logic,",
-      "heat": 151,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
-      "publishedDateTime": "2020-03-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-data-processing-just-got-easier-with-apps-scripts-new-v8-runtime.md",
-      "title": "Data processing just got easier with Apps Script’s new V8 runtime",
-      "excerpt": "We’re excited to announce Apps Script is nowsupported by the V8 runtime that powers Chrome and Node.js. This update lets users take advantage of modern JavaScript features (ECMA 6 and new releases moving forward). It also enhances new or existing scripts, like those that transform data in Google Sheets,",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
-      "publishedDateTime": "2020-03-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppDev.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Data processing just got easier with Apps Script’s new V8 runtime",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-finding-a-problem-at-the-bottom-of-the-google-stack.md",
-      "title": "Finding a problem at the bottom of the Google stack",
-      "excerpt": "At Google, our teams follow site reliability engineering (SRE) practices to help keep systems healthy and users productive. There is a phrase we often use on our SRE teams: \"At Google scale, million-to-one chances happen all the time.\" This illustrates the massive complexity of the system that powers",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/management-tools/sre-keeps-digging-to-prevent-problems/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/management-tools/sre-keeps-digging-to-prevent-problems/amp/",
-      "publishedDateTime": "2020-03-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_5KDV2JX.max-800x800.jpg",
-          "width": 800,
-          "height": 591,
-          "title": "Finding a problem at the bottom of the Google stack",
           "attribution": null
         }
       ],

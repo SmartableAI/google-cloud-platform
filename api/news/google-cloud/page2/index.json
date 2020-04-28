@@ -2,6 +2,167 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-23-how-telus-international-got-employees-back-to-work-with-virtual-desktops.md",
+      "title": "How TELUS International got employees back to work with virtual desktops",
+      "excerpt": "Google Cloud CEO Thomas Kurian recently shared the many ways we’re helping people work remotely and remain productive, while ensuring the health and safety of employees around the world during the global COVID-19 pandemic. Along with internet connectivity, access to remote desktops is essential for many",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/remote-work/telus-runs-vdi-on-google-cloud-during-covid-closures/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WFH-06_1.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "How TELUS International got employees back to work with virtual desktops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-stadia-gains-users-after-giving-free-access-for-two-months.md",
+      "title": "Google Stadia gains users after giving free access for two months",
+      "excerpt": "Google’s cloud-based game, Stadia, has witnessed a surge in users after the tech giant gifted two months of free access to its premium version for gamers sheltering at home to curb the spread of the coronavirus.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-google-stadia-idUSKCN224386",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN224386",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN224386",
+      "publishedDateTime": "2020-04-22T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200422&t=2&i=1516080494&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3L24Y",
+          "width": 850,
+          "height": 545,
+          "title": "Google Stadia gains users after giving free access for two months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure.md",
+      "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
+      "excerpt": "Anthos, Google’s platform for managing hybrid clouds that span Google Cloud and on-premise datacenters, has hit general availability for Amazon Web Services (AWS) and is in preview for Microsoft Azure. Additionally, Google today updated Anthos Config Management with a programmatic and declarative GitOps approach to manage policies for ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
+      "publishedDateTime": "2020-04-22T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/google-cloud-anthos.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-anthosdriving-business-agility-and-efficiency.md",
+      "title": "Anthos—driving business agility and efficiency",
+      "excerpt": "In business as in life, change is constant and unpredictable. When building the platforms to power your organization, you can’t be limited by yesterday’s technology decisions. Nor can the systems you create today constrain your ability to act tomorrow. In times of uncertainty, you need an architecture",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-for-aws-is-now-ga/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Anthos—driving business agility and efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-modernize-legacy-apps-with-migrate-for-anthos-introducing-support-for-day-two-operations.md",
       "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
       "excerpt": "Not all application modernization strategies are created equal. One of the simplest approaches is to take an existing virtual machine and save it as a container. But while the resulting container will work, it won’t give you the benefits of more sophisticated modernization techniques—both in terms of",
@@ -1070,175 +1231,6 @@
           "width": 640,
           "height": 320,
           "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know.md",
-      "title": "Google Stadia free tier, newest games and everything else you need to know",
-      "excerpt": "Google Stadia, the megacorp's service to stream playable games on TVs and mobile devices without a console or PC, is the company's leap into the melee of cloud gaming. Google is typically the biggest fish in any pond,",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
-      "publishedDateTime": "2020-04-17T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/yUWTwiSF9gNLBd6FlrNb7yjxtrs=/756x567/2019/11/15/a6594deb-1dba-451a-98bb-02fe83b80a9b/18-google-stadia.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Google Stadia free tier, newest games and everything else you need to know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-introducing-dataflow-template-to-stream-data-to-splunk.md",
-      "title": "Introducing Dataflow template to stream data to Splunk",
-      "excerpt": "At Google Cloud, we’re focused on solving customer problems and meeting them where they are. Many of you use third-party monitoring solutions from Splunk to keep a tab on both on-prem and cloud environments. These use cases include IT ops, security, application development, and business analytics. In",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/connect-to-splunk-with-a-dataflow-template/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics_B.max-2800x2800.jpg",
-          "width": 2800,
-          "height": 1167,
-          "title": "Introducing Dataflow template to stream data to Splunk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-top-smart-home-devices-that-arent-made-by-amazon-or-google.md",
-      "title": "Top smart home devices that aren't made by Amazon or Google",
-      "excerpt": "We took Amazon and Google out of the running (just this once) to see what other great smart home products are out there.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/top-smart-home-devices-not-made-by-amazon-or-google/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/top-smart-home-devices-not-made-by-amazon-or-google/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/top-smart-home-devices-not-made-by-amazon-or-google/",
-      "publishedDateTime": "2020-04-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/3ch8Tk6KjCc-IrFSKOiw3sftRPs=/2019/10/18/cd7b233c-2f7b-46b8-a97b-ff30dc90aeea/wyze-bulb-2-720.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "Top smart home devices that aren't made by Amazon or Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-googles-stadia-finally-offers-a-free-option.md",
-      "title": "Google's Stadia Finally Offers a Free Option",
-      "excerpt": "The change is a welcome one for a cloud gaming platform that, not so long ago, was getting some very rough press coverage ... Image source: Getty Images Super-fans who subscribed ahead of launch day used Google's cloud service with the Stadia Premiere edition: a hardware setup that included a Stadia controller and a Chromecast device with ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
-      "publishedDateTime": "2020-04-17T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568172%2Fvideo-game-shooter-console-getty-6217.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Google's Stadia Finally Offers a Free Option",
           "attribution": null
         }
       ],

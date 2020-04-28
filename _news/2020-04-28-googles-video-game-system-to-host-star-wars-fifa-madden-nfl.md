@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Electronic Arts Partners With Google to Bring Its Games to Stadia"
-excerpt: "Electronic Arts and Google announced a partnership to launch five EA games on Stadia - Google’s cloud-based gaming platform. Cloud is opening up exciting new possibilities for play,” said Andrew Wilson, CEO of Electronic Arts. “In partnering with Google Stadia, we have an opportunity to deliver some creative and innovative game ..."
-publishedDateTime: 2020-04-28T16:22:00Z
-webUrl: "https://worthplaying.com/article/2020/4/28/news/119226/"
+title: "Google’s video game system to host ‘Star Wars,’ ‘FIFA,’ ‘Madden NFL’"
+excerpt: "Google and video game maker Electronic Arts Inc. are launching five games on its cloud-based gaming platform Stadia. The system will feature EA’s hit “Star Wars Jedi: Fallen Order” by the end of the year."
+publishedDateTime: 2020-04-28T19:53:00Z
+webUrl: "https://www.foxbusiness.com/media/googles-statdia-video-game-electronic-arts"
+ampWebUrl: "https://www.foxbusiness.com/media/googles-statdia-video-game-electronic-arts.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/media/googles-statdia-video-game-electronic-arts.amp"
 type: article
-quality: 2
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Worth Playing
-  domain: worthplaying.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - Google Cloud
+
+images:
+  - url: "http://media.foxbusiness.com/BrightCove/854081161001/202004/1622/854081161001_6150059874001_6150063548001-vs.jpg"
+    width: 1280
+    height: 720
+    title: "Google’s video game system to host ‘Star Wars,’ ‘FIFA,’ ‘Madden NFL’"
 
 related:
   - title: "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia"
@@ -77,21 +85,6 @@ related:
       - url: "https://cdn.gamer-network.net/2020/usgamer/octopath_traveler_featured.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/google-stadia-octopath-traveler-pubg-more-games.jpg"
         width: 1920
         height: 1080
-  - title: "Google’s video game system to host ‘Star Wars,’ ‘FIFA,’ ‘Madden NFL’"
-    excerpt: "Google and video game maker Electronic Arts Inc. are launching five games on its cloud-based gaming platform Stadia. The system will feature EA’s hit “Star Wars Jedi: Fallen Order” by the end of the year."
-    publishedDateTime: 2020-04-28T19:53:00Z
-    webUrl: "https://www.foxbusiness.com/media/googles-statdia-video-game-electronic-arts"
-    ampWebUrl: "https://www.foxbusiness.com/media/googles-statdia-video-game-electronic-arts.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/media/googles-statdia-video-game-electronic-arts.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 42
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202004/1622/854081161001_6150059874001_6150063548001-vs.jpg"
-        width: 1280
-        height: 720
   - title: "PUBG Has Officially Come To Google Stadia Today"
     excerpt: "Today during the Stadia Connect event, we learned that PUBG has officially come to the platform starting today."
     publishedDateTime: 2020-04-28T17:48:00Z
@@ -118,7 +111,16 @@ related:
       - url: "https://mms.businesswire.com/media/20200428005367/en/787865/23/StadiaLogo.jpg"
         width: 1200
         height: 627
+  - title: "Electronic Arts Partners With Google to Bring Its Games to Stadia"
+    excerpt: "Electronic Arts and Google announced a partnership to launch five EA games on Stadia - Google’s cloud-based gaming platform. Cloud is opening up exciting new possibilities for play,” said Andrew Wilson, CEO of Electronic Arts. “In partnering with Google Stadia, we have an opportunity to deliver some creative and innovative game ..."
+    publishedDateTime: 2020-04-28T16:22:00Z
+    webUrl: "https://worthplaying.com/article/2020/4/28/news/119226/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 2
 
-secured: "KJhiyZbAbLvfZw/XwsgSxSSjAuwGujSgIT0w/uaGPYyukQYhzM/n8z/26SCuU/L1RZ2XnXKSS3jlDplubcDcuvSssG3L/gC8ztAJWefAe8gn4JfjvdtQXUXlilSS/807RJsgmd6bfk6chaBVtCnIurHECyO6/8FBv5Lf1YScEBvmHhelg48z6okoZ2IcOUV9eA8WL2QiaSLyrFd/U46Vl6deIsYBWcKw1wlmBpEVHzb241PXE6D6hrIGR0nTbS4WuWZbbJrp38XkX2v6FgcnQV1c/LS4GzMniYhQECJ8Q7kIcKVNeCIgPp2Qra4gWisE;enkL6los9yCqoRX0aVr5SQ=="
+secured: "ACmJS34o114zDcEbKNiL7H3C3NA33b71SQXKvsQfGTyaGuSYF9A9rD2bZgGYmOEVecPTnJMKqmNfcKkj/vM8EB9x154VPn/RH1bmMyt4Mc6AFS/WqA++IZu446o418WCdh8HdLlz0WMSMTcYlKmCRTyxsatuC1HM1vohK1icsJTKZ4GOXYuFE8PMY8B1eTV4Dvz0PKA7RJfKfpbzZAj/AmLyDaZCTRLHKMpXbaIkiJfxWEUSHMPFj9AJx0GpGzj4Bu0D8nazzZWp276JCAkHeG/DcMhE6VRbjL5GNysu4iKupB06/fA5umWzWTXzrgAn;4O5eDtXPq4q66n3Mse+y6A=="
 ---
 

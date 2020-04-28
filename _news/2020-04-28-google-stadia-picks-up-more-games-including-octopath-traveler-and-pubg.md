@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Electronic Arts Partners With Google to Bring Its Games to Stadia"
-excerpt: "Electronic Arts and Google announced a partnership to launch five EA games on Stadia - Google’s cloud-based gaming platform. Cloud is opening up exciting new possibilities for play,” said Andrew Wilson, CEO of Electronic Arts. “In partnering with Google Stadia, we have an opportunity to deliver some creative and innovative game ..."
-publishedDateTime: 2020-04-28T16:22:00Z
-webUrl: "https://worthplaying.com/article/2020/4/28/news/119226/"
+title: "Google Stadia Picks Up More Games, Including Octopath Traveler and PUBG"
+excerpt: "The Stadia Connect of the year revealed that some new games are coming to the platform, though it'll take a while for them all to arrive. Several new games are coming to Google's cloud gaming service,"
+publishedDateTime: 2020-04-28T19:55:00Z
+webUrl: "https://www.usgamer.net/articles/google-stadia-octopath-traveler-pubg-more-games"
+ampWebUrl: "https://www.usgamer.net/amp/google-stadia-octopath-traveler-pubg-more-games"
+cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/google-stadia-octopath-traveler-pubg-more-games"
 type: article
-quality: 2
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Worth Playing
-  domain: worthplaying.com
+  name: USgamer
+  domain: usgamer.net
 
 topics:
   - Google Cloud
+
+images:
+  - url: "https://cdn.gamer-network.net/2020/usgamer/octopath_traveler_featured.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/google-stadia-octopath-traveler-pubg-more-games.jpg"
+    width: 1920
+    height: 1080
+    title: "Google Stadia Picks Up More Games, Including Octopath Traveler and PUBG"
 
 related:
   - title: "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia"
@@ -62,21 +70,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/VgpJ9H0bWnhktg0phRGg6sYeLow=/756x567/2020/04/28/6f157de2-cabe-4756-8799-66b36963d469/screen-shot-2020-04-28-at-12-07-50-pm.png"
         width: 756
         height: 567
-  - title: "Google Stadia Picks Up More Games, Including Octopath Traveler and PUBG"
-    excerpt: "The Stadia Connect of the year revealed that some new games are coming to the platform, though it'll take a while for them all to arrive. Several new games are coming to Google's cloud gaming service,"
-    publishedDateTime: 2020-04-28T19:55:00Z
-    webUrl: "https://www.usgamer.net/articles/google-stadia-octopath-traveler-pubg-more-games"
-    ampWebUrl: "https://www.usgamer.net/amp/google-stadia-octopath-traveler-pubg-more-games"
-    cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/google-stadia-octopath-traveler-pubg-more-games"
-    type: article
-    provider:
-      name: USgamer
-      domain: usgamer.net
-    quality: 42
-    images:
-      - url: "https://cdn.gamer-network.net/2020/usgamer/octopath_traveler_featured.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/google-stadia-octopath-traveler-pubg-more-games.jpg"
-        width: 1920
-        height: 1080
   - title: "Google’s video game system to host ‘Star Wars,’ ‘FIFA,’ ‘Madden NFL’"
     excerpt: "Google and video game maker Electronic Arts Inc. are launching five games on its cloud-based gaming platform Stadia. The system will feature EA’s hit “Star Wars Jedi: Fallen Order” by the end of the year."
     publishedDateTime: 2020-04-28T19:53:00Z
@@ -118,7 +111,16 @@ related:
       - url: "https://mms.businesswire.com/media/20200428005367/en/787865/23/StadiaLogo.jpg"
         width: 1200
         height: 627
+  - title: "Electronic Arts Partners With Google to Bring Its Games to Stadia"
+    excerpt: "Electronic Arts and Google announced a partnership to launch five EA games on Stadia - Google’s cloud-based gaming platform. Cloud is opening up exciting new possibilities for play,” said Andrew Wilson, CEO of Electronic Arts. “In partnering with Google Stadia, we have an opportunity to deliver some creative and innovative game ..."
+    publishedDateTime: 2020-04-28T16:22:00Z
+    webUrl: "https://worthplaying.com/article/2020/4/28/news/119226/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 2
 
-secured: "KJhiyZbAbLvfZw/XwsgSxSSjAuwGujSgIT0w/uaGPYyukQYhzM/n8z/26SCuU/L1RZ2XnXKSS3jlDplubcDcuvSssG3L/gC8ztAJWefAe8gn4JfjvdtQXUXlilSS/807RJsgmd6bfk6chaBVtCnIurHECyO6/8FBv5Lf1YScEBvmHhelg48z6okoZ2IcOUV9eA8WL2QiaSLyrFd/U46Vl6deIsYBWcKw1wlmBpEVHzb241PXE6D6hrIGR0nTbS4WuWZbbJrp38XkX2v6FgcnQV1c/LS4GzMniYhQECJ8Q7kIcKVNeCIgPp2Qra4gWisE;enkL6los9yCqoRX0aVr5SQ=="
+secured: "ZXae2Vqigf2sl5s7sr103tinIPE84/YzYztClN1mPJU0gRGqwNAx2QOXAA9wW2qJ/XZkiihUrRZmx2cKpcDGS0IGNestgben34aKd6BBtKWgufxqeGKgVUf+wv7Rogdp/zGOmN6LQxev/YrncWOfXiUcg2ZzPXaIDMJmyHM4zk5a2nFYpCRpfWfmi/8mhtVJt3nD2uHQ6CUFJSVySRoXYLZu5sw5rovXno8IYeJKcz3HRU8878M3RXFvwqAVPAY1ZSaydIY/rJEwPhzLuTSMg9MvyxNRKVOJ31bcgjlIZzVkyqaDOdlApBkFHT+Rcmxo;3Ssbh3MTP7jDokvoQ7NNbQ=="
 ---
 

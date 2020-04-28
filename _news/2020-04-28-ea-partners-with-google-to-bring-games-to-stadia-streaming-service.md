@@ -25,6 +25,21 @@ images:
     title: "EA Partners With Google to Bring Games to Stadia Streaming Service"
 
 related:
+  - title: "Google Stadia Gets PUBG, Star Wars, Madden, FIFA, Octopath Traveler, and More Games"
+    excerpt: "Google revealed during its latest Stadia Connect live stream that 11 more games are joining the service, including a trio of Electronic Arts’ biggest titles. Star Wars: Jedi Fallen Order, the hit action-adventure game from Respawn Entertainment,"
+    publishedDateTime: 2020-04-28T19:55:00Z
+    webUrl: "https://www.denofgeek.com/games/google-stadia-games-2020/"
+    ampWebUrl: "https://www.denofgeek.com/games/google-stadia-games-2020/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/google-stadia-games-2020/?amp"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 36
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2020/04/Google-Stadia.jpg?resize=768%2C432"
+        width: 768
+        height: 432
   - title: "Google Stadia Adding Star Wars Jedi: Fallen Order, Octopath Traveler, And More Games"
     excerpt: "Fallen Order, the acclaimed Star Wars action-adventure game from Respawn. Jedi: Fallen Order hits the service this fall, with installments of Madden NFL and FIFA set to follow in the winter. In addition to the three EA games,"
     publishedDateTime: 2020-04-28T16:15:00Z
@@ -41,6 +56,6 @@ related:
         width: 640
         height: 360
 
-secured: "S1qtd8y1aZ3Td8ADfo9PzTlXImrElozNsb5bc+LZRzBmVRws12W26hox79ciOu6ar3QsV3XphBHjx0iFh8OaVjN8ykleKaOjl7UYlh0Q2kD+7bNl9gKIcVvzenLAhQYlJnUtE6z5+cziJjskk138X/1H7pv4lqYd8bUYODyPQpAT3vztFgXTSpF+Kp9+LOEBrc4xR+3+3LVzbdcQyjIpHAQ3b16JRZJrFhbfeDrVXTP1pWGDibjzSka8OTahQoO7KD5ZM9u16u6KVEtWJ/qX57AsqsmBbbLHCPBwRjo/7i9qqz8h5M36hwB0xq7xjQXw;OUWEofiA9TcYKhCEj3qjfw=="
+secured: "z/os8i87i9LbnK8eCVyAHJbOb/ElsuiuuDE2MCRuQcU9n7Zin6AXLEmDdtXHyZN2U71/gaBRZ+qTfpSrs7tEtebkA+/F/4VDMDETFlXslFOjPcwRxzVJVuaoUOECkMBqh7tZKyxv3SbsjwxSpePS1f+yhEynk/+19dpUyPDEIi6vWwq0jujFr4tEK1EznTpAt3ondpEHJMPhFUocKr7hKaik9BPP70zg2S6kizqAQEmcqtCtTGDtOzXpUEn3Lf14dRCpqZOGBfTIwV52Fx3bKfpFCXMwjHsntaLYDIlomUAO7qq/csENbMPWa/8c8UZfNoKSaH/WP/+24anVJDk+iTbB36/7Z25rRRUxdBoWA4tdPUNFojPb17kWhVnTwVXJUQZnDm6UA4fuyGYp25Pt6BntvPpCK6T3t+eQPb8mnVjzGWgl5Xij2tSJVdk1qXWbKFr4wp3OjzKditD7l8sgt2aC+zK5btVs23fknVOmJ38=;NrA2AIWHCi1wE1YNlzCMLw=="
 ---
 

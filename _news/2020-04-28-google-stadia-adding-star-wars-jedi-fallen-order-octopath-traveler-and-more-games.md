@@ -40,7 +40,22 @@ related:
       - url: "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/10/jfo_launchscreens_cal_cu_v09_copy-h_2019.jpg"
         width: 768
         height: 433
+  - title: "Google Stadia Gets PUBG, Star Wars, Madden, FIFA, Octopath Traveler, and More Games"
+    excerpt: "Google revealed during its latest Stadia Connect live stream that 11 more games are joining the service, including a trio of Electronic Arts’ biggest titles. Star Wars: Jedi Fallen Order, the hit action-adventure game from Respawn Entertainment,"
+    publishedDateTime: 2020-04-28T19:55:00Z
+    webUrl: "https://www.denofgeek.com/games/google-stadia-games-2020/"
+    ampWebUrl: "https://www.denofgeek.com/games/google-stadia-games-2020/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/google-stadia-games-2020/?amp"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 36
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2020/04/Google-Stadia.jpg?resize=768%2C432"
+        width: 768
+        height: 432
 
-secured: "QcNx+3KggQjnU1F2c0or/cAYyZIvjYq3XV99ww9hek1nNqkBwKi43pXKhlCHYEPVPSyOEFtAg8LWiWv3q9zxjxYn62S4BfHI+mVUOW50JbSaFKWDAtQnOTm34kdFhlJ/mPqnyluChj5xmsXij4gMVBA+BoGl+dh8lKYCOHqijiVOxFC0KKaNywS1+VMdYeOUqlwzwg9rV8dNO/TbFNsXx/oCKhK2dKsjIt/pklq9zIaNpiq5Zk0DMuZRmyQH+N2HDX/ckuIAXSgU84skh+M4NcTfhatcRKlXD8V5kEJJ4zsuJFfemFzxH8wPCsvWMInc;kdLk50bfQo8A/N49Xqfbfw=="
+secured: "cyOHaC7OUM4pfXtsZbWcCqQ27FKCm0wi9++qaRRyz1kJjbWBJeSItX1cKb7zTRR4HwTZsArGynSC3KZNg2VzwN5SjC1mHqlv9HdSIJylZD0UyakEEUO8vM0z39WD/umMpYAr839J7nJCJ3//tPNorJJRURvTbmVMsLr0tY+rpDDnqsEkjGJatbnIsQiksTpespVsUk9giaM75qJDAIucbX+IoCIBl5PO4OTkhMHFqlInYXcsM/PmkHspjJh7fZich/XV2Ojm81rJ0g9Ztvw6hUwgVQJc9EUPEOki8JM6KqWo1obrq3d2N8SAwqaucN4fikYk8NpZajklGEW+K0LYyR45fKjr3i/xuWrFAxx5yqjcKLYyPV+wtwnv6aGK8Z6vH6Mqs3CcxyG7xKaJWlsNSUlwUf5Xzux31okex3agGe2oThLc57AEaBnRt5XRjJY9DUry410Vp2R+A2meqlkcEg7E4+ys+knsdlUlI3+7B4I=;PDLYCiUD0Nvw2qTphba+jg=="
 ---
 

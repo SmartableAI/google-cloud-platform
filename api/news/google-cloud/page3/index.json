@@ -2,6 +2,175 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-17-google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know.md",
+      "title": "Google Stadia free tier, newest games and everything else you need to know",
+      "excerpt": "Google Stadia, the megacorp's service to stream playable games on TVs and mobile devices without a console or PC, is the company's leap into the melee of cloud gaming. Google is typically the biggest fish in any pond,",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
+      "publishedDateTime": "2020-04-17T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/yUWTwiSF9gNLBd6FlrNb7yjxtrs=/756x567/2019/11/15/a6594deb-1dba-451a-98bb-02fe83b80a9b/18-google-stadia.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Google Stadia free tier, newest games and everything else you need to know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-introducing-dataflow-template-to-stream-data-to-splunk.md",
+      "title": "Introducing Dataflow template to stream data to Splunk",
+      "excerpt": "At Google Cloud, we’re focused on solving customer problems and meeting them where they are. Many of you use third-party monitoring solutions from Splunk to keep a tab on both on-prem and cloud environments. These use cases include IT ops, security, application development, and business analytics. In",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/connect-to-splunk-with-a-dataflow-template/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics_B.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Introducing Dataflow template to stream data to Splunk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-top-smart-home-devices-that-arent-made-by-amazon-or-google.md",
+      "title": "Top smart home devices that aren't made by Amazon or Google",
+      "excerpt": "We took Amazon and Google out of the running (just this once) to see what other great smart home products are out there.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/top-smart-home-devices-not-made-by-amazon-or-google/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/top-smart-home-devices-not-made-by-amazon-or-google/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/top-smart-home-devices-not-made-by-amazon-or-google/",
+      "publishedDateTime": "2020-04-17T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/3ch8Tk6KjCc-IrFSKOiw3sftRPs=/2019/10/18/cd7b233c-2f7b-46b8-a97b-ff30dc90aeea/wyze-bulb-2-720.jpg",
+          "width": 720,
+          "height": 405,
+          "title": "Top smart home devices that aren't made by Amazon or Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-googles-stadia-finally-offers-a-free-option.md",
+      "title": "Google's Stadia Finally Offers a Free Option",
+      "excerpt": "The change is a welcome one for a cloud gaming platform that, not so long ago, was getting some very rough press coverage ... Image source: Getty Images Super-fans who subscribed ahead of launch day used Google's cloud service with the Stadia Premiere edition: a hardware setup that included a Stadia controller and a Chromecast device with ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
+      "publishedDateTime": "2020-04-17T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568172%2Fvideo-game-shooter-console-getty-6217.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Google's Stadia Finally Offers a Free Option",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails.md",
       "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
       "excerpt": "That's especially true with phishing emails, which often promise information and updates about COVID-19 but instead lead people to malicious content. The popularity of Google Cloud services such as G Suite, Gmail, and Chrome have made their users tempting targets for malware. In a blog post published on Thursday, Google explained what it's ...",
@@ -1034,152 +1203,6 @@
           "width": 2200,
           "height": 917,
           "title": "How Google Meet supports two million new users each day",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-helping-contact-centers-respond-rapidly-to-customer-concerns-about-covid-19.md",
-      "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
-      "excerpt": "As COVID-19 has spread globally, people are turning to governments, healthcare organizations, and other businesses with questions about their health and wellness, finances, and more. This sudden, unprecedented demand is putting strain on customer support resources, and many organizations are telling",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/support-for-contact-centers-during-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_contact_center_ai.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google.md",
-      "title": "Learn to build secure and reliable systems with a new book from Google",
-      "excerpt": "In the new “Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems” book, engineers across Google's security and SRE organizations share best practices to help you design scalable and reliable systems that are fundamentally secure. Reliability matters",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/management-tools/learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/G-Management-banner-05.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Learn to build secure and reliable systems with a new book from Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-new-ai-driven-features-in-dataprep-enhance-the-wrangling-experience.md",
-      "title": "New AI-driven features in Dataprep enhance the wrangling experience",
-      "excerpt": "Since the inception of Cloud Dataprep by Trifacta, we’ve focused on making the data preparation work of data professionals more accessible and efficient, with a determined intention to make the work of preparing data more enjoyable (and even fun, in some cases!).The latest release of Dataprep brings",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/new-dataprep-ai-features-for-data-wrangling/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "New AI-driven features in Dataprep enhance the wrangling experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-secure-connections-how-google-meet-keeps-your-video-conferences-protected.md",
-      "title": "Secure connections: How Google Meet keeps your video conferences protected",
-      "excerpt": "All over the world, businesses, schools and users depend on G Suite to help them stay connected and get work done. Google designs, builds, and operates our products on a secure foundation, aimed at thwarting attacks and providing the protections needed to keep you safe. G Suite and Google Meet are no",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-meet-keeps-video-conferences-secure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog-header--how-Hangouts-helped-one-of-Go.max-1200x1200_wYZQAj3.png",
-          "width": 1200,
-          "height": 631,
-          "title": "Secure connections: How Google Meet keeps your video conferences protected",
           "attribution": null
         }
       ],

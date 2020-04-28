@@ -2,6 +2,178 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-20-payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-in-pandemic-times.md",
+      "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
+      "excerpt": "RFIDs would also include the tokens needed to access our cloud-based medical history ... easy to enroll from a consumer experience perspective -- but it needs to have full platform integration for it to be completely seamless. If Apple and Google can cooperate on COVID-19 contact tracing, they can work on moving money around.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
+      "publishedDateTime": "2020-04-20T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/14/19c5dc91-c620-4112-b42e-86fba891b089/thumbnail/1200x675/85c560a226a9b6d969f608e96dd94cf6/istock-888701758.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-google-unveils-tech-to-make-it-easier-for-doctors-and-patients-to-share-health-info.md",
+      "title": "Google unveils tech to make it easier for doctors and patients to share health info",
+      "excerpt": "Google is announcing the general availability of technology that, if widely adopted, could make it easier for patients to access their own health information via third-party apps.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/20/google-cloud-health-api-released.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/20/google-cloud-health-api-released.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/20/google-cloud-health-api-released.html",
+      "publishedDateTime": "2020-04-20T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1582733192",
+          "width": 3000,
+          "height": 2003,
+          "title": "Google unveils tech to make it easier for doctors and patients to share health info",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-best-practices-for-optimizing-your-cloud-costs.md",
+      "title": "Best practices for optimizing your cloud costs",
+      "excerpt": "One of the greatest benefits of running in the cloud is being able to scale up and down to meet demand and reduce operational expenditures. And that’s especially true when you’re experiencing unexpected changes in customer demand.Here at Google Cloud, we have an entire team of Solutions Architects dedicated",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_5I5zzaa.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for optimizing your cloud costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Analytics",
+        "Networking",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-google-launches-cloud-healthcare-api-in-general-availability.md",
+      "title": "Google launches Cloud Healthcare API in general availability",
+      "excerpt": "As Google notes, even in the best of circumstances, collating healthcare data is often a challenge for health care and life science organizations. The API, then, enables providers to interact with data using endpoints and health plans, providing them a platform that scales and supports interoperability and patient access. Cloud Healthcare API ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
+      "publishedDateTime": "2020-04-20T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google launches Cloud Healthcare API in general availability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn.md",
       "title": "Google rolls out BeyondCorp for secure remote network access without a VPN",
       "excerpt": "With the number of employees working at home exploding during coronavirus lockdowns, Google is rolling out a new security service designed to allow remote access of internal systems without using a virtual private network. BeyondCorp Remote Access is a cloud-based security product based on a system that Google originally built for internal use ...",
@@ -870,175 +1042,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-the-best-google-home-compatible-security-devices-for-2020.md",
-      "title": "The best Google Home-compatible security devices for 2020",
-      "excerpt": "However, there are still a number of reliable security cameras that will work with Google Home or Nest. The Wyze Cam 2 is one good option that includes free 14-day cloud storage, night vision, motion sensors, and other important modern security tech. Or you could stick with Google’s own Nest devices. The Nest Cam is a reliable indoor cam ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/home/best-google-home-compatible-devices/",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-google-home-compatible-devices/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-google-home-compatible-devices/?amp",
-      "publishedDateTime": "2020-04-15T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/hands-on-google-home_4652-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "The best Google Home-compatible security devices for 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-pileus-helps-businesses-cut-their-cloud-spend.md",
-      "title": "Pileus helps businesses cut their cloud spend",
-      "excerpt": "Using machine learning, the company’s platform continuously learns about how a user typically uses a given cloud and then provides forecasts and daily personalized recommendations to help them stay within a budget. Pileus currently supports AWS, with support for Google Cloud and Microsoft Azure coming soon. With all of the information it ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "publishedDateTime": "2020-04-15T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/register_mockup_image.27280a96.png",
-          "width": 622,
-          "height": 364,
-          "title": "Pileus helps businesses cut their cloud spend",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing.md",
-      "title": "How Apple and Google plan to combat the coronavirus through contact tracing",
-      "excerpt": "Anticipating this concern, Apple and Google have both addressed it. In one of its documents, Apple explained that the proximity identifier changes every 15 minutes and requires the necessary key in order to be traced back to the user. These identifiers are processed on the device and not in the cloud. Each user chooses whether to contribute to ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
-      "publishedDateTime": "2020-04-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/15/d196417e-97e5-46e1-b2d0-185b234bd6a1/resize/1200x/5c40b60c64e46a2dcd1d9fa6ee53ac0c/istock-612616318.jpg",
-          "width": 1200,
-          "height": 939,
-          "title": "How Apple and Google plan to combat the coronavirus through contact tracing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-how-anthos-gke-surge-upgrades-improve-operational-efficiency.md",
-      "title": "How Anthos GKE surge upgrades improve operational efficiency",
-      "excerpt": "A big part of keeping a Kubernetes environment healthy is performing regular upgrades. At Google Cloud, we automatically upgrade the cluster control plane for Google Kubernetes Engine (GKE) users, but you’re responsible for upgrading the cluster’s individual nodes, as well as any additional software",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-surge-upgrades-for-anthos-gke/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "How Anthos GKE surge upgrades improve operational efficiency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

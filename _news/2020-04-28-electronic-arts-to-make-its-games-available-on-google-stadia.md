@@ -1,20 +1,32 @@
 ---
 category: news
-title: "Electronic Arts Partners With Google to Bring Its Games to Stadia"
-excerpt: "Electronic Arts and Google announced a partnership to launch five EA games on Stadia - Google’s cloud-based gaming platform. Cloud is opening up exciting new possibilities for play,” said Andrew Wilson, CEO of Electronic Arts. “In partnering with Google Stadia, we have an opportunity to deliver some creative and innovative game ..."
-publishedDateTime: 2020-04-28T16:22:00Z
-webUrl: "https://worthplaying.com/article/2020/4/28/news/119226/"
+title: "Electronic Arts to Make Its Games Available on Google Stadia"
+excerpt: "Google announced a new partnership that will send five EA games to Google's gaming service, Google Stadia, later this year and into 2021. Google Stadia is a cloud-based subscription service that lets players play a selection of games for a monthly fee."
+publishedDateTime: 2020-04-28T19:49:00Z
+webUrl: "https://www.fool.com/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
 type: article
-quality: 2
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Worth Playing
-  domain: worthplaying.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google Cloud
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570119%2Fman-playing-video-games-cloud-streaming.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    title: "Electronic Arts to Make Its Games Available on Google Stadia"
 
 related:
   - title: "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia"
@@ -32,21 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/greez.jpg?fit=1391%2C941&strip=all"
         width: 1391
         height: 941
-  - title: "Electronic Arts to Make Its Games Available on Google Stadia"
-    excerpt: "Google announced a new partnership that will send five EA games to Google's gaming service, Google Stadia, later this year and into 2021. Google Stadia is a cloud-based subscription service that lets players play a selection of games for a monthly fee."
-    publishedDateTime: 2020-04-28T19:49:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570119%2Fman-playing-video-games-cloud-streaming.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
   - title: "PUBG, Madden, Star Wars Jedi: Fallen Order heading to Google Stadia"
     excerpt: "Google held a Stadia Connect on Tuesday to give some news of what's coming to the cloud-streaming service in 2020. The big reveal was that PlayerUnknown's Battlegrounds, better known as PUBG, is available now for free to Stadia Pro subscribers."
     publishedDateTime: 2020-04-28T16:21:00Z
@@ -118,7 +115,16 @@ related:
       - url: "https://mms.businesswire.com/media/20200428005367/en/787865/23/StadiaLogo.jpg"
         width: 1200
         height: 627
+  - title: "Electronic Arts Partners With Google to Bring Its Games to Stadia"
+    excerpt: "Electronic Arts and Google announced a partnership to launch five EA games on Stadia - Google’s cloud-based gaming platform. Cloud is opening up exciting new possibilities for play,” said Andrew Wilson, CEO of Electronic Arts. “In partnering with Google Stadia, we have an opportunity to deliver some creative and innovative game ..."
+    publishedDateTime: 2020-04-28T16:22:00Z
+    webUrl: "https://worthplaying.com/article/2020/4/28/news/119226/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 2
 
-secured: "KJhiyZbAbLvfZw/XwsgSxSSjAuwGujSgIT0w/uaGPYyukQYhzM/n8z/26SCuU/L1RZ2XnXKSS3jlDplubcDcuvSssG3L/gC8ztAJWefAe8gn4JfjvdtQXUXlilSS/807RJsgmd6bfk6chaBVtCnIurHECyO6/8FBv5Lf1YScEBvmHhelg48z6okoZ2IcOUV9eA8WL2QiaSLyrFd/U46Vl6deIsYBWcKw1wlmBpEVHzb241PXE6D6hrIGR0nTbS4WuWZbbJrp38XkX2v6FgcnQV1c/LS4GzMniYhQECJ8Q7kIcKVNeCIgPp2Qra4gWisE;enkL6los9yCqoRX0aVr5SQ=="
+secured: "SR8JQO1Cq1V7fJNvJkx4BRxi1d96WSxuqM0GM3aMkMbbUfxv91hAMvoAVoN86kD8ClsND8kgG8lEnn4xbzCSxbYCr6yiljUNf5ChuPSjDiPnHJuzTp70FAFW+tndQMJAonxBog+a662Z2E0VmmIxg74whc0LAzRQ2B0MuJymL3D1I1G+YqD/vYa8on8Q1xKmlC2zFUXA9vMbMN2mXmv5rp9FACXFIVLsGb8Bhop2fip0rATrHx6LDaE0RG6WgAigSPxdw3KFgFUmPklussDdGeFb46So7BNOShGl5xLQmIlsK/7/7b2vYnaAVKXl11Bb;TwM2GsLlYTNKcargh63wMQ=="
 ---
 
