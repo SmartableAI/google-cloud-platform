@@ -36,6 +36,21 @@ related:
       - url: "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_las_vegas.jpg"
         width: 1999
         height: 834
+  - title: "Google Cloud opens its Las Vegas region"
+    excerpt: "Google Cloud today announced the official opening of its Las Vegas data center region. With this, Google Cloud now operates four regions in the western U.S., with Las Vegas complementing Google Cloud’s existing data centers in Los Angeles,"
+    publishedDateTime: 2020-04-29T16:10:00Z
+    webUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/"
+    ampWebUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-565252875.jpg?w=1024"
+        width: 1024
+        height: 524
   - title: "Google Cloud opens Las Vegas region"
     excerpt: "Google Cloud on Wednesday opened its latest cloud region in Las Vegas, Nevada. The tech giant now has four cloud regions in the western US, seven across the entire US and 23 globally.  Adding more regions to the western US helps Google's customers reach their end users more quickly,"
     publishedDateTime: 2020-04-29T17:42:00Z

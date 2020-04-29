@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T16:00:00Z
 webUrl: "https://cloud.google.com/blog/topics/infrastructure/google-clouds-las-vegas-region-is-now-open/"
 type: article
 quality: 142
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -23,6 +23,21 @@ images:
     title: "Viva Las Vegas, with our latest Google Cloud Platform region"
 
 related:
+  - title: "Google Cloud opens its Las Vegas region"
+    excerpt: "Google Cloud today announced the official opening of its Las Vegas data center region. With this, Google Cloud now operates four regions in the western U.S., with Las Vegas complementing Google Cloud’s existing data centers in Los Angeles,"
+    publishedDateTime: 2020-04-29T16:10:00Z
+    webUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/"
+    ampWebUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-565252875.jpg?w=1024"
+        width: 1024
+        height: 524
   - title: "Google Cloud opens Las Vegas region"
     excerpt: "Google Cloud on Wednesday opened its latest cloud region in Las Vegas, Nevada. The tech giant now has four cloud regions in the western US, seven across the entire US and 23 globally.  Adding more regions to the western US helps Google's customers reach their end users more quickly,"
     publishedDateTime: 2020-04-29T17:42:00Z
@@ -65,6 +80,6 @@ related:
         width: 1200
         height: 630
 
-secured: "IM1+pYWPCQRaANGEoUeDpgOlBm2zIVoMnjlsrTwOrWCK52Tt4jqk0wVt/HROwQrRtQ/XhDaEInHXT407e5cAC4HRMbKmvOPOnesA7df8j17gyo4ZbZoupNRUmF6TFR6sNifTuD6EXCHOVqi5GHt7TluCo/RgK8qy71uNSFH/CK6Boz2SIgpz1owTlByvcs860gjlNziFCOGtib7VtoZ6PNLoh9HMI2/iiQ2B7/0SylswP52VPRgdheJ2TWrPr86i2mlVzTrY0fxYRbRSH8vKI0xprie7P6P6udzOQvd+Pd2ZZbM84tHyhZWP78II+BM3gKwF9V5FjrAZohw3VYkGcA==;qoEEEp3xrfa4rNRsNQaUfg=="
+secured: "qjakmhElNKujz1XzfcipOmMZ5RqUojpBlk84rTQth1WElg64OcU/RyYf54xysGiai10+DlOWXOkdD8uWRUeXtFcyxfAuHyKi8TxQul7Heyo2LbOg/k+2dJfvXpzJeH9iEERzvzcEAQgOoW58m0d3F/XpCpJl6w/MUDTg5+DLH43pqL6CJPnM6w/LH+c5zKHWz5+Sz07VLT+DS0ndB9jViGGgW3waJ7vvwT8V6iMbTy3BwDY1NSU7RwBCum7tfDlkpTf93Iz2i9ToPTZksvXh1fEfJo9ditLoO1Nh3zNOe6nD/tJKiMd5taa7gDfNqZGmXBSm4Lny1ZxVQmygUYdwqw==;ID0QCbn5+jRJYmg8gxfpyg=="
 ---
 

@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Google opens Las Vegas cloud region"
-excerpt: "Google has opened a new region for its Cloud Platform in Las Vegas, bringing its total to 23 regions around the world. The Las Vegas region will provide business continuity, allowing US customers to distribute workloads across four western regions - Los Angeles,"
-publishedDateTime: 2020-04-29T17:21:00Z
-webUrl: "https://www.datacenterdynamics.com/en/news/google-opens-las-vegas-cloud-region/"
+title: "Google Cloud opens its Las Vegas region"
+excerpt: "Google Cloud today announced the official opening of its Las Vegas data center region. With this, Google Cloud now operates four regions in the western U.S., with Las Vegas complementing Google Cloud’s existing data centers in Los Angeles,"
+publishedDateTime: 2020-04-29T16:10:00Z
+webUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/"
+ampWebUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
 type: article
-quality: 22
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google Cloud
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/Google_Nevada.2e16d0ba.fill-1200x630.png"
-    width: 1200
-    height: 630
-    title: "Google opens Las Vegas cloud region"
+  - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-565252875.jpg?w=1024"
+    width: 1024
+    height: 524
+    title: "Google Cloud opens its Las Vegas region"
 
 related:
   - title: "Viva Las Vegas, with our latest Google Cloud Platform region"
@@ -36,21 +42,6 @@ related:
       - url: "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_las_vegas.jpg"
         width: 1999
         height: 834
-  - title: "Google Cloud opens its Las Vegas region"
-    excerpt: "Google Cloud today announced the official opening of its Las Vegas data center region. With this, Google Cloud now operates four regions in the western U.S., with Las Vegas complementing Google Cloud’s existing data centers in Los Angeles,"
-    publishedDateTime: 2020-04-29T16:10:00Z
-    webUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/"
-    ampWebUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-565252875.jpg?w=1024"
-        width: 1024
-        height: 524
   - title: "Google Cloud opens Las Vegas region"
     excerpt: "Google Cloud on Wednesday opened its latest cloud region in Las Vegas, Nevada. The tech giant now has four cloud regions in the western US, seven across the entire US and 23 globally.  Adding more regions to the western US helps Google's customers reach their end users more quickly,"
     publishedDateTime: 2020-04-29T17:42:00Z
@@ -79,7 +70,20 @@ related:
       - url: "https://www.crn.com/resources/025c-0f4a132e32c6-3e05067ddcb6-1000/google-cloud-next-intro_002_.jpg"
         width: 609
         height: 456
+  - title: "Google opens Las Vegas cloud region"
+    excerpt: "Google has opened a new region for its Cloud Platform in Las Vegas, bringing its total to 23 regions around the world. The Las Vegas region will provide business continuity, allowing US customers to distribute workloads across four western regions - Los Angeles,"
+    publishedDateTime: 2020-04-29T17:21:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-opens-las-vegas-cloud-region/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 22
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_Nevada.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
 
-secured: "HDE3fr7KukOilwRd2IV9Q4oIUualIDkkHemcFY1Sf7w/uonJYb+5hx/bCYS0nn7fI+MN7BPfG/GQU2/pNQzppAe+AYIv+rcIk+pQ/tZ8SFpBqO/nx5Q9gVpq/phaiXo16Knh2lAQL946bGmPrgn1zy/tScjlILaRBxjg0Xk1PqANBUUMZUnVcCzfBU+Gl01LTn6lYqafrT5tolf7ippqig6AJ3ZClomwLy/V5UYYtlwrfYDhAvgYwc8DuDzNRKHzLLszqh3+57KOIPtgHnyekT4scBeNeIj3KkyVwt21p1ax7H05EIZJA1AGMmDrf2s52FUedrPvVa85I0aLj3FXUWz6VBhXQrxnXvtQBaXDSJFfjUd9thzoAt2ulY72mmYUVkD1pO0+RZhoE+AabM9T0rnC7LllwxPnQKfr9pS0po1VsFBwCqF3JisU/CNMBmS8McdWEuGJJX2eV3wYzN/cOpp3u1kKwEhroydvBZv8Qsk=;4TOQyIIYZTo09CgLNQjclA=="
+secured: "vKUVGhyIXTBDyDEKUWsbpaQQpYS8svBeU3Pl8V5X+8H0NxI3ruR8zq6DU6BKxD0yKPQVghdZSzqR9MiKU3Fx12xVZN0nh1iNhH9C2bzarD2J6ziDNpOqHcoLp0doCBvQliKYw+4H9k7TD8wee5I8pCGwUWm7Em7KJo27Ibppdk6PhoYocVEJuJrJ/7PVIs2OhOa1ZZSTofUBcapJ321nZbb+/bpAO+dbnLSr0Hygv/QM8HH2rZk3TQ1tCV4ykjUJgqu7u+834dXDRFPqiub7B0Oi5YG8+ehpJVNvvYJKUMA3eeTgHVFKWYZUls413uY5;LopNlF7Np9gWp60MCF9dyg=="
 ---
 

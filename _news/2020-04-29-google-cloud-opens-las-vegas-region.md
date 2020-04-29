@@ -42,6 +42,21 @@ related:
       - url: "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_las_vegas.jpg"
         width: 1999
         height: 834
+  - title: "Google Cloud opens its Las Vegas region"
+    excerpt: "Google Cloud today announced the official opening of its Las Vegas data center region. With this, Google Cloud now operates four regions in the western U.S., with Las Vegas complementing Google Cloud’s existing data centers in Los Angeles,"
+    publishedDateTime: 2020-04-29T16:10:00Z
+    webUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/"
+    ampWebUrl: "https://techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/google-cloud-launches-its-las-vegas-region/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-565252875.jpg?w=1024"
+        width: 1024
+        height: 524
   - title: "Google Cloud Platform Region Opens In Las Vegas"
     excerpt: "Google officially opened its new, three-zone Google Cloud Platform region in Las Vegas today, giving customers operating in the U.S. a fourth western region to distribute their workloads"
     publishedDateTime: 2020-04-29T17:01:00Z
@@ -69,6 +84,6 @@ related:
         width: 1200
         height: 630
 
-secured: "mf9SrUy039fMTvH6ykMU115o/pL7MrrG5Aw21kAM5eqCq1TQccMGYpsjDcKbMmNdlNkp4zlXVDH7Jy+yIbrnCMqbvDSD93U0EG0bKHf1ucSsVQj31zd8Dp1kL2UddlZg9v3wGTH+EnTbgI85XgBTfqPW1xJO7SbWfWL0UYfxaOu6MCF4qusNAQDak6A1jOoPNqqJvaxBK4BbzRUJ7H2zcsAw+CJ0VimL7zVnbSwUHHs6rEszoSLYvvtG6VbdP0G/RGOhHhWgirKMxYuHqo13rTakL0FUUOyP52Of9kxR8f8NXIwBbNWeKBNmQ0URtcy6;JNN5G/9PGbYGgRdRBcO3wA=="
+secured: "S27r8WtBqXZuC8WnfyRpf76CHFBNZE1Ql+8gkmoHmj7Ffz6It85aqTLW/Xk2OBptinE6cWXFNVsdLumwjlGJMBdy3y/Yx3i2NRAAEXCPdxXImQ5jqXITrKgec9fldQfj+x5a1C0/+/r5jk+KtnsFD9ZeMpLUnjFworj7lMmdwbxC+Ct3BfIXZtJPKIycznxyUtcK3uMPOEFE0tNvl2fBHvREKLid2SO0wOtemqJtceKdKxXUMyWdJ3RFrb0ZrrUPhnw5jl3khx0KutZep6JmQ+x9BfY6GYUUIJkP66lQyZAdaBfQ1zLidB7OY2YxR1iQ9o3Orm6REUj9RloJnQpifPV2Y9hiyrK7mc52YpfXN3IS35VZSL0fSXD6WfIWN+HaCpHQJw7nmjtC9t6fUIo3rRq0taXswKpqdFeUG3T7rMypjXIfH2FBeF/rJbsrm9v6Aj9KKrFPe+i685KEciwjexpGkPvcQPWsf3Zzandy6Tg=;ct1J3Ch2rvo9hQXmSoYp6A=="
 ---
 
