@@ -55,6 +55,19 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3604679-star-wars-jedi-fallen-order-review-nologo.jpg"
         width: 640
         height: 360
+  - title: "EA and Google Partner to Bring Five Titles to Stadia"
+    excerpt: "Those three games are expected to launch on Stadia this winter, with more titles to be added in 2021, according to an announcement from Google and EA. Stadia allows users to play games on TVs, laptops,"
+    publishedDateTime: 2020-04-29T11:41:00Z
+    webUrl: "https://www.sporttechie.com/ea-and-google-partner-to-bring-five-titles-to-stadia"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 22
+    images:
+      - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
+        width: 1200
+        height: 675
 
 secured: "z/os8i87i9LbnK8eCVyAHJbOb/ElsuiuuDE2MCRuQcU9n7Zin6AXLEmDdtXHyZN2U71/gaBRZ+qTfpSrs7tEtebkA+/F/4VDMDETFlXslFOjPcwRxzVJVuaoUOECkMBqh7tZKyxv3SbsjwxSpePS1f+yhEynk/+19dpUyPDEIi6vWwq0jujFr4tEK1EznTpAt3ondpEHJMPhFUocKr7hKaik9BPP70zg2S6kizqAQEmcqtCtTGDtOzXpUEn3Lf14dRCpqZOGBfTIwV52Fx3bKfpFCXMwjHsntaLYDIlomUAO7qq/csENbMPWa/8c8UZfNoKSaH/WP/+24anVJDk+iTbB36/7Z25rRRUxdBoWA4tdPUNFojPb17kWhVnTwVXJUQZnDm6UA4fuyGYp25Pt6BntvPpCK6T3t+eQPb8mnVjzGWgl5Xij2tSJVdk1qXWbKFr4wp3OjzKditD7l8sgt2aC+zK5btVs23fknVOmJ38=;NrA2AIWHCi1wE1YNlzCMLw=="
 ---

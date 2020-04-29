@@ -55,6 +55,19 @@ related:
       - url: "https://www.denofgeek.com/wp-content/uploads/2020/04/Google-Stadia.jpg?resize=768%2C432"
         width: 768
         height: 432
+  - title: "EA and Google Partner to Bring Five Titles to Stadia"
+    excerpt: "Those three games are expected to launch on Stadia this winter, with more titles to be added in 2021, according to an announcement from Google and EA. Stadia allows users to play games on TVs, laptops,"
+    publishedDateTime: 2020-04-29T11:41:00Z
+    webUrl: "https://www.sporttechie.com/ea-and-google-partner-to-bring-five-titles-to-stadia"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 22
+    images:
+      - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
+        width: 1200
+        height: 675
 
 secured: "cyOHaC7OUM4pfXtsZbWcCqQ27FKCm0wi9++qaRRyz1kJjbWBJeSItX1cKb7zTRR4HwTZsArGynSC3KZNg2VzwN5SjC1mHqlv9HdSIJylZD0UyakEEUO8vM0z39WD/umMpYAr839J7nJCJ3//tPNorJJRURvTbmVMsLr0tY+rpDDnqsEkjGJatbnIsQiksTpespVsUk9giaM75qJDAIucbX+IoCIBl5PO4OTkhMHFqlInYXcsM/PmkHspjJh7fZich/XV2Ojm81rJ0g9Ztvw6hUwgVQJc9EUPEOki8JM6KqWo1obrq3d2N8SAwqaucN4fikYk8NpZajklGEW+K0LYyR45fKjr3i/xuWrFAxx5yqjcKLYyPV+wtwnv6aGK8Z6vH6Mqs3CcxyG7xKaJWlsNSUlwUf5Xzux31okex3agGe2oThLc57AEaBnRt5XRjJY9DUry410Vp2R+A2meqlkcEg7E4+ys+knsdlUlI3+7B4I=;PDLYCiUD0Nvw2qTphba+jg=="
 ---
