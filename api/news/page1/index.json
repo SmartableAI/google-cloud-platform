@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-29-explore-anthos-with-a-sample-deployment.md",
+      "title": "Explore Anthos with a sample deployment",
+      "excerpt": "Last week, we announced important updates to Anthos, our multi-cloud application management platform. Many of you reached out to find out how you could try Anthos, out today so we’re sharing the Anthos Sample Deployment on Google Cloud, a simple way to explore the platform and its components.Available",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/explore-anthos-with-a-sample-deployment/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Explore Anthos with a sample deployment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-optimize-dataproc-costs-using-vm-machine-type.md",
+      "title": "Optimize Dataproc costs using VM machine type",
+      "excerpt": "Dataproc is a fast, easy-to-use, fully managed cloud service for running managed open source, such as Apache Spark, Apache Presto, and Apache Hadoop clusters, in a simpler, more cost-efficient way. We hear that enterprises are migrating their big data workloads to the cloud to gain cost advantages with",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/optimize-dataproc-costs-using-vm-machine-type/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Optimize Dataproc costs using VM machine type",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-viva-las-vegas-with-our-latest-google-cloud-platform-region.md",
+      "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
+      "excerpt": "If you’re running in the cloud, more regions means being able to build reliable, fast applications that can serve your local customers. Today, we’re launching our newest Google Cloud Platform region in Las Vegas, bringing a fourth region to the western United States, the seventh nationally, and our global",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/infrastructure/google-clouds-las-vegas-region-is-now-open/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_las_vegas.jpg",
+          "width": 1999,
+          "height": 834,
+          "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-oracle-launches-cloud-e3-platform-built-on-second-gen-amd-epyc-processors.md",
       "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
       "excerpt": "Oracle on Wednesday launched the Oracle Cloud Infrastructure Compute E3 platform, a new family of bare metal and standard instances powered by AMD's 2nd Gen Epyc processors. With the high core count and memory bandwidth delivered by the AMD chips,",
@@ -928,115 +1037,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-explaining-model-predictions-on-image-data.md",
-      "title": "Explaining model predictions on image data",
-      "excerpt": "Editor's note: This is the second blog post in a series covering how to use AI Explanations with different data types. The first post explained how to use Explainable AI with tabular data.As machine learning technology continues to improve and models become increasingly accurate, we’re using ML to solve",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/explaining-model-predictions-on-image-data/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_explainable_ai.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Explaining model predictions on image data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-security-simplified-making-shielded-vm-the-default-for-compute-engine.md",
-      "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
-      "excerpt": "Last April we announced the general availability of Shielded VM—virtual machine instances that are hardened with a set of easily configurable security features to ensure that when your VM boots, it’s running a verified bootloader and kernel. To make it accessible to everyone, we offered Shielded VM at",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/identity-security/security-simplified-making-shielded-vm-default-compute-engine/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_shielded_vms.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-see-how-dozens-rethinks-the-fintech-industry-with-the-help-of-google-maps-platform.md",
-      "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
-      "excerpt": "Editor’s note: Today’s post comes from Aritra Chakravarty, Founder and CEO of Dozens. Dozens is rethinking the banking industry using Google Maps Platform to help its customers change the way they spend and save money.When we started Dozens in 2018, we wanted to create a new kind of fintech startup.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/see-how-dozens-rethinks-fintech-industry-help-google-maps-platform/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Dozens_payments.png",
-          "width": 1308,
-          "height": 774,
-          "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

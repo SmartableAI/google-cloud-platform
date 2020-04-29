@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors"
 
-secured: "CZzh2ycb+MjnEQowFtqUG/uWM429gxvLASW6dgG6TD+rDEKMyikG9pWRS1/Ko09Vu4/QhkqPcgVODjGPt/NdgmdeC0gx4Vmn++nOmoTGVRodRv/eMR4NwNVxy9/WEN2X1honYWSC6ViTFW7veW/hmw9w46HOyiDKHS8FmYtL9DrKfDPlT48mcgqEIMnGIkaFfIePoqADWQqnLknESeD+fV3E5UcFZE6Z8L4WUZhToGoUAXRznQkt5RXiTMrjBrUXbf4GUp2zIcNRa8VE/9eTETsdmLMkHkiQ3faj4aorhAFLMXtpTDSxEVgud6CYQKjw;sX2cYhA6rKnWtPePy/WXqw=="
+secured: "rcAO+OnqHh+llf9fPXSMUYkTzFB2oH/Od2yyQkfoPi1DPd5pzCcZAHnyYZr/+U6xeNz54zddnFRIiEami3P8z6R7yOs/4yptP4b/WNUIcOtDXYLTFxTDR6LW/MTJRapuYpz5AG/r8RFzjbHWnORQaZ/XpqjWGUnWQRkRLHKs9/PRNUtT8a/AYpG2o2MhDADuJ1x3yMx5xsgN7sTDfijpJsLOGEPKHs54yzymxuOP01jFPXutXfjGmVi2h6VXE5FMIhZ6GHlhb9RRczvd0O+nYNgq6PftY0NRUNg1voBjZzw9cmDDlmsXOlLq5gNGtkXidz+W5BHZCmtbqvQEMatX9GtgbFvVACaf75PX0VUuKgGseEkLzOmTVpSFAuB8v6Pjr52bD+kwLmP0cEHRQqpyg/pwn+a1e0WpGMQLDrwlDi1eo9tyHS9fSlDY/3Ic1uAG1unIrmxmoMuHx4TtDq07u2rdCONAqUuzEvmMlVQJTMY=;wT3r3CL6cgt71tS3pGWpnQ=="
 ---
 

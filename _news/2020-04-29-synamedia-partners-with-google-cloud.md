@@ -1,41 +1,41 @@
 ---
 category: news
-title: "Synamedia syncs up with Google Cloud"
-excerpt: "Partnership plays into Synamedia's move to an 'as-a-service' model for OTT video services as it looks to draw in new customers and help existing ones migrate part or all of their operations to the cloud."
-publishedDateTime: 2020-04-29T07:05:00Z
-webUrl: "https://www.lightreading.com/cloud-native-nfv/synamedia-syncs-up-with-google-cloud-/d/d-id/759260"
+title: "Synamedia Partners With Google Cloud"
+excerpt: "Synamedia, a global independent video software provider, today announced that it has partnered with Google Cloud to expand its video network portfolio with new"
+publishedDateTime: 2020-04-29T15:07:00Z
+webUrl: "https://tvnewscheck.com/article/more-news/248308/synamedia-partners-with-google-cloud/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
-  name: Light Reading
-  domain: lightreading.com
+  name: TV NewsCheck
+  domain: tvnewscheck.com
 
 topics:
   - Google Cloud
 
 images:
-  - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-    width: 600
-    height: 600
-    title: "Synamedia syncs up with Google Cloud"
+  - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
+    width: 581
+    height: 201
+    title: "Synamedia Partners With Google Cloud"
 
 related:
-  - title: "Synamedia Partners With Google Cloud"
-    excerpt: "Synamedia, a global independent video software provider, today announced that it has partnered with Google Cloud to expand its video network portfolio with new"
-    publishedDateTime: 2020-04-29T15:07:00Z
-    webUrl: "https://tvnewscheck.com/article/more-news/248308/synamedia-partners-with-google-cloud/"
+  - title: "Synamedia syncs up with Google Cloud"
+    excerpt: "Partnership plays into Synamedia's move to an 'as-a-service' model for OTT video services as it looks to draw in new customers and help existing ones migrate part or all of their operations to the cloud."
+    publishedDateTime: 2020-04-29T07:05:00Z
+    webUrl: "https://www.lightreading.com/cloud-native-nfv/synamedia-syncs-up-with-google-cloud-/d/d-id/759260"
     type: article
     provider:
-      name: TV NewsCheck
-      domain: tvnewscheck.com
+      name: Light Reading
+      domain: lightreading.com
     quality: 37
     images:
-      - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
-        width: 581
-        height: 201
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
   - title: "Synamedia/Google Cloud OTT partnership"
     excerpt: "Video software provider Synamedia has partnered with Google Cloud to expand its video network portfolio with new over-the-top (OTT) ‘as a service’ offerings"
     publishedDateTime: 2020-04-29T07:03:00Z
@@ -63,6 +63,6 @@ related:
         width: 1191
         height: 624
 
-secured: "1AcGxQ8grd1dN8MA/N2gcUc9Q0tqQxygb321wPa8G/7oQEver10/jHbE3MYqdbybnkhaYeA3lT/PSmxUaCGKrlkqP/9eBKQSqHWu6miTX1B1KRZ3D7a/+zqiKJLIJ3csojuqHRj1nShPKySJ8VVtQevXZEUxNda+vLkfWrD1PmMq9SpOKbBROPU6JV1ig+/oKEzxus+NDa6FzqeWWe0oeApSUAa0AXXvl/e1Pmbp2+aIFTMyGTg1eZQprry7XsnIYBJy+qDmeeuu+lEWxCsQgAMSR9qKqIZArxFUK5u5G8HG7lYvdocmwap6S5M52a9n;C+0FFvuFl0hWqvA90q5kXQ=="
+secured: "1Iru/fWLvw1MASNF3yWgXnmj20YWzvc7xbC9faXH4jcf03XbheUAh5jmdzBhOLp93m/RkSln+ijTIPereB/AsUI5c7irhrMf1e6xLipJCAkAom54WahS4M+MJAyKYTh6LFd+cNbMehTiVjY6XaGRnTKjre05/VnpP5H/1LVyNEeiHo1Lnp3z4Aghm4vX2qa9q//RW/RZB+g/Di5TO25uy5+jMXO3zEl+dcNy4FfuxDm+N8nc8qAqOskKdi+adFuNUUNMsDgXQeywYMM1AuSVlp7xw1/ihHoSmvrzxJ8lIndvIu7J+AkGucKwe/6YBZnT;sTmslM84fvCupZ5zNuftOQ=="
 ---
 

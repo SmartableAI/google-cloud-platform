@@ -2,6 +2,118 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-04-discords-migration-from-redshift-to-bigquery-lessons-learned.md",
+      "title": "Discord's migration from Redshift to BigQuery: lessons learned",
+      "excerpt": "Editor’s note: We’re hearing today from Discord, maker of a popular voice, video, and text chat app for gaming. They have to bring a great experience to millions of customers concurrently, and keep up with demand. Here’s how they moved from Redshift to Google Cloud’s BigQuery to support their growth. At",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/amp/",
+      "publishedDateTime": "2020-03-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Gaming_RWH0IxR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Discord's migration from Redshift to BigQuery: lessons learned",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-learning-custom-tf-hub-embeddings-with-swivel-and-kubeflow-pipeline.md",
+      "title": "Learning Custom TF-Hub Embeddings with Swivel and Kubeflow Pipeline",
+      "excerpt": "The goal of machine learning (ML) is to extract patterns from existing data to make predictions on new data. Embeddings are an important tool for creating useful representations for input features in ML, and are fundamental to search and retrieval, recommendation systems, and other use cases. In this",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/amp/",
+      "publishedDateTime": "2020-03-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Item2Hub.max-600x600.jpg",
+          "width": 336,
+          "height": 600,
+          "title": "Learning Custom TF-Hub Embeddings with Swivel and Kubeflow Pipeline",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-better-scalability-with-cloud-tpu-pods-and-tensorflow-21.md",
+      "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+      "excerpt": "Cloud TPU Pods have gained recognition recently for setting performance records in both training and inference. These custom-built AI supercomputers are now generally available to help all types of enterprises solve their biggest AI challenges. “We've been greatly impressed with the speed and scale of",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "publishedDateTime": "2020-03-03T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/tensorflow.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-dml-without-limits-now-in-bigquery.md",
       "title": "DML without limits, now in BigQuery",
       "excerpt": "Data manipulation language (DML) statements in BigQuery, such as INSERT, UPDATE, DELETE, and MERGE, enable users to add, modify, and delete data stored in BigQuery, Google Cloud’s enterprise data warehouse. DML in BigQuery supports inserting, updating, or deleting an arbitrarily large number of rows",
@@ -815,118 +927,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-understanding-data-pipeline-security-in-cloud-data-fusion.md",
-      "title": "Understanding data pipeline security in Cloud Data Fusion",
-      "excerpt": "For those of you working in data analytics, ETL and ELT pipelines are an important piece of your data foundation. Cloud Data Fusion is our fully managed data integration service for quickly building and managing data pipelines. Cloud Data Fusion is built on the open source project CDAP, and this open",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/creating-more-secure-etl-and-elt-pipelines/amp/",
-      "publishedDateTime": "2020-02-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Data_Fusion.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Understanding data pipeline security in Cloud Data Fusion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-scale-your-composer-environment-together-with-your-business.md",
-      "title": "Scale your Composer environment together with your business",
-      "excerpt": "When you’re building data pipelines, it’s important to consider business needs now and in the future. We often hear from customers that they want to configure and optimize their Cloud Composer environments. So we on the Cloud Composer engineering team will share in this post how Cloud Composer—built",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
-      "publishedDateTime": "2020-02-05T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Scale your Composer environment together with your business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-windows-server-applications-welcome-to-google-kubernetes-engine.md",
-      "title": "Windows Server applications, welcome to Google Kubernetes Engine",
-      "excerpt": "The promise of Kubernetes is to make container management easy and ubiquitous. Up until recently though, the benefits of Kubernetes were limited to Linux-based applications, preventing enterprise applications running on Windows Server from taking advantage of its agility, speed of deployment and simplified",
-      "heat": 151,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/run-windows-server-containers-on-gke/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
-      "publishedDateTime": "2020-01-30T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Containers_08.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Windows Server applications, welcome to Google Kubernetes Engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Containers"
       ]
     }
   ],
