@@ -117,6 +117,19 @@ related:
       - url: "https://mlpnk72yciwc.i.optimole.com/cqhiHLc-EEQhASAa/w:auto/h:auto/q:90/https://bleedingcool.com/wp-content/uploads/2020/04/pubg-stadia-promo.jpg"
         width: 1200
         height: 934
+  - title: "EA to launch 5 games on Google's Stadia, boosting slow-starting platform"
+    excerpt: "Electronic Arts Inc. will launch five games on Google’s Stadia, providing a vote of confidence for a platform that’s been slow to catch on."
+    publishedDateTime: 2020-04-28T18:16:00Z
+    webUrl: "https://www.bnnbloomberg.ca/ea-to-launch-5-games-on-google-s-stadia-boosting-slow-starting-platform-1.1428245"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 21
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1428246!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-google-stadia-gaming-controller-photographer-david-paul-morris-bloomberg.jpg"
+        width: 620
+        height: 349
   - title: "Electronic Arts and Google Announce Partnership to Bring EA Games to Stadia"
     excerpt: "Electronic Arts Inc. (NASDAQ: EA) and Google announced a partnership to launch five EA games on Stadia - Google’s cloud-based gaming platform."
     publishedDateTime: 2020-04-28T16:13:00Z

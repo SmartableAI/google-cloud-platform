@@ -1,26 +1,26 @@
 ---
 category: news
-title: "PUBG Has Officially Come To Google Stadia Today"
-excerpt: "Today during the Stadia Connect event, we learned that PUBG has officially come to the platform starting today."
-publishedDateTime: 2020-04-28T17:48:00Z
-webUrl: "https://bleedingcool.com/games/pubg-has-officially-come-to-google-stadia-today/"
+title: "EA to launch 5 games on Google's Stadia, boosting slow-starting platform"
+excerpt: "Electronic Arts Inc. will launch five games on Google’s Stadia, providing a vote of confidence for a platform that’s been slow to catch on."
+publishedDateTime: 2020-04-28T18:16:00Z
+webUrl: "https://www.bnnbloomberg.ca/ea-to-launch-5-games-on-google-s-stadia-boosting-slow-starting-platform-1.1428245"
 type: article
-quality: 22
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Bleeding Cool
-  domain: bleedingcool.com
+  name: bnnbloomberg
+  domain: bnnbloomberg.ca
 
 topics:
   - Google Cloud
 
 images:
-  - url: "https://mlpnk72yciwc.i.optimole.com/cqhiHLc-EEQhASAa/w:auto/h:auto/q:90/https://bleedingcool.com/wp-content/uploads/2020/04/pubg-stadia-promo.jpg"
-    width: 1200
-    height: 934
-    title: "PUBG Has Officially Come To Google Stadia Today"
+  - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1428246!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-google-stadia-gaming-controller-photographer-david-paul-morris-bloomberg.jpg"
+    width: 620
+    height: 349
+    title: "EA to launch 5 games on Google's Stadia, boosting slow-starting platform"
 
 related:
   - title: "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia"
@@ -113,19 +113,19 @@ related:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202004/1622/854081161001_6150059874001_6150063548001-vs.jpg"
         width: 1280
         height: 720
-  - title: "EA to launch 5 games on Google's Stadia, boosting slow-starting platform"
-    excerpt: "Electronic Arts Inc. will launch five games on Google’s Stadia, providing a vote of confidence for a platform that’s been slow to catch on."
-    publishedDateTime: 2020-04-28T18:16:00Z
-    webUrl: "https://www.bnnbloomberg.ca/ea-to-launch-5-games-on-google-s-stadia-boosting-slow-starting-platform-1.1428245"
+  - title: "PUBG Has Officially Come To Google Stadia Today"
+    excerpt: "Today during the Stadia Connect event, we learned that PUBG has officially come to the platform starting today."
+    publishedDateTime: 2020-04-28T17:48:00Z
+    webUrl: "https://bleedingcool.com/games/pubg-has-officially-come-to-google-stadia-today/"
     type: article
     provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 21
+      name: Bleeding Cool
+      domain: bleedingcool.com
+    quality: 22
     images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1428246!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-google-stadia-gaming-controller-photographer-david-paul-morris-bloomberg.jpg"
-        width: 620
-        height: 349
+      - url: "https://mlpnk72yciwc.i.optimole.com/cqhiHLc-EEQhASAa/w:auto/h:auto/q:90/https://bleedingcool.com/wp-content/uploads/2020/04/pubg-stadia-promo.jpg"
+        width: 1200
+        height: 934
   - title: "Electronic Arts and Google Announce Partnership to Bring EA Games to Stadia"
     excerpt: "Electronic Arts Inc. (NASDAQ: EA) and Google announced a partnership to launch five EA games on Stadia - Google’s cloud-based gaming platform."
     publishedDateTime: 2020-04-28T16:13:00Z
@@ -149,6 +149,6 @@ related:
       domain: worthplaying.com
     quality: 2
 
-secured: "yAaI086NVfPkrwmoTrp2/7Pbn4lMVWMQfTK6uHHztjdNPEwCpY+jsio7ecyH5RktwdbJQFHXwRXLGUgX7ork7EkgWoA3QiXyB6iestTfx81v5CpkZ7TjgpLCJ5fvXXbJ05vuckEkJN48kzR81mikaQ/fNhHVLMx06u4X2Urq/bFj+wmwPs+g4VFSjBTqkzCOM3/a1p5+G+ttoSowh8thDolCWaebjKyP0bGIZcvkhhUh0xp3Bnb4GiKq6RfdPCL5Folzf0koEbNbuNTdPB28mUgavhsarUHhcejEntCST+ruLzKTpHX+9mp5nv9Tqa+M;kCPkuAzUVQaZmKSW6b7RpQ=="
+secured: "nj6tKYbwEK4Uvj9/meWtpae0sUOKxHGRuT6Xd+SBHsZkj9RS9Gv57b0hsi11zeZpodvLiPWTo9ROCEE0sJzPFDN5yKSok8VyFx8eDiqGcsgPL/JyqiKevjWhQR9R4E2p8Y4pk1V2BJH19TR2qorIAPBxuIn4TyqW/2SbvNNAV6GAwssxPm2UNsR34TpVmKOZVhnzgn9sG5yXPZyL79K4Cl92UwJo3XssyT6d3VcPML1wpHwdMvIPg/V1xs2OFwp4Z8XrRSIdGqemG6lHpaSsvg3C3vAqOnSFO9rnGMHv3+0YW9BV+vYwbDyadX0LqK/n;aLcVJn0ofl1mKb2tFZ94cg=="
 ---
 
