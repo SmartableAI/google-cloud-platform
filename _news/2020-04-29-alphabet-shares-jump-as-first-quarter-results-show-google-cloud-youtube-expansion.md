@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Alphabet shares jump as first-quarter results show Google Cloud, YouTube expansion"
 
-secured: "dVl/gGY6Kc+tGcoSeJ9P/6wHYN3KVPfw3ELPvm6a+3IyR5uufTJms2eKYz1QcVMfXx+/tjxjYJRb5anEt+ouvbkmu2Xo1qRigq1zbQOtM9Ua+79lMUfjY9Rvpdaqqf13Ef7TxSIG78i3EZ6HTDFBX5SQA3ffCMvGASnLgr2s89qTwswcKfp7aNY46i8jC3Jb2IV0Opcgv/vUf+RNyU8+S84VFIJ8V6x8r+uRFYKq3EmdMbiTLwpoSFKKZ2zv7S/yyTIRObc01qG6oNFc7r1BaKJQ4izngH6l3GN4wxLdhUQ1sP0tliz5dMq1bbjA0MlD;5BSMZ5JArn3RmHbrlcDH+Q=="
+secured: "WTp8B2A+ADPArOm7/fTpuCfTzuQK+fdp0BG2y//w2J9jZdR9I8HSGD+qHP9u6gfbGlqlNTclVleUdnP6jrWb0/e97EwBVKlNSqQnhrm6oiQYhKzQH1TamGzEntdrotO5bhlpyoIB48fs9t7SODS+cEYxCk3/RDCoqTA9ME+pjMRWR8icb/B4W/oWQVqQ50N0q+GxxbQHr4igL2hkILJIMs4AASwxrLex8CwllLWVdzpZk8Nn3gSFp4pMGn0qJIWNOkq2Srlhkfuse9EsizUmf2uITEitDFZJBUAj2OSskSSrYtExRRDns6jMq3056ilq1JgXs1KvNwZ2eKRq/DbgfcAYhvqYISbCsU0/XVS8oLrF4rdsCpR6I6Cy4hcvPhAhIbbnOcA+9tp2nmXFwsyXxxfguj+akYvXuC1WuDG+BZ+lcCifg8CshvR4T0OCqlTX9Z/0j7tJQIq+JPhQqgPiyfWhuM7qh9htr1Hfomad6gI=;9udaFEGnaldcAot8ehAxEw=="
 ---
 
