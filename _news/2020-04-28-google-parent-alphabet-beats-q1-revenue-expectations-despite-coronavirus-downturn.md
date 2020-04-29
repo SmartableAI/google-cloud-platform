@@ -87,7 +87,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/28/alphabet-and-google-ceo-sundar-pichai-said-weve.jpg"
         width: 1024
         height: 682
+  - title: "Google Parent Alphabet Sees Growth Despite Pandemic; Shares Jump"
+    excerpt: "Google parent Alphabet on Tuesday reported higher profits and revenues in the first quarter even as a coronavirus-induced economic slump hit advertising in March. Alphabet shares climbed three percent in after-hours trades following release of earnings figures that eased fears the pandemic would devastate digital ad revenue that is the internet firm's income engine."
+    publishedDateTime: 2020-04-28T21:40:00Z
+    webUrl: "https://www.ibtimes.com/google-parent-alphabet-sees-growth-despite-pandemic-shares-jump-2966628"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 22
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/28/alphabet-and-google-ceo-sundar-pichai-said-weve.jpg"
+        width: 1024
+        height: 682
 
-secured: "jCc5u8VObkWks5aYWWwwRW+A1EN8prlrkdEXDpskw02pu05h58oDW/4Ys23EZE/ymBHjl8X9ErntJIj2mqOEd3yOe7aNYvbqerQvmDTcga0rmubp+qGlcl0fudJZnFO2715CJf8fjfnNWdOPa9cDPL/wsNeDuxXwoFfabju2yGuZzXZmQa0DyYS/EGY3XUhY1IfA0VJltLtIVDsjd4q7LnZIL8k0c95LaeeVKYwKQf19tjw+qmHZGKh9w8T1O+EDtkZ5MUmBnTec2q/Rz4ZI1eza/3pEHAfQ1gvyj5Cp2cRhG/pshfGiQqX6WGpMwxcb;saXHLmWmlV04lOAoPT2N4Q=="
+secured: "yH2hl3uRUqzfGZD0QpaTVei7G4dm8ahmlihdNjB8yP26sGSBze4Wb9QRLf0yTUwmED+l5BPgILZq8KC+ScK1p4UDU3NJBhzj6EpvbYcaZNoD+FLSOspAllIIvmezcj2nd61K6HMM/kgCKeF1/9dg+lW5VGlVM4ix30SQeT8wPHOsLl4LSTotz76HPB/3AnGBET5g73lY24eCsshd+fTjhYDW2tuByL4qy1KPis0E/UWQBlfJh+B3STyqRGk5SdVHz/OIDLG02+7u+uhZ6gFc6fy0D22+nb1ttouSNP8ndS7C7yQj90euiCJwfc+oBIBu4oT2TQRfAZI5nQHdmSNc22zfbctvJeYhbAeM7LKWuM3Hr/PtwRY3SCNEI2breF3AY+5FpOdL5j2SYwL2g+XAmI3s5rrVKYXcrMgdkzCPgr4xAftK3xyfeecqRxrtTmFlOkiAB3Wufbl2t9wlwGfzoeRop0ohuODBF6+fQAEYepE=;9dep6j7b3PJIG56octmmBQ=="
 ---
 

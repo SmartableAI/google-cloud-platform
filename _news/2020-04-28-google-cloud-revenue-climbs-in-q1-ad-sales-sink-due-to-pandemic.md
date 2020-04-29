@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-revenue-climbs
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/"
 type: article
 quality: 97
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -87,7 +87,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/28/alphabet-and-google-ceo-sundar-pichai-said-weve.jpg"
         width: 1024
         height: 682
+  - title: "Google Parent Alphabet Sees Growth Despite Pandemic; Shares Jump"
+    excerpt: "Google parent Alphabet on Tuesday reported higher profits and revenues in the first quarter even as a coronavirus-induced economic slump hit advertising in March. Alphabet shares climbed three percent in after-hours trades following release of earnings figures that eased fears the pandemic would devastate digital ad revenue that is the internet firm's income engine."
+    publishedDateTime: 2020-04-28T21:40:00Z
+    webUrl: "https://www.ibtimes.com/google-parent-alphabet-sees-growth-despite-pandemic-shares-jump-2966628"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 22
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/28/alphabet-and-google-ceo-sundar-pichai-said-weve.jpg"
+        width: 1024
+        height: 682
 
-secured: "mbWY9GkJiR59b5dCQaG5oUB4T2Wvj5h3Uw3Vm3rvcmmSTDyG+60ja1hU89mv0oO96ZNzerWin9Jzi3E1UJA2gfGMo/r8if1euEykKwCcWz6GE9AgAfsJbIPD60oX0kAjpYOEWnNysvv7+dmepyGMMCW4DY5hqNcyrvWfcAuO2B9Wu+7fWlCdWrzmfagDto5rOVeLflW6KnE3Bi5R28OxhiHMOZ5wjkSL5lwnuk1gV+HIZ615d9+K+/NOgDPW+KuB9XJYR748KVWj1AgXoz0qx3hgBTO6PfsrEgW+329bAQrZRAQKyrsaKL7US3nF9Zeq;0DODVB48Nnqx+u97PXGWkw=="
+secured: "L1eVwzgQesyurS+bXEp0St7J36ImnWo2bfC0IaLNS0Evdv8Vkf2O4fRnkTUp+tEdKcYtV9DD3LWe55HFFfFRb9O2EpiMGs93++ArQ++RLTOq9gTfcMkR6ubPnhXQHjNDdSqJlAh7hOuz2bYhioLUD0cfzh8AG1Sppjt/GqbECkEd6FN/wDh05/3zVItwe2OiL2RpmYJzHFFeMzYOtW8xsX7NjUxdAYkDGl5CbGTaPlHgKK1d7YiE/fboJOSzt099ZimQ1DxW6AqVfpo7SQ4nBnsudtJqrvsD4+Kds5TLXRgej72kvJCoxjrBawfl8IZAhNd0J6pMrNvDfjKQZcaYkb420svxwG0+1Y0hUDlLWkFos1VcfBf5tz4lPAn77DHyvWEJvptuEl0Am9wuvu2eRaQGt6CJWihP9GJcpnn8ClXhStFSHFb0DpR6p4hEiygQrmSpwXtbE8lnxNoMIa2f6QXtIItvJBi4mEVoYi+yO3Q=;8ggnkCfxpit9LWoiC2isxA=="
 ---
 

@@ -83,6 +83,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1210702628%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "Google Parent Alphabet Sees Growth Despite Pandemic; Shares Jump"
+    excerpt: "Google parent Alphabet on Tuesday reported higher profits and revenues in the first quarter even as a coronavirus-induced economic slump hit advertising in March. Alphabet shares climbed three percent in after-hours trades following release of earnings figures that eased fears the pandemic would devastate digital ad revenue that is the internet firm's income engine."
+    publishedDateTime: 2020-04-28T21:40:00Z
+    webUrl: "https://www.ibtimes.com/google-parent-alphabet-sees-growth-despite-pandemic-shares-jump-2966628"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 22
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/28/alphabet-and-google-ceo-sundar-pichai-said-weve.jpg"
+        width: 1024
+        height: 682
 
 secured: "s83HTx1v38NmlgGOVDhYYk3sepSMI/voZeIoKKe/jmBIOXV+9cf/n+KwgUEEx41rIIUCWV/y8aCp11PAhrmj3mDoCHop0TmmeVZbTBVZdLBnvrD4mD2IpW+z0ulwKBRJ155vyhNe2xgZwhlt8YjNuR+FCCJDdKtNaOmvUP/6iaYo55UlyefC6JTtMOAje7QkzA0M/YOeMUKt39ibRTnxHNH5VB9TuBaMEUDN7WXRV/WxPQN5jVXVhSZXSgE4CR1wSu2sDIwNnaVwZkZfnjg0Ih87l1ikVtGOH96sRodxJeAk1gLhjFEuICBaqTzkV/lX;SwEeNJzahxIJgctMdji/4A=="
 ---

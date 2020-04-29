@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/amp/"
 type: article
 quality: 82
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia"
 
 related:
+  - title: "Electronic Arts to Make Its Games Available on Google Stadia"
+    excerpt: "Google announced a new partnership that will send five EA games to Google's gaming service, Google Stadia, later this year and into 2021. Google Stadia is a cloud-based subscription service that lets players play a selection of games for a monthly fee."
+    publishedDateTime: 2020-04-28T23:44:00Z
+    webUrl: "https://www.fool.com/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/electronic-arts-partners-with-google-to-make-its-g.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570119%2Fman-playing-video-games-cloud-streaming.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
   - title: "PUBG, Madden, Star Wars Jedi: Fallen Order heading to Google Stadia"
     excerpt: "Google held a Stadia Connect on Tuesday to give some news of what's coming to the cloud-streaming service in 2020. The big reveal was that PlayerUnknown's Battlegrounds, better known as PUBG, is available now for free to Stadia Pro subscribers."
     publishedDateTime: 2020-04-28T16:21:00Z
@@ -44,6 +59,21 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/VgpJ9H0bWnhktg0phRGg6sYeLow=/756x567/2020/04/28/6f157de2-cabe-4756-8799-66b36963d469/screen-shot-2020-04-28-at-12-07-50-pm.png"
         width: 756
         height: 567
+  - title: "EA partners with Google for games on Stadia"
+    excerpt: "Electronic Arts Inc. and Google have joined forces to launch five EA games on Stadia, Google's cloud-based gaming platform, the organizations announced Tuesday."
+    publishedDateTime: 2020-04-29T00:01:00Z
+    webUrl: "https://www.reuters.com/article/esports-business-ea-google-idUSFLM8gB3HQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSFLM8gB3HQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFLM8gB3HQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
   - title: "Google Stadia Picks Up More Games, Including Octopath Traveler and PUBG"
     excerpt: "The Stadia Connect of the year revealed that some new games are coming to the platform, though it'll take a while for them all to arrive. Several new games are coming to Google's cloud gaming service,"
     publishedDateTime: 2020-04-28T19:55:00Z

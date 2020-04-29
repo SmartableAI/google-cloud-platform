@@ -87,7 +87,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/28/alphabet-and-google-ceo-sundar-pichai-said-weve.jpg"
         width: 1024
         height: 682
+  - title: "Google Parent Alphabet Sees Growth Despite Pandemic; Shares Jump"
+    excerpt: "Google parent Alphabet on Tuesday reported higher profits and revenues in the first quarter even as a coronavirus-induced economic slump hit advertising in March. Alphabet shares climbed three percent in after-hours trades following release of earnings figures that eased fears the pandemic would devastate digital ad revenue that is the internet firm's income engine."
+    publishedDateTime: 2020-04-28T21:40:00Z
+    webUrl: "https://www.ibtimes.com/google-parent-alphabet-sees-growth-despite-pandemic-shares-jump-2966628"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 22
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/28/alphabet-and-google-ceo-sundar-pichai-said-weve.jpg"
+        width: 1024
+        height: 682
 
-secured: "EHhb2PmVuYNs1n2NQfK7LhaEQOn/YwTaxWB34VMX7kRZB8iS2nVqqqPDXUmhY58OzszpjNgAUpsHVVq7EULZ4silUV02CnxiYKIN2+bTLa+BGnJYPwYFbRTc83Gly/yjAT/9SZw8KVoZrLAGZZHPCj3QDEreByQYsG+xzj4lBgCDi8OE8HGxMoC9+AHfjxdWPiKXrqUwUe2dq0Ix7SbcOcIYp893bIsqISNF4dA3TyfU2SllLmypNwAFuXu4Q6eGVhDRamZzD73Ed461xGnTKTTelpu4PEqQxnmSjg1Ka50LT6OErm+v/iKeIWjhibm8;UuDTUMKCGbvk53BXWXNA5A=="
+secured: "x8c5srK9/JkDF9Bcm3sCs7cw+ErfgTA9Bw92mJEIKWkONq2pmYGkHx/HL7ALNLePcUm31Q/1wCsmDpbp0KJrnSNsjbEb6caRRGcZr6Ft0bTliCLmzsPgevPJ966EKZyaUR2Igv0/kzQjZalRwxZAWSO5JsHPZFX47gk0zMTatVSdHk2WDSVMcvID9g0KxzEwbaytadYiFXjIS4yYhCnsOw/h3B/CFpCni+NO2sdhP0yiITqlDAxRj2OKUHEUk0rduGmu1eQvRESwpj9a64B0nOOfbQGN88Wh6QzMmjG4oRaGmdePQC/Aq3EgFbLwQAW0aYeXmzRkmRWJPFAZGIK7VasO6VUP1rj17pxAMcWoqY7cMwtp7z+13ZzBY7zENukIJSaA/MJSgUtsL1MzFer4BNXcW9JMOS1jGQFQwMs1L8A+plX1FXz6V9/u10wmgpOaqLGe+LEai0UZ5T+uFYqTuNTlII2pn0fqJPgZrUxc5kk=;LUxLlCnAgRw7n3ab2NwBqw=="
 ---
 

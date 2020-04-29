@@ -1,21 +1,21 @@
 ---
 category: news
-title: "PUBG, Madden, Star Wars Jedi: Fallen Order heading to Google Stadia"
-excerpt: "Google held a Stadia Connect on Tuesday to give some news of what's coming to the cloud-streaming service in 2020. The big reveal was that PlayerUnknown's Battlegrounds, better known as PUBG, is available now for free to Stadia Pro subscribers."
-publishedDateTime: 2020-04-28T16:21:00Z
-webUrl: "https://www.cnet.com/news/pubg-madden-star-wars-jedi-fallen-order-heading-to-google-stadia/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/pubg-madden-star-wars-jedi-fallen-order-heading-to-google-stadia/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pubg-madden-star-wars-jedi-fallen-order-heading-to-google-stadia/"
+title: "EA partners with Google for games on Stadia"
+excerpt: "Electronic Arts Inc. and Google have joined forces to launch five EA games on Stadia, Google's cloud-based gaming platform, the organizations announced Tuesday."
+publishedDateTime: 2020-04-29T00:01:00Z
+webUrl: "https://www.reuters.com/article/esports-business-ea-google-idUSFLM8gB3HQ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSFLM8gB3HQ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFLM8gB3HQ"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,10 +23,10 @@ topics:
   - Google Cloud
 
 images:
-  - url: "https://cnet2.cbsistatic.com/img/VgpJ9H0bWnhktg0phRGg6sYeLow=/756x567/2020/04/28/6f157de2-cabe-4756-8799-66b36963d469/screen-shot-2020-04-28-at-12-07-50-pm.png"
-    width: 756
-    height: 567
-    title: "PUBG, Madden, Star Wars Jedi: Fallen Order heading to Google Stadia"
+  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+    width: 1200
+    height: 630
+    title: "EA partners with Google for games on Stadia"
 
 related:
   - title: "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia"
@@ -59,21 +59,21 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570119%2Fman-playing-video-games-cloud-streaming.jpg&w=1200&op=resize"
         width: 1200
         height: 800
-  - title: "EA partners with Google for games on Stadia"
-    excerpt: "Electronic Arts Inc. and Google have joined forces to launch five EA games on Stadia, Google's cloud-based gaming platform, the organizations announced Tuesday."
-    publishedDateTime: 2020-04-29T00:01:00Z
-    webUrl: "https://www.reuters.com/article/esports-business-ea-google-idUSFLM8gB3HQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSFLM8gB3HQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFLM8gB3HQ"
+  - title: "PUBG, Madden, Star Wars Jedi: Fallen Order heading to Google Stadia"
+    excerpt: "Google held a Stadia Connect on Tuesday to give some news of what's coming to the cloud-streaming service in 2020. The big reveal was that PlayerUnknown's Battlegrounds, better known as PUBG, is available now for free to Stadia Pro subscribers."
+    publishedDateTime: 2020-04-28T16:21:00Z
+    webUrl: "https://www.cnet.com/news/pubg-madden-star-wars-jedi-fallen-order-heading-to-google-stadia/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/pubg-madden-star-wars-jedi-fallen-order-heading-to-google-stadia/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pubg-madden-star-wars-jedi-fallen-order-heading-to-google-stadia/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CNET
+      domain: cnet.com
     quality: 82
     images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
+      - url: "https://cnet2.cbsistatic.com/img/VgpJ9H0bWnhktg0phRGg6sYeLow=/756x567/2020/04/28/6f157de2-cabe-4756-8799-66b36963d469/screen-shot-2020-04-28-at-12-07-50-pm.png"
+        width: 756
+        height: 567
   - title: "Google Stadia Picks Up More Games, Including Octopath Traveler and PUBG"
     excerpt: "The Stadia Connect of the year revealed that some new games are coming to the platform, though it'll take a while for them all to arrive. Several new games are coming to Google's cloud gaming service,"
     publishedDateTime: 2020-04-28T19:55:00Z
@@ -140,6 +140,6 @@ related:
       domain: worthplaying.com
     quality: 2
 
-secured: "kZXMachrEGcX9dv/9cjum0L4iUy5x6vvjCzacjoKbXnjVulip/dptqOuhhHaHtdjZx7DoS48eLgTYm+BbL9BVtHbMfytU6GFjmZ4tp4T53mQGY0dk349JJ9sSehqTntOkiIZFAwVassHt6Ua0ynYH2oZp9x06+9YmUciNyrqyz3wrb44nrMayzSvbZUTtQaXKLPxK/Kt9IBu/5b89cMdSloTaVlG1efNVjYzJj0UgjBMj4zve4Lec297DHj/eZ1B1XJxTaTwXLzrWE5VuoIl5YKuv4XgiG3byXZgFd6fdnjLBNYctSmy3tuzchLTMgzDaWEBgPeeuTPBTqGtiDKmXxjPhmXbaxwkn98oXTKZ6ZcAC5o8nJXLc/vgSEapdzCsVG2ssuXovA25AzvLVUnEjW9KLB6H+rZ5GAvIZRARYOzE9ogzl7Q6epu665y4H/TiUHYMRQS+HwoT2wJdKqKpR/LYh24BmO8uhS8aCEAnp/U=;cfbUk90HFLKkUdoRte4aGg=="
+secured: "oI03fYFDRfFLQKdQEFHtB3Uu6Boh22pPf3+iulQMJAiVMh3fcmIvz+Y+/VFUR7APvg0ov4GNvZiK/hHK8HHpMli7N5/l2dH511dcMCYqENJ/fmOmSqM666+5+m83TPE2k6gqGPNQnVpWtK//qq7X+6y+L0QowYyaq3lTfSdPogFVUX+13h0w5Nnqpl+xkdrCjQBwOrtz2U9C4m3So6JnbmlHE7HRSnwNNYjGegg3E4OVZ2MrPTbpQoNxgVWOK4RR9XoxCAKLQPVq9zJENlCj+QtcrPMYw1AQWjvIjBhoU/LQP8woncjNw7bpSrnPLGIx;GnpdHE3BYu8PWx1dgSdWKg=="
 ---
 
