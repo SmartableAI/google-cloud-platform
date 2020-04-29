@@ -5,8 +5,8 @@ excerpt: "Last week, we announced important updates to Anthos, our multi-cloud a
 publishedDateTime: 2020-04-29T16:00:00Z
 webUrl: "https://cloud.google.com/blog/topics/anthos/explore-anthos-with-a-sample-deployment/"
 type: article
-quality: 112
-heat: 112
+quality: 129
+heat: 129
 published: true
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - Google Cloud
+  - Hybrid Cloud
 
 images:
   - url: "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg"

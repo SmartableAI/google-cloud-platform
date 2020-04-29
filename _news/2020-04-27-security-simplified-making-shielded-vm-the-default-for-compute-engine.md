@@ -5,8 +5,8 @@ excerpt: "Last April we announced the general availability of Shielded VM—virt
 publishedDateTime: 2020-04-27T16:00:00Z
 webUrl: "https://cloud.google.com/blog/products/identity-security/security-simplified-making-shielded-vm-default-compute-engine/"
 type: article
-quality: 112
-heat: 112
+quality: 114
+heat: 114
 published: true
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - Google Cloud
+  - Compute
 
 images:
   - url: "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_shielded_vms.jpg"

@@ -2,10 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-29-google-cloud-sees-huge-revenue-jump.md",
+      "title": "Google Cloud sees huge revenue jump",
+      "excerpt": "Google's parent company Alphabet has announced its latest financial results revealing that Google Cloud revenue increased by 52 percent to reach $2.78bn during the first quarter of this year. Revenue from the company's cloud computing division helped it beat Wall Street's revenue expectations during a time when Google's advertising business experienced a slowdown as a result of the coronavirus outbreak.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/google-cloud-sees-huge-revenue-jump",
+      "ampWebUrl": "https://www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
+      "publishedDateTime": "2020-04-29T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/f2noH8daNe2WNYuaTKbjxT-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Cloud sees huge revenue jump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-synamedia-partners-with-google-cloud-on-video-network-offering.md",
+      "title": "Synamedia Partners With Google Cloud on Video Network Offering",
+      "excerpt": "Synamedia has announced a partnership with Google Cloud, expanding its video network portfolio with a new over-the-top (OTT) as-a-service offering. The partnership, which enhances service availability and scalability,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvtechnology.com/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "publishedDateTime": "2020-04-29T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nyqctXWHsEyvxvPW4b5Gxg-1200-80.jpg",
+          "width": 478,
+          "height": 269,
+          "title": "Synamedia Partners With Google Cloud on Video Network Offering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-explore-anthos-with-a-sample-deployment.md",
       "title": "Explore Anthos with a sample deployment",
       "excerpt": "Last week, we announced important updates to Anthos, our multi-cloud application management platform. Many of you reached out to find out how you could try Anthos, out today so we’re sharing the Anthos Sample Deployment on Google Cloud, a simple way to explore the platform and its components.Available",
-      "heat": 112,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://cloud.google.com/blog/topics/anthos/explore-anthos-with-a-sample-deployment/",
@@ -34,7 +114,8 @@
         "news"
       ],
       "topics": [
-        "Google Cloud"
+        "Google Cloud",
+        "Hybrid Cloud"
       ]
     },
     {
@@ -78,7 +159,7 @@
       "path": "_news/2020-04-29-viva-las-vegas-with-our-latest-google-cloud-platform-region.md",
       "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
       "excerpt": "If you’re running in the cloud, more regions means being able to build reliable, fast applications that can serve your local customers. Today, we’re launching our newest Google Cloud Platform region in Las Vegas, bringing a fourth region to the western United States, the seventh nationally, and our global",
-      "heat": 142,
+      "heat": 172,
       "tags": null,
       "type": "article",
       "webUrl": "https://cloud.google.com/blog/topics/infrastructure/google-clouds-las-vegas-region-is-now-open/",
@@ -964,79 +1045,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-online-event-helping-financial-services-organizations-deliver-the-foundations-for-true-resilience.md",
-      "title": "Online event: Helping financial services organizations deliver the foundations for true resilience",
-      "excerpt": "Financial services firms are increasingly turning to the cloud to create digital banking solutions and to build resiliency and agility into their core business infrastructure. This trend has only accelerated as the world adapts to virtual working environments and entirely new ways of doing business. To",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/financial-services/helping-financial-services-organizations-deliver-foundations-true-resilience/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/0710_Bankingonthecloud-BlogHeader.max-1300.max-2800x2800.png",
-          "width": 2800,
-          "height": 1555,
-          "title": "Online event: Helping financial services organizations deliver the foundations for true resilience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-your-top-network-performance-problems-and-how-to-fix-them.md",
-      "title": "Your top network performance problems and how to fix them",
-      "excerpt": "Got network trouble, and don’t know where to start? Whether you’re trying to troubleshoot a performance problem or understand your network performance in order to make optimal deployment decisions, Google Cloud has a comprehensive set of tools for network monitoring, verification and optimization. With",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/your-top-network-performance-problems-and-how-to-fix-them/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "Your top network performance problems and how to fix them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],

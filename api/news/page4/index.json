@@ -2,6 +2,94 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-17-how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails.md",
+      "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
+      "excerpt": "That's especially true with phishing emails, which often promise information and updates about COVID-19 but instead lead people to malicious content. The popularity of Google Cloud services such as G Suite, Gmail, and Chrome have made their users tempting targets for malware. In a blog post published on Thursday, Google explained what it's ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
+      "publishedDateTime": "2020-04-17T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/26/05489297-ce39-46e0-a5b9-c1d8795feefe/resize/1200x/e23b602d8e1f28512faa6302a8d89e4b/istock-1211016776.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025.md",
+      "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
+      "excerpt": "New York, April 17, 2020: The Global Chatbot Market is segmented on the lines of its platform, enterprise size and",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025-2020-04-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-protecting-businesses-against-cyber-threats-during-covid-19-and-beyond.md",
       "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
       "excerpt": "No matter the size of your business, IT teams are facing increased pressure to navigate the challenges of COVID-19. At the same time, some things remain constant: Security is at the top of the priority list, and phishing is still one of the most effective methods that attackers use to compromise accounts",
@@ -919,79 +1007,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-how-google-meet-supports-two-million-new-users-each-day.md",
-      "title": "How Google Meet supports two million new users each day",
-      "excerpt": "More than a decade ago we introduced secure, easy-to-use business collaboration and productivity apps (now known as G Suite), and we envisioned a new way of working in the cloud. And although we always knew the value of cloud-based collaboration, it is more important than ever at a time like this. Over",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-meet-supports-two-million-new-users-each-day/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Meet.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "How Google Meet supports two million new users each day",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-helping-contact-centers-respond-rapidly-to-customer-concerns-about-covid-19.md",
-      "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
-      "excerpt": "As COVID-19 has spread globally, people are turning to governments, healthcare organizations, and other businesses with questions about their health and wellness, finances, and more. This sudden, unprecedented demand is putting strain on customer support resources, and many organizations are telling",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/support-for-contact-centers-during-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_contact_center_ai.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
       ]
     }
   ],

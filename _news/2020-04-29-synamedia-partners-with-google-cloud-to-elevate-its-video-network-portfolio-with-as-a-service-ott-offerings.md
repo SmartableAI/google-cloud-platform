@@ -23,6 +23,21 @@ images:
     title: "Synamedia Partners with Google Cloud to Elevate its Video Network Portfolio with \"as-a-Service\" OTT Offerings"
 
 related:
+  - title: "Synamedia Partners With Google Cloud on Video Network Offering"
+    excerpt: "Synamedia has announced a partnership with Google Cloud, expanding its video network portfolio with a new over-the-top (OTT) as-a-service offering. The partnership, which enhances service availability and scalability,"
+    publishedDateTime: 2020-04-29T17:16:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/synamedia-partners-with-google-cloud-on-video-network-offering"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/nyqctXWHsEyvxvPW4b5Gxg-1200-80.jpg"
+        width: 478
+        height: 269
   - title: "Synamedia Partners With Google Cloud"
     excerpt: "Synamedia, a global independent video software provider, today announced that it has partnered with Google Cloud to expand its video network portfolio with new"
     publishedDateTime: 2020-04-29T15:07:00Z
@@ -36,19 +51,6 @@ related:
       - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
         width: 581
         height: 201
-  - title: "Synamedia syncs up with Google Cloud"
-    excerpt: "Partnership plays into Synamedia's move to an 'as-a-service' model for OTT video services as it looks to draw in new customers and help existing ones migrate part or all of their operations to the cloud."
-    publishedDateTime: 2020-04-29T07:05:00Z
-    webUrl: "https://www.lightreading.com/cloud-native-nfv/synamedia-syncs-up-with-google-cloud-/d/d-id/759260"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 37
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
   - title: "Synamedia/Google Cloud OTT partnership"
     excerpt: "Video software provider Synamedia has partnered with Google Cloud to expand its video network portfolio with new over-the-top (OTT) ‘as a service’ offerings"
     publishedDateTime: 2020-04-29T07:03:00Z

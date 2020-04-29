@@ -2,6 +2,80 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-05-enhanced-models-and-features-now-available-in-new-languages-on-speech-to-text.md",
+      "title": "Enhanced models and features now available in new languages on Speech-to-Text",
+      "excerpt": "From call analytics to automated video subtitles, speech interfaces are changing the way people interact with their surroundings and enabling new business opportunities. Speech recognition technology is at the heart of these transformations and is bringing these ideas to life. At Google Cloud, we’re",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/new-features-models-and-languages-for-speech-to-text/amp/",
+      "publishedDateTime": "2020-03-05T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Speech-to-text.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Enhanced models and features now available in new languages on Speech-to-Text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-anthos-one-multi-cloud-management-layer-for-all-your-applications.md",
+      "title": "Anthos: one multi-cloud management layer for all your applications",
+      "excerpt": "When we first introduced Anthos in 2018, some observers described it as a way to modernize legacy applications. Simply drop your legacy on-prem application into a container, and you were on your way to cloud! But since becoming generally available last April, our customers tell us Anthos is how they",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-goes-multi-cloud-and-beyond/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
+      "publishedDateTime": "2020-03-05T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.gif",
+          "width": 1600,
+          "height": 900,
+          "title": "Anthos: one multi-cloud management layer for all your applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-discords-migration-from-redshift-to-bigquery-lessons-learned.md",
       "title": "Discord's migration from Redshift to BigQuery: lessons learned",
       "excerpt": "Editor’s note: We’re hearing today from Discord, maker of a popular voice, video, and text chat app for gaming. They have to bring a great experience to millions of customers concurrently, and keep up with demand. Here’s how they moved from Redshift to Google Cloud’s BigQuery to support their growth. At",
@@ -853,80 +927,6 @@
       "topics": [
         "Google Cloud",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-now-updated-our-data-engineering-learning-path.md",
-      "title": "Now updated: Our Data Engineering Learning Path",
-      "excerpt": "With the market for artificial intelligence and machine learning-powered solutions projected to grow to $1.2B by 2023, it’s important to consider business needs now and in the future. We've heard from our customers and have witnessed internally that the data engineering role has evolved and now requires",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
-      "publishedDateTime": "2020-02-11T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/560-GCP-Higher-Ed-Hero_Krk4pEL.max-1000x1000.png",
-          "width": 1000,
-          "height": 570,
-          "title": "Now updated: Our Data Engineering Learning Path",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-bring-2020-vision-to-your-pipelines-with-enhanced-monitoring.md",
-      "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
-      "excerpt": "Stream analytics is bringing data to life in a way that was previously unimaginable, unlocking new use cases, from connected medical devices in healthcare to predictive maintenance on the factory floor. But with new uses comes new challenges that, if left unaddressed, can lead to unintended behaviors",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
-      "publishedDateTime": "2020-02-11T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Dataflow.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

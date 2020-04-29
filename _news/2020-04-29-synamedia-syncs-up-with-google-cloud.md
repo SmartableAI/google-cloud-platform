@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T07:05:00Z
 webUrl: "https://www.lightreading.com/cloud-native-nfv/synamedia-syncs-up-with-google-cloud-/d/d-id/759260"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,47 +21,6 @@ images:
     width: 600
     height: 600
     title: "Synamedia syncs up with Google Cloud"
-
-related:
-  - title: "Synamedia Partners With Google Cloud"
-    excerpt: "Synamedia, a global independent video software provider, today announced that it has partnered with Google Cloud to expand its video network portfolio with new"
-    publishedDateTime: 2020-04-29T15:07:00Z
-    webUrl: "https://tvnewscheck.com/article/more-news/248308/synamedia-partners-with-google-cloud/"
-    type: article
-    provider:
-      name: TV NewsCheck
-      domain: tvnewscheck.com
-    quality: 37
-    images:
-      - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
-        width: 581
-        height: 201
-  - title: "Synamedia/Google Cloud OTT partnership"
-    excerpt: "Video software provider Synamedia has partnered with Google Cloud to expand its video network portfolio with new over-the-top (OTT) ‘as a service’ offerings"
-    publishedDateTime: 2020-04-29T07:03:00Z
-    webUrl: "https://advanced-television.com/2020/04/29/synamedia-google-cloud-ott-partnership/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 37
-    images:
-      - url: "https://advanced-television.com/wp-content/uploads/2020/04/google-cloud-1200-630.png"
-        width: 1200
-        height: 630
-  - title: "Synamedia Partners with Google Cloud to Elevate its Video Network Portfolio with \"as-a-Service\" OTT Offerings"
-    excerpt: "Synamedia, the world's largest independent video software provider, today announced that it has partnered with Google Cloud to expand its"
-    publishedDateTime: 2020-04-29T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings-301049351.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1061826/Synamedia_Black_Logo.jpg?p=facebook"
-        width: 1191
-        height: 624
 
 secured: "1AcGxQ8grd1dN8MA/N2gcUc9Q0tqQxygb321wPa8G/7oQEver10/jHbE3MYqdbybnkhaYeA3lT/PSmxUaCGKrlkqP/9eBKQSqHWu6miTX1B1KRZ3D7a/+zqiKJLIJ3csojuqHRj1nShPKySJ8VVtQevXZEUxNda+vLkfWrD1PmMq9SpOKbBROPU6JV1ig+/oKEzxus+NDa6FzqeWWe0oeApSUAa0AXXvl/e1Pmbp2+aIFTMyGTg1eZQprry7XsnIYBJy+qDmeeuu+lEWxCsQgAMSR9qKqIZArxFUK5u5G8HG7lYvdocmwap6S5M52a9n;C+0FFvuFl0hWqvA90q5kXQ=="
 ---
