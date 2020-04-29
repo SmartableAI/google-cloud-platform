@@ -23,6 +23,6 @@ images:
     height: 1200
     title: "Optimize Dataproc costs using VM machine type"
 
-secured: "/HEvbcIGj8pWnRnno5Z8+u5XaUylb17fuNy3FgSmV1/u6MByc6c1H7yA3e/xr62uGoLQQwqrDHPX5jSXATh/NrF9mPg0+Iqm5gF6MqrZUymaoet54YvUJevyhUHBK76qHfpyQwwmvMjmm4HtCvSm0kfyTTZfD7NV0HWF1b/sCGxsSXwseUcsp9NeMlPDCVnJOtX63AznTxoSrPAvqq1do4Jvbq36z+asw1nNhyP0FQI/TZRY+wsWZsYBFPfnGY7qPlXsLFRzvunP+nY+K8DGN1VqvoSPzjzfAVjyiR3vpJXC4YYCJV99LW/y6yqMN5oISYmMwKnICdU2GoVr0Xuykw==;3PhYS6Q2ZLmMtqqN3EcT5A=="
+secured: "9murq6fZQQywFAAJfXgozjsGSaIR6KYVj5tFHOSTcNOs4OODm+zQZ5SrfqxZZV9gGX8e8+1ffctc6ipanSmO9QEzzWyjMQgZiPj92lV1eHGIE3JLGjsF0qqmqa8pa1dsM2Yos7GUoHU47U6rOmkD4NPWe+pBK/IwmZYT6fHFqGWhMNpbKksTbHOjFSUEyc7YLY6mN9/DFpey85bdkYHeg74FYMVieFraJexnfRQK4nsqkcJI/C99XCKRzGOnznHzfkTdSz6Yyp4BKmTrGShjoEsD6OKUV5WpuMjBpdKu5M8uFVnZh0VdiIpxq2Hqy0FQUo2mjrx8pbgqDZgTK1MqVQ==;JqMLLbi+4U/j2r3n1fwBsA=="
 ---
 
