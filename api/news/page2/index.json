@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-27-codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code.md",
+      "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+      "excerpt": "Thanks to smartphones and their downsized keyboards, autocomplete has become a nearly ubiquitous feature of how we write these days. To save us precious seconds composing and (at least in my fat-thumbed case) correcting words,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "publishedDateTime": "2020-04-27T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1187635203.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes.md",
+      "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
+      "excerpt": "Multiplayer gaming has come alive on Google Stadia since it went free. We check out the multiplayer experience in several of Stadia's big games.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/amp/",
+      "publishedDateTime": "2020-04-27T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea6b217228117000681a7a3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-you-can-finally-change-your-ok-google-sensitivity-settings-heres-how.md",
       "title": "You can finally change your OK, Google sensitivity settings. Here's how",
       "excerpt": "Now your Google Home can. The search giant is officially rolling out new controls that let you adjust the sensitivity of your smart speaker to its wake word. That means you can fine-tune your Google Home ($49 at Walmart) or Nest devices to pick up \"Hey,",
@@ -924,87 +1012,6 @@
           "width": 1200,
           "height": 675,
           "title": "Google wants to make it easier to analyse health data in the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-back-up-on-demand-emulate-and-develop-with-ease-new-spanner-features.md",
-      "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
-      "excerpt": "At Google, we built Cloud Spanner to support our need for a scalable, multi-version database with relational semantics. It’s become an important capability for teams that need a globally distributed, strongly consistent database service. Spanner continues to launch new enterprise capabilities, and we’re",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/native-cloud-database-spanner-adds-features/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-cisco-and-google-announce-joint-sd-wan-cloud-hub.md",
-      "title": "Cisco and Google announce joint SD-WAN cloud hub",
-      "excerpt": "The multicloud network fabric helps facilitate application use across the enterprise and improve customer experience. Cisco and Google announced on Tuesday the release of its industry-first SD-WAN cloud hub. The application-focused multicloud networking fabric will guarantee applications and networks have shared service-level agreement settings ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
-      "publishedDateTime": "2020-04-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/28/5d70ba10-7e3a-4376-be18-e1ab8a6a6fab/resize/1200x/e0fad44feb704990a94da5b15f28c698/istock-1140300211.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Cisco and Google announce joint SD-WAN cloud hub",
           "attribution": null
         }
       ],
