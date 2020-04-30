@@ -28,6 +28,6 @@ images:
     height: 545
     title: "Microsoft revenue beats as remote work boosts Teams"
 
-secured: "8APILa0T8S1iWgmC2sZaWchkv845fnJ1axrIng+cMlYWaDXH6wKcBlD+/05EARHm/xFSTqn2aEQobkiHaCfno+Cwa9sgKSWTqV3SVo12myDv46v5ZFrAwOtjj3rfadoCe9DmFIv96tkuulfQrDe4OfjEWq2q/o5/R+G/ooj5nHWC+kBVMIO88gFbHxQxAV6MOaD3cKJglvsNVBSNIzHpU14CjTmuKP2PN6pfhtniSIUBgoK0rSaDWlJPeYa3x6OQ1AFhz15TQvxisiW1sIT3Og/7pbFNGGWHtfjxPg2RWhKnbHQviD9HFVi0J57u+uQN;mAUfVhEORQRwyK0hqMwrTg=="
+secured: "MVT+YGTFA0z+8TOdKm5gHh6gpaI2CHJUaFgUd4mfMohEg8cheeeifUdbBxIAZ+2P1fuxZs7RPSxXVB8abUb6676nTWzN1bres3roxCc/HKN0HdgZg5ayJRw/pje0e+rrmTYcoBU9+/3Q9ee6hC3Jw5EyMWSnUBMneDJbXzfOTAdJxyH4Vf6jE9gIzS6C4XaF98isdSCIV4zLNmIJ6JVETdWi79+J99pp1QsPTM/LDzENGzOiWsYFDvC3xUOaSH+MpQFIe8ut7I8qjYo7CefAlQJUeeH8C6hHeYfYKyKDYVDyHBGYzExylhBGaOO4d31RVQU4Hb2gGiuX4/BpD/pMNjfMsRPOZA3qo/d4K21WGNwNosU2VYowVfvjbgS+Lx1Tzjwnhy+mywmS+ClN3B5+UhnHVJvSeezyezo6vf3Jriuzf9f1MzMAxaA54ZYXg0VTXwsdPC9j2sYw8sLFRzbnJbtopsa/XwchKUYfrm//Hdo=;RcxGarzPn7A+ErgnkZqyfA=="
 ---
 
