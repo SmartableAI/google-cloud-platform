@@ -23,6 +23,6 @@ images:
     height: 1200
     title: "What’s happening in BigQuery: Efficient new views and Cloud AI integrations"
 
-secured: "K1a7hDuAxqTGvZ5x1Y+BBmJn0of2pmHTxSJQVZOu2r/g7+wpVt6Rvs3OWax29sByfqqoDD8TAebCPT/AF/VBOrPJ1Hu727SmmlPmaPXzcasOo1f+Ss9TppRYgL6/iggTtDMh2KtoMo3GYUXt2SvtGYiHgCdMYQ3p4keGm/PDspAjZsSDfTjOILfrNwSyB9fgSl1dH6sGOuq0Gyn/vAFGastbhEFBvPwcZ/f/z2uD8qomODfcQgR2Zuy8Av3GpBZPGecIQrwYzOUVrPZedrRs3RyIARa2N6nQNtTk1gGqmL2zW6qmpgfOQ71Ihj4njfkPgzcr4SSFRfOZVr2REazbZg==;vP1MCCPbrEvAiB761rYw6w=="
+secured: "IQDMTHxklw67xHJc3bOirQOo3DMJqv0MMIv9pFBeOhrlrhwWrkjPbxAy/cGKOy+USByQ0cshVjnIyjmoNU8U0RIsPYtz6VsNO/HmYNIpEzzc1IorA5R6EyLo/ysk2juSCF9FkycJlxvFAVUeSNHIMjSc6jYt1aLZsCThydgjCOJs1JjKfYgif60lEZExYxzAh+dthHANkqxNcYnuK89r1w1bZkMOdwz0cHVhKCj0qNTYAkYgdQvRFDuJ4/aXPfLBxdYSWWQKZN+NBM9KyHAZTTImcoPv3fuXzMnyt8VMRM7zeJyE7/z209Evfcw3V986NffvJAvRWvHg0sWxuN+8KA==;KH+IuaQTWK54bDlQb8BPiA=="
 ---
 

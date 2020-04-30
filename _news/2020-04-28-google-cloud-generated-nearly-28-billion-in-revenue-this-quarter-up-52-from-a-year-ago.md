@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-re
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago"
 
 related:
+  - title: "Amazon's cloud generated over $10 billion in net quarterly sales for the first time ever — up 33% from a year ago"
+    excerpt: "Amazon Web Services saw a slowdown in quarterly growth, although it still has a larger cloud market share than rivals Microsoft and Google Cloud."
+    publishedDateTime: 2020-04-30T21:10:00Z
+    webUrl: "https://www.businessinsider.com/amazon-earnings-aws-amazon-web-services-10-billion-quarterly-revenue-2020-4"
+    ampWebUrl: "https://www.businessinsider.com/amazon-earnings-aws-amazon-web-services-10-billion-quarterly-revenue-2020-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-earnings-aws-amazon-web-services-10-billion-quarterly-revenue-2020-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/5deaa0b7fd9db21eeb482b3c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Google's cloud business made US$2.8B last quarter"
     excerpt: "Google's cloud business generated US$2.8 billion in revenue last quarter, up 52 per cent​ from a year ago, according to parent company Alphabet's latest financials."
     publishedDateTime: 2020-04-29T02:23:00Z

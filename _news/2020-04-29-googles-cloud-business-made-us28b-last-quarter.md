@@ -38,6 +38,21 @@ related:
       - url: "https://i.insider.com/5cf9809111e20513e77b4df7?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Amazon's cloud generated over $10 billion in net quarterly sales for the first time ever — up 33% from a year ago"
+    excerpt: "Amazon Web Services saw a slowdown in quarterly growth, although it still has a larger cloud market share than rivals Microsoft and Google Cloud."
+    publishedDateTime: 2020-04-30T21:10:00Z
+    webUrl: "https://www.businessinsider.com/amazon-earnings-aws-amazon-web-services-10-billion-quarterly-revenue-2020-4"
+    ampWebUrl: "https://www.businessinsider.com/amazon-earnings-aws-amazon-web-services-10-billion-quarterly-revenue-2020-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-earnings-aws-amazon-web-services-10-billion-quarterly-revenue-2020-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/5deaa0b7fd9db21eeb482b3c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
 
 secured: "DtctsRjuD4lvhHRKfBLtvZWAZAlZVT3a8xcgo/9buwWKmb+DPVn+HbYdBDlQdYDXnL67eZpBH7ajblUAo4lq43vKnUuoX6eoFgM3Tl6EgT7evaakcW3lGtAWTpG1DpIPUa9e7cOk3773i8NBGt338Js8wiXBKqYiBp94s1/fr3OvgcFSzQEpuR26JsHy/FsoOdJyhmC5sjHlS1Sxou0sHKdcadhVvJhFVexoTn1KthrOvndpW8MWhhuJ1M9ETQq0A9LSgZ8daZcUwp/OaLzRK2tI9pGdHxjGEyiVJaKH56RmaL8F9OkGWsBdG68V75DzQ2uxXAs6RrVxE6fHI6b/WHbW1QZNcv++k3CEotJUKDUObVFETNfvc6Zad+8AKkGM1pHjElMFjPcdCSP/Wqb7hko3ElhDMm4ZtWiVrpVzIEXFjFeuZ/Kd6prQ0/Xf1FyHeBQlRrBrO100OJn9gxmhjZ6Gs1vx0SiqS+SOZCbRAJ8=;UTjztGC902pyubvirF7Agw=="
 ---
