@@ -22,6 +22,6 @@ images:
     height: 955
     title: "The Technology 202: Google earnings signal a tale of two tech industries"
 
-secured: "/3O4tM9iFjkaovU5g194Oad8j45iuRIBPwYgnXwgCmSf/iThvSFqW+H4mCgxDZGyr2kVfA5bZmJz6DMSo50+53FctGV8OMzV98f28HM1D3N3UkXnTzF3SLhPIR42qGtreP9lwGhhvXLOeXc3Z+zVwBGMLoVEsR1DXTMOSViA19ri/pD/2vI6tLbE6/SqVpP3fv/jFKQ8Q0F4RIc8Bal8a80V0pgMg9M2iMebnVC114uTG2yxGbzazMdHUQVcr0vDOIi4pjSaAFQ83Qqr/JjJbu5XyMACbWICAf2/SLcP1btOddcAPVLc5AUB4ryIlCQR;jYvjV6VmAvJ41UfzllyOMg=="
+secured: "dMmXk4UThIHPhPwhA6kDe3L3pkLhFnnpTR0YpNe8EUn18+EL5JZ+aSoKHbJnbh7YqPRpVj3VMhzN9cJzJpVndUeJY/w3Icj8yzfap5y1FqxNGe3cW3SGuh/1bfwi4h0R2bIUOJX6KholW8gTGf//2+a3yyMT/TZqcfuCBZ07HGUoiS29/vSwRuZW+IsbQ+r4n6u3UdBbPJxD/a6G/DO6Qrj+1PFZVHkJs4iyImLhALpSWq0bSJZ/1F+ZmVutu2vQBniw/cGxcIXGw0tbsR3rxQKQtbFsb7kO1eaZ5A3vLtzQe5ZFkYOostkNgAxxJdZL0XB8aDoTujj0X/jinYMK4zn7grfIytV3EU/ACUbsa+mf7alpI0da/R6yvoE7OCh90n9WH6sR4WXvL9Squ8N52DyvuJMoQVrxLbIKi6HobnnG01QWceNPuoA78WqAebB1yGKBGS/QQSyqrrbKwEsAhIYSbfKTHoG3wPvgGfsBR9Y=;a0H4Nctp4iTlf3DO75g5mg=="
 ---
 
