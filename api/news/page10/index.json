@@ -2,6 +2,80 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-12-06-expanding-the-serverless-ecosystem-for-cloud-run.md",
+      "title": "Expanding the serverless ecosystem for Cloud Run",
+      "excerpt": "Increasingly, organizations want to write applications in containers, without having to worry about provisioning, managing and scaling the underlying infrastructure. They also want to pay only for what they use. Cloud Run, which recently became generally available, makes this possible, with additional",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/amp/",
+      "publishedDateTime": "2019-12-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WorkplaceTransformation-01_2FYra9X.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Expanding the serverless ecosystem for Cloud Run",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-12-05-networking-cost-optimization-best-practices-an-overview.md",
+      "title": "Networking cost optimization best practices: an overview",
+      "excerpt": "Every cloud deployment needs a network over which to move data. Without a network, you can’t view cat videos or upload your selfies, much less allow microservices to talk to one another. Google Cloud provides a global, scalable, flexible network for your cloud-based workloads and services, and how you",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/networking-cost-optimization-best-practices/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/networking-cost-optimization-best-practices/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/networking-cost-optimization-best-practices/amp/",
+      "publishedDateTime": "2019-12-05T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google-networking.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Networking cost optimization best practices: an overview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2019-12-03-better-bandit-building-advanced-personalization-the-easy-way-with-automl-tables.md",
       "title": "Better bandit building: Advanced personalization the easy way with AutoML Tables",
       "excerpt": "As demand grows for features like personalization systems, efficient information retrieval, and anomaly detection, the need for a solution to optimize these features has grown as well. Contextual bandit is a machine learning framework designed to tackle these—and other—complex situations.With contextual",
@@ -855,80 +929,6 @@
         "Google Cloud",
         "Databases",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-10-30-tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier.md",
-      "title": "TensorFlow Enterprise makes accessing data on Google Cloud faster and easier",
-      "excerpt": "Data is at the heart of all AI initiatives. Put simply, you need to collect and store a lot of it to train a deep learning model, and with the advancements and increased availability of accelerators such asGPUs andCloud TPUs, the speed of getting the data from its storage location to the training process",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier/amp/",
-      "publishedDateTime": "2019-10-30T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/TensorFlowEnterprise.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "TensorFlow Enterprise makes accessing data on Google Cloud faster and easier",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-10-30-cloud-storage-data-protection-that-fits-your-business.md",
-      "title": "Cloud storage data protection that fits your business",
-      "excerpt": "As you’re moving apps and workloads to the cloud, you’ll have new options for data storage. It’s just as important to keep your data safe in the cloud as it was on-premises, though. We’ve recently released several enhancements to Persistent Disk that offer more options for keeping your disks available",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
-      "publishedDateTime": "2019-10-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
-          "width": 2800,
-          "height": 1167,
-          "title": "Cloud storage data protection that fits your business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
       ]
     }
   ],

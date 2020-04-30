@@ -23,6 +23,6 @@ images:
     height: 1200
     title: "Managing cost and reliability in serverless applications"
 
-secured: "Oc9kQuSFX2HVPxfe4gsL8S7/VR5ofGp1zoizj8Z/XA9zcinSTvqBByLa4yc5A27aSVdDOdx2kdrgaIBlRm3hBAevPKC7wyX4rl9negmVG8OPx/U2BPRlCv1rYKHNlAsUxHcoEtxegQNN88LfnAaekHqSqdcKoQnhuEQ6TsSdy55pmjMmmx6dJis9X4mxRWnIzAKpNqqB8xDZwmRV8q4zJTvPfaK1DeeRFWTJEQD3mPDdauN8wp2Jloc9I3+Vp2C3XV4gMtMlgfUiujezp0O5H/fwn28yFhXCHGxbeQPXfNsW5pzjy2BOrcarKmqcpsGN7NF4Sw5cc3nQQdOeXNSaSA==;5bX1g/xb7H9PlIsN0QahCg=="
+secured: "/Ytljb34Zjqx/laC8Y2Jepufnt4rl62FihjC12dUn3lYXvuT1h8hR5EQP7ncvt9M62NJlg4SN7lxyu2ylRE+0btBQawQvwTvMwXlkEhV+6jft7DRwXVV9cs3vZe4zeCNz55a/OFgDXgdDY9r/d0Vm+8KnAdP/9tmPZQfqf7gOJwmmYfi/7/T1RmTbqJCZA3v45uAhoX8sKO/z1FU5VrefJlHOMoSteJS/ZTTflynOKcQjuQhD4gbWxKnnM3OjFU3GRsY/5QnEvWjLu9ywCX8tBG5PBdIFb4m5N95aq/OAap7GnPxfNG9wkVvPT4VE32Sgl7LRinr7ePwTTPzmG0ABg==;Lrolzy+52ZFe5bqMIQ/+gw=="
 ---
 

@@ -2,6 +2,80 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-13-google-completes-looker-acquisition.md",
+      "title": "Google completes Looker acquisition",
+      "excerpt": "I’m pleased to announce that Google has completed its acquisition of Looker. Together, we're excited to offer customers a comprehensive analytics solution that integrates and visualizes insights at every layer of their business.  Today, hundreds of joint customers already rely on Google Cloud and Looker",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-completes-looker-acquisition/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/google-completes-looker-acquisition/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/google-completes-looker-acquisition/amp/",
+      "publishedDateTime": "2020-02-12T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Looker.jpg",
+          "width": 1999,
+          "height": 834,
+          "title": "Google completes Looker acquisition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-google-cloud-named-a-leader-in-the-forrester-wave-data-management-for-analytics.md",
+      "title": "Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics",
+      "excerpt": "We’re pleased to announce that Forrester has named Google Cloud a Leader in its report, The Forrester Wave™: Data Management for Analytics (DMA) Q1, 2020. This is the first DMA Wave Forrester is publishing and it assesses Google Cloud’s broader data analytics portfolio, with BigQuery at the heart. In",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/google-a-leader-in-forrester-wave-data-management-for-analytics/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/google-a-leader-in-forrester-wave-data-management-for-analytics/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/google-a-leader-in-forrester-wave-data-management-for-analytics/amp/",
+      "publishedDateTime": "2020-02-12T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud-01_q1Ox36D.png",
+          "width": 2084,
+          "height": 1157,
+          "title": "Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-bigquery-under-the-hood-how-zone-assignments-work.md",
       "title": "BigQuery under the hood: How zone assignments work",
       "excerpt": "BigQuery is a serverless, highly scalable, and cost-effective cloud data warehouse. It’s designed to be flexible and easy to use. There are lots of interesting features and design decisions made when creating BigQuery, and we’ll dive into how zone assignments work in this post. Like other Google Cloud",
@@ -1028,81 +1102,6 @@
           "width": 2880,
           "height": 1200,
           "title": "Your guide to Kubernetes best practices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-01-06-connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions.md",
-      "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
-      "excerpt": "Do you wish you could access resources in your Virtual Private Cloud (VPC) with serverless applications running on App Engine or Cloud Functions? Now you can, with the new Serverless VPC Access service.Available now, Serverless VPC access lets you access virtual machines, Cloud Memorystore Redis instances,",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
-      "publishedDateTime": "2020-01-06T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-12-20-kubernetes-podcast-in-2019-year-end-recap.md",
-      "title": "Kubernetes Podcast in 2019: year-end recap",
-      "excerpt": "At the Kubernetes Podcast, we bring you a weekly round-up of cloud-native news, accompanied by an in-depth interview with a community member. As we publish our 50th and final episode for 2019, it's time to look back on some of our favorite moments from the year.This year, we stepped out of the studio.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/amp/",
-      "publishedDateTime": "2019-12-20T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Kubernetes_A.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Kubernetes Podcast in 2019: year-end recap",
           "attribution": null
         }
       ],
