@@ -2,6 +2,191 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-12-bigquery-under-the-hood-how-zone-assignments-work.md",
+      "title": "BigQuery under the hood: How zone assignments work",
+      "excerpt": "BigQuery is a serverless, highly scalable, and cost-effective cloud data warehouse. It’s designed to be flexible and easy to use. There are lots of interesting features and design decisions made when creating BigQuery, and we’ll dive into how zone assignments work in this post. Like other Google Cloud",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/how-bigquery-zone-assignments-work/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "BigQuery under the hood: How zone assignments work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-exploring-container-security-run-what-you-trust-isolate-what-you-dont.md",
+      "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
+      "excerpt": "From vulnerabilities to cryptojacking to well, more cryptojacking, there were plenty of security events to keep container users on their toes throughout 2019. With Kubernetes being used to manage most container-based environments (and increasingly hybrid ones too), it’s no surprise that Forrester Research,",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548e_Container_security_full.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-running-workloads-on-dedicated-hardware-just-got-better.md",
+      "title": "Running workloads on dedicated hardware just got better",
+      "excerpt": "At Google Cloud, we repeatedly hear how important flexibility, openness, and choice are for your cloud migration and modernization journey. For enterprise customers that require dedicated hardware due to requirements such as performance isolation (for gaming), physical separation (for finance or healthcare),",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Compute_workload_pmsK0uM.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Running workloads on dedicated hardware just got better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-now-updated-our-data-engineering-learning-path.md",
+      "title": "Now updated: Our Data Engineering Learning Path",
+      "excerpt": "With the market for artificial intelligence and machine learning-powered solutions projected to grow to $1.2B by 2023, it’s important to consider business needs now and in the future. We've heard from our customers and have witnessed internally that the data engineering role has evolved and now requires",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
+      "publishedDateTime": "2020-02-11T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/560-GCP-Higher-Ed-Hero_Krk4pEL.max-1000x1000.png",
+          "width": 1000,
+          "height": 570,
+          "title": "Now updated: Our Data Engineering Learning Path",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-bring-2020-vision-to-your-pipelines-with-enhanced-monitoring.md",
+      "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
+      "excerpt": "Stream analytics is bringing data to life in a way that was previously unimaginable, unlocking new use cases, from connected medical devices in healthcare to predictive maintenance on the factory floor. But with new uses comes new challenges that, if left unaddressed, can lead to unintended behaviors",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
+      "publishedDateTime": "2020-02-11T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Dataflow.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-understanding-data-pipeline-security-in-cloud-data-fusion.md",
       "title": "Understanding data pipeline security in Cloud Data Fusion",
       "excerpt": "For those of you working in data analytics, ETL and ELT pipelines are an important piece of your data foundation. Cloud Data Fusion is our fully managed data integration service for quickly building and managing data pipelines. Cloud Data Fusion is built on the open source project CDAP, and this open",
@@ -928,191 +1113,6 @@
       "topics": [
         "Google Cloud",
         "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-12-18-5-best-practices-for-compute-engine-cost-optimization.md",
-      "title": "5 best practices for Compute Engine Cost Optimization",
-      "excerpt": "When customers migrate to Google Cloud Platform (GCP), their first step is often to adopt Compute Engine, which makes it easy to procure and set up virtual machines (VMs) in the cloud that provide large amounts of computing power. Launched in 2012, Compute Engine offers multiple machine types, many innovative",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/5-best-practices-compute-engine-cost-optimization/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/5-best-practices-compute-engine-cost-optimization/amp/",
-      "publishedDateTime": "2019-12-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_compute.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "5 best practices for Compute Engine Cost Optimization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2019-12-18-introducing-more-maintenance-controls-for-cloud-sql.md",
-      "title": "Introducing more maintenance controls for Cloud SQL",
-      "excerpt": "Routine maintenance is a part of every database user experience—it’s how we ensure you get the performance improvements and new feature updates that keep your business running smoothly and securely. But we get it: Nobody likes downtime, no matter how brief. That's why we’re pleased to announce that Cloud",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/introducing-more-maintenance-controls-for-cloud-sql/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
-      "publishedDateTime": "2019-12-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Introducing more maintenance controls for Cloud SQL",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-12-17-file-storage-made-easier-with-netapp-cloud-volumes-now-ga.md",
-      "title": "File storage made easier with NetApp Cloud Volumes, now GA",
-      "excerpt": "At both NetApp and Google Cloud, we share a mission to offer our users a top-notch file service in Google Cloud. Whether you’re moving workloads to cloud or deploying net-new applications in cloud that need file interfaces, our aim is to offer a highly available, feature-rich, and high-performing file",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/amp/",
-      "publishedDateTime": "2019-12-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Storage_Data_Transfer_01.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "File storage made easier with NetApp Cloud Volumes, now GA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-12-16-availability-scale-and-ease-of-management-with-new-layer-4-internal-load-balancing-features.md",
-      "title": "Availability, scale, and ease of management with new Layer-4 Internal Load Balancing features",
-      "excerpt": "Like many Google Cloud customers, you probably have workloads that need to be private without access to and from the public internet. For scaling and resilience of those workloads, we offer regional layer-4 Internal Load Balancing (L4 ILB), and we’ve recently added two new L4 ILB features - ILB global",
-      "heat": 123,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/new-features-for-l4-internal-load-balancer/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/new-features-for-l4-internal-load-balancer/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/new-features-for-l4-internal-load-balancer/amp/",
-      "publishedDateTime": "2019-12-16T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/client_VM_in_Europe-West.gif",
-          "width": 1920,
-          "height": 1080,
-          "title": "Availability, scale, and ease of management with new Layer-4 Internal Load Balancing features",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-12-12-discover-insights-from-text-with-automl-natural-language-now-generally-available.md",
-      "title": "Discover insights from text with AutoML Natural Language, now generally available",
-      "excerpt": "Organizations are managing and processing greater volumes of text-heavy, unstructured data than ever before. To manage this information more efficiently, organizations are looking to machine learning to help with the complex sorting, processing, and analysis this content needs. In particular, natural",
-      "heat": 144,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/amp/",
-      "publishedDateTime": "2019-12-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AutoML.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Discover insights from text with AutoML Natural Language, now generally available",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
       ]
     }
   ],

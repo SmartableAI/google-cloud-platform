@@ -2,6 +2,191 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-12-best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce.md",
+      "title": "Best practices for Chrome Enterprise admins to enable a remote workforce",
+      "excerpt": "As more businesses consider how to enable their teams to work remotely, IT admins are increasingly thinking through how to best support a distributed workforce. Earlier this week we shared some tips and best practices, but if you’re an admin that uses Chromebooks or Chrome Browser in your environment,",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/chrome_enterprise_wfh.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for Chrome Enterprise admins to enable a remote workforce",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-local-ssds-vms-love-at-first-terabyte.md",
+      "title": "Local SSDs + VMs = love at first (tera)byte",
+      "excerpt": "Data storage is the foundation for all kinds of enterprises and their workloads. For most of those, our Google Cloud standard object, block, and file storage products offer the necessary performance. But for companies doing compute-intensive work like analytics for ecommerce websites, or gaming and visual",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/larger-local-ssd-storage-available-now/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Local SSDs + VMs = love at first (tera)byte",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-modern-analytics-made-easy-with-new-redshift-s3-migration-tools.md",
+      "title": "Modern analytics made easy with new Redshift, S3 migration tools",
+      "excerpt": "Editor's note: This blog takes a closer look at some of the recently announced BigQuery product innovations and deepened partnerships that are helping enterprises fast-track their migration to BigQuery.In the past 40 years, the data warehouse has gone through many transformations, driven by business",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modern analytics made easy with new Redshift, S3 migration tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-introducing-cloud-ai-platform-pipelines.md",
+      "title": "Introducing Cloud AI Platform Pipelines",
+      "excerpt": "When you're just prototyping a machine learning (ML) model in a notebook, it can seem fairly straightforward. But when you need to start paying attention to the other pieces required to make a ML workflow sustainable and scalable, things become more complex. A machine learning workflow can involve many",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines/amp/",
+      "publishedDateTime": "2020-03-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Introducing Cloud AI Platform Pipelines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-get-the-flink-operator-for-kubernetes-in-anthos-on-marketplace.md",
+      "title": "Get the Flink Operator for Kubernetes in Anthos on Marketplace",
+      "excerpt": "At Google Cloud, our Dataproc team has been working to improve the integration of open source processing engines with Kubernetes. Dataproc is our managed service for running many of these open source engines, including Apache Spark and Apache Hadoop. Our goal is to make the underlying infrastructure",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/open-source-processing-engines-for-kubernetes/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/open-source-processing-engines-for-kubernetes/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/open-source-processing-engines-for-kubernetes/amp/",
+      "publishedDateTime": "2020-03-10T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_Dataproc_1ZCbMuo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Get the Flink Operator for Kubernetes in Anthos on Marketplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-compute-engine-instance-creation-made-easy-with-machine-images.md",
       "title": "Compute Engine instance creation made easy with machine images",
       "excerpt": "Today, we’re pleased to introduce machine images, a new type of Compute Engine resource that contains all the information you need to create, backup or restore a virtual machine, reducing the amount of time you spend managing your environment.If you administer applications that run on Compute Engine,",
@@ -917,191 +1102,6 @@
           "width": 2084,
           "height": 1157,
           "title": "Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-bigquery-under-the-hood-how-zone-assignments-work.md",
-      "title": "BigQuery under the hood: How zone assignments work",
-      "excerpt": "BigQuery is a serverless, highly scalable, and cost-effective cloud data warehouse. It’s designed to be flexible and easy to use. There are lots of interesting features and design decisions made when creating BigQuery, and we’ll dive into how zone assignments work in this post. Like other Google Cloud",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/how-bigquery-zone-assignments-work/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
-      "publishedDateTime": "2020-02-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "BigQuery under the hood: How zone assignments work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-exploring-container-security-run-what-you-trust-isolate-what-you-dont.md",
-      "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
-      "excerpt": "From vulnerabilities to cryptojacking to well, more cryptojacking, there were plenty of security events to keep container users on their toes throughout 2019. With Kubernetes being used to manage most container-based environments (and increasingly hybrid ones too), it’s no surprise that Forrester Research,",
-      "heat": 133,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
-      "publishedDateTime": "2020-02-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548e_Container_security_full.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-running-workloads-on-dedicated-hardware-just-got-better.md",
-      "title": "Running workloads on dedicated hardware just got better",
-      "excerpt": "At Google Cloud, we repeatedly hear how important flexibility, openness, and choice are for your cloud migration and modernization journey. For enterprise customers that require dedicated hardware due to requirements such as performance isolation (for gaming), physical separation (for finance or healthcare),",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/sole-tenant-nodes-are-now-easier-to-update-scale-and-manage/amp/",
-      "publishedDateTime": "2020-02-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Compute_workload_pmsK0uM.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Running workloads on dedicated hardware just got better",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-now-updated-our-data-engineering-learning-path.md",
-      "title": "Now updated: Our Data Engineering Learning Path",
-      "excerpt": "With the market for artificial intelligence and machine learning-powered solutions projected to grow to $1.2B by 2023, it’s important to consider business needs now and in the future. We've heard from our customers and have witnessed internally that the data engineering role has evolved and now requires",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/google-clouds-data-engineering-learning-path-is-now-updated/amp/",
-      "publishedDateTime": "2020-02-11T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/560-GCP-Higher-Ed-Hero_Krk4pEL.max-1000x1000.png",
-          "width": 1000,
-          "height": 570,
-          "title": "Now updated: Our Data Engineering Learning Path",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-bring-2020-vision-to-your-pipelines-with-enhanced-monitoring.md",
-      "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
-      "excerpt": "Stream analytics is bringing data to life in a way that was previously unimaginable, unlocking new use cases, from connected medical devices in healthcare to predictive maintenance on the factory floor. But with new uses comes new challenges that, if left unaddressed, can lead to unintended behaviors",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/better-data-pipeline-observability-for-batch-and-stream-processing/amp/",
-      "publishedDateTime": "2020-02-11T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Dataflow.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Bring 20/20 vision to your pipelines with enhanced monitoring",
           "attribution": null
         }
       ],

@@ -2,6 +2,191 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-12-03-better-bandit-building-advanced-personalization-the-easy-way-with-automl-tables.md",
+      "title": "Better bandit building: Advanced personalization the easy way with AutoML Tables",
+      "excerpt": "As demand grows for features like personalization systems, efficient information retrieval, and anomaly detection, the need for a solution to optimize these features has grown as well. Contextual bandit is a machine learning framework designed to tackle these—and other—complex situations.With contextual",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/amp/",
+      "publishedDateTime": "2019-12-03T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AutoML_tables.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Better bandit building: Advanced personalization the easy way with AutoML Tables",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-12-03-gartner-names-google-cloud-a-leader-in-operational-database-management-systems.md",
+      "title": "Gartner names Google Cloud a Leader in Operational Database Management Systems",
+      "excerpt": "We’re pleased to announce that Gartner has named Google Cloud a Leader in its 2019 Magic Quadrant report for Operational Database Management Systems (OPDBMS). This news reflects what we hear from our customers: that Google Cloud databases are flexible, open, and easy to use. These include our fully compatible",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/google-cloud-a-leader-in-gartner-magic-quadrant-for-opdbms/amp/",
+      "publishedDateTime": "2019-12-03T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Genric_GCP_TH9dE8M.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Gartner names Google Cloud a Leader in Operational Database Management Systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-12-01-advancing-the-medical-imaging-field-with-cloud-based-solutions-at-rsna.md",
+      "title": "Advancing the medical imaging field with cloud-based solutions at RSNA",
+      "excerpt": "The healthcare industry is increasingly embracing the cloud, and to help, we’ve developedhealthcare andlife sciences solutions that make it easier for organizations to transition to cloud technologies. Today, at the annual meeting of the Radiological Society of North America (RSNA), we’re excited to",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/healthcare-life-sciences/google-cloud-healthcare-solutions-front-and-center-at-rsna-2019/amp/",
+      "publishedDateTime": "2019-12-01T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Advancing the medical imaging field with cloud-based solutions at RSNA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-27-exploring-container-security-day-one-kubernetes-decisions.md",
+      "title": "Exploring container security: Day one Kubernetes decisions",
+      "excerpt": "Congratulations! You’ve decided to go with Google Kubernetes Engine (GKE) as your managed container orchestration platform. Your first order of business is to familiarize yourself with Kubernetes architecture, functionality and security principles. Then, as you get ready to install and configure your",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/security-considerations-for-google-kubernetes-engine/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/security-considerations-for-google-kubernetes-engine/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/security-considerations-for-google-kubernetes-engine/amp/",
+      "publishedDateTime": "2019-11-27T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548e_Container_security_full.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security: Day one Kubernetes decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-27-how-cloud-ai-is-shaping-the-future-of-retailonline-and-in-store.md",
+      "title": "How Cloud AI is shaping the future of retail—online and in-store",
+      "excerpt": "Technology has played a key role in retail for decades, from early innovations like barcode scanning and digital point of sale devices, to the global frontier of modern logistics. Through it all, however, the fundamentals remain the same: retailers generate huge quantities of data, face unpredictable",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/amp/",
+      "publishedDateTime": "2019-11-27T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Fashion.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How Cloud AI is shaping the future of retail—online and in-store",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2019-11-26-forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms.md",
       "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
       "excerpt": "We’re proud to announce that Forrester has named Google Cloud as a Leader in its report, The Forrester New Wave™: Computer Vision (CV) Platforms Q4, 2019. We believe Forrester’s report validates Google Cloud’s AI ​strategy, and echoes the feedback we’ve heard from customers: Google Cloud offers powerful,",
@@ -734,184 +919,6 @@
           "width": 2800,
           "height": 1167,
           "title": "Cloud storage data protection that fits your business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-10-29-app-engine-java-11-is-gadeploy-a-jar-scale-it-all-fully-managed.md",
-      "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
-      "excerpt": "Attention, Java developers. If you want to build modern Java backends, use modern frameworks, or use the latest language features of Java 11, know that you can now deploy and scale your Java 11 apps in App Engine with ease. We’re happy to announce that the App Engine standard environment Java 11 runtime",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
-      "publishedDateTime": "2019-10-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppEngine.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-10-29-bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration.md",
-      "title": "Bring Your Own IP addresses: the secret to Bitly’s shortened cloud migration",
-      "excerpt": "Enterprises want to move their applications to the cloud, but worry about having to swap their IP addresses for ones from their cloud provider. We hear from our customers that managing the migration of IP addresses can be one of the most challenging aspects of a cloud migration for network administrators.Here",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/amp/",
-      "publishedDateTime": "2019-10-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-10-21-leave-no-database-behind-with-cloud-sql-for-sql-server.md",
-      "title": "Leave no database behind with Cloud SQL for SQL Server",
-      "excerpt": "At Google Cloud, we develop our database services to meet the needs of enterprise teams wherever they are in their cloud journey. We’re excited today to announce the beta launch of Cloud SQL for SQL Server and make it available to all of our customers. This addition to our database lineup means you can",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/amp/",
-      "publishedDateTime": "2019-10-21T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_databases.jpg",
-          "width": 1999,
-          "height": 834,
-          "title": "Leave no database behind with Cloud SQL for SQL Server",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-10-17-improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options.md",
-      "title": "Improve your connectivity to Google Cloud with enhanced hybrid connectivity options",
-      "excerpt": "Whatever the requirement—from enterprise-readiness fundamentals like reliability, performance, and security, to innovations for enabling microservices architecture or hybrid and multi-cloud deployments—the Google Cloud networking portfolio has something to offer.  At NEXT ‘19 in San Francisco, we announced",
-      "heat": 143,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/amp/",
-      "publishedDateTime": "2019-10-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP-networking.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Improve your connectivity to Google Cloud with enhanced hybrid connectivity options",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-10-02-archive-media-for-the-long-term-with-preservation-masters.md",
-      "title": "Archive media for the long term with preservation masters",
-      "excerpt": "Media and entertainment companies have plenty of storage needs, and have to make sure they’re storing the right data for the right period of time. Media archives are often thought of as repositories of readily available media to be accessed for various workflow needs in the near and immediate term, such",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
-      "publishedDateTime": "2019-10-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_Data_Transfer.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Archive media for the long term with preservation masters",
           "attribution": null
         }
       ],

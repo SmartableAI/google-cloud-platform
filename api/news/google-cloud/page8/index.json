@@ -2,6 +2,191 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-12-18-5-best-practices-for-compute-engine-cost-optimization.md",
+      "title": "5 best practices for Compute Engine Cost Optimization",
+      "excerpt": "When customers migrate to Google Cloud Platform (GCP), their first step is often to adopt Compute Engine, which makes it easy to procure and set up virtual machines (VMs) in the cloud that provide large amounts of computing power. Launched in 2012, Compute Engine offers multiple machine types, many innovative",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/5-best-practices-compute-engine-cost-optimization/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/5-best-practices-compute-engine-cost-optimization/amp/",
+      "publishedDateTime": "2019-12-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_compute.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "5 best practices for Compute Engine Cost Optimization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2019-12-18-introducing-more-maintenance-controls-for-cloud-sql.md",
+      "title": "Introducing more maintenance controls for Cloud SQL",
+      "excerpt": "Routine maintenance is a part of every database user experience—it’s how we ensure you get the performance improvements and new feature updates that keep your business running smoothly and securely. But we get it: Nobody likes downtime, no matter how brief. That's why we’re pleased to announce that Cloud",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/introducing-more-maintenance-controls-for-cloud-sql/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
+      "publishedDateTime": "2019-12-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing more maintenance controls for Cloud SQL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-12-17-file-storage-made-easier-with-netapp-cloud-volumes-now-ga.md",
+      "title": "File storage made easier with NetApp Cloud Volumes, now GA",
+      "excerpt": "At both NetApp and Google Cloud, we share a mission to offer our users a top-notch file service in Google Cloud. Whether you’re moving workloads to cloud or deploying net-new applications in cloud that need file interfaces, our aim is to offer a highly available, feature-rich, and high-performing file",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/amp/",
+      "publishedDateTime": "2019-12-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Storage_Data_Transfer_01.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "File storage made easier with NetApp Cloud Volumes, now GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-12-16-availability-scale-and-ease-of-management-with-new-layer-4-internal-load-balancing-features.md",
+      "title": "Availability, scale, and ease of management with new Layer-4 Internal Load Balancing features",
+      "excerpt": "Like many Google Cloud customers, you probably have workloads that need to be private without access to and from the public internet. For scaling and resilience of those workloads, we offer regional layer-4 Internal Load Balancing (L4 ILB), and we’ve recently added two new L4 ILB features - ILB global",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/new-features-for-l4-internal-load-balancer/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/new-features-for-l4-internal-load-balancer/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/new-features-for-l4-internal-load-balancer/amp/",
+      "publishedDateTime": "2019-12-16T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/client_VM_in_Europe-West.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": "Availability, scale, and ease of management with new Layer-4 Internal Load Balancing features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-12-12-discover-insights-from-text-with-automl-natural-language-now-generally-available.md",
+      "title": "Discover insights from text with AutoML Natural Language, now generally available",
+      "excerpt": "Organizations are managing and processing greater volumes of text-heavy, unstructured data than ever before. To manage this information more efficiently, organizations are looking to machine learning to help with the complex sorting, processing, and analysis this content needs. In particular, natural",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/amp/",
+      "publishedDateTime": "2019-12-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AutoML.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Discover insights from text with AutoML Natural Language, now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2019-12-12-introducing-storage-transfer-service-for-on-premises-data.md",
       "title": "Introducing Storage Transfer Service for on-premises data",
       "excerpt": "There’s an enormous amount of data in the world today, and your company likely operates its own storage infrastructure to store this data. Running your business in the cloud can generate more value from your data and facilitate collaboration across your organization, all while optimizing for infrastructure",
@@ -929,193 +1114,6 @@
       "topics": [
         "Google Cloud",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-11-18-bringing-hibernate-orm-to-cloud-spanner-for-database-adoption.md",
-      "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
-      "excerpt": "When you’re adopting a new database technology, some things to consider can include learning a new SQL dialect or writing new boilerplate persistence logic. As much as possible, we’d like to make this simpler. For this type of work, Hibernate has become the de facto standard object relational mapping",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
-      "publishedDateTime": "2019-11-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/singer.max-600x600.png",
-          "width": 600,
-          "height": 394,
-          "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-11-18-helping-our-customers-migrate-to-the-cloud-google-acquires-cloudsimple.md",
-      "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
-      "excerpt": "Today, Google is excited to announce that it has acquired CloudSimple, a leading provider of secure, high performance, dedicated environments to run VMware workloads in the cloud. This acquisition builds on our existing partnership with CloudSimple that we announced earlier this year, allowing us to",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
-      "publishedDateTime": "2019-11-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_Cloud_Simple.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2019-11-15-introducing-batch-on-gkemodernizing-hpc-with-kubernetes-in-the-cloud.md",
-      "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
-      "excerpt": "One of our most important goals at Google Cloud is to make cloud computing easier, so that you can focus on answering questions that matter the most to you, your business and your users—not on managing infrastructure. Today, we are excited to announce the preview of Batch on Google Kubernetes Engine",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
-      "publishedDateTime": "2019-11-15T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Batch.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-11-14-cloud-run-a-managed-knative-service-is-ga.md",
-      "title": "Cloud Run, a managed Knative service, is GA",
-      "excerpt": "We want to empower developers no matter where their businesses are in their cloud journey, whether that's on-prem, operating in a managed Kubernetes environment, or running on a fully managed serverless computing platform. Today, we're announcing that Cloud Run is generally available, helping developers",
-      "heat": 153,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
-      "publishedDateTime": "2019-11-14T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Cloud Run, a managed Knative service, is GA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless",
-        "Containers",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2019-11-13-announcing-network-intelligence-centertowards-proactive-network-operations.md",
-      "title": "Announcing Network Intelligence Center—towards proactive network operations",
-      "excerpt": "We are very excited to introduce Network Intelligence Center, Google Cloud’s comprehensive network monitoring, verification, and optimization platform across the cloud and on-prem data centers, along with an initial set of modules. Organizations are increasingly adopting multi-cloud implementations and",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/announcing-network-intelligence-center/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/announcing-network-intelligence-center/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/announcing-network-intelligence-center/amp/",
-      "publishedDateTime": "2019-11-13T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Networking_3zUkxrK.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Announcing Network Intelligence Center—towards proactive network operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],

@@ -8,8 +8,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/covid-19-impact-on-clou
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Insider
@@ -23,6 +23,19 @@ topics:
   - Google Cloud
 
 related:
+  - title: "IoT Cloud Platform Market Worth $11.5 Billion by 2025 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"IoT Cloud Platform Market by Offering (Platform and Service), Deployment Mode (Public Cloud, Private Cloud,"
+    publishedDateTime: 2020-04-30T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/iot-cloud-platform-market-worth-11-5-billion-by-2025--exclusive-report-by-marketsandmarkets-301050196.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
   - title: "Early Impacts of COVID-19 on Cloud Applications Market - Exclusive Report by MarketsandMarkets"
     excerpt: "North America is the home to the leading cloud applications vendors, including Microsoft, Salesforce, Oracle, Google, Workday, Adobe, and IBM, making it contribute a larger share in the cloud applications revenue. Other factors driving the adoption of the cloud technology in this region include reduced costs, improved infrastructure efficiency ..."
     publishedDateTime: 2020-04-15T00:06:00Z

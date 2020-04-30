@@ -28,6 +28,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
+  - title: "IoT Cloud Platform Market Worth $11.5 Billion by 2025 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"IoT Cloud Platform Market by Offering (Platform and Service), Deployment Mode (Public Cloud, Private Cloud,"
+    publishedDateTime: 2020-04-30T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/iot-cloud-platform-market-worth-11-5-billion-by-2025--exclusive-report-by-marketsandmarkets-301050196.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
 
 secured: "mqPghbvv0LCw9dBaNHTuMR8sctL97Keih0NFI28N3DPf8X/sMP2uzHlE56BrqIe6xMMYUShvT3zsoMVovgyKbvzTPhSHPOr0D/UgLxgZZ++5RPHupNXnGHcsNcTMi78YYWiflxul8Ff0T4dGvmNYM2wkc9lsUJ+2z7fiimO1xhQzFcfGHb5t58J2/coj1hg2A7mka1FT6h1ISMWOJs4Map086HvxnHLE1hfYYbx/pS6x/P3k7fgnWI3mgl+ta3uubh+iF41l+JHUZVoU/jVOOVDyQWtcLx123ypNIOV37cIUi//4vsN+7nQfprpRHx05;qfO7FYvwgW2RwpTBhKuNmQ=="
 ---
