@@ -2,6 +2,80 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-12-12-introducing-storage-transfer-service-for-on-premises-data.md",
+      "title": "Introducing Storage Transfer Service for on-premises data",
+      "excerpt": "There’s an enormous amount of data in the world today, and your company likely operates its own storage infrastructure to store this data. Running your business in the cloud can generate more value from your data and facilitate collaboration across your organization, all while optimizing for infrastructure",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/amp/",
+      "publishedDateTime": "2019-12-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_806_GCP_TransferService_JR01.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": "Introducing Storage Transfer Service for on-premises data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-12-11-introducing-e2-new-cost-optimized-general-purpose-vms-for-google-compute-engine.md",
+      "title": "Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine",
+      "excerpt": "Editor’s note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regionsGeneral-purpose virtual machines are the workhorses of cloud applications. Today, we’re excited to announce our E2 family of VMs for Google Compute Engine featuring dynamic resource management",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/amp/",
+      "publishedDateTime": "2019-12-11T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/e2-hero-2880x1200.png",
+          "width": 2881,
+          "height": 1200,
+          "title": "Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2019-12-11-performance-driven-dynamic-resource-management-in-e2-vms.md",
       "title": "Performance-driven dynamic resource management in E2 VMs",
       "excerpt": "Editor's note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regions. This is the second post in a two-post series. Click here for part 1: E2 introduction.As one of the most avid users of compute in the world, Google has invested heavily in making compute",
@@ -1042,80 +1116,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-11-07-kubernetes-development-simplifiedskaffold-is-now-ga.md",
-      "title": "Kubernetes development, simplified—Skaffold is now GA",
-      "excerpt": "Back in 2017, we noticed that developers creating Kubernetes-native applications spent a long time building and managing container images across registries, manually updating their Kubernetes manifests, and redeploying their applications every time they made even the smallest code changes. We set out",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/amp/",
-      "publishedDateTime": "2019-11-07T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Skaffold.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Kubernetes development, simplified—Skaffold is now GA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-11-06-updating-app-engine-with-more-new-runtimes-nodejs-12-go-113-php-73-and-python-38.md",
-      "title": "Updating App Engine with more new runtimes: Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8",
-      "excerpt": "Last week, we announced that the Java 11 runtime for App Engine standard environment is now generally available. But that’s not all the App Engine news we have to share. In addition to Java 11, developers can also now use Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8. These latest additions to App Engine",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/updating-app-engine-with-more-new-runtimes/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/updating-app-engine-with-more-new-runtimes/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/updating-app-engine-with-more-new-runtimes/amp/",
-      "publishedDateTime": "2019-11-06T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_serverless_computing.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Updating App Engine with more new runtimes: Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
       ]
     }
   ],

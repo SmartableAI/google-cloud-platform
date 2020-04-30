@@ -2,6 +2,80 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-11-26-forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms.md",
+      "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
+      "excerpt": "We’re proud to announce that Forrester has named Google Cloud as a Leader in its report, The Forrester New Wave™: Computer Vision (CV) Platforms Q4, 2019. We believe Forrester’s report validates Google Cloud’s AI ​strategy, and echoes the feedback we’ve heard from customers: Google Cloud offers powerful,",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
+      "publishedDateTime": "2019-11-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Vision.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-11-26-how-automl-vision-is-helping-companies-create-visual-inspection-solutions-for-manufacturing.md",
+      "title": "How AutoML Vision is helping companies create visual inspection solutions for manufacturing",
+      "excerpt": "We consistently hear from our customers that they need new ways to apply the latest technologies, such as AI, to improve efficiency. One area that AI has proven to be particularly beneficial is in helping to automate the visual quality control process for manufacturing customers. These customers tell",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/ai-and-machine-learning-improve-manufacturing-visual-inspection-process/amp/",
+      "publishedDateTime": "2019-11-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Visions.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How AutoML Vision is helping companies create visual inspection solutions for manufacturing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2019-11-26-you-can-cook-turkey-in-a-toaster-oven-but-you-dont-have-to.md",
       "title": "You can cook turkey in a toaster oven, but you don't have to",
       "excerpt": "When I was in college and couldn't make it home for the Thanksgiving holiday, I would get together with other students in the same situation and do the next best thing: cook a traditional Thanksgiving feast of roast turkey, mashed potatoes and gravy, stuffing, and green beans by ourselves. In a dorm",
@@ -848,80 +922,6 @@
       "topics": [
         "Google Cloud",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-10-01-optimize-your-google-cloud-environment-with-new-ai-based-recommenders.md",
-      "title": "Optimize your Google Cloud environment with new AI-based recommenders",
-      "excerpt": "You want your Google Cloud environment to be as unique as your organization, configured for optimal security, cost and efficiency. We are excited to offer new recommenders for Google Cloud Platform (GCP) in beta, which automatically suggest ways to make your cloud deployment more secure and cost-effective,",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/amp/",
-      "publishedDateTime": "2019-10-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_security.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Optimize your Google Cloud environment with new AI-based recommenders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2019-09-27-6-strategies-for-scaling-your-serverless-applications.md",
-      "title": "6 strategies for scaling your serverless applications",
-      "excerpt": "A core promise of a serverless compute platform like Cloud Functions is that you don't need to worry about infrastructure: write your code, deploy it and watch your service scale automatically. It’s a beautiful thing. That works great when your whole stack auto-scales. But what if your service depends",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/6-strategies-for-scaling-your-serverless-applications/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/6-strategies-for-scaling-your-serverless-applications/amp/",
-      "publishedDateTime": "2019-09-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_serverless.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "6 strategies for scaling your serverless applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
       ]
     }
   ],
