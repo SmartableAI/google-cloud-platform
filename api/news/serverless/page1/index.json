@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-30-managing-cost-and-reliability-in-serverless-applications.md",
+      "title": "Managing cost and reliability in serverless applications",
+      "excerpt": "In both good times and challenging ones, running an application on a serverless environment has lots of benefits. If you experience extremely high demand, your application scales automatically, avoiding crashes or downtime. And if you see a contraction of demand, then the application scales down and",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/managing-cost-and-reliability-serverless-applications/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless_-_04.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Managing cost and reliability in serverless applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-not-just-for-http-anymore-grpc-comes-to-cloud-run.md",
       "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
       "excerpt": "Cloud Run is a managed serverless compute offering from Google Cloud that lets you run stateless server containers in a fully managed environment, without the hassle of managing the underlying infrastructure. Since its release, Cloud Run has enabled many of our customers to focus on their business logic,",

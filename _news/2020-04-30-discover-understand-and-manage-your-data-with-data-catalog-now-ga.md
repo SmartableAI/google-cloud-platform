@@ -23,6 +23,6 @@ images:
     height: 1200
     title: "Discover, understand and manage your data with Data Catalog, now GA"
 
-secured: "rWOCM8c6BZc4jibJtBao4NtsOZez6nXDy1ODJCNo6unkD/vOLnSJaBs1EKTL5Ln+7ISEJQN26dSdGdtq+aDdfN2VrHR5B8bshYET5yu3u+Sdf7AqZcku5pb7F8nLwe/3TYl+IZ/o4dXxymtRl18O0+RbL3m7EmsBF94gLOgFa9mC3dB6Fz/7+jpR/n3hzajJQuGaJ8oxUW+snc7SBs2FSTZv5T8H0d7AAkF5bqqXc8fSvBckaXfvFUuMyTnqYtpegciwPifm39Z/SZ52QATjT1oQfqKznBiRO/DFpIt6IeyIwBA6Vv+VTruZMNB77Isv4kNUVk0TA5z1tsUSGLlrtA==;txqzO2SHYdYm6/lmShCIfA=="
+secured: "AcadvcJSUlWnAOiTMi/4lGljQ7CaJRPvsQKjBpAtKNhDZg519+AhrxupW3TN2eUneBvbqGi1m+qlzGX8lOt/L9YhzWLE+kUKD8FDCupqqyc+/43C7U/VdAqR2B5/VCrpSfcwBLMWfhjO0DCq7zw86CJ07a0l7ZN8PdUfsAxCqdizzztbeaBTt2SAw1jCKmwOKoPGmHgamLMI9bCXj71qTOdpWQpHZITtzX9FFnPEpQJRYCsCIFXU/U3DIjCj986f8ENNE8zp81JKUzupdWAIzvKrxh3aPhwM0Rez8tVDcPkSwuhnlLdPetDy82gT6SaQN1IG4LQgSzDnSo++ZuV8IA==;Jj7mcQ6oH0S9GsMuPJZ28A=="
 ---
 

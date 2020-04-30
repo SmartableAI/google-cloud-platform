@@ -5,7 +5,7 @@
       "path": "_news/2020-04-30-anthos-in-depth-what-new-aws-multi-cloud-support-means-for-you.md",
       "title": "Anthos in depth: What new AWS multi-cloud support means for you",
       "excerpt": "Last week we announced new features for Anthos that our customers tell us will drive business agility and efficiency. Today, we’d like to dive a bit deeper into one of Anthos’ most exciting new features: support for multi-cloud. Now, you can use Anthos to consolidate all your operations across on-premises,",
-      "heat": 112,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://cloud.google.com/blog/topics/anthos/multi-cloud-features-make-anthos-on-aws-possible/",
@@ -34,7 +34,8 @@
         "news"
       ],
       "topics": [
-        "Google Cloud"
+        "Google Cloud",
+        "Hybrid Cloud"
       ]
     },
     {
@@ -78,7 +79,7 @@
       "path": "_news/2020-04-30-managing-cost-and-reliability-in-serverless-applications.md",
       "title": "Managing cost and reliability in serverless applications",
       "excerpt": "In both good times and challenging ones, running an application on a serverless environment has lots of benefits. If you experience extremely high demand, your application scales automatically, avoiding crashes or downtime. And if you see a contraction of demand, then the application scales down and",
-      "heat": 112,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://cloud.google.com/blog/products/serverless/managing-cost-and-reliability-serverless-applications/",
@@ -107,7 +108,8 @@
         "news"
       ],
       "topics": [
-        "Google Cloud"
+        "Google Cloud",
+        "Serverless"
       ]
     },
     {

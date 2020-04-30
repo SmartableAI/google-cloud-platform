@@ -5,8 +5,8 @@ excerpt: "In both good times and challenging ones, running an application on a s
 publishedDateTime: 2020-04-30T16:00:00Z
 webUrl: "https://cloud.google.com/blog/products/serverless/managing-cost-and-reliability-serverless-applications/"
 type: article
-quality: 112
-heat: 112
+quality: 114
+heat: 114
 published: true
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - Google Cloud
+  - Serverless
 
 images:
   - url: "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless_-_04.jpg"

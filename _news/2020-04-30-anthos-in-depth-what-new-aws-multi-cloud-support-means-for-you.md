@@ -5,8 +5,8 @@ excerpt: "Last week we announced new features for Anthos that our customers tell
 publishedDateTime: 2020-04-30T16:00:00Z
 webUrl: "https://cloud.google.com/blog/topics/anthos/multi-cloud-features-make-anthos-on-aws-possible/"
 type: article
-quality: 112
-heat: 112
+quality: 129
+heat: 129
 published: true
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - Google Cloud
+  - Hybrid Cloud
 
 images:
   - url: "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Anthos_A_pmqIcQ2.jpg"
