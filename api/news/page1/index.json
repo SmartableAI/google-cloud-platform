@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-30-microsoft-revenue-beats-as-remote-work-boosts-teams.md",
+      "title": "Microsoft revenue beats as remote work boosts Teams",
+      "excerpt": "Microsoft Corp on Wednesday beat Wall Street sales and profit expectations, powered by sharp demand for its Teams chat and online meeting app and Xbox gaming services as the world shifted to working and playing from home because of the novel coronavirus pandemic.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-microsoft-results-idUSKBN22B34B",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22B34B",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B34B",
+      "publishedDateTime": "2020-04-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223",
+          "width": 817,
+          "height": 545,
+          "title": "Microsoft revenue beats as remote work boosts Teams",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-google-cloud-sees-huge-revenue-jump.md",
       "title": "Google Cloud sees huge revenue jump",
       "excerpt": "Google's parent company Alphabet has announced its latest financial results revealing that Google Cloud revenue increased by 52 percent to reach $2.78bn during the first quarter of this year. Revenue from the company's cloud computing division helped it beat Wall Street's revenue expectations during a time when Google's advertising business experienced a slowdown as a result of the coronavirus outbreak.",
@@ -1000,42 +1044,6 @@
           "width": 720,
           "height": 386,
           "title": "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-6-new-device-data-and-user-controls-to-help-g-suite-customers-stay-secure.md",
-      "title": "6 new device, data, and user controls to help G Suite customers stay secure",
-      "excerpt": "At G Suite, we know that there’s a new reality facing many IT admins: with an increasingly remote workforce, you’re balancing priorities from business leaders focused on meeting business goals and your CISO focused on security, all while keeping your users online and productive. You’re doing you best,",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/6-new-controls-to-help-g-suite-customers-stay-secure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security-identity-04.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "6 new device, data, and user controls to help G Suite customers stay secure",
           "attribution": null
         }
       ],

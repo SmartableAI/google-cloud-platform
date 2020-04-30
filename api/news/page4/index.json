@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-17-googles-stadia-finally-offers-a-free-option.md",
+      "title": "Google's Stadia Finally Offers a Free Option",
+      "excerpt": "The change is a welcome one for a cloud gaming platform that, not so long ago, was getting some very rough press coverage ... Image source: Getty Images Super-fans who subscribed ahead of launch day used Google's cloud service with the Stadia Premiere edition: a hardware setup that included a Stadia controller and a Chromecast device with ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
+      "publishedDateTime": "2020-04-17T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568172%2Fvideo-game-shooter-console-getty-6217.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Google's Stadia Finally Offers a Free Option",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails.md",
       "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
       "excerpt": "That's especially true with phishing emails, which often promise information and updates about COVID-19 but instead lead people to malicious content. The popularity of Google Cloud services such as G Suite, Gmail, and Chrome have made their users tempting targets for malware. In a blog post published on Thursday, Google explained what it's ...",
@@ -971,42 +1015,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-api-design-understanding-grpc-openapi-and-rest-and-when-to-use-them.md",
-      "title": "API design: Understanding gRPC, OpenAPI and REST and when to use them",
-      "excerpt": "As most software developers no doubt know, there are two primary models for API design: RPC and REST. Regardless of model, most modern APIs are implemented by mapping them in one way or another to the same HTTP protocol. It has also become common for RPC API designs to adopt one or two ideas from HTTP",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Blog_api-management-04_1.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "API design: Understanding gRPC, OpenAPI and REST and when to use them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

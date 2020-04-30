@@ -24,6 +24,6 @@ images:
     height: 900
     title: "Top Ten Best Google Chromebooks For Working From Home"
 
-secured: "wAxlUOunsf28rr2DxqNRTqGSHVy64f6IytDMwGk+vI5Io0SjYsvNsPjflwUWTtrysaW7tISGWYeSwfDXOx+eK/mijrC/jY0H9ZJOnZuyNzCRGJteDYkSFMW7b9gpdFIvG0BGT70p4iGx1hBmgBcBYgyD34qvMDggFBlkR24PaYA1IN8HBdrwvPWY29Sr21fAJLuPCGq9Kyo/QbZ2uzWxe35i3tcjAnxLSp30Zg/K71WJgDsMD76y5HVur42ZSta+jld9Kuu+X8pc+GenXciYbZ3ciyEW0SSdy5O6ZkFXTGsqffMHP+cE5dkVtiGoAm9O;1AXr38DEdI+u1h9dW9wpjQ=="
+secured: "ovaXXjsHuwf//Efn9qHT1Msspw+x/z1iIyb29gMcbP8/GEvjZE1lx25P4QALOROMozcIqW/GLqJuyYKwrj2VPbGAC5grca3/wHucX/FWoaNS90VfMgldDclmxLRxZrBLppjUAF6tri+j1cA0YUND6Wz2j820OCbBY7lw6c75QBYwVSwZ4ElMpbYLbwiQZm1uNy9kYrCekYFYhCbRH2wHgGW9z3JNLxxeyo3z2+E20e6XjylCYqH+dW6y7+6LgZIixkOHdpmBcqHTCsRXVo+JQfN1KDAbMwkudyhuydW+npakq/grcfcMByBgC+aodipzweTD4f291F9xZYPoZgdNm1OWHtDRkFshrVXH5BOaKK4lzNYyV5/3PZqQVyGjE+BuYHMnp/Q/lmYnZDUverxABR7nEUOOLXHgthbho+GXqTvFHQIqzE9gYzTNoL/cjg3564yXBdWivpI3GhN5s9RMsTGTMVXveH0lR8/iCzXJlJM=;3g6AXBQIhGw9mK/Usu2JkA=="
 ---
 

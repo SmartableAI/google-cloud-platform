@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-12-11-performance-driven-dynamic-resource-management-in-e2-vms.md",
+      "title": "Performance-driven dynamic resource management in E2 VMs",
+      "excerpt": "Editor's note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regions. This is the second post in a two-post series. Click here for part 1: E2 introduction.As one of the most avid users of compute in the world, Google has invested heavily in making compute",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/understanding-dynamic-resource-management-in-e2-vms/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/understanding-dynamic-resource-management-in-e2-vms/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/understanding-dynamic-resource-management-in-e2-vms/amp/",
+      "publishedDateTime": "2019-12-11T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/e2-hero-technical.png",
+          "width": 2881,
+          "height": 1200,
+          "title": "Performance-driven dynamic resource management in E2 VMs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2019-12-11-whats-new-in-cloud-run-for-anthos.md",
       "title": "What’s new in Cloud Run for Anthos",
       "excerpt": "Earlier this year, we announced Cloud Run, our newest compute platform for serverless containers, which runs either on Google’s fully managed infrastructure–or on your Google Kubernetes Engine (GKE) clusters with Cloud Run for Anthos. This portability is achieved with Knative open-source APIs.With Cloud",
@@ -1078,44 +1115,6 @@
       ],
       "topics": [
         "Google Cloud",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-11-06-opening-the-door-to-more-dev-tools-for-cloud-spanner.md",
-      "title": "Opening the door to more dev tools for Cloud Spanner",
-      "excerpt": "We recently released a new native open-source JDBC driver built by Google Cloud Platform (GCP) to enable the easy integration of Cloud Spanner into graphical database development tools. This can be useful for software engineers designing application database schemas in Cloud Spanner, database architects",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
-      "publishedDateTime": "2019-11-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Spanner_databases.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Opening the door to more dev tools for Cloud Spanner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases",
         "Serverless"
       ]
     }

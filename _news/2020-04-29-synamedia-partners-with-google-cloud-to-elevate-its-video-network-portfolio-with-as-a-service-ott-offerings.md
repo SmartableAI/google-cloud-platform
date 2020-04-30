@@ -1,22 +1,26 @@
 ---
 category: news
-title: "Synamedia Partners with Google Cloud to Elevate its Video Network Portfolio with “as-a-Service” OTT Offerings"
-excerpt: "Synamedia, the world’s largest independent video software provider, today announced that it has partnered with Google Cloud to expand"
-publishedDateTime: 2020-04-29T21:10:00Z
-webUrl: "https://www.multichannel.com/pr-feed/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings"
-ampWebUrl: "https://www.multichannel.com/.amp/pr-feed/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings"
-cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/pr-feed/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings"
+title: "Synamedia Partners with Google Cloud to Elevate its Video Network Portfolio with \"as-a-Service\" OTT Offerings"
+excerpt: "Synamedia, the world's largest independent video software provider, today announced that it has partnered with Google Cloud to expand its"
+publishedDateTime: 2020-04-29T13:05:00Z
+webUrl: "https://www.prnewswire.com/news-releases/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings-301049351.html"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Multichannel News
-  domain: multichannel.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Google Cloud
+
+images:
+  - url: "https://mma.prnewswire.com/media/1061826/Synamedia_Black_Logo.jpg?p=facebook"
+    width: 1191
+    height: 624
+    title: "Synamedia Partners with Google Cloud to Elevate its Video Network Portfolio with \"as-a-Service\" OTT Offerings"
 
 related:
   - title: "Synamedia Partners With Google Cloud on Video Network Offering"
@@ -61,6 +65,6 @@ related:
         width: 1200
         height: 630
 
-secured: "nkKy1DZDEfbTlyvhtUNXSzIPBTe4LWgk0ffLgq4H+WmBk8BcsIUgj9BOx/pEIIFuHqPseMj+ycx8nhkuniJjLC6EE6xvlXsnbQp6CzWKFtbLaHcEMoLBs7U8T9SAeB5hePf5Euman8GOa2e0OYnuPyVIvq9HNmQHWw6WLC4ky1OxFKMZcZfIRAS5l/aR3Mp/MTmSk76ilnODgXQxRAkozxRF+mxyHNaegq1QAk/jbNvqwZb6CG/RmxqNawVNZiEh7IUcztDRp1oU10zC/Eb+2oZwMWFY6CnPn6/il8dd0aBNEymUZ67E21/87ZdM9Gbz;VKBhQyhKx2f2aGbNr4G1dg=="
+secured: "yNsfVPjk7cv4nDfGP73q+vHZ0GtNdT9YnkE79sBGp27VG3icbPlledSEwLkl/xOm51gzTklO0WP+PRjpPC9mJw/fR7166SyyAX6/v5/CYCcHhYzSAjbBl9/NIbJ9AaAAv7+q7B387OO0rhICtbjze6vIRcEcO/07Yw50+gqgDWYhQGdYHWW7u5Fp5jOP1CLBp3mlszhJna+hksxttU5oxHJ1D7uDa/Rr6GZ+rWXsdXNid6rHaSsthCs4KP5SteUFI8fhkLltk70+DZdUHslsWXObrP/b/5Cshhd18xjZ2MG4XiUfotGtP0Aw8BPA3ZES;beNL0JkrOsKkSxwwhk+7pw=="
 ---
 

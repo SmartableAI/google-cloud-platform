@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
+      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+      "excerpt": "Semantic Reactor, then, which is currently a whitelisted experiment in the Google Cloud AI Workshop, allows users to sort lines of text in a sheet using a range of AI models. (Testing it requires filling out a form and awaiting emailed instructions about how to install it.) It offers ranking methods that determine how lists will be sorted based ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "publishedDateTime": "2020-03-27T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-g-suite-developers-scaling-best-practices-for-higher-user-demands.md",
       "title": "G Suite developers: Scaling best practices for higher user demands",
       "excerpt": "As people around the globe increasingly work or learn from home, we want to recognize the impact this shift is having on software providers. Many third-party developers rely on G Suite APIs to deliver richly integrated experiences to users, and it’s crucial for them to plan proactively for potential",
@@ -897,43 +941,6 @@
       "topics": [
         "Google Cloud",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-create-deployment-pipelines-for-your-gke-workloads-in-a-few-clicks.md",
-      "title": "Create deployment pipelines for your GKE workloads in a few clicks",
-      "excerpt": "With Kubernetes becoming the de facto standard for container orchestration, many development teams are looking to build, test, and deploy code quickly in a frictionless manner to Kubernetes. Traditional continuous integration and continuous delivery (CI/CD) tools not designed for cloud-native environments",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/automated-deployment-pipelines-come-to-gke/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/automated-deployment-pipelines-come-to-gke/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/automated-deployment-pipelines-come-to-gke/amp/",
-      "publishedDateTime": "2020-03-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppDev.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Create deployment pipelines for your GKE workloads in a few clicks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

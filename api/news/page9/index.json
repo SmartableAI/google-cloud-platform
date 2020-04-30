@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-01-07-your-guide-to-kubernetes-best-practices.md",
+      "title": "Your guide to Kubernetes best practices",
+      "excerpt": "Kubernetes made a splash when it brought containerized app management to the world a few years back. Now, many of us are using it in production to deploy and manage apps at scale. Along the way, we’ve gathered tips and best practices on using Kubernetes and Google Kubernetes Engine (GKE) to your best",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/your-guide-kubernetes-best-practices/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/your-guide-kubernetes-best-practices/amp/",
+      "publishedDateTime": "2020-01-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Your guide to Kubernetes best practices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-01-06-connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions.md",
       "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
       "excerpt": "Do you wish you could access resources in your Virtual Private Cloud (VPC) with serverless applications running on App Engine or Cloud Functions? Now you can, with the new Serverless VPC Access service.Available now, Serverless VPC access lets you access virtual machines, Cloud Memorystore Redis instances,",
@@ -891,43 +928,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-26-you-can-cook-turkey-in-a-toaster-oven-but-you-dont-have-to.md",
-      "title": "You can cook turkey in a toaster oven, but you don't have to",
-      "excerpt": "When I was in college and couldn't make it home for the Thanksgiving holiday, I would get together with other students in the same situation and do the next best thing: cook a traditional Thanksgiving feast of roast turkey, mashed potatoes and gravy, stuffing, and green beans by ourselves. In a dorm",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
-      "publishedDateTime": "2019-11-26T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Thanksgiving.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "You can cook turkey in a toaster oven, but you don't have to",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
       ]
     }
   ],
