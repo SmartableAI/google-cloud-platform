@@ -2,6 +2,42 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-13-finding-a-problem-at-the-bottom-of-the-google-stack.md",
+      "title": "Finding a problem at the bottom of the Google stack",
+      "excerpt": "At Google, our teams follow site reliability engineering (SRE) practices to help keep systems healthy and users productive. There is a phrase we often use on our SRE teams: \"At Google scale, million-to-one chances happen all the time.\" This illustrates the massive complexity of the system that powers",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/management-tools/sre-keeps-digging-to-prevent-problems/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/management-tools/sre-keeps-digging-to-prevent-problems/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_5KDV2JX.max-800x800.jpg",
+          "width": 800,
+          "height": 591,
+          "title": "Finding a problem at the bottom of the Google stack",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-g-suite-pro-tips-declutter-your-inbox-with-gmail-filters.md",
       "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
       "excerpt": "Editor’s note: In a previous blog post, Greg shared tips on how to use advanced search and labels to organize your inbox. Here, he explains how Gmail filters can help you prioritize your emails.As an airplane pilot, I have a lot to think about when flying, and cockpit management skills are key for flying",
@@ -888,43 +924,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-new-application-manager-brings-gitops-to-google-kubernetes-engine.md",
-      "title": "New Application Manager brings GitOps to Google Kubernetes Engine",
-      "excerpt": "Kubernetes is the de facto standard for managing containerized applications, but developers and app operators often struggle with end-to-end Kubernetes lifecycle management—things like authoring, releasing and managing Kubernetes applications. To simplify the management of application lifecycle and configuration,",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/amp/",
-      "publishedDateTime": "2020-02-19T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes_tJPVpVo.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "New Application Manager brings GitOps to Google Kubernetes Engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

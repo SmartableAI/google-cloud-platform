@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-01-17-want-to-use-automl-tables-from-a-jupyter-notebook-heres-how.md",
+      "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
+      "excerpt": "While there’s no doubt that machine learning (ML) can be a great tool for businesses of all shapes and sizes, actually building ML models can seem daunting at first. Cloud AutoML—Google Cloud’s suite of products—provides tools and functionality to help you build ML models that are tailored to your specific",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/amp/",
+      "publishedDateTime": "2020-01-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WorkplaceTransformation-01_2FYra9X.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-new-anthos-training-a-masterclass-in-hybrid-cloud-architecture-and-management.md",
       "title": "New Anthos training: a masterclass in hybrid cloud architecture and management",
       "excerpt": "You’re moving faster than ever to build new applications, innovate, and bring value to your customers. Anthos, Google Cloud’s open application modernization platform, can help you modernize your existing applications, making them more portable, maintainable, scalable and secure. And now, our newest learning",
@@ -891,43 +928,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-12-09-modernize-your-apps-with-migrate-for-anthos.md",
-      "title": "Modernize your apps with Migrate for Anthos",
-      "excerpt": "In a perfect cloud world, you would host all your applications in containers running on Kubernetes and Istio, benefitting from the portability and improved resource utilization of containers, plus a robust orchestration platform with advanced application management, networking, and security functionality.",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/cloud-migration/modernize-your-apps-with-migrate-for-anthos/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/cloud-migration/modernize-your-apps-with-migrate-for-anthos/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/cloud-migration/modernize-your-apps-with-migrate-for-anthos/amp/",
-      "publishedDateTime": "2019-12-09T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Modernize your apps with Migrate for Anthos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

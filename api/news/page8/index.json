@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-19-new-application-manager-brings-gitops-to-google-kubernetes-engine.md",
+      "title": "New Application Manager brings GitOps to Google Kubernetes Engine",
+      "excerpt": "Kubernetes is the de facto standard for managing containerized applications, but developers and app operators often struggle with end-to-end Kubernetes lifecycle management—things like authoring, releasing and managing Kubernetes applications. To simplify the management of application lifecycle and configuration,",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine/amp/",
+      "publishedDateTime": "2020-02-19T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes_tJPVpVo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "New Application Manager brings GitOps to Google Kubernetes Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-new-dialogflow-mega-agent-for-contact-center-ai-increases-intents-by-10-times-to-20000.md",
       "title": "New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000",
       "excerpt": "Contact centers are one of the most important ways that businesses interact with customers. But, consistently providing great customer interactions over the range of potential conversations presents a number of complex challenges, challenges that businesses are increasingly turning to artificial intelligence",
@@ -890,43 +927,6 @@
       "topics": [
         "Google Cloud",
         "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-want-to-use-automl-tables-from-a-jupyter-notebook-heres-how.md",
-      "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
-      "excerpt": "While there’s no doubt that machine learning (ML) can be a great tool for businesses of all shapes and sizes, actually building ML models can seem daunting at first. Cloud AutoML—Google Cloud’s suite of products—provides tools and functionality to help you build ML models that are tailored to your specific",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/use-automl-tables-from-a-jupyter-notebook/amp/",
-      "publishedDateTime": "2020-01-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WorkplaceTransformation-01_2FYra9X.max-1000x1000.png",
-          "width": 1000,
-          "height": 555,
-          "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
       ]
     }
   ],

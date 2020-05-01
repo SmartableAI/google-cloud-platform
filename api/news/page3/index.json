@@ -2,6 +2,42 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-23-how-google-sites-supports-remote-work-and-learning.md",
+      "title": "How Google Sites supports remote work and learning",
+      "excerpt": "Quickly communicating and finding critical information is more important than ever. As businesses shift to remote work setups and educational institutions roll out distance learning programs, Google Sites can be a helpful tool for centralizing and sharing important information across large, dispersed",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-sites-supports-remote-work-and-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/AppBuilder.blog_2.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "How Google Sites supports remote work and learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-google-cloud-ceo-coronavirus-will-create-a-new-digital-normal.md",
       "title": "Google Cloud CEO: Coronavirus will create a new digital normal",
       "excerpt": "The coronavirus will create a new normal baised on digital processes and accelerate business transformation, according to Google Cloud CEO Thomas Kurain. Speaking at NetApp Insight, Kurian called the potential impact of the pandemic \"shock momentum\" and said the world will \"reimagine and create new opportunities\" for what comes after the crisis.",
@@ -991,50 +1027,6 @@
         "Analytics",
         "Networking",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-google-launches-cloud-healthcare-api-in-general-availability.md",
-      "title": "Google launches Cloud Healthcare API in general availability",
-      "excerpt": "As Google notes, even in the best of circumstances, collating healthcare data is often a challenge for health care and life science organizations. The API, then, enables providers to interact with data using endpoints and health plans, providing them a platform that scales and supports interoperability and patient access. Cloud Healthcare API ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
-      "publishedDateTime": "2020-04-20T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google launches Cloud Healthcare API in general availability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

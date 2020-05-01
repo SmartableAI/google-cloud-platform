@@ -24,6 +24,6 @@ images:
     height: 800
     title: "‘PUBG’ Lands On Google Stadia, Other EA Games To Follow"
 
-secured: "lq8o37LQb4rm48hQyarnsdVhUx7tS+uPH/imMw/Kx0LEWeVZT8t0uZEWnUysLCbbOSQlw6dxx3mJN9ipuPuqJxjFhutLhBumF4EJlX4YgWowMxI8HWC+o3F+2EMAmgE6CeH/KLmqLb7Jf8tHUGd1dWkzw88k4cmc0Q7cIvm4JVVVTzrUn7NkagPCS2ThU0XxZQcgCtVz/vlwM450AgmnH0ZeMBgTb+0bctvaqVspnbyrY0o4bgSl8aSrYLO7KF6rRkVHImnN1JhGRTGJ08594okj0U+f9xbYT770d2ps5lvrOmCmuNwM4bIF3bzCNKpt;J3WuXWOPHVSLkOy4V2f0rg=="
+secured: "iFWDTiyGPkIqORU56h/ELQ3Va2+2ndn0VW+dli57c+G/CKlOAcI8/rxPyDmD3KvxMIrpxhq0aHPX6Nk0yK+RXwVYQwL8Hxaif4Ha+1LcMp1BwovcffAWAXCFU/xQ0mHMwEeAK39MmCFlTI6SxjGiG22TBzjxf/Nfh94+yJ/rP6uGaRlP+WqsiooowIpA+40w8pfBlT7iJ3PekmFn+Hr2KwPKSBOlHO+uswps/O2MSWUil1cg07U3oNnfABVmKOlIKeRPD/7qdbOt00gBYSoom8V+mPq19+DeS7E9wUC+pM+VpqOnClT2f2Ha65RIPfuXy+I+H5IXAkYn1qZj3vmMke4vARU9YRMv9mstwfOTNqavyY14lcpltxjuRifBgeHqTE5Hp96GFUbfKrzN6h/3qHDzWFtu7XbLiJS9FTnMA8XdGKmSs9M4+kgLeURZxK8Ow80sia7XFBlqBlesou185crDMGyoRLTbY+x85QB24VA=;WTYA1OoWBOXIzENUNgrLBQ=="
 ---
 

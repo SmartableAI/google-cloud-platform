@@ -51,17 +51,19 @@ related:
       - url: "https://advanced-television.com/wp-content/uploads/2020/04/google-cloud-1200-630.png"
         width: 1200
         height: 630
-  - title: "Synamedia Partners with Google Cloud to Elevate its Video Network Portfolio with “as-a-Service” OTT Offerings"
-    excerpt: "Synamedia, the world’s largest independent video software provider, today announced that it has partnered with Google Cloud to expand"
-    publishedDateTime: 2020-04-29T21:10:00Z
-    webUrl: "https://www.multichannel.com/pr-feed/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings"
-    ampWebUrl: "https://www.multichannel.com/.amp/pr-feed/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings"
-    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/pr-feed/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings"
+  - title: "Synamedia Partners with Google Cloud to Elevate its Video Network Portfolio with \"as-a-Service\" OTT Offerings"
+    excerpt: "Synamedia, the world's largest independent video software provider, today announced that it has partnered with Google Cloud to expand its"
+    publishedDateTime: 2020-04-29T13:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings-301049351.html"
     type: article
     provider:
-      name: Multichannel News
-      domain: multichannel.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1061826/Synamedia_Black_Logo.jpg?p=facebook"
+        width: 1191
+        height: 624
 
 secured: "7cI6SXM5WQhGYuQFSFXbBAdThwqgZLKWhY89SSE51yM1/f9hoZet9d6WJ2r3LybTyzQgODY6ab8rE9lvhoUPZo8S7ufBIciBfzfewhy8xETGJN6nh65R/Y54EdkPgu/S7AniOD0aDkADfwAZi+IusiRkYuyhG5pp/Yo1S4S3f6b3MpHgu4L4IypJ0xUQSma9w2/HTYKFZ3zGigqow7pcCdC0P0OyB4jwnF7LD/eYJguZoIYfI5dENynqVIiMAuRYGXAxKnw75mTeyYcD4497sSck/D8QfSSm9GDAR6Vzpnje1U92eymbZ1E3UKoEEuM2;NEzk3UumSJpBcmCmnidLIw=="
 ---

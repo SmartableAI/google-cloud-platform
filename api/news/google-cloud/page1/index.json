@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-01-google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill.md",
+      "title": "Google wants Australia to remove civil penalties from CLOUD Act-readying Bill",
+      "excerpt": "The search giant believes the imposition of a mandatory obligation to comply with an international production order is contrary to the purpose of the CLOUD Act.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill/",
+      "publishedDateTime": "2020-04-30T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/30/120ce3e8-a4c8-4d15-baaf-75335c8da183/thumbnail/1200x675/32b1552d383ecb729eae2c8ade05ccf3/istock-1154834209.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google wants Australia to remove civil penalties from CLOUD Act-readying Bill",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-google-clouds-enterprise-weakness-is-its-hidden-complexity.md",
       "title": "Google Cloud’s Enterprise Weakness Is Its Hidden Complexity",
       "excerpt": "Driving for cost optimization and low-cost leadership is not a strategy to extract value from enterprise accounts. GCP is focusing on a small handful of verticals to create enterprise solutions value.",
@@ -1192,50 +1236,6 @@
           "width": 2200,
           "height": 917,
           "title": "Introducing plus codes in Place Autocomplete, Place Details and Geocoding to help you serve users everywhere",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.md",
-      "title": "Zoom taps Oracle for cloud deal, passing over Amazon, Microsoft",
-      "excerpt": "The Covid-19 pandemic has pushed many companies and schools to remote work, which allowed Zoom to emerge as a key player. The videoconferencing software company last week surpassed 300 million daily users,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html",
-      "publishedDateTime": "2020-04-28T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106411476-1582742955089gettyimages-1173631560.jpeg?v=1585759755",
-          "width": 4000,
-          "height": 2670,
-          "title": "Zoom taps Oracle for cloud deal, passing over Amazon, Microsoft",
           "attribution": null
         }
       ],
