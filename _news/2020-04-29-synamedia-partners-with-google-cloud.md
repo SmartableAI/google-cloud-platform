@@ -51,19 +51,17 @@ related:
       - url: "https://advanced-television.com/wp-content/uploads/2020/04/google-cloud-1200-630.png"
         width: 1200
         height: 630
-  - title: "Synamedia Partners with Google Cloud to Elevate its Video Network Portfolio with \"as-a-Service\" OTT Offerings"
-    excerpt: "Synamedia, the world's largest independent video software provider, today announced that it has partnered with Google Cloud to expand its"
-    publishedDateTime: 2020-04-29T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings-301049351.html"
+  - title: "Synamedia Partners with Google Cloud to Elevate its Video Network Portfolio with “as-a-Service” OTT Offerings"
+    excerpt: "Synamedia, the world’s largest independent video software provider, today announced that it has partnered with Google Cloud to expand"
+    publishedDateTime: 2020-04-29T21:10:00Z
+    webUrl: "https://www.multichannel.com/pr-feed/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings"
+    ampWebUrl: "https://www.multichannel.com/.amp/pr-feed/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings"
+    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/pr-feed/synamedia-partners-with-google-cloud-to-elevate-its-video-network-portfolio-with-as-a-service-ott-offerings"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Multichannel News
+      domain: multichannel.com
     quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1061826/Synamedia_Black_Logo.jpg?p=facebook"
-        width: 1191
-        height: 624
 
 secured: "1Iru/fWLvw1MASNF3yWgXnmj20YWzvc7xbC9faXH4jcf03XbheUAh5jmdzBhOLp93m/RkSln+ijTIPereB/AsUI5c7irhrMf1e6xLipJCAkAom54WahS4M+MJAyKYTh6LFd+cNbMehTiVjY6XaGRnTKjre05/VnpP5H/1LVyNEeiHo1Lnp3z4Aghm4vX2qa9q//RW/RZB+g/Di5TO25uy5+jMXO3zEl+dcNy4FfuxDm+N8nc8qAqOskKdi+adFuNUUNMsDgXQeywYMM1AuSVlp7xw1/ihHoSmvrzxJ8lIndvIu7J+AkGucKwe/6YBZnT;sTmslM84fvCupZ5zNuftOQ=="
 ---
