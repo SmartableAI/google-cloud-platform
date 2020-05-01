@@ -2,6 +2,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-introducing-plus-codes-in-place-autocomplete-place-details-and-geocoding-to-help-you-serve-users-everywhere.md",
+      "title": "Introducing plus codes in Place Autocomplete, Place Details and Geocoding to help you serve users everywhere",
+      "excerpt": "Although we’re constantly mapping the world–adding addresses, points of interest, roads, and more–there are many places without traditional addressing systems and some areas with no addresses or road names at all. This can be a challenge for businesses such as food delivery or on-demand transportation,",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/introducing-plus-codes-place-autocomplete-place-details-and-geocoding-help-you-serve-users-everywhere/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/033-MAP-Plus-Codes-In-Place-Autocomplete-S.max-2200x2200.png",
+          "width": 2200,
+          "height": 917,
+          "title": "Introducing plus codes in Place Autocomplete, Place Details and Geocoding to help you serve users everywhere",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.md",
       "title": "Zoom taps Oracle for cloud deal, passing over Amazon, Microsoft",
       "excerpt": "The Covid-19 pandemic has pushed many companies and schools to remote work, which allowed Zoom to emerge as a key player. The videoconferencing software company last week surpassed 300 million daily users,",
@@ -1151,50 +1187,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-cloud-anthos-now-available-for-aws-with-azure-to-follow.md",
-      "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
-      "excerpt": "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "publishedDateTime": "2020-04-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-11-21-introducing-new-assistive-features-in-g-suite-to-help-businesses-focus-on-what-matters.md",
+      "title": "Introducing new assistive features in G Suite to help businesses focus on what matters",
+      "excerpt": "We’re dedicated to creating products that are helpful for our users, including those in a business setting. G Suite helps companies of all sizes transform how they work by encouraging people to focus on what really matters, whether that be fostering a culture of collaboration like Iron Mountain or reducing",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/introducing-new-assistive-features-in-gsuite/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/introducing-new-assistive-features-in-gsuite/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/introducing-new-assistive-features-in-gsuite/amp/",
+      "publishedDateTime": "2019-11-21T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gsuite_assist_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing new assistive features in G Suite to help businesses focus on what matters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2019-11-20-bare-metal-solution-enabling-specialized-workloads-in-google-cloud.md",
       "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
       "excerpt": "Enterprises want to embrace the pace of innovation and an operational business model of the modern-day cloud, but they don’t want to disrupt their existing IT landscape or upgrade all their legacy applications. This presents a conundrum, as most legacy applications were not designed to run in the cloud,",
