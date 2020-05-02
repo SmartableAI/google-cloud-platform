@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-17-introducing-dataflow-template-to-stream-data-to-splunk.md",
+      "title": "Introducing Dataflow template to stream data to Splunk",
+      "excerpt": "At Google Cloud, we’re focused on solving customer problems and meeting them where they are. Many of you use third-party monitoring solutions from Splunk to keep a tab on both on-prem and cloud environments. These use cases include IT ops, security, application development, and business analytics. In",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/connect-to-splunk-with-a-dataflow-template/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics_B.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Introducing Dataflow template to stream data to Splunk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-top-smart-home-devices-that-arent-made-by-amazon-or-google.md",
       "title": "Top smart home devices that aren't made by Amazon or Google",
       "excerpt": "We took Amazon and Google out of the running (just this once) to see what other great smart home products are out there.",
@@ -1168,42 +1205,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google.md",
-      "title": "Learn to build secure and reliable systems with a new book from Google",
-      "excerpt": "In the new “Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems” book, engineers across Google's security and SRE organizations share best practices to help you design scalable and reliable systems that are fundamentally secure. Reliability matters",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/management-tools/learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/G-Management-banner-05.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Learn to build secure and reliable systems with a new book from Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

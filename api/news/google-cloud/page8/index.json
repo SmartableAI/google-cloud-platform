@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-15-google-cloud-and-phoenix-labs-dauntless-in-the-face-of-demand-spikes.md",
+      "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
+      "excerpt": "In the role-playing video game Dauntless, players work in groups to battle monsters and protect the city-island of Ramsgate. Commitment reaps big rewards: with every beast slayed, you earn new weapons and armor made of the same materials as the Behemoth you took down, strengthening your arsenal for the",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
+      "publishedDateTime": "2020-01-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/dauntless-artwork_stormchasers_illustration-fullsize.jpg",
+          "width": 4190,
+          "height": 2160,
+          "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-01-13-ibm-power-systems-now-available-on-google-cloud.md",
       "title": "IBM Power Systems now available on Google Cloud",
       "excerpt": "Enterprises looking to the cloud to modernize their existing infrastructure and streamline their business processes have many options. At one end of the spectrum, some organizations are replatforming entire legacy systems to adopt the cloud. Many others, however, want to continue leveraging their existing",
@@ -1066,43 +1103,6 @@
           "width": 2880,
           "height": 1200,
           "title": "How Cloud AI is shaping the future of retail—online and in-store",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-26-forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms.md",
-      "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
-      "excerpt": "We’re proud to announce that Forrester has named Google Cloud as a Leader in its report, The Forrester New Wave™: Computer Vision (CV) Platforms Q4, 2019. We believe Forrester’s report validates Google Cloud’s AI ​strategy, and echoes the feedback we’ve heard from customers: Google Cloud offers powerful,",
-      "heat": 143,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms/amp/",
-      "publishedDateTime": "2019-11-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AI_Vision.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
           "attribution": null
         }
       ],

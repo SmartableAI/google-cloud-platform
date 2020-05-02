@@ -2,6 +2,44 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-21-your-ml-workloads-cheaper-and-faster-with-the-latest-gpus.md",
+      "title": "Your ML workloads cheaper and faster with the latest GPUs",
+      "excerpt": "Running ML workloads more cost effectivelyGoogle Cloud wants to help you run your ML workloads as efficiently as possible. To do this, we offer many options for accelerating ML training and prediction, including many types of NVIDIA GPUs. This flexibility is designed to let you get the right tradeoff",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "publishedDateTime": "2020-02-21T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ml-competition-2_0a76EvN.png",
+          "width": 2880,
+          "height": 1600,
+          "title": "Your ML workloads cheaper and faster with the latest GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-explaining-model-predictions-on-structured-data.md",
       "title": "Explaining model predictions on structured data",
       "excerpt": "Machine learning technology continues to improve at a rapid pace, with increasingly accurate models being used to solve more complex problems. However, with this increased accuracy comes greater complexity. This complexity makes debugging models more challenging. To help with this, last November Google",
@@ -1065,43 +1103,6 @@
           "width": 2880,
           "height": 1200,
           "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-google-cloud-and-phoenix-labs-dauntless-in-the-face-of-demand-spikes.md",
-      "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
-      "excerpt": "In the role-playing video game Dauntless, players work in groups to battle monsters and protect the city-island of Ramsgate. Commitment reaps big rewards: with every beast slayed, you earn new weapons and armor made of the same materials as the Behemoth you took down, strengthening your arsenal for the",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
-      "publishedDateTime": "2020-01-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/dauntless-artwork_stormchasers_illustration-fullsize.jpg",
-          "width": 4190,
-          "height": 2160,
-          "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
           "attribution": null
         }
       ],

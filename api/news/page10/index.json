@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-12-12-introducing-storage-transfer-service-for-on-premises-data.md",
+      "title": "Introducing Storage Transfer Service for on-premises data",
+      "excerpt": "There’s an enormous amount of data in the world today, and your company likely operates its own storage infrastructure to store this data. Running your business in the cloud can generate more value from your data and facilitate collaboration across your organization, all while optimizing for infrastructure",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/introducing-storage-transfer-service-for-on-premises-data/amp/",
+      "publishedDateTime": "2019-12-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_806_GCP_TransferService_JR01.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": "Introducing Storage Transfer Service for on-premises data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2019-12-11-introducing-e2-new-cost-optimized-general-purpose-vms-for-google-compute-engine.md",
       "title": "Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine",
       "excerpt": "Editor’s note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regionsGeneral-purpose virtual machines are the workhorses of cloud applications. Today, we’re excited to announce our E2 family of VMs for Google Compute Engine featuring dynamic resource management",
@@ -892,43 +929,6 @@
       "topics": [
         "Google Cloud",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-11-18-bringing-hibernate-orm-to-cloud-spanner-for-database-adoption.md",
-      "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
-      "excerpt": "When you’re adopting a new database technology, some things to consider can include learning a new SQL dialect or writing new boilerplate persistence logic. As much as possible, we’d like to make this simpler. For this type of work, Hibernate has become the de facto standard object relational mapping",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
-      "publishedDateTime": "2019-11-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/singer.max-600x600.png",
-          "width": 600,
-          "height": 394,
-          "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
       ]
     }
   ],

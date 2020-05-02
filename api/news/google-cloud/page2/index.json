@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-live-here-come-google-and-alphabets-q1-earnings.md",
+      "title": "Live: Here come Google and Alphabet's Q1 earnings",
+      "excerpt": "Alphabet is set to announce its Q1 2020 earnings, and all eyes are on how much damage the pandemic is doing to its ad business.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4?amp",
+      "publishedDateTime": "2020-04-28T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8735ea2fd91369d26c673?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Live: Here come Google and Alphabet's Q1 earnings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-can-googles-new-pixel-buds-finally-challenge-apples-airpods-dominance.md",
       "title": "Can Google's New Pixel Buds Finally Challenge Apple's AirPods Dominance?",
       "excerpt": "About two and a half years after Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) subsidiary Google launched its original Pixel Buds, the search juggernaut is finally releasing a revamped second-generation model that has high hopes of challenging Apple's (NASDAQ:AAPL) AirPods,",
@@ -1157,50 +1201,6 @@
           "width": 2200,
           "height": 917,
           "title": "How TELUS International got employees back to work with virtual desktops",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-stadia-gains-users-after-giving-free-access-for-two-months.md",
-      "title": "Google Stadia gains users after giving free access for two months",
-      "excerpt": "Google’s cloud-based game, Stadia, has witnessed a surge in users after the tech giant gifted two months of free access to its premium version for gamers sheltering at home to curb the spread of the coronavirus.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-google-stadia-idUSKCN224386",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN224386",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN224386",
-      "publishedDateTime": "2020-04-22T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200422&t=2&i=1516080494&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3L24Y",
-          "width": 850,
-          "height": 545,
-          "title": "Google Stadia gains users after giving free access for two months",
           "attribution": null
         }
       ],

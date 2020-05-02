@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-22-get-certified-on-the-google-cloud-platform-for-just-9.md",
+      "title": "Get certified on the Google Cloud Platform for just $9",
+      "excerpt": "How else are the corporations going to process all the data they hold about us? Get fully trained for the Google Data Engineer and Cloud Architect certification exams. Over 2,000 people have already signed up, but the deal is ending soon. To find out more, follow the link below.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/google-cloud-platform-deal-1095642/",
+      "ampWebUrl": "https://www.androidauthority.com/google-cloud-platform-deal-1095642/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-cloud-platform-deal-1095642/amp/",
+      "publishedDateTime": "2020-03-22T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2018/08/Google-Eye-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Get certified on the Google Cloud Platform for just $9",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-google-cloud-named-a-leader-in-the-forrester-wave-for-public-cloud-development-and-infrastructure-platforms.md",
       "title": "Google Cloud named a leader in the Forrester Wave for Public Cloud Development and Infrastructure Platforms",
       "excerpt": "Today, we’re announcing that Google Cloud has been named a leader in The Forrester Wave™ for Public Cloud Development and Infrastructure Platforms, Q1 2020. This report evaluated cloud providers’ infrastructure and application development capabilities—important considerations for enterprises turning",
@@ -1068,44 +1112,6 @@
       "topics": [
         "Google Cloud",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-your-ml-workloads-cheaper-and-faster-with-the-latest-gpus.md",
-      "title": "Your ML workloads cheaper and faster with the latest GPUs",
-      "excerpt": "Running ML workloads more cost effectivelyGoogle Cloud wants to help you run your ML workloads as efficiently as possible. To do this, we offer many options for accelerating ML training and prediction, including many types of NVIDIA GPUs. This flexibility is designed to let you get the right tradeoff",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
-      "publishedDateTime": "2020-02-21T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ml-competition-2_0a76EvN.png",
-          "width": 2880,
-          "height": 1600,
-          "title": "Your ML workloads cheaper and faster with the latest GPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "AI"
       ]
     }
   ],
