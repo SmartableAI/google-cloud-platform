@@ -2,6 +2,202 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-25-is-nvidias-cloud-gaming-platform-already-dying.md",
+      "title": "Is NVIDIA’s Cloud Gaming Platform Already Dying?",
+      "excerpt": "When NVIDIA (NASDAQ:NVDA) launched its cloud gaming platform GeForce Now in February, it seemed poised to disrupt the nascent market. Unlike Alphabet's (NASDAQ:GOOG) (NASDAQ:GOOGL) Google Stadia, which required gamers to repurchase games they already owned, GeForce Now allowed gamers to stream those owned games without an additional purchase.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
+      "publishedDateTime": "2020-04-25T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569248%2Fgeforce-now-key-visual-1280x680.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 637,
+          "title": "Is NVIDIA’s Cloud Gaming Platform Already Dying?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-google-opens-its-cloud-healthcare-api-to-help-covid-19-doctors.md",
+      "title": "Google opens its Cloud Healthcare API to help COVID-19 doctors",
+      "excerpt": "The Cloud Healthcare API will allow doctors to analyse data using cloud-computing technologies.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/24/ebd1a882-f291-4e47-a522-90448bad9c3b/thumbnail/770x578/3d9ef60d318581abeab767fec7adce7d/google-wants-to-make-it-easier-to-analys-5ea1d8c41c719e452658f1bd-1-apr-24-2020-17-50-50-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Google opens its Cloud Healthcare API to help COVID-19 doctors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-how-the-google-maps-platform-community-is-responding-to-covid-19-visualizing-helpful-info.md",
+      "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
+      "excerpt": "Editor’s Note: Over the past few months we’ve seen an inspiring response to COVID-19 from our community. To thank the organizations that are building tools to help us through, in the coming weeks we’ll highlight some of the many projects our customers have created to support their communities.The first",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-google-maps-platform-community-responding-covid-19-visualizing-helpful-info/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/038-MAP-Covid_Visualizing_Helpful_Info-BLO.max-2200x2200.png",
+          "width": 2200,
+          "height": 917,
+          "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-admin-essentials-managing-chrome-browser-in-a-controlled-environment.md",
+      "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
+      "excerpt": "IT teams often require a range of controls to support different groups and users. In some cases, users need more permissions and access based on their role. Other situations might call for more restrictive measures, with limited access or heightened security measures. These tighter controls can be driven",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/managing-chrome-browser-in-a-controlled-environment/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ChromeEnterpriseSeries-01.png",
+          "width": 2000,
+          "height": 1110,
+          "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-how-to-add-buy-online-pick-up-in-store-capabilities-to-your-website-with-google-maps-platform.md",
+      "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
+      "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices over the coming weeks for adding new functionality to your apps and websites.One of the most common questions retailers ask us is how they can quickly add “buy online,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-add-buy-online-pick-store-capabilities-your-website-google-maps-platform/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/037-MAP-Buy_Online_Pick_Up_In_Store-2-BLOG_2880x1200_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-google-cloud-anthos-now-supports-multi-cloud.md",
       "title": "Google Cloud Anthos now supports multi-cloud",
       "excerpt": "Google Cloud has announced that its platform to manage multi-cloud workloads Anthos is now generally available for AWS though the company plans to add support for Microsoft Azure by the end of this year. Anthos aims to deliver on the promise of write once, run anywhere by allowing businesses to run their applications on existing on-prem ...",
@@ -809,219 +1005,6 @@
           "width": 1200,
           "height": 675,
           "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-modernize-enterprise-networking-with-cisco-sd-wan-and-google-cloud.md",
-      "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
-      "excerpt": "Enterprises are increasingly adopting hybrid and multi-cloud to deliver the best experiences for their customers. The network is at the foundation of this transformation, but is getting exponentially more complex to manage, secure, and scale throughout an enterprise footprint that can include multiple",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-forgerock-nabs-935m-for-its-id-management-platform-gears-up-next-for-an-ipo.md",
-      "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
-      "excerpt": "The company is today announcing that it has raised $93.5 million in funding, a Series E it will use to continue expanding its product and take it to its next step as a business, specifically investing in R&D, cloud services ... a time when our platform can consume decentralised identity, on par with logins from Google or Facebook today.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
-      "publishedDateTime": "2020-04-21T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/4157483192_7b6e4b41e2_k.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn.md",
-      "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
-      "excerpt": "The survey also found that the gap between public cloud platform providers is closing with Google Cloud, Amazon Web Services, and Microsoft Azure each getting an equal share of votes as a preferred cloud provider. Tech leaders are looking for providers ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "publishedDateTime": "2020-04-20T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/20/7f41e818-d531-4993-9a76-4cba42ad6471/resize/1200x/5534a0088a1a141e343fc913e14c3a3d/opsramp-costcutting.jpg",
-          "width": 1200,
-          "height": 1148,
-          "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-in-pandemic-times.md",
-      "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
-      "excerpt": "RFIDs would also include the tokens needed to access our cloud-based medical history ... easy to enroll from a consumer experience perspective -- but it needs to have full platform integration for it to be completely seamless. If Apple and Google can cooperate on COVID-19 contact tracing, they can work on moving money around.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
-      "publishedDateTime": "2020-04-20T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/14/19c5dc91-c620-4112-b42e-86fba891b089/thumbnail/1200x675/85c560a226a9b6d969f608e96dd94cf6/istock-888701758.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-google-unveils-tech-to-make-it-easier-for-doctors-and-patients-to-share-health-info.md",
-      "title": "Google unveils tech to make it easier for doctors and patients to share health info",
-      "excerpt": "Google is announcing the general availability of technology that, if widely adopted, could make it easier for patients to access their own health information via third-party apps.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/20/google-cloud-health-api-released.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/20/google-cloud-health-api-released.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/20/google-cloud-health-api-released.html",
-      "publishedDateTime": "2020-04-20T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1582733192",
-          "width": 3000,
-          "height": 2003,
-          "title": "Google unveils tech to make it easier for doctors and patients to share health info",
           "attribution": null
         }
       ],

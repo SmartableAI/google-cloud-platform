@@ -2,6 +2,226 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-google-parent-alphabet-tops-sales-estimates-despite-virus-hammering-economy.md",
+      "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
+      "excerpt": "Alphabet Inc on Tuesday beat analysts' estimate for quarterly revenue as its Google unit experienced a smaller drop-off in advertiser spending than had been anticipated given economic concerns related to the novel coronavirus.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-results-idUSKCN22A37K",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22A37K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22A37K",
+      "publishedDateTime": "2020-04-28T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200428&t=2&i=1516782288&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3R28N",
+          "width": 841,
+          "height": 545,
+          "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-google-extending-cloud-reach-with-cisco-amazon-and-microsoft-connections.md",
+      "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
+      "excerpt": "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "publishedDateTime": "2020-04-28T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg",
+          "width": 2461,
+          "height": 1200,
+          "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic.md",
+      "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
+      "excerpt": "While Advertising continues to generate the most revenue for Google, the number is down significantly compared to last quarter. In Q1, Google ad revenues came to $33.76 billion, c",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
+      "publishedDateTime": "2020-04-28T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/03/27/1b7fafa5-dea5-4795-868f-c2763cca7bfc/thumbnail/1200x675/1c3625f42ed28bf6afd7d68469d6b1b9/managing-ai-in-the-enterprise-intro-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million.md",
+      "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
+      "excerpt": "platform offers real-time remediation with configurable bots and over 200 out-of-the-box guardrail policies. It works across public clouds such as Amazon Web Services, Google Cloud, and Azure and ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
+      "publishedDateTime": "2020-04-28T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1065824694-1-e1579193201293.jpg?fit=1200%2C601&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-live-here-come-google-and-alphabets-q1-earnings.md",
+      "title": "Live: Here come Google and Alphabet's Q1 earnings",
+      "excerpt": "Alphabet is set to announce its Q1 2020 earnings, and all eyes are on how much damage the pandemic is doing to its ad business.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4?amp",
+      "publishedDateTime": "2020-04-28T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8735ea2fd91369d26c673?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Live: Here come Google and Alphabet's Q1 earnings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-can-googles-new-pixel-buds-finally-challenge-apples-airpods-dominance.md",
       "title": "Can Google's New Pixel Buds Finally Challenge Apple's AirPods Dominance?",
       "excerpt": "About two and a half years after Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) subsidiary Google launched its original Pixel Buds, the search juggernaut is finally releasing a revamped second-generation model that has high hopes of challenging Apple's (NASDAQ:AAPL) AirPods,",
@@ -801,202 +1021,6 @@
           "width": 756,
           "height": 567,
           "title": "You can finally change your OK, Google sensitivity settings. Here's how",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-is-nvidias-cloud-gaming-platform-already-dying.md",
-      "title": "Is NVIDIA’s Cloud Gaming Platform Already Dying?",
-      "excerpt": "When NVIDIA (NASDAQ:NVDA) launched its cloud gaming platform GeForce Now in February, it seemed poised to disrupt the nascent market. Unlike Alphabet's (NASDAQ:GOOG) (NASDAQ:GOOGL) Google Stadia, which required gamers to repurchase games they already owned, GeForce Now allowed gamers to stream those owned games without an additional purchase.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
-      "publishedDateTime": "2020-04-25T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569248%2Fgeforce-now-key-visual-1280x680.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 637,
-          "title": "Is NVIDIA’s Cloud Gaming Platform Already Dying?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-google-opens-its-cloud-healthcare-api-to-help-covid-19-doctors.md",
-      "title": "Google opens its Cloud Healthcare API to help COVID-19 doctors",
-      "excerpt": "The Cloud Healthcare API will allow doctors to analyse data using cloud-computing technologies.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/24/ebd1a882-f291-4e47-a522-90448bad9c3b/thumbnail/770x578/3d9ef60d318581abeab767fec7adce7d/google-wants-to-make-it-easier-to-analys-5ea1d8c41c719e452658f1bd-1-apr-24-2020-17-50-50-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Google opens its Cloud Healthcare API to help COVID-19 doctors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-how-the-google-maps-platform-community-is-responding-to-covid-19-visualizing-helpful-info.md",
-      "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
-      "excerpt": "Editor’s Note: Over the past few months we’ve seen an inspiring response to COVID-19 from our community. To thank the organizations that are building tools to help us through, in the coming weeks we’ll highlight some of the many projects our customers have created to support their communities.The first",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-google-maps-platform-community-responding-covid-19-visualizing-helpful-info/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/038-MAP-Covid_Visualizing_Helpful_Info-BLO.max-2200x2200.png",
-          "width": 2200,
-          "height": 917,
-          "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-admin-essentials-managing-chrome-browser-in-a-controlled-environment.md",
-      "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
-      "excerpt": "IT teams often require a range of controls to support different groups and users. In some cases, users need more permissions and access based on their role. Other situations might call for more restrictive measures, with limited access or heightened security measures. These tighter controls can be driven",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/managing-chrome-browser-in-a-controlled-environment/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ChromeEnterpriseSeries-01.png",
-          "width": 2000,
-          "height": 1110,
-          "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-how-to-add-buy-online-pick-up-in-store-capabilities-to-your-website-with-google-maps-platform.md",
-      "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
-      "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices over the coming weeks for adding new functionality to your apps and websites.One of the most common questions retailers ask us is how they can quickly add “buy online,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-add-buy-online-pick-store-capabilities-your-website-google-maps-platform/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/037-MAP-Buy_Online_Pick_Up_In_Store-2-BLOG_2880x1200_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
           "attribution": null
         }
       ],

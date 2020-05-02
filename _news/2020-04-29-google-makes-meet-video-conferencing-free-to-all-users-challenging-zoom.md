@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22B1AX"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B1AX"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 848
     height: 545
     title: "Google makes Meet video conferencing free to all users, challenging Zoom"
+
+related:
+  - title: "Google Cloud announces plans to offer Google Meet for free"
+    excerpt: "Google Cloud today announced it's making Google Meet, Google's premium video-conferencing solution, free for everyone with availability rolling out over the coming weeks.  Starting in early May, anyon"
+    publishedDateTime: 2020-04-29T13:06:00Z
+    webUrl: "https://www.mactech.com/2020/04/29/google-cloud-announces-plans-to-offer-google-meet-for-free/"
+    type: article
+    provider:
+      name: MacTech
+      domain: mactech.com
+    quality: 37
+    images:
+      - url: "https://www.mactech.com/wp-content/uploads/2020/04/Google-Meet.jpg"
+        width: 800
+        height: 721
 
 secured: "sMojTFOCnUb5Q/IeBVEmF3MSqNTgIDlm47QGwNOC6RU2gRJwplJkdgV7O+M0cnVyZ0B0XX4v/0qGrkthTVe9ux62b813HSprtvRkUD7QbAsmyQb/Ebjd7UI9DstAabl17MKtzi9YdUkyX4W+n29iPRuObwYd382nyO49b2eDU31inJeUiY0h2gdwyeXq24sGVPppXML6Yqq5Qan9z3Fr2SUjvC1n+w2L6EWU8bOnG7/5RBIF7urPehpS4UQQXan3loLhkvfQBSZOYL8pheENJr9qqNEUjdMd0KJDu/gCJU2IQakzgXERYbjtHXUPEObm;9+dDlke20MSE3/PLt2ASRA=="
 ---
