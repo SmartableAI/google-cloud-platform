@@ -2,6 +2,81 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2019-11-20-bare-metal-solution-enabling-specialized-workloads-in-google-cloud.md",
+      "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
+      "excerpt": "Enterprises want to embrace the pace of innovation and an operational business model of the modern-day cloud, but they don’t want to disrupt their existing IT landscape or upgrade all their legacy applications. This presents a conundrum, as most legacy applications were not designed to run in the cloud,",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
+      "publishedDateTime": "2019-11-20T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Bare_Metal_Solution.png",
+          "width": 1999,
+          "height": 834,
+          "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-20-dont-just-move-to-the-cloud-modernize-with-google-cloud.md",
+      "title": "Don’t just move to the cloud, modernize with Google Cloud",
+      "excerpt": "Our customers tell us they don’t just want to migrate their applications from point A to point B, they want to modernize their applications with cloud-native technologies and techniques, wherever those applications may be. Today, we’re excited to tell you about a variety of new customers that are using",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
+      "publishedDateTime": "2019-11-20T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_GCP_HLl2OQm.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Don’t just move to the cloud, modernize with Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2019-11-20-key-access-justifications-a-new-level-of-control-and-visibility.md",
       "title": "Key Access Justifications: a new level of control and visibility",
       "excerpt": "Editor’s note: The following post was updated on 1/08/20 to provide additional clarity on Cloud External Key Manager and Key Access Justifications.As enterprises move to the cloud, they want to control when and how their data is accessed. At Google Cloud, we believe that customers should have the strongest",
@@ -847,81 +922,7 @@
         "Google Cloud",
         "Hybrid Cloud"
       ]
-    },
-    {
-      "path": "_news/2019-09-16-anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud.md",
-      "title": "Anthos simplifies application modernization with managed service mesh and serverless for your hybrid cloud",
-      "excerpt": "For decades, organizations built and ran applications in their own on-premises data centers. Then, they started deploying and running applications in the cloud. But, for most enterprises, the thought of moving all-in to the cloud was too daunting. They worried they would need different developers and",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud/amp/",
-      "publishedDateTime": "2019-09-16T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Anthos simplifies application modernization with managed service mesh and serverless for your hybrid cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2019-09-12-monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver.md",
-      "title": "Monitoring your Compute Engine footprint with Cloud Functions and Stackdriver",
-      "excerpt": "Compute Engine instances running on Google Cloud Platform (GCP) can scale up and down quickly as needed by your business. As your fleet of instances grows, you’ll want to ensure that you have enough Compute Engine quota for growth over time and that you understand your resource usage and costs. At scale,",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver/amp/",
-      "publishedDateTime": "2019-09-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Management_tools.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Monitoring your Compute Engine footprint with Cloud Functions and Stackdriver",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 12
 }

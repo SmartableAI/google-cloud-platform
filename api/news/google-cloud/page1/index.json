@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-03-google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news.md",
+      "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
+      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
+      "publishedDateTime": "2020-05-03T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058701%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-i-cant-stop-escaping-into-google-photos-nostalgia-vortex.md",
+      "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
+      "excerpt": "I got the app for its easy photo backups. I didn’t realize it would become a precious window to the past—or a lifeline in a time of existential despair.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/goole-photos-and-nostalgia/",
+      "ampWebUrl": "https://www.wired.com/story/goole-photos-and-nostalgia/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/goole-photos-and-nostalgia/amp",
+      "publishedDateTime": "2020-05-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eaca3feb9223ceeb3be4220/master/pass/google-photos-nostalgia.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-free-cloud-storage-which-providers-offer-the-most-space.md",
       "title": "Free cloud storage: Which providers offer the most space",
       "excerpt": "The most generous free storage provider offers a whopping 100GB of space for your images, videos, and other files.",
@@ -1125,94 +1213,6 @@
           "width": 841,
           "height": 545,
           "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-extending-cloud-reach-with-cisco-amazon-and-microsoft-connections.md",
-      "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
-      "excerpt": "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
-      "publishedDateTime": "2020-04-28T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg",
-          "width": 2461,
-          "height": 1200,
-          "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic.md",
-      "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
-      "excerpt": "While Advertising continues to generate the most revenue for Google, the number is down significantly compared to last quarter. In Q1, Google ad revenues came to $33.76 billion, c",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
-      "publishedDateTime": "2020-04-28T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/03/27/1b7fafa5-dea5-4795-868f-c2763cca7bfc/thumbnail/1200x675/1c3625f42ed28bf6afd7d68469d6b1b9/managing-ai-in-the-enterprise-intro-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
           "attribution": null
         }
       ],

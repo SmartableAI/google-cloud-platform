@@ -2,6 +2,87 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-21-google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud.md",
+      "title": "Google wants to make it easier to analyse health data in the cloud",
+      "excerpt": "Google has expanded the availability of its Cloud Healthcare API in a bid to improve healthcare interoperability and help providers drive insights from myriad sources of medical data. Google's Cloud Healthcare API allows healthcare organizations to collect and manage various types of medical data via the cloud, including Digital Imaging and ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
+      "publishedDateTime": "2020-04-21T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/04/30/a1920c33-8bb2-426e-958c-757992604693/thumbnail/1200x675/70cdb5522ace34daae74aaedd541691e/istock-1127069581.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google wants to make it easier to analyse health data in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-back-up-on-demand-emulate-and-develop-with-ease-new-spanner-features.md",
+      "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
+      "excerpt": "At Google, we built Cloud Spanner to support our need for a scalable, multi-version database with relational semantics. It’s become an important capability for teams that need a globally distributed, strongly consistent database service. Spanner continues to launch new enterprise capabilities, and we’re",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/native-cloud-database-spanner-adds-features/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Back up on demand, emulate and develop with ease -- new Spanner features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-cisco-and-google-announce-joint-sd-wan-cloud-hub.md",
       "title": "Cisco and Google announce joint SD-WAN cloud hub",
       "excerpt": "The multicloud network fabric helps facilitate application use across the enterprise and improve customer experience. Cisco and Google announced on Tuesday the release of its industry-first SD-WAN cloud hub. The application-focused multicloud networking fabric will guarantee applications and networks have shared service-level agreement settings ...",
@@ -953,86 +1034,6 @@
           "width": 2880,
           "height": 1200,
           "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-google-may-let-some-air-out-of-its-cloud.md",
-      "title": "Google May Let Some Air Out of Its Cloud",
-      "excerpt": "Google will be “recalibrating” its focus and pace of investments in areas like data centers and machines—the components underpinning cloud computing.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
-      "publishedDateTime": "2020-04-16T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-176970/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Google May Let Some Air Out of Its Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-kotlin-meet-grpc-a-new-open-source-project-for-modern-apps.md",
-      "title": "Kotlin, meet gRPC: a new open-source project for modern apps",
-      "excerpt": "As developers work to modernize applications, they need foundational tools that are simple and scalable. gRPC is a high-performance, open-source, universal RPC framework originally developed here at Google that developers are adopting in tremendous numbers, helping them connect services more easily and",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_AppDev.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Kotlin, meet gRPC: a new open-source project for modern apps",
           "attribution": null
         }
       ],

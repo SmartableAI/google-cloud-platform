@@ -2,6 +2,80 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-12-17-file-storage-made-easier-with-netapp-cloud-volumes-now-ga.md",
+      "title": "File storage made easier with NetApp Cloud Volumes, now GA",
+      "excerpt": "At both NetApp and Google Cloud, we share a mission to offer our users a top-notch file service in Google Cloud. Whether you’re moving workloads to cloud or deploying net-new applications in cloud that need file interfaces, our aim is to offer a highly available, feature-rich, and high-performing file",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/netapp-cloud-volumes-service-now-generally-available/amp/",
+      "publishedDateTime": "2019-12-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Storage_Data_Transfer_01.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "File storage made easier with NetApp Cloud Volumes, now GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-12-16-availability-scale-and-ease-of-management-with-new-layer-4-internal-load-balancing-features.md",
+      "title": "Availability, scale, and ease of management with new Layer-4 Internal Load Balancing features",
+      "excerpt": "Like many Google Cloud customers, you probably have workloads that need to be private without access to and from the public internet. For scaling and resilience of those workloads, we offer regional layer-4 Internal Load Balancing (L4 ILB), and we’ve recently added two new L4 ILB features - ILB global",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/new-features-for-l4-internal-load-balancer/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/new-features-for-l4-internal-load-balancer/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/new-features-for-l4-internal-load-balancer/amp/",
+      "publishedDateTime": "2019-12-16T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/client_VM_in_Europe-West.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": "Availability, scale, and ease of management with new Layer-4 Internal Load Balancing features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2019-12-12-discover-insights-from-text-with-automl-natural-language-now-generally-available.md",
       "title": "Discover insights from text with AutoML Natural Language, now generally available",
       "excerpt": "Organizations are managing and processing greater volumes of text-heavy, unstructured data than ever before. To manage this information more efficiently, organizations are looking to machine learning to help with the complex sorting, processing, and analysis this content needs. In particular, natural",
@@ -854,81 +928,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-20-bare-metal-solution-enabling-specialized-workloads-in-google-cloud.md",
-      "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
-      "excerpt": "Enterprises want to embrace the pace of innovation and an operational business model of the modern-day cloud, but they don’t want to disrupt their existing IT landscape or upgrade all their legacy applications. This presents a conundrum, as most legacy applications were not designed to run in the cloud,",
-      "heat": 151,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/bare-metal-solution-enabling-specialized-workloads-in-google-cloud/amp/",
-      "publishedDateTime": "2019-11-20T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Bare_Metal_Solution.png",
-          "width": 1999,
-          "height": 834,
-          "title": "Bare Metal Solution: Enabling specialized workloads in Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2019-11-20-dont-just-move-to-the-cloud-modernize-with-google-cloud.md",
-      "title": "Don’t just move to the cloud, modernize with Google Cloud",
-      "excerpt": "Our customers tell us they don’t just want to migrate their applications from point A to point B, they want to modernize their applications with cloud-native technologies and techniques, wherever those applications may be. Today, we’re excited to tell you about a variety of new customers that are using",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
-      "publishedDateTime": "2019-11-20T01:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_GCP_HLl2OQm.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Don’t just move to the cloud, modernize with Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
       ]
     }
   ],

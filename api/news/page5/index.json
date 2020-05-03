@@ -2,6 +2,86 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-16-google-may-let-some-air-out-of-its-cloud.md",
+      "title": "Google May Let Some Air Out of Its Cloud",
+      "excerpt": "Google will be “recalibrating” its focus and pace of investments in areas like data centers and machines—the components underpinning cloud computing.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
+      "publishedDateTime": "2020-04-16T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-176970/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Google May Let Some Air Out of Its Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-kotlin-meet-grpc-a-new-open-source-project-for-modern-apps.md",
+      "title": "Kotlin, meet gRPC: a new open-source project for modern apps",
+      "excerpt": "As developers work to modernize applications, they need foundational tools that are simple and scalable. gRPC is a high-performance, open-source, universal RPC framework originally developed here at Google that developers are adopting in tremendous numbers, helping them connect services more easily and",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_AppDev.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Kotlin, meet gRPC: a new open-source project for modern apps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-protect-your-running-vms-with-new-os-patch-management-service.md",
       "title": "Protect your running VMs with new OS patch management service",
       "excerpt": "Managing patches effectively is a great way to keep your infrastructure up-to-date and reduce the risk of security vulnerabilities. But without the right tools, patching can be daunting and labor intensive.Today, we are announcing the general availability of Google Cloud’s OS patch management service",
@@ -913,78 +993,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-secure-connections-how-google-meet-keeps-your-video-conferences-protected.md",
-      "title": "Secure connections: How Google Meet keeps your video conferences protected",
-      "excerpt": "All over the world, businesses, schools and users depend on G Suite to help them stay connected and get work done. Google designs, builds, and operates our products on a secure foundation, aimed at thwarting attacks and providing the protections needed to keep you safe. G Suite and Google Meet are no",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-meet-keeps-video-conferences-secure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog-header--how-Hangouts-helped-one-of-Go.max-1200x1200_wYZQAj3.png",
-          "width": 1200,
-          "height": 631,
-          "title": "Secure connections: How Google Meet keeps your video conferences protected",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-last-month-today-march-in-google-cloud.md",
-      "title": "Last month today: March in Google Cloud",
-      "excerpt": "While many of us had plans for March—including simply carrying out our normal routines—life as we know it has been upended by the global coronavirus pandemic. In a time of social distancing, technology has played a greater role in bringing us together. Here’s a look at stories from March that explored",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/gcp/last-month-today-march-in-google-cloud-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GOOGLE_GCP_C_Rnd1_1HnkAko.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Last month today: March in Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

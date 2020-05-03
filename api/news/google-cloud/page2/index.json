@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-google-extending-cloud-reach-with-cisco-amazon-and-microsoft-connections.md",
+      "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
+      "excerpt": "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "publishedDateTime": "2020-04-28T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg",
+          "width": 2461,
+          "height": 1200,
+          "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic.md",
+      "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
+      "excerpt": "While Advertising continues to generate the most revenue for Google, the number is down significantly compared to last quarter. In Q1, Google ad revenues came to $33.76 billion, c",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
+      "publishedDateTime": "2020-04-28T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/03/27/1b7fafa5-dea5-4795-868f-c2763cca7bfc/thumbnail/1200x675/1c3625f42ed28bf6afd7d68469d6b1b9/managing-ai-in-the-enterprise-intro-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million.md",
       "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
       "excerpt": "platform offers real-time remediation with configurable bots and over 200 out-of-the-box guardrail policies. It works across public clouds such as Amazon Web Services, Google Cloud, and Azure and ...",
@@ -1129,86 +1217,6 @@
           "width": 800,
           "height": 450,
           "title": "Google Cloud Anthos now supports multi-cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-how-google-sites-supports-remote-work-and-learning.md",
-      "title": "How Google Sites supports remote work and learning",
-      "excerpt": "Quickly communicating and finding critical information is more important than ever. As businesses shift to remote work setups and educational institutions roll out distance learning programs, Google Sites can be a helpful tool for centralizing and sharing important information across large, dispersed",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-sites-supports-remote-work-and-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/AppBuilder.blog_2.max-1000x1000.png",
-          "width": 1000,
-          "height": 555,
-          "title": "How Google Sites supports remote work and learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-google-cloud-ceo-coronavirus-will-create-a-new-digital-normal.md",
-      "title": "Google Cloud CEO: Coronavirus will create a new digital normal",
-      "excerpt": "The coronavirus will create a new normal baised on digital processes and accelerate business transformation, according to Google Cloud CEO Thomas Kurain. Speaking at NetApp Insight, Kurian called the potential impact of the pandemic \"shock momentum\" and said the world will \"reimagine and create new opportunities\" for what comes after the crisis.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355414/the-coronavirus-will-create-a-new-digital-normal",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355414/the-coronavirus-will-create-a-new-digital-normal?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/355414/the-coronavirus-will-create-a-new-digital-normal?amp",
-      "publishedDateTime": "2020-04-23T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587638309/itpro/Screenshot_2020-04-23_at_09.19.47.png",
-          "width": 1270,
-          "height": 716,
-          "title": "Google Cloud CEO: Coronavirus will create a new digital normal",
           "attribution": null
         }
       ],

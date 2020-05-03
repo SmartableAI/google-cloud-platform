@@ -2,6 +2,81 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-03-better-scalability-with-cloud-tpu-pods-and-tensorflow-21.md",
+      "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+      "excerpt": "Cloud TPU Pods have gained recognition recently for setting performance records in both training and inference. These custom-built AI supercomputers are now generally available to help all types of enterprises solve their biggest AI challenges. “We've been greatly impressed with the speed and scale of",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/better-scalability-with-cloud-tpu-pods-and-tensorflow-2-1/amp/",
+      "publishedDateTime": "2020-03-03T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/tensorflow.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Better scalability with Cloud TPU pods and TensorFlow 2.1",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-dml-without-limits-now-in-bigquery.md",
+      "title": "DML without limits, now in BigQuery",
+      "excerpt": "Data manipulation language (DML) statements in BigQuery, such as INSERT, UPDATE, DELETE, and MERGE, enable users to add, modify, and delete data stored in BigQuery, Google Cloud’s enterprise data warehouse. DML in BigQuery supports inserting, updating, or deleting an arbitrarily large number of rows",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/dml-without-limits-now-in-bigquery/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/dml-without-limits-now-in-bigquery/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/dml-without-limits-now-in-bigquery/amp/",
+      "publishedDateTime": "2020-03-03T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_Data_Analytics.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "DML without limits, now in BigQuery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-how-to-detect-and-prevent-network-outagesand-stay-compliant-too.md",
       "title": "How to detect and prevent network outages—and stay compliant too",
       "excerpt": "By some estimates, 75% of network outages and performance issues are the result of a misconfiguration, and more often than not, these misconfigurations aren’t discovered until they’re in production. That’s stressful for network administrators and architects—not knowing the impact of a configuration change",
@@ -852,81 +927,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-windows-server-applications-welcome-to-google-kubernetes-engine.md",
-      "title": "Windows Server applications, welcome to Google Kubernetes Engine",
-      "excerpt": "The promise of Kubernetes is to make container management easy and ubiquitous. Up until recently though, the benefits of Kubernetes were limited to Linux-based applications, preventing enterprise applications running on Windows Server from taking advantage of its agility, speed of deployment and simplified",
-      "heat": 151,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/run-windows-server-containers-on-gke/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/run-windows-server-containers-on-gke/amp/",
-      "publishedDateTime": "2020-01-30T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Containers_08.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Windows Server applications, welcome to Google Kubernetes Engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-announcing-new-certifications-for-technical-leaders-and-devops-engineers.md",
-      "title": "Announcing new certifications for technical leaders and DevOps engineers",
-      "excerpt": "As the cloud continues to evolve, it’s paving the way for exciting innovations that were difficult to imagine even a few years ago. To take advantage of everything the latest cloud technology has to offer, organizations must be able to find people with the right combination of skills to make it happen.",
-      "heat": 133,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
-      "publishedDateTime": "2020-01-30T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_Training_and_Certification.max-1100x1100.jpg",
-          "width": 1100,
-          "height": 458,
-          "title": "Announcing new certifications for technical leaders and DevOps engineers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
       ]
     }
   ],
