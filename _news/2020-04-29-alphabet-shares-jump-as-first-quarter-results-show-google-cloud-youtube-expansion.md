@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3082026/alphabet-shares-j
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3082026/alphabet-shares-jump-first-quarter-results-show-google-cloud-youtube"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     width: 1200
     height: 630
     title: "Alphabet shares jump as first-quarter results show Google Cloud, YouTube expansion"
+
+related:
+  - title: "Alphabet shares soar on Google Cloud, YouTube expansion"
+    excerpt: "Alphabet shares surged after first-quarter results and upbeat executive comments showed the company’s cloud and YouTube businesses"
+    publishedDateTime: 2020-05-03T20:15:00Z
+    webUrl: "https://www.vanguardngr.com/2020/05/alphabet-shares-soar-on-google-cloud-youtube-expansion/"
+    ampWebUrl: "https://www.vanguardngr.com/2020/05/alphabet-shares-soar-on-google-cloud-youtube-expansion/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/05/alphabet-shares-soar-on-google-cloud-youtube-expansion/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 57
+    images:
+      - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
+        width: 600
+        height: 400
 
 secured: "WTp8B2A+ADPArOm7/fTpuCfTzuQK+fdp0BG2y//w2J9jZdR9I8HSGD+qHP9u6gfbGlqlNTclVleUdnP6jrWb0/e97EwBVKlNSqQnhrm6oiQYhKzQH1TamGzEntdrotO5bhlpyoIB48fs9t7SODS+cEYxCk3/RDCoqTA9ME+pjMRWR8icb/B4W/oWQVqQ50N0q+GxxbQHr4igL2hkILJIMs4AASwxrLex8CwllLWVdzpZk8Nn3gSFp4pMGn0qJIWNOkq2Srlhkfuse9EsizUmf2uITEitDFZJBUAj2OSskSSrYtExRRDns6jMq3056ilq1JgXs1KvNwZ2eKRq/DbgfcAYhvqYISbCsU0/XVS8oLrF4rdsCpR6I6Cy4hcvPhAhIbbnOcA+9tp2nmXFwsyXxxfguj+akYvXuC1WuDG+BZ+lcCifg8CshvR4T0OCqlTX9Z/0j7tJQIq+JPhQqgPiyfWhuM7qh9htr1Hfomad6gI=;9udaFEGnaldcAot8ehAxEw=="
 ---
