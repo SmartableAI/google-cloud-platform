@@ -90,6 +90,50 @@
       ]
     },
     {
+      "path": "_news/2020-05-02-google-is-working-on-4khdr-streaming-to-android-tv-for-stadia.md",
+      "title": "Google is working on 4K/HDR streaming to Android TV for Stadia",
+      "excerpt": "Recent updates to the Stadia Android app show Google is working on some new features: sharing game captures as a link, 4K/HDR-quality playback on Android TV and a built-in messenger.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/stadia-4k-messenger-084537722.html",
+      "ampWebUrl": "https://www.engadget.com/amp/stadia-4k-messenger-084537722.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/stadia-4k-messenger-084537722.html",
+      "publishedDateTime": "2020-05-02T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-03%2Fbfede340-6640-11ea-b7ff-c0a54d89250e&client=amp-blogside-v2&signature=e94a860b73878ca9c3703e6ee1c0738d782b665b",
+          "width": 600,
+          "height": 350,
+          "title": "Google is working on 4K/HDR streaming to Android TV for Stadia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-designing-distributed-systems-using-nalsd-flashcards.md",
       "title": "Designing distributed systems using NALSD flashcards",
       "excerpt": "There are many ways to design distributed systems. One way involves growing systems organically—components are rewritten or redesigned as the system handles more requests. Another method starts with a proof of concept. Once the system adds value to the business, a second version is designed from the",
@@ -1169,50 +1213,6 @@
           "width": 1200,
           "height": 675,
           "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million.md",
-      "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
-      "excerpt": "platform offers real-time remediation with configurable bots and over 200 out-of-the-box guardrail policies. It works across public clouds such as Amazon Web Services, Google Cloud, and Azure and ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
-      "publishedDateTime": "2020-04-28T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1065824694-1-e1579193201293.jpg?fit=1200%2C601&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
           "attribution": null
         }
       ],

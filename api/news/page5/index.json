@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-16-protect-your-running-vms-with-new-os-patch-management-service.md",
+      "title": "Protect your running VMs with new OS patch management service",
+      "excerpt": "Managing patches effectively is a great way to keep your infrastructure up-to-date and reduce the risk of security vulnerabilities. But without the right tools, patching can be daunting and labor intensive.Today, we are announcing the general availability of Google Cloud’s OS patch management service",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/new-os-patch-management-service-protects-your-compute-engine-vms/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Protect your running VMs with new OS patch management service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work.md",
       "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
       "excerpt": "From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19. Read More Rolls Royce and a bevy of data science players including IBM, Google Cloud, Truata and the Leeds Institute for Data Analytics have formed a group to collaborate on modeling the economic recovery from the COVID ...",
@@ -939,42 +976,6 @@
           "width": 2880,
           "height": 1200,
           "title": "Last month today: March in Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-admin-essentials-simplifying-chrome-deployments-on-macos.md",
-      "title": "Admin Essentials: Simplifying Chrome deployments on macOS",
-      "excerpt": "At Google, the Chrome Browser Enterprise team is working to help make IT admins' jobs easier, and to make Chrome as flexible as possible. Because there are a lot of enterprise admins responsible for managing Macs, we recently made some changes aimed at simplifying deployment and to help ensure that Chrome",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/amp/",
-      "publishedDateTime": "2020-04-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ChromeEnterpriseSeries-01.png",
-          "width": 2000,
-          "height": 1110,
-          "title": "Admin Essentials: Simplifying Chrome deployments on macOS",
           "attribution": null
         }
       ],

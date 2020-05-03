@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-google-discloses-zero-click-bugs-impacting-several-apple-operating-systems.md",
+      "title": "Google discloses zero-click bugs impacting several Apple operating systems",
+      "excerpt": "Apple needs to follow in Google and Mozilla's footsteps and secure its multimedia processing libraries. Multimedia processing components are one of today's most dangerous attack surfaces in any operating system.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-discloses-zero-click-bugs-impacting-several-apple-operating-systems/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-discloses-zero-click-bugs-impacting-several-apple-operating-systems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-discloses-zero-click-bugs-impacting-several-apple-operating-systems/",
+      "publishedDateTime": "2020-04-28T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/04/28/83ca6cfb-1379-45cc-bce1-54af43cf7c61/image-glitched.png",
+          "width": 1000,
+          "height": 543,
+          "title": "Google discloses zero-click bugs impacting several Apple operating systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-google-cloud-generated-nearly-28-billion-in-revenue-this-quarter-up-52-from-a-year-ago.md",
       "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
       "excerpt": "Google Cloud reported 52% year-over-year revenue growth. Google Cloud CEO Thomas Kurian has previously spoken about plans to triple its salesforce.",
@@ -977,50 +1021,6 @@
           "width": 1024,
           "height": 682,
           "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes.md",
-      "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
-      "excerpt": "Multiplayer gaming has come alive on Google Stadia since it went free. We check out the multiplayer experience in several of Stadia's big games.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/amp/",
-      "publishedDateTime": "2020-04-27T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea6b217228117000681a7a3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
-          "width": 1200,
-          "height": 675,
-          "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
           "attribution": null
         }
       ],

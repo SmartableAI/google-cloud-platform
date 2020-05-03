@@ -2,6 +2,42 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-23-simplified-global-game-management-introducing-game-servers.md",
+      "title": "Simplified global game management: Introducing Game Servers",
+      "excerpt": "To deliver the multiplayer gaming experiences gamers expect, game developers are increasingly relying on dedicated game servers as the default option for connecting players. But hosting and scaling a game server fleet to support a global game can be challenging, and many game companies either end up",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gaming/introducing-google-cloud-game-servers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gaming/introducing-google-cloud-game-servers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gaming/introducing-google-cloud-game-servers/amp/",
+      "publishedDateTime": "2020-03-23T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Gaming_LgLTGIJ.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Simplified global game management: Introducing Game Servers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-22-get-certified-on-the-google-cloud-platform-for-just-9.md",
       "title": "Get certified on the Google Cloud Platform for just $9",
       "excerpt": "How else are the corporations going to process all the data they hold about us? Get fully trained for the Google Data Engineer and Cloud Architect certification exams. Over 2,000 people have already signed up, but the deal is ending soon. To find out more, follow the link below.",
@@ -889,43 +925,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-how-to-detect-and-prevent-network-outagesand-stay-compliant-too.md",
-      "title": "How to detect and prevent network outages—and stay compliant too",
-      "excerpt": "By some estimates, 75% of network outages and performance issues are the result of a misconfiguration, and more often than not, these misconfigurations aren’t discovered until they’re in production. That’s stressful for network administrators and architects—not knowing the impact of a configuration change",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/how-to-test-for-and-help-prevent-bad-network-connectivity/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/how-to-test-for-and-help-prevent-bad-network-connectivity/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/how-to-test-for-and-help-prevent-bad-network-connectivity/amp/",
-      "publishedDateTime": "2020-03-02T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_networking.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How to detect and prevent network outages—and stay compliant too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],

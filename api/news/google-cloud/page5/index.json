@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-08-helping-contact-centers-respond-rapidly-to-customer-concerns-about-covid-19.md",
+      "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
+      "excerpt": "As COVID-19 has spread globally, people are turning to governments, healthcare organizations, and other businesses with questions about their health and wellness, finances, and more. This sudden, unprecedented demand is putting strain on customer support resources, and many organizations are telling",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/support-for-contact-centers-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_contact_center_ai.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google.md",
       "title": "Learn to build secure and reliable systems with a new book from Google",
       "excerpt": "In the new “Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems” book, engineers across Google's security and SRE organizations share best practices to help you design scalable and reliable systems that are fundamentally secure. Reliability matters",
@@ -1093,42 +1130,6 @@
           "width": 1200,
           "height": 605,
           "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-simplified-global-game-management-introducing-game-servers.md",
-      "title": "Simplified global game management: Introducing Game Servers",
-      "excerpt": "To deliver the multiplayer gaming experiences gamers expect, game developers are increasingly relying on dedicated game servers as the default option for connecting players. But hosting and scaling a game server fleet to support a global game can be challenging, and many game companies either end up",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/gaming/introducing-google-cloud-game-servers/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gaming/introducing-google-cloud-game-servers/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gaming/introducing-google-cloud-game-servers/amp/",
-      "publishedDateTime": "2020-03-23T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Gaming_LgLTGIJ.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Simplified global game management: Introducing Game Servers",
           "attribution": null
         }
       ],

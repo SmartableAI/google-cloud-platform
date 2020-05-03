@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million.md",
+      "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
+      "excerpt": "platform offers real-time remediation with configurable bots and over 200 out-of-the-box guardrail policies. It works across public clouds such as Amazon Web Services, Google Cloud, and Azure and ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
+      "publishedDateTime": "2020-04-28T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1065824694-1-e1579193201293.jpg?fit=1200%2C601&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-live-here-come-google-and-alphabets-q1-earnings.md",
       "title": "Live: Here come Google and Alphabet's Q1 earnings",
       "excerpt": "Alphabet is set to announce its Q1 2020 earnings, and all eyes are on how much damage the pandemic is doing to its ad business.",
@@ -1165,42 +1209,6 @@
           "width": 1270,
           "height": 716,
           "title": "Google Cloud CEO: Coronavirus will create a new digital normal",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-how-telus-international-got-employees-back-to-work-with-virtual-desktops.md",
-      "title": "How TELUS International got employees back to work with virtual desktops",
-      "excerpt": "Google Cloud CEO Thomas Kurian recently shared the many ways we’re helping people work remotely and remain productive, while ensuring the health and safety of employees around the world during the global COVID-19 pandemic. Along with internet connectivity, access to remote desktops is essential for many",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/remote-work/telus-runs-vdi-on-google-cloud-during-covid-closures/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WFH-06_1.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "How TELUS International got employees back to work with virtual desktops",
           "attribution": null
         }
       ],

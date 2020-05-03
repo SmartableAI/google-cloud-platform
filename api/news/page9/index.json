@@ -2,6 +2,44 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-01-28-expanding-our-alliance-with-cisco-in-hybrid-cloud-and-the-contact-center.md",
+      "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+      "excerpt": "Over the past three years, we’ve worked closely with Cisco to deliver a number of customer-focused solutions in areas such as hybrid cloud, multi-cloud, work transformation, and contact center integrations. This week at Cisco Live in Barcelona, we’re sharing updates on our joint work in two key areas",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/updates-to-our-hybrid-cloud-and-contact-center-offerings-with-cisco/amp/",
+      "publishedDateTime": "2020-01-28T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-10-top-tips-unleash-your-bigquery-superpowers.md",
       "title": "10 top tips: Unleash your BigQuery superpowers",
       "excerpt": "Lots of us are already tech heroes by day. If you know SQL, for example, you’re a hero.You have the power to transform data into insights. You can save the day when someone in need comes to you to reveal the magic numbers they can then use in their business proposals. You can also amaze your colleagues",
@@ -889,43 +927,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-12-12-discover-insights-from-text-with-automl-natural-language-now-generally-available.md",
-      "title": "Discover insights from text with AutoML Natural Language, now generally available",
-      "excerpt": "Organizations are managing and processing greater volumes of text-heavy, unstructured data than ever before. To manage this information more efficiently, organizations are looking to machine learning to help with the complex sorting, processing, and analysis this content needs. In particular, natural",
-      "heat": 144,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/machine-learning-feature-automl-natural-language-generally-available/amp/",
-      "publishedDateTime": "2019-12-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AutoML.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Discover insights from text with AutoML Natural Language, now generally available",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
       ]
     }
   ],

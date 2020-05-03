@@ -22,6 +22,6 @@ images:
     height: 1280
     title: "Big Blue in the cloud: IBM’s future rests on its innovation agenda"
 
-secured: "TCAGjIq8+czVFCE05XmIvn+9xW0bwoPdZii8JqqW6ms0mGSwiRUtoJIqjjAttnhdiMiixDaVQgPq0p0JvADcLO024Hf/GxgApNeNGUdrQsgd2maN/K0F0HzKBBbDlGjXbuV1fSpDYmtxgK98hDSVB5MPe5K7V/Sfh84DqrT38G+1qSIpNaN8Ert/3RylLnhIYjKmAsFSuqt+sKlFUyUc6URx5bGXeho7Y5Qhrj/SQFsukt3cK9JrzxjzdiPFRfD6gmYyUEBJX3DwXS+YnwluD9iB/DA1xsYPknVcbQQ2B++24wDb9w3dpUHQM6OLy8hS;7UjVJWca8ED3jeRppxTq3w=="
+secured: "i23PJsIOX5RzhCFPMUSTHTlqdEm+vPJ7ThHEws4LGdPJra0KSGeZJYWx0rVuvnMIeLC+yw7C9QHMjSJlz1X+Hemmdz41SGMHyK9mH+/jzKWeLDny6cSqoW0+OohgYoP6U0Hw85snP+VxyPV4sBKwM7iTJTqcnWOy2Oe2tGL5+OMoWu0VDcuZEm/yRyP36VoyWlZ93Ja/YABtmMiovDiI+4fliVFcYmdu/9eZ4iV4dJW3n4NxVPnjmeX9pS52/0ScV5og2ID1HBOg6qGc+4sofIU1220hDx49d21v9g0/q/qpZxuFmSVEEUf/4iWj3Pt4N5bHfkdeRZFepRTG6JeT/bZ8Irvk7A7doldGs1LUFurR6H0wdKmraqdtgFbdkVqvxAsPvopGj/bo4RSMV9u2iUKtMW5r2UzIJPZyBgHdFVfScHDR/+NRZkRX3/86BFLfg+DbAYYsRgSYlaX3y1EzqerExdYG1k6FTkykFm6A4p0=;E5ZqH0LsQv8+ZYWjwYBMFg=="
 ---
 
