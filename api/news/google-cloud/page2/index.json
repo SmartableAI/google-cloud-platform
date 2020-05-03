@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-google-cloud-generated-nearly-28-billion-in-revenue-this-quarter-up-52-from-a-year-ago.md",
+      "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
+      "excerpt": "Google Cloud reported 52% year-over-year revenue growth. Google Cloud CEO Thomas Kurian has previously spoken about plans to triple its salesforce.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
+      "publishedDateTime": "2020-04-28T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5cf9809111e20513e77b4df7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-google-parent-alphabet-tops-sales-estimates-despite-virus-hammering-economy.md",
       "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
       "excerpt": "Alphabet Inc on Tuesday beat analysts' estimate for quarterly revenue as its Google unit experienced a smaller drop-off in advertiser spending than had been anticipated given economic concerns related to the novel coronavirus.",
@@ -1181,42 +1225,6 @@
           "width": 2000,
           "height": 1110,
           "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-how-to-add-buy-online-pick-up-in-store-capabilities-to-your-website-with-google-maps-platform.md",
-      "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
-      "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices over the coming weeks for adding new functionality to your apps and websites.One of the most common questions retailers ask us is how they can quickly add “buy online,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-add-buy-online-pick-store-capabilities-your-website-google-maps-platform/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/037-MAP-Buy_Online_Pick_Up_In_Store-2-BLOG_2880x1200_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
           "attribution": null
         }
       ],

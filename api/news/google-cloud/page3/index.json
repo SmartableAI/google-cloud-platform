@@ -2,6 +2,42 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-23-how-to-add-buy-online-pick-up-in-store-capabilities-to-your-website-with-google-maps-platform.md",
+      "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
+      "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices over the coming weeks for adding new functionality to your apps and websites.One of the most common questions retailers ask us is how they can quickly add “buy online,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-add-buy-online-pick-store-capabilities-your-website-google-maps-platform/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/037-MAP-Buy_Online_Pick_Up_In_Store-2-BLOG_2880x1200_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-google-cloud-anthos-now-supports-multi-cloud.md",
       "title": "Google Cloud Anthos now supports multi-cloud",
       "excerpt": "Google Cloud has announced that its platform to manage multi-cloud workloads Anthos is now generally available for AWS though the company plans to add support for Microsoft Azure by the end of this year. Anthos aims to deliver on the promise of write once, run anywhere by allowing businesses to run their applications on existing on-prem ...",
@@ -1196,42 +1232,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-our-healthcare-api-and-other-solutions-for-supporting-healthcare-and-life-sciences-organizations-during-the-pandemic.md",
-      "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
-      "excerpt": "Whether they’re caring for patients or advancing research towards a cure, healthcare and life sciences organizations are on the front lines in the fight against COVID-19. We know that the pandemic is impacting every aspect of the healthcare industry differently, and that the needs of organizations are",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-supporting-healthcare-and-life-sciences-organizations/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

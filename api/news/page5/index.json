@@ -2,6 +2,42 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-16-protecting-businesses-against-cyber-threats-during-covid-19-and-beyond.md",
+      "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
+      "excerpt": "No matter the size of your business, IT teams are facing increased pressure to navigate the challenges of COVID-19. At the same time, some things remain constant: Security is at the top of the priority list, and phishing is still one of the most effective methods that attackers use to compromise accounts",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/protecting-against-cyber-threats-during-covid-19-and-beyond/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Security-identity-04.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-how-to-get-remote-workers-up-and-running-quickly-and-securely-with-chrome-enterprise.md",
       "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
       "excerpt": "Shifting to a remote workforce is an important way businesses and organizations have supported their communities in response to COVID-19. But ensuring workers have remote access to the apps and data they need can be challenging, and in the rush to deploy devices quickly, many businesses worry about threats",
@@ -956,42 +992,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google.md",
-      "title": "Learn to build secure and reliable systems with a new book from Google",
-      "excerpt": "In the new “Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems” book, engineers across Google's security and SRE organizations share best practices to help you design scalable and reliable systems that are fundamentally secure. Reliability matters",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/management-tools/learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/G-Management-banner-05.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Learn to build secure and reliable systems with a new book from Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

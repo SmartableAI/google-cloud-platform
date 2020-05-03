@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-03-rings-video-doorbell-3-plus-takes-a-run-at-googles-nest-hello.md",
+      "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+      "excerpt": "Ring's Video Doorbell 3 Plus, first announced on March 11 -- which feels like a very long time ago amid the coronavirus pandemic and resulting quarantine -- is available now at Best Buy and other online retailers,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/reviews/ring-video-doorbell-3-plus-review/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "publishedDateTime": "2020-05-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/7sOGJCBIVZ6Vr28vEq9mFv0UKvI=/770x433/2020/04/30/e7305fb1-ee20-4926-95e6-d2d3a171f4c0/ringvideodoorbell3plus.jpg",
+          "width": 770,
+          "height": 433,
+          "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-google-cloud-and-youtube-help-protect-alphabet-from-a-coronavirus-disaster.md",
       "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
       "excerpt": "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;",
@@ -1169,50 +1213,6 @@
           "width": 1000,
           "height": 543,
           "title": "Google discloses zero-click bugs impacting several Apple operating systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-cloud-generated-nearly-28-billion-in-revenue-this-quarter-up-52-from-a-year-ago.md",
-      "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
-      "excerpt": "Google Cloud reported 52% year-over-year revenue growth. Google Cloud CEO Thomas Kurian has previously spoken about plans to triple its salesforce.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
-      "publishedDateTime": "2020-04-28T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5cf9809111e20513e77b4df7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
           "attribution": null
         }
       ],

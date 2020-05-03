@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-03-rings-video-doorbell-3-plus-takes-a-run-at-googles-nest-hello.md",
+      "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+      "excerpt": "Ring's Video Doorbell 3 Plus, first announced on March 11 -- which feels like a very long time ago amid the coronavirus pandemic and resulting quarantine -- is available now at Best Buy and other online retailers,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/reviews/ring-video-doorbell-3-plus-review/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "publishedDateTime": "2020-05-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/7sOGJCBIVZ6Vr28vEq9mFv0UKvI=/770x433/2020/04/30/e7305fb1-ee20-4926-95e6-d2d3a171f4c0/ringvideodoorbell3plus.jpg",
+          "width": 770,
+          "height": 433,
+          "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-google-cloud-and-youtube-help-protect-alphabet-from-a-coronavirus-disaster.md",
       "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
       "excerpt": "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;",
@@ -949,50 +993,6 @@
           "width": 1999,
           "height": 834,
           "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-oracle-launches-cloud-e3-platform-built-on-second-gen-amd-epyc-processors.md",
-      "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
-      "excerpt": "Oracle on Wednesday launched the Oracle Cloud Infrastructure Compute E3 platform, a new family of bare metal and standard instances powered by AMD's 2nd Gen Epyc processors. With the high core count and memory bandwidth delivered by the AMD chips,",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "publishedDateTime": "2020-04-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/10/25/93c8b76a-bd36-484e-82b6-7e8530b0aaca/thumbnail/1200x675/57ac64ca97ef5bec30bc41af38b3d033/20191025-steph-karen-oracle.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
           "attribution": null
         }
       ],

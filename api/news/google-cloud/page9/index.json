@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-12-03-better-bandit-building-advanced-personalization-the-easy-way-with-automl-tables.md",
+      "title": "Better bandit building: Advanced personalization the easy way with AutoML Tables",
+      "excerpt": "As demand grows for features like personalization systems, efficient information retrieval, and anomaly detection, the need for a solution to optimize these features has grown as well. Contextual bandit is a machine learning framework designed to tackle these—and other—complex situations.With contextual",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models/amp/",
+      "publishedDateTime": "2019-12-03T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_AutoML_tables.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Better bandit building: Advanced personalization the easy way with AutoML Tables",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2019-12-03-gartner-names-google-cloud-a-leader-in-operational-database-management-systems.md",
       "title": "Gartner names Google Cloud a Leader in Operational Database Management Systems",
       "excerpt": "We’re pleased to announce that Gartner has named Google Cloud a Leader in its 2019 Magic Quadrant report for Operational Database Management Systems (OPDBMS). This news reflects what we hear from our customers: that Google Cloud databases are flexible, open, and easy to use. These include our fully compatible",
@@ -1070,43 +1107,6 @@
       "topics": [
         "Google Cloud",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-10-01-optimize-your-google-cloud-environment-with-new-ai-based-recommenders.md",
-      "title": "Optimize your Google Cloud environment with new AI-based recommenders",
-      "excerpt": "You want your Google Cloud environment to be as unique as your organization, configured for optimal security, cost and efficiency. We are excited to offer new recommenders for Google Cloud Platform (GCP) in beta, which automatically suggest ways to make your cloud deployment more secure and cost-effective,",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/amp/",
-      "publishedDateTime": "2019-10-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_security.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Optimize your Google Cloud environment with new AI-based recommenders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
       ]
     }
   ],
