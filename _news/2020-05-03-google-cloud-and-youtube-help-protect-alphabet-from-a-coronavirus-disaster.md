@@ -2,8 +2,8 @@
 category: news
 title: "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster"
 excerpt: "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;"
-publishedDateTime: 2020-05-03T12:49:00Z
-webUrl: "https://www.fool.com/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx"
+publishedDateTime: 2020-05-03T16:45:00Z
+webUrl: "https://www.fool.com/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 850
     title: "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster"
 
-secured: "maWcnw1Gp8uLylypOy5emQ6ZvTCywZp2uT/T8RatTDYniw48gUdpUPO/oqpAenmpOBKbKjP89ChmdPeN+RqVbIVfCmsxN1fJqnxkPhMp8Y8kl4eASg4ydSs84ZfsUTmj/XVQOcNbaltijsSoV/XWdYex30bQUZYQsdnLHm08qJlRgfFo4BMdte0fa46PeuiZEjJ0mPkI5j2LKCAekzOWo5ApetstKvAbmrXJ9jdOTPwFhzSmhJxYcKfzIey+AFMD6W5f2vEB430CwcZI5w4ett9KMPDouEdXIOCZOua+fsM+dwd1w74qLhw7OYWGFYWPVZtM8Hb4y21o/gLPdDmhplAuz/t+Rrmd1gw6prv9XD/081E+Pqhc5lFtAwASJ+mh4MxMYIQla3h1oGnDuQcI6sN0V5WDlLKtwWE3MeJi4GAE7Zfvcv/DrjTx1TcxHKh9cPKHI6c3KIwh9CxGFDkkSD8xPjnKhJcThmt4W8VayrE=;OJuYWwefV7XMLzg5YQQznw=="
+secured: "H8G13mss+0YSILXp3j82bmExwa5v5P5f5Fnj9UBz8q2n3LEM3xmZTIY2Nj15AbHaLWFrBYJWjp1roLM16yX1VeAlxX8zZJrGlt/ii5agBNYFPv02KYFOniGspBLCpmobcBqSjYWw7qwCW1zGoqu52p32q9mpLzQ89MB1JCt6WTAQW+b+rnpOj9E7BT03TgkKfW+rgzX6aWF0gs2SbmZtn+PB7hu3E24KJhGRN3M/Ji03lY7/ewUdLl/klek8ClNH/jmirl9FuHMmZ8uFJYCf4Ze4QnxjjRCoCNAupqoY2e1aQWUiDYQyJrm6cRTH9Gm4;Tqs/H7JrEddjuCWDP0ngDA=="
 ---
 

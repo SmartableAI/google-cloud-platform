@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-03-google-cloud-and-youtube-help-protect-alphabet-from-a-coronavirus-disaster.md",
+      "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
+      "excerpt": "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "publishedDateTime": "2020-05-03T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570704%2Fman-touching-magnifying-glass-button-on-floating-search-bar-internet-google-search-engine.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 850,
+          "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-rings-video-doorbell-3-plus-takes-a-run-at-googles-nest-hello.md",
       "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
       "excerpt": "Ring's Video Doorbell 3 Plus, first announced on March 11 -- which feels like a very long time ago amid the coronavirus pandemic and resulting quarantine -- is available now at Best Buy and other online retailers,",
@@ -34,50 +78,6 @@
           "width": 770,
           "height": 433,
           "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-google-cloud-and-youtube-help-protect-alphabet-from-a-coronavirus-disaster.md",
-      "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
-      "excerpt": "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
-      "publishedDateTime": "2020-05-03T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570704%2Fman-touching-magnifying-glass-button-on-floating-search-bar-internet-google-search-engine.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 850,
-          "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
           "attribution": null
         }
       ],
