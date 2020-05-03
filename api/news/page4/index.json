@@ -2,6 +2,34 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-21-helping-our-customers-navigate-covid-19-and-build-for-the-future.md",
+      "title": "Helping our customers navigate COVID-19 and build for the future",
+      "excerpt": "As the global response to COVID-19 evolves, businesses everywhere are adapting to an ever-changing environment that forces them to think differently. Our focus at Google Cloud right now is helping our customers navigate the impacts of COVID-19, whether that’s helping employees work remotely, ensuring",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-our-customers-navigate-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud.md",
       "title": "Google wants to make it easier to analyse health data in the cloud",
       "excerpt": "Google has expanded the availability of its Cloud Healthcare API in a bid to improve healthcare interoperability and help providers drive insights from myriad sources of medical data. Google's Cloud Healthcare API allows healthcare organizations to collect and manage various types of medical data via the cloud, including Digital Imaging and ...",
@@ -998,42 +1026,6 @@
           "width": 2200,
           "height": 917,
           "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-how-to-get-remote-workers-up-and-running-quickly-and-securely-with-chrome-enterprise.md",
-      "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
-      "excerpt": "Shifting to a remote workforce is an important way businesses and organizations have supported their communities in response to COVID-19. But ensuring workers have remote access to the apps and data they need can be challenging, and in the rush to deploy devices quickly, many businesses worry about threats",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/remote-work-toolkit-from-chrome-enterprise/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/12985_RemoteWorker_BlogIllo_v011x.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
           "attribution": null
         }
       ],

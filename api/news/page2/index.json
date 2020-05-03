@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-google-makes-meet-video-conferencing-free-to-all-users-challenging-zoom.md",
+      "title": "Google makes Meet video conferencing free to all users, challenging Zoom",
+      "excerpt": "Alphabet Inc's Google on Wednesday said any user will soon be able to host free video conferences on Meet, turning its previously business-only tool into a bigger rival to Zoom and others battling for users during the coronavirus outbreak.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-conferencing-idUSKBN22B1AX",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22B1AX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B1AX",
+      "publishedDateTime": "2020-04-29T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516848289&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S0NZ",
+          "width": 848,
+          "height": 545,
+          "title": "Google makes Meet video conferencing free to all users, challenging Zoom",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-google-is-making-meet-free-for-everyone.md",
       "title": "Google is making Meet free for everyone",
       "excerpt": "Google today announced that it is making Meet, its video meeting tool for businesses that directly competes with the likes of Zoom, available for free to everyone. Until now, you could participate in a Meet call without being a paying user,",
@@ -1002,42 +1046,6 @@
       "topics": [
         "Google Cloud",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-see-how-dozens-rethinks-the-fintech-industry-with-the-help-of-google-maps-platform.md",
-      "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
-      "excerpt": "Editor’s note: Today’s post comes from Aritra Chakravarty, Founder and CEO of Dozens. Dozens is rethinking the banking industry using Google Maps Platform to help its customers change the way they spend and save money.When we started Dozens in 2018, we wanted to create a new kind of fintech startup.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/see-how-dozens-rethinks-fintech-industry-help-google-maps-platform/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Dozens_payments.png",
-          "width": 1308,
-          "height": 774,
-          "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

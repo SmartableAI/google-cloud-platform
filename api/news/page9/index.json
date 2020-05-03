@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-02-05-scale-your-composer-environment-together-with-your-business.md",
+      "title": "Scale your Composer environment together with your business",
+      "excerpt": "When you’re building data pipelines, it’s important to consider business needs now and in the future. We often hear from customers that they want to configure and optimize their Cloud Composer environments. So we on the Cloud Composer engineering team will share in this post how Cloud Composer—built",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/scale-your-composer-environment-together-your-business/amp/",
+      "publishedDateTime": "2020-02-05T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Scale your Composer environment together with your business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-01-30-windows-server-applications-welcome-to-google-kubernetes-engine.md",
       "title": "Windows Server applications, welcome to Google Kubernetes Engine",
       "excerpt": "The promise of Kubernetes is to make container management easy and ubiquitous. Up until recently though, the benefits of Kubernetes were limited to Linux-based applications, preventing enterprise applications running on Windows Server from taking advantage of its agility, speed of deployment and simplified",
@@ -891,43 +928,6 @@
       "topics": [
         "Google Cloud",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2019-12-18-introducing-more-maintenance-controls-for-cloud-sql.md",
-      "title": "Introducing more maintenance controls for Cloud SQL",
-      "excerpt": "Routine maintenance is a part of every database user experience—it’s how we ensure you get the performance improvements and new feature updates that keep your business running smoothly and securely. But we get it: Nobody likes downtime, no matter how brief. That's why we’re pleased to announce that Cloud",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/introducing-more-maintenance-controls-for-cloud-sql/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
-      "publishedDateTime": "2019-12-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Introducing more maintenance controls for Cloud SQL",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
       ]
     }
   ],
