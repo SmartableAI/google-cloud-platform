@@ -2,6 +2,44 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2019-11-22-google-kubernetes-engine-or-cloud-run-which-should-you-use.md",
+      "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
+      "excerpt": "When it comes to managed Kubernetes services, Google Kubernetes Engine (GKE) is a great choice if you are looking for a container orchestration platform that offers advanced scalability and configuration flexibility. GKE gives you complete control over every aspect of container orchestration, from networking,",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
+      "publishedDateTime": "2019-11-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_GKE.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2019-11-22-simplifying-service-mesh-with-istio-14.md",
       "title": "Simplifying service mesh with Istio 1.4",
       "excerpt": "Istio, the open-source service mesh that we created with IBM and Lyft, is now at version 1.4, and we’re very excited by how quickly the project is evolving and being adopted by end users. When we released Istio 1.1 in March, we announced that we would move to quarterly releases to get functionality out",
@@ -874,43 +912,6 @@
           "width": 4167,
           "height": 2313,
           "title": "Container-native load balancing on GKE now generally available",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-09-18-google-cloud-firewall-rules-logging-how-and-why-you-should-use-it.md",
-      "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
-      "excerpt": "Google Cloud Platform (GCP) firewall rules are a great tool for securing applications. Firewall rules are customizable software-defined networking constructs that let you allow or deny traffic to and from your virtual machine (VM) instances. To secure applications and respond to modern threats, firewall",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/google-cloud-firewall-rules-logging-how-and-why-you-should-use-it/amp/",
-      "publishedDateTime": "2019-09-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/002-GoogleCloud-Blog-Header.max-1000x1000.max-1000x1000.png",
-          "width": 1000,
-          "height": 555,
-          "title": "Google Cloud Firewall Rules Logging: How and why you should use it",
           "attribution": null
         }
       ],
