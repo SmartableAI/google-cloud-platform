@@ -24,6 +24,6 @@ images:
     height: 800
     title: "‘WWE 2K Battlegrounds’ Gets Surprise Release On Google Platform"
 
-secured: "yWvaB3/obBo6sErn/zvmuvuRa7klO8W+XzTdsOc43VhiMFVcjEOTZlti2RykFVXJCEkSxlms/k94cyl1x/Lsp89XcTJD7kokLm/sDSxBISF+MZwzdIDQC1i+pavJQ2hsGx7xEJCjPfWAiEmxrPgr91hdfIf+2tVC4on+YERSJMVM1h06m7TtqG+R0WnLi3IHAa7AVrhLxJRp8nvjGW481FUX5tXbEn5QrhfunvenU4notPN/mv+Kn7+AhHZGFHYHu4L+gwGX+QCaxYEuQy9cCsM9vOVzhxxAUaugZgschpdocyVFz56/YSrT0JqbmHP+;CDAnOTooE81eVA0kV1W8xQ=="
+secured: "jjdNg0fHw74NF8J/e/yrCmrnpZgi5bSKAUbRhnv/PMXeoAxxqK57MN8spsLiKp+Avhmn1bEJHfyvDAgSyVMlECk8Ky5ddR9PYNaqHDqUjqSmiGgUV/R/AREIlmXKaD+NEfI9YHBBiIufdCv28dMphfpjYoCFhQBz4DdbTRvPIpqdeCchWAfXIY4TtpUZv9ohKyFthb9S12348xGNQQX2JAKPs1bJt5WzUfjYG5vyFAonzQBrtxd/wdgCAVG1qxsTNLfeJlXQJh5ZAUkhcoTM9i0MLvMORkPK3t4Q4+AXaBfeLluSviZJ26TSfCt3jqIysutzXzzYZEPj4DbRPpOb3QaR+K4N9+Wz4ZnIFgNqDXBzWQMMXM8n8J4zB+1zKuQfwiD7EdKu1sHaYPcPdr5AAAz65uR4az1DHahkrnb6TrVn+pQRxvZ/4oVay/82AawhzYmLCkhJHcjtPjAq8zHVzYOuZBhojGQMKSgmQL9JBO8=;HeyQNstNJrfV3ZVydlVryw=="
 ---
 
