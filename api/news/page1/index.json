@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-04-how-google-cloud-helped-scaling-out-one-persons-ai-serviceand-his-life.md",
+      "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
+      "excerpt": "AI Gahaku (AI master painter): built by Sato with Firebase, Cloud Run, and Google Colab. One million users are enjoying the tool everyday.Editor's note: This is a post by Kaz Sato from Google based on an interview with Sato (@sato_neet), an individual developer. It's confusing that we have similar names,",
+      "heat": 128,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/using-google-cloud-platform-free-tier-to-scale-out-an-ai-service/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-how-were-supporting-retailers-across-the-globe-during-covid-19.md",
+      "title": "How we’re supporting retailers across the globe during COVID-19",
+      "excerpt": "The shift to digital has been well under way for years in retail, but today, retailers have a new sense of urgency to digitally transform as the industry responds to COVID-19. The pandemic has dramatically impacted the retail industry at-large, exposing gaps in omnichannel capabilities, business continuity",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/retail/supporting-retail-operations-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_retail.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How we’re supporting retailers across the globe during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-cloud-lift-amazon-microsoft-google-apple-and-others-find-a-common-cushion-in-the-crisis.md",
+      "title": "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis",
+      "excerpt": "Amazon CEO Jeff Bezos is advising the company’s shareholders to “take a seat” to prepare for the tech giant’s ambitious spending on COVID-19 initiatives, but if not for Amazon Web Services, they",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/",
+      "ampWebUrl": "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/",
+      "publishedDateTime": "2020-05-04T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg",
+          "width": 630,
+          "height": 442,
+          "title": "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-zoom-vs-microsoft-teams-vs-google-meet-how-do-they-compare.md",
+      "title": "Zoom vs Microsoft Teams vs Google Meet: How do they compare?",
+      "excerpt": "With Google, Zoom and Microsoft all now offering free versions of their respective video chat apps, we've put together a handy overview of what the three rival services, offer and how they compare.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/zoom-vs-microsoft-teams-vs-google-meet-how-do-they-compare/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/zoom-vs-microsoft-teams-vs-google-meet-how-do-they-compare/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/zoom-vs-microsoft-teams-vs-google-meet-how-do-they-compare/",
+      "publishedDateTime": "2020-05-04T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/06/5421c7e5-9019-4101-8d92-f7966483e308/thumbnail/1200x675/a5546cbafdf9ba30aa4ba323fd056569/20200403-roundtable-remote.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Zoom vs Microsoft Teams vs Google Meet: How do they compare?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-expectations-vs-execution-managing-your-cloud.md",
       "title": "Expectations vs execution: managing your cloud",
       "excerpt": "The promise and allure of cloud computing has always rested in its potential to lower costs, reduce management burdens, make organisations more resilient and allow them to innovate and scale-out faster.",
@@ -530,6 +691,50 @@
       ]
     },
     {
+      "path": "_news/2020-05-01-google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans.md",
+      "title": "Google rolls out new AI-powered product for banks processing PPP loans",
+      "excerpt": "The PPP Lending AI solution is designed for lending institutions that have been overwhelmed by loan applications from small businesses seeking COVID-19 pandemic relief.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
+      "publishedDateTime": "2020-05-01T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/04/4e268e10-4522-42b7-8bc2-bc8d2906ced3/thumbnail/1200x675/f8dfa2c860a8294900066251d8d4c6fe/computer-power-supply-unit.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google rolls out new AI-powered product for banks processing PPP loans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-designing-distributed-systems-using-nalsd-flashcards.md",
       "title": "Designing distributed systems using NALSD flashcards",
       "excerpt": "There are many ways to design distributed systems. One way involves growing systems organically—components are rewritten or redesigned as the system handles more requests. Another method starts with a proof of concept. Once the system adds value to the business, a second version is designed from the",
@@ -831,198 +1036,6 @@
           "width": 680,
           "height": 453,
           "title": "Cloud Foundry renews its focus on developer experience as it looks beyond the enterprise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-anthos-in-depth-what-new-aws-multi-cloud-support-means-for-you.md",
-      "title": "Anthos in depth: What new AWS multi-cloud support means for you",
-      "excerpt": "Last week we announced new features for Anthos that our customers tell us will drive business agility and efficiency. Today, we’d like to dive a bit deeper into one of Anthos’ most exciting new features: support for multi-cloud. Now, you can use Anthos to consolidate all your operations across on-premises,",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/anthos/multi-cloud-features-make-anthos-on-aws-possible/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Anthos_A_pmqIcQ2.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Anthos in depth: What new AWS multi-cloud support means for you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-discover-understand-and-manage-your-data-with-data-catalog-now-ga.md",
-      "title": "Discover, understand and manage your data with Data Catalog, now GA",
-      "excerpt": "Google Cloud Data Catalog is a fully managed and scalable metadata management service. It can help your organization quickly discover, understand, and manage all your data from one simple interface. Accessible from within the Google Cloud console, Data Catalog allows immediate access to data discovery",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/data-catalog-metadata-management-now-generally-available/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/data_catalog.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Discover, understand and manage your data with Data Catalog, now GA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-managing-cost-and-reliability-in-serverless-applications.md",
-      "title": "Managing cost and reliability in serverless applications",
-      "excerpt": "In both good times and challenging ones, running an application on a serverless environment has lots of benefits. If you experience extremely high demand, your application scales automatically, avoiding crashes or downtime. And if you see a contraction of demand, then the application scales down and",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/managing-cost-and-reliability-serverless-applications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless_-_04.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Managing cost and reliability in serverless applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-whats-happening-in-bigquery-efficient-new-views-and-cloud-ai-integrations.md",
-      "title": "What’s happening in BigQuery: Efficient new views and Cloud AI integrations",
-      "excerpt": "BigQuery, Google Cloud’s petabyte-scale data warehouse, lets you ingest and analyze data quickly and with high availability, so you can find new insights, trends, and predictions to efficiently run your business. Our engineering team is continually making improvements to BigQuery so you can get even",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/materialized-views-ml-models-in-data-warehouse/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_5I5zzaa.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "What’s happening in BigQuery: Efficient new views and Cloud AI integrations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-microsoft-revenue-beats-as-remote-work-boosts-teams.md",
-      "title": "Microsoft revenue beats as remote work boosts Teams",
-      "excerpt": "Microsoft Corp on Wednesday beat Wall Street sales and profit expectations, powered by sharp demand for its Teams chat and online meeting app and Xbox gaming services as the world shifted to working and playing from home because of the novel coronavirus pandemic.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-microsoft-results-idUSKBN22B34B",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22B34B",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B34B",
-      "publishedDateTime": "2020-04-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223",
-          "width": 817,
-          "height": 545,
-          "title": "Microsoft revenue beats as remote work boosts Teams",
           "attribution": null
         }
       ],

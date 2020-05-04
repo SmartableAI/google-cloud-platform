@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-google-cloud-sees-huge-revenue-jump.md",
+      "title": "Google Cloud sees huge revenue jump",
+      "excerpt": "Google's parent company Alphabet has announced its latest financial results revealing that Google Cloud revenue increased by 52 percent to reach $2.78bn during the first quarter of this year. Revenue from the company's cloud computing division helped it beat Wall Street's revenue expectations during a time when Google's advertising business experienced a slowdown as a result of the coronavirus outbreak.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/google-cloud-sees-huge-revenue-jump",
+      "ampWebUrl": "https://www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
+      "publishedDateTime": "2020-04-29T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/f2noH8daNe2WNYuaTKbjxT-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Cloud sees huge revenue jump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-synamedia-partners-with-google-cloud-on-video-network-offering.md",
+      "title": "Synamedia Partners With Google Cloud on Video Network Offering",
+      "excerpt": "Synamedia has announced a partnership with Google Cloud, expanding its video network portfolio with a new over-the-top (OTT) as-a-service offering. The partnership, which enhances service availability and scalability,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvtechnology.com/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "publishedDateTime": "2020-04-29T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nyqctXWHsEyvxvPW4b5Gxg-1200-80.jpg",
+          "width": 478,
+          "height": 269,
+          "title": "Synamedia Partners With Google Cloud on Video Network Offering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-explore-anthos-with-a-sample-deployment.md",
+      "title": "Explore Anthos with a sample deployment",
+      "excerpt": "Last week, we announced important updates to Anthos, our multi-cloud application management platform. Many of you reached out to find out how you could try Anthos, out today so we’re sharing the Anthos Sample Deployment on Google Cloud, a simple way to explore the platform and its components.Available",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/explore-anthos-with-a-sample-deployment/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Explore Anthos with a sample deployment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-optimize-dataproc-costs-using-vm-machine-type.md",
+      "title": "Optimize Dataproc costs using VM machine type",
+      "excerpt": "Dataproc is a fast, easy-to-use, fully managed cloud service for running managed open source, such as Apache Spark, Apache Presto, and Apache Hadoop clusters, in a simpler, more cost-efficient way. We hear that enterprises are migrating their big data workloads to the cloud to gain cost advantages with",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/optimize-dataproc-costs-using-vm-machine-type/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Optimize Dataproc costs using VM machine type",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-viva-las-vegas-with-our-latest-google-cloud-platform-region.md",
+      "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
+      "excerpt": "If you’re running in the cloud, more regions means being able to build reliable, fast applications that can serve your local customers. Today, we’re launching our newest Google Cloud Platform region in Las Vegas, bringing a fourth region to the western United States, the seventh nationally, and our global",
+      "heat": 182,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/infrastructure/google-clouds-las-vegas-region-is-now-open/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_las_vegas.jpg",
+          "width": 1999,
+          "height": 834,
+          "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-oracle-launches-cloud-e3-platform-built-on-second-gen-amd-epyc-processors.md",
       "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
       "excerpt": "Oracle on Wednesday launched the Oracle Cloud Infrastructure Compute E3 platform, a new family of bare metal and standard instances powered by AMD's 2nd Gen Epyc processors. With the high core count and memory bandwidth delivered by the AMD chips,",
@@ -1053,203 +1243,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-security-simplified-making-shielded-vm-the-default-for-compute-engine.md",
-      "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
-      "excerpt": "Last April we announced the general availability of Shielded VM—virtual machine instances that are hardened with a set of easily configurable security features to ensure that when your VM boots, it’s running a verified bootloader and kernel. To make it accessible to everyone, we offered Shielded VM at",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/identity-security/security-simplified-making-shielded-vm-default-compute-engine/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_shielded_vms.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-see-how-dozens-rethinks-the-fintech-industry-with-the-help-of-google-maps-platform.md",
-      "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
-      "excerpt": "Editor’s note: Today’s post comes from Aritra Chakravarty, Founder and CEO of Dozens. Dozens is rethinking the banking industry using Google Maps Platform to help its customers change the way they spend and save money.When we started Dozens in 2018, we wanted to create a new kind of fintech startup.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/see-how-dozens-rethinks-fintech-industry-help-google-maps-platform/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Dozens_payments.png",
-          "width": 1308,
-          "height": 774,
-          "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets.md",
-      "title": "COVID-19 Impact on Cloud Computing Market - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Impact on Cloud Computing Market \" 09 – Tables 24 – Figures 63 – Pages Request for PDF Brochure:  IT and ITES to witness growth during the forecast period within the global cloud market Coronavirus has pushed a majority of the IT enterprises to adopt the work from home model.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814",
-      "publishedDateTime": "2020-04-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code.md",
-      "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
-      "excerpt": "Thanks to smartphones and their downsized keyboards, autocomplete has become a nearly ubiquitous feature of how we write these days. To save us precious seconds composing and (at least in my fat-thumbed case) correcting words,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
-      "publishedDateTime": "2020-04-27T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1187635203.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes.md",
-      "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
-      "excerpt": "Multiplayer gaming has come alive on Google Stadia since it went free. We check out the multiplayer experience in several of Stadia's big games.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/amp/",
-      "publishedDateTime": "2020-04-27T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea6b217228117000681a7a3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
-          "width": 1200,
-          "height": 675,
-          "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

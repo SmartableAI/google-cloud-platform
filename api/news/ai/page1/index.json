@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-04-how-google-cloud-helped-scaling-out-one-persons-ai-serviceand-his-life.md",
+      "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
+      "excerpt": "AI Gahaku (AI master painter): built by Sato with Firebase, Cloud Run, and Google Colab. One million users are enjoying the tool everyday.Editor's note: This is a post by Kaz Sato from Google based on an interview with Sato (@sato_neet), an individual developer. It's confusing that we have similar names,",
+      "heat": 128,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/using-google-cloud-platform-free-tier-to-scale-out-an-ai-service/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-explaining-model-predictions-on-image-data.md",
       "title": "Explaining model predictions on image data",
       "excerpt": "Editor's note: This is the second blog post in a series covering how to use AI Explanations with different data types. The first post explained how to use Explainable AI with tabular data.As machine learning technology continues to improve and models become increasingly accurate, we’re using ML to solve",

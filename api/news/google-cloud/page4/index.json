@@ -2,6 +2,219 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-21-cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub.md",
+      "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
+      "excerpt": "This latest integration is centered around Google Anthos, a platform launched last year for managing applications on premise or in any cloud environment. By tightly integrating Cisco SD-WAN services with Google Cloud and Anthos, the companies said they can offer a new turnkey, multicloud networking fabric called the Cisco SD-WAN Cloud Hub ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/ce6814ff-ce69-44ef-b6a8-89993fd7e787/thumbnail/1200x675/90a7834e7d694a76c76eaaced038ebe8/istock-1092964846.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-modernize-enterprise-networking-with-cisco-sd-wan-and-google-cloud.md",
+      "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
+      "excerpt": "Enterprises are increasingly adopting hybrid and multi-cloud to deliver the best experiences for their customers. The network is at the foundation of this transformation, but is getting exponentially more complex to manage, secure, and scale throughout an enterprise footprint that can include multiple",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-forgerock-nabs-935m-for-its-id-management-platform-gears-up-next-for-an-ipo.md",
+      "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
+      "excerpt": "The company is today announcing that it has raised $93.5 million in funding, a Series E it will use to continue expanding its product and take it to its next step as a business, specifically investing in R&D, cloud services ... a time when our platform can consume decentralised identity, on par with logins from Google or Facebook today.",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
+      "publishedDateTime": "2020-04-21T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/4157483192_7b6e4b41e2_k.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn.md",
+      "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
+      "excerpt": "The survey also found that the gap between public cloud platform providers is closing with Google Cloud, Amazon Web Services, and Microsoft Azure each getting an equal share of votes as a preferred cloud provider. Tech leaders are looking for providers ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
+      "publishedDateTime": "2020-04-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/20/7f41e818-d531-4993-9a76-4cba42ad6471/resize/1200x/5534a0088a1a141e343fc913e14c3a3d/opsramp-costcutting.jpg",
+          "width": 1200,
+          "height": 1148,
+          "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-in-pandemic-times.md",
+      "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
+      "excerpt": "RFIDs would also include the tokens needed to access our cloud-based medical history ... easy to enroll from a consumer experience perspective -- but it needs to have full platform integration for it to be completely seamless. If Apple and Google can cooperate on COVID-19 contact tracing, they can work on moving money around.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
+      "publishedDateTime": "2020-04-20T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/14/19c5dc91-c620-4112-b42e-86fba891b089/thumbnail/1200x675/85c560a226a9b6d969f608e96dd94cf6/istock-888701758.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-google-unveils-tech-to-make-it-easier-for-doctors-and-patients-to-share-health-info.md",
       "title": "Google unveils tech to make it easier for doctors and patients to share health info",
       "excerpt": "Google is announcing the general availability of technology that, if widely adopted, could make it easier for patients to access their own health information via third-party apps.",
@@ -1033,219 +1246,6 @@
           "width": 1200,
           "height": 630,
           "title": "The best Google Home-compatible security devices for 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-pileus-helps-businesses-cut-their-cloud-spend.md",
-      "title": "Pileus helps businesses cut their cloud spend",
-      "excerpt": "Using machine learning, the company’s platform continuously learns about how a user typically uses a given cloud and then provides forecasts and daily personalized recommendations to help them stay within a budget. Pileus currently supports AWS, with support for Google Cloud and Microsoft Azure coming soon. With all of the information it ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "publishedDateTime": "2020-04-15T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/register_mockup_image.27280a96.png",
-          "width": 622,
-          "height": 364,
-          "title": "Pileus helps businesses cut their cloud spend",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing.md",
-      "title": "How Apple and Google plan to combat the coronavirus through contact tracing",
-      "excerpt": "Anticipating this concern, Apple and Google have both addressed it. In one of its documents, Apple explained that the proximity identifier changes every 15 minutes and requires the necessary key in order to be traced back to the user. These identifiers are processed on the device and not in the cloud. Each user chooses whether to contribute to ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
-      "publishedDateTime": "2020-04-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/15/d196417e-97e5-46e1-b2d0-185b234bd6a1/resize/1200x/5c40b60c64e46a2dcd1d9fa6ee53ac0c/istock-612616318.jpg",
-          "width": 1200,
-          "height": 939,
-          "title": "How Apple and Google plan to combat the coronavirus through contact tracing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-how-anthos-gke-surge-upgrades-improve-operational-efficiency.md",
-      "title": "How Anthos GKE surge upgrades improve operational efficiency",
-      "excerpt": "A big part of keeping a Kubernetes environment healthy is performing regular upgrades. At Google Cloud, we automatically upgrade the cluster control plane for Google Kubernetes Engine (GKE) users, but you’re responsible for upgrading the cluster’s individual nodes, as well as any additional software",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-surge-upgrades-for-anthos-gke/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "How Anthos GKE surge upgrades improve operational efficiency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand.md",
-      "title": "Pentagon's inspector general says Microsoft's JEDI cloud win should stand",
-      "excerpt": "From the 313-page Inspector General's report: \"We sought to review whether there was any White House influence on the JEDI cloud procurement. We could not review this matter ... Amazon and Microsoft emerged as the two final bidders in the winner-take-all deal. (Google dropped out of the JEDI bidding late last year, while Oracle and IBM were ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/",
-      "publishedDateTime": "2020-04-15T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg",
-          "width": 877,
-          "height": 593,
-          "title": "Pentagon's inspector general says Microsoft's JEDI cloud win should stand",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-this-cloud-software-startup-used-by-the-us-air-force-just-raised-30-million-from-vcs-and-the-cia.md",
-      "title": "This Cloud Software Startup Used By The U.S. Air Force Just Raised $30 Million From VCs And The CIA",
-      "excerpt": "Many of those still in high-demand operate in cloud computing, such as HashiCorp, which raised $175 million at a $5.1 billion valuation in March, and Notion, a workflow productivity platform that competes with Google Docs and Slack, that raised $50 million at a $2 billion valuation also last month. Entwistle says Coder is not yet profitable as ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/davidjeans/2020/04/15/-cloud-software-startup-air-force-just-raised-funding-from-cia/",
-      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2020/04/15/-cloud-software-startup-air-force-just-raised-funding-from-cia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/04/15/-cloud-software-startup-air-force-just-raised-funding-from-cia/amp/",
-      "publishedDateTime": "2020-04-15T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e962fcd25f8bf00076b6a30%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "This Cloud Software Startup Used By The U.S. Air Force Just Raised $30 Million From VCs And The CIA",
           "attribution": null
         }
       ],

@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-04-how-google-cloud-helped-scaling-out-one-persons-ai-serviceand-his-life.md",
+      "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
+      "excerpt": "AI Gahaku (AI master painter): built by Sato with Firebase, Cloud Run, and Google Colab. One million users are enjoying the tool everyday.Editor's note: This is a post by Kaz Sato from Google based on an interview with Sato (@sato_neet), an individual developer. It's confusing that we have similar names,",
+      "heat": 128,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/using-google-cloud-platform-free-tier-to-scale-out-an-ai-service/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-how-were-supporting-retailers-across-the-globe-during-covid-19.md",
+      "title": "How we’re supporting retailers across the globe during COVID-19",
+      "excerpt": "The shift to digital has been well under way for years in retail, but today, retailers have a new sense of urgency to digitally transform as the industry responds to COVID-19. The pandemic has dramatically impacted the retail industry at-large, exposing gaps in omnichannel capabilities, business continuity",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/retail/supporting-retail-operations-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_retail.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How we’re supporting retailers across the globe during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-cloud-lift-amazon-microsoft-google-apple-and-others-find-a-common-cushion-in-the-crisis.md",
+      "title": "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis",
+      "excerpt": "Amazon CEO Jeff Bezos is advising the company’s shareholders to “take a seat” to prepare for the tech giant’s ambitious spending on COVID-19 initiatives, but if not for Amazon Web Services, they",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/",
+      "ampWebUrl": "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/",
+      "publishedDateTime": "2020-05-04T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg",
+          "width": 630,
+          "height": 442,
+          "title": "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-zoom-vs-microsoft-teams-vs-google-meet-how-do-they-compare.md",
+      "title": "Zoom vs Microsoft Teams vs Google Meet: How do they compare?",
+      "excerpt": "With Google, Zoom and Microsoft all now offering free versions of their respective video chat apps, we've put together a handy overview of what the three rival services, offer and how they compare.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/zoom-vs-microsoft-teams-vs-google-meet-how-do-they-compare/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/zoom-vs-microsoft-teams-vs-google-meet-how-do-they-compare/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/zoom-vs-microsoft-teams-vs-google-meet-how-do-they-compare/",
+      "publishedDateTime": "2020-05-04T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/06/5421c7e5-9019-4101-8d92-f7966483e308/thumbnail/1200x675/a5546cbafdf9ba30aa4ba323fd056569/20200403-roundtable-remote.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Zoom vs Microsoft Teams vs Google Meet: How do they compare?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-expectations-vs-execution-managing-your-cloud.md",
       "title": "Expectations vs execution: managing your cloud",
       "excerpt": "The promise and allure of cloud computing has always rested in its potential to lower costs, reduce management burdens, make organisations more resilient and allow them to innovate and scale-out faster.",
@@ -530,6 +691,50 @@
       ]
     },
     {
+      "path": "_news/2020-05-01-google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans.md",
+      "title": "Google rolls out new AI-powered product for banks processing PPP loans",
+      "excerpt": "The PPP Lending AI solution is designed for lending institutions that have been overwhelmed by loan applications from small businesses seeking COVID-19 pandemic relief.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
+      "publishedDateTime": "2020-05-01T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/04/4e268e10-4522-42b7-8bc2-bc8d2906ced3/thumbnail/1200x675/f8dfa2c860a8294900066251d8d4c6fe/computer-power-supply-unit.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google rolls out new AI-powered product for banks processing PPP loans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-designing-distributed-systems-using-nalsd-flashcards.md",
       "title": "Designing distributed systems using NALSD flashcards",
       "excerpt": "There are many ways to design distributed systems. One way involves growing systems organically—components are rewritten or redesigned as the system handles more requests. Another method starts with a proof of concept. Once the system adds value to the business, a second version is designed from the",
@@ -1023,196 +1228,6 @@
           "width": 817,
           "height": 545,
           "title": "Microsoft revenue beats as remote work boosts Teams",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-google-cloud-sees-huge-revenue-jump.md",
-      "title": "Google Cloud sees huge revenue jump",
-      "excerpt": "Google's parent company Alphabet has announced its latest financial results revealing that Google Cloud revenue increased by 52 percent to reach $2.78bn during the first quarter of this year. Revenue from the company's cloud computing division helped it beat Wall Street's revenue expectations during a time when Google's advertising business experienced a slowdown as a result of the coronavirus outbreak.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/google-cloud-sees-huge-revenue-jump",
-      "ampWebUrl": "https://www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
-      "publishedDateTime": "2020-04-29T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/f2noH8daNe2WNYuaTKbjxT-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google Cloud sees huge revenue jump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-synamedia-partners-with-google-cloud-on-video-network-offering.md",
-      "title": "Synamedia Partners With Google Cloud on Video Network Offering",
-      "excerpt": "Synamedia has announced a partnership with Google Cloud, expanding its video network portfolio with a new over-the-top (OTT) as-a-service offering. The partnership, which enhances service availability and scalability,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvtechnology.com/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
-      "publishedDateTime": "2020-04-29T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/nyqctXWHsEyvxvPW4b5Gxg-1200-80.jpg",
-          "width": 478,
-          "height": 269,
-          "title": "Synamedia Partners With Google Cloud on Video Network Offering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-explore-anthos-with-a-sample-deployment.md",
-      "title": "Explore Anthos with a sample deployment",
-      "excerpt": "Last week, we announced important updates to Anthos, our multi-cloud application management platform. Many of you reached out to find out how you could try Anthos, out today so we’re sharing the Anthos Sample Deployment on Google Cloud, a simple way to explore the platform and its components.Available",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/anthos/explore-anthos-with-a-sample-deployment/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Explore Anthos with a sample deployment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-optimize-dataproc-costs-using-vm-machine-type.md",
-      "title": "Optimize Dataproc costs using VM machine type",
-      "excerpt": "Dataproc is a fast, easy-to-use, fully managed cloud service for running managed open source, such as Apache Spark, Apache Presto, and Apache Hadoop clusters, in a simpler, more cost-efficient way. We hear that enterprises are migrating their big data workloads to the cloud to gain cost advantages with",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/optimize-dataproc-costs-using-vm-machine-type/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Optimize Dataproc costs using VM machine type",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-viva-las-vegas-with-our-latest-google-cloud-platform-region.md",
-      "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
-      "excerpt": "If you’re running in the cloud, more regions means being able to build reliable, fast applications that can serve your local customers. Today, we’re launching our newest Google Cloud Platform region in Las Vegas, bringing a fourth region to the western United States, the seventh nationally, and our global",
-      "heat": 182,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/infrastructure/google-clouds-las-vegas-region-is-now-open/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_las_vegas.jpg",
-          "width": 1999,
-          "height": 834,
-          "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
           "attribution": null
         }
       ],

@@ -2,6 +2,203 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-27-security-simplified-making-shielded-vm-the-default-for-compute-engine.md",
+      "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
+      "excerpt": "Last April we announced the general availability of Shielded VM—virtual machine instances that are hardened with a set of easily configurable security features to ensure that when your VM boots, it’s running a verified bootloader and kernel. To make it accessible to everyone, we offered Shielded VM at",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/security-simplified-making-shielded-vm-default-compute-engine/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_shielded_vms.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-see-how-dozens-rethinks-the-fintech-industry-with-the-help-of-google-maps-platform.md",
+      "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
+      "excerpt": "Editor’s note: Today’s post comes from Aritra Chakravarty, Founder and CEO of Dozens. Dozens is rethinking the banking industry using Google Maps Platform to help its customers change the way they spend and save money.When we started Dozens in 2018, we wanted to create a new kind of fintech startup.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/see-how-dozens-rethinks-fintech-industry-help-google-maps-platform/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Dozens_payments.png",
+          "width": 1308,
+          "height": 774,
+          "title": "See how Dozens rethinks the fintech industry with the help of Google Maps Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets.md",
+      "title": "COVID-19 Impact on Cloud Computing Market - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Impact on Cloud Computing Market \" 09 – Tables 24 – Figures 63 – Pages Request for PDF Brochure:  IT and ITES to witness growth during the forecast period within the global cloud market Coronavirus has pushed a majority of the IT enterprises to adopt the work from home model.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814",
+      "publishedDateTime": "2020-04-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code.md",
+      "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+      "excerpt": "Thanks to smartphones and their downsized keyboards, autocomplete has become a nearly ubiquitous feature of how we write these days. To save us precious seconds composing and (at least in my fat-thumbed case) correcting words,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "publishedDateTime": "2020-04-27T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1187635203.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes.md",
+      "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
+      "excerpt": "Multiplayer gaming has come alive on Google Stadia since it went free. We check out the multiplayer experience in several of Stadia's big games.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/04/27/social-distancing-is-over-on-google-stadia-as-free-tier-rescues-multiplayer-modes/amp/",
+      "publishedDateTime": "2020-04-27T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea6b217228117000681a7a3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-you-can-finally-change-your-ok-google-sensitivity-settings-heres-how.md",
       "title": "You can finally change your OK, Google sensitivity settings. Here's how",
       "excerpt": "Now your Google Home can. The search giant is officially rolling out new controls that let you adjust the sensitivity of your smart speaker to its wake word. That means you can fine-tune your Google Home ($49 at Walmart) or Nest devices to pick up \"Hey,",
@@ -1005,219 +1202,6 @@
           "width": 1200,
           "height": 801,
           "title": "Cisco and Google announce joint SD-WAN cloud hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub.md",
-      "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
-      "excerpt": "This latest integration is centered around Google Anthos, a platform launched last year for managing applications on premise or in any cloud environment. By tightly integrating Cisco SD-WAN services with Google Cloud and Anthos, the companies said they can offer a new turnkey, multicloud networking fabric called the Cisco SD-WAN Cloud Hub ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
-      "publishedDateTime": "2020-04-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/ce6814ff-ce69-44ef-b6a8-89993fd7e787/thumbnail/1200x675/90a7834e7d694a76c76eaaced038ebe8/istock-1092964846.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-modernize-enterprise-networking-with-cisco-sd-wan-and-google-cloud.md",
-      "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
-      "excerpt": "Enterprises are increasingly adopting hybrid and multi-cloud to deliver the best experiences for their customers. The network is at the foundation of this transformation, but is getting exponentially more complex to manage, secure, and scale throughout an enterprise footprint that can include multiple",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-forgerock-nabs-935m-for-its-id-management-platform-gears-up-next-for-an-ipo.md",
-      "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
-      "excerpt": "The company is today announcing that it has raised $93.5 million in funding, a Series E it will use to continue expanding its product and take it to its next step as a business, specifically investing in R&D, cloud services ... a time when our platform can consume decentralised identity, on par with logins from Google or Facebook today.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/forgerock-nabs-93-5m-for-its-id-management-platform-gears-up-next-for-an-ipo/amp/",
-      "publishedDateTime": "2020-04-21T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/4157483192_7b6e4b41e2_k.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn.md",
-      "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
-      "excerpt": "The survey also found that the gap between public cloud platform providers is closing with Google Cloud, Amazon Web Services, and Microsoft Azure each getting an equal share of votes as a preferred cloud provider. Tech leaders are looking for providers ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "publishedDateTime": "2020-04-20T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/20/7f41e818-d531-4993-9a76-4cba42ad6471/resize/1200x/5534a0088a1a141e343fc913e14c3a3d/opsramp-costcutting.jpg",
-          "width": 1200,
-          "height": 1148,
-          "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-in-pandemic-times.md",
-      "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
-      "excerpt": "RFIDs would also include the tokens needed to access our cloud-based medical history ... easy to enroll from a consumer experience perspective -- but it needs to have full platform integration for it to be completely seamless. If Apple and Google can cooperate on COVID-19 contact tracing, they can work on moving money around.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
-      "publishedDateTime": "2020-04-20T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/14/19c5dc91-c620-4112-b42e-86fba891b089/thumbnail/1200x675/85c560a226a9b6d969f608e96dd94cf6/istock-888701758.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
           "attribution": null
         }
       ],
