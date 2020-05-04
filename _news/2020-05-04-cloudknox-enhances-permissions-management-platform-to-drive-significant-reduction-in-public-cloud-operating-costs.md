@@ -22,6 +22,6 @@ images:
     height: 627
     title: "CloudKnox Enhances Permissions Management Platform to Drive Significant Reduction in Public Cloud Operating Costs"
 
-secured: "qw+FZH65NgzgrUdwWFz6lCfNC1OH5ARszEyzSfAChPb4ICxdRr+hMHX99scFAH1DeEjW6r8gy/9/W+7S3QasGxtGn15JXX5zSxUlMYZk/pO8QFMuTTiNoW+jvZtOODycsRZUWt9Ckc2nv2f5QMNJdm94UUQZXZ4tSI4fPGQI2wNNTF6IoeQ/OVgixtObtRhK6Klf6Qb35ZT9fnbYvODZezRrUYo6jA7t3RGZRS/xRRjda3bk0l9PYQIUiIO0gR+HqNNrV4ZMvEDS/IydKgUWwMyFW1W0NoW7MMMb/32Q0+otuUngKaDdUqHibyQkqnqV;ZeINTQoLgWCl5yt9176H2A=="
+secured: "QdliTGUy0sOKKCFZNtePA30kwQX8H4Qsh4w4Pwln/Qn9RiNBYoMWQKrw9+LhxqoLL/z+Nh/kwpS4TF+1UAUo/PjZEBLUoSXT3n08pdzNON4mG9EdoUYqFTu7ttmESqA+mcGClnAqK51fSf0qFzMrEX+7OrbRHqkTls3xvARi+fEE/qp6P0aRG0M3pb2EqXqb6PaPQgxZSMoXxdSE7u7AM2iICNyoLFTwRivz9h1AWLzK6pj+oaX+JR/AfOrEYh3E68lwRmHMhjxMAPq200I4955LHgd5Ca9Z2cWrsaP3FhXorogknhcEv9r/CubAXAbUB0w8i6hCIgbgzM8elto0HWVIc7Wc5w5YXsGIqvQASoXmPigqo2yBMkFyd6/Tpqg9NaRpPmoHw8VEROUowzSBgTZbI+sArB/pKUahJ2CjWg500MtYiC/fxAATddN+sQBzeqR1vGU/hqr7QMhIX+Idyj+m7qlhQOyjF7Y6YvZakHM=;+EYF4HDc+7pefK6BYaPefw=="
 ---
 

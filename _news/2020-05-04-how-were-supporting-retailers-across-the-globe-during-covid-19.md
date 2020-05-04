@@ -22,6 +22,6 @@ images:
     height: 1200
     title: "How we’re supporting retailers across the globe during COVID-19"
 
-secured: "fvH/HHmo6kkZ8qdWrNtD/Q3q4Bo39yhGfFR8w1MlLFO9GE/cH59fO4AJrjxZVrBhKHFSxPlFHCSZbCmSNme1Ns5BygTwrK9waBBQ/Wa9SqSVmQR3xkXzSMbsHPvwr5uqIAvikMcH9z7/9Ok1UyFARYtdpWML1df+PbrXuCY/PelZlk88N6TGP27oX//vHnBDkZIONIOgKF3WBu69dIOyVBs8zRDIj+MHRPauViIZ8tm2kFF7Q9XpNMl2EJDQRYKNaGaCOqEXt33BAuAw2sGbfY2fvGK90gb3y9Co/GG8ZGj2fr/k+S/ZANwHNTz+LDBmrZwrQ8Szd+UwxUR4C6hr9Q==;l4mMO+jYmV1c+ewwUo6Rhw=="
+secured: "haSSBWHbPyaQ3gEUlM+rsxvIAae3m8h7MPHPIj0+6ZpGJG4aBtHdlIsffsk9S85FNWN3lS+waLesasGlIgetM8ODwUVYP9bhUAMWAZ2OrFRl+wFej4TYpOaEaQsW9zEDZ6VgWKMRlkZjebqi9XQ4S678ABubBpVEUI56dv9Vc6qL039ILBWleWWnZKnUaKmmxp1xFtilu0Yj+RSyE5wAZRDdQCuOIE9+w5iA4gK3aypKNy6nTXOLwXJrAvQZyGiOslZR/s33tq3BB6wLkeypsGQS7QI4EPkgn5ZmbKUaYVfc/mjcRq9yhupPhoxkpQsQciix1KYKAHSVsgBl3kZ/lw==;j4zmRPjZpaaMVJL8xQpoNQ=="
 ---
 

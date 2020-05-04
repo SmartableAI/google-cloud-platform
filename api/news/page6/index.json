@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-04-15-private-access-with-serverless-managing-serverless-application-access-in-google-cloud-platform-gcp.md",
-      "title": "Private Access With Serverless — Managing Serverless Application Access in Google Cloud Platform (GCP)",
-      "excerpt": "Cloud Run and Google App Engine Flex (with custom runtime) have been my prime serverless choices in Google Cloud Platform (GCP). Both offer a high degree of flexibility — with the ability to deploy with any runtime due to its configuration dependency as a Dockerfile. App Engine has been made available as a commercial tool for a longer period ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/swlh/private-access-with-serverless-managing-serverless-application-access-in-google-cloud-platform-857c74bc55cd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*s3SfHFu0tszfPURFr9mOFQ.jpeg",
-          "width": 1200,
-          "height": 796,
-          "title": "Private Access With Serverless — Managing Serverless Application Access in Google Cloud Platform (GCP)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
       "path": "_news/2020-04-14-how-google-cloud-is-helping-global-governments-during-the-covid-19-pandemic-and-our-future-plans-to-work-with-the-public-sector.md",
       "title": "How Google Cloud is helping global governments during the COVID-19 pandemic, and our future plans to work with the public sector",
       "excerpt": "We are deeply committed to providing the public sector with the best technology to help improve government services and increase operational effectiveness, and we continue to work with government agencies to advocate for and contribute to the responsible and beneficial use of technology. Around the world,",
@@ -911,6 +867,50 @@
       "topics": [
         "Google Cloud",
         "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-google-cloud-releases-covid-19-data-sets-to-foster-coronavirus-fighting-ai-models.md",
+      "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
+      "excerpt": "The corpora within the COVID-19 Public Datasets program include the Johns Hopkins Center for Systems Science and Engineering (JHU CSSE) data set, Global Health Data from the World Bank, and OpenStreetMap data, all of which are stored for free on Google Cloud. (Google says it’ll reach out to organizations whose data sets are pre-selected for ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
+      "publishedDateTime": "2020-03-30T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
       ]
     }
   ],

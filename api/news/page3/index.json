@@ -469,42 +469,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-27-covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets.md",
-      "title": "COVID-19 Impact on Cloud Computing Market - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Impact on Cloud Computing Market \" 09 – Tables 24 – Figures 63 – Pages Request for PDF Brochure:  IT and ITES to witness growth during the forecast period within the global cloud market Coronavirus has pushed a majority of the IT enterprises to adopt the work from home model.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814",
-      "publishedDateTime": "2020-04-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
       "path": "_news/2020-04-27-codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code.md",
       "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
       "excerpt": "Thanks to smartphones and their downsized keyboards, autocomplete has become a nearly ubiquitous feature of how we write these days. To save us precious seconds composing and (at least in my fat-thumbed case) correcting words,",
@@ -981,6 +945,50 @@
           "width": 2200,
           "height": 917,
           "title": "How TELUS International got employees back to work with virtual desktops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-stadia-gains-users-after-giving-free-access-for-two-months.md",
+      "title": "Google Stadia gains users after giving free access for two months",
+      "excerpt": "Google’s cloud-based game, Stadia, has witnessed a surge in users after the tech giant gifted two months of free access to its premium version for gamers sheltering at home to curb the spread of the coronavirus.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-google-stadia-idUSKCN224386",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN224386",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN224386",
+      "publishedDateTime": "2020-04-22T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200422&t=2&i=1516080494&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3L24Y",
+          "width": 850,
+          "height": 545,
+          "title": "Google Stadia gains users after giving free access for two months",
           "attribution": null
         }
       ],

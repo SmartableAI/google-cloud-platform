@@ -2,43 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-02-18-new-amd-epyc-based-compute-engine-family-now-in-beta.md",
-      "title": "New AMD EPYC-based Compute Engine family, now in beta",
-      "excerpt": "At Google Cloud, we want you to be able to choose the best VMs for your workloads. Today, we’re excited to announce a new addition to our general purpose VMs: the N2D family, built atop 2nd Gen AMD EPYC™ Processors. N2D VMs are a great option for both general-purpose workloads and workloads that require",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/announcing-the-n2d-vm-family-based-on-amd/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/announcing-the-n2d-vm-family-based-on-amd/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/announcing-the-n2d-vm-family-based-on-amd/amp/",
-      "publishedDateTime": "2020-02-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_compute.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "New AMD EPYC-based Compute Engine family, now in beta",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
       "path": "_news/2020-02-14-taking-a-practical-approach-to-bigquery-slot-usage-analysis.md",
       "title": "Taking a practical approach to BigQuery slot usage analysis",
       "excerpt": "Google BigQuery is a fully managed serverless solution for your enterprise data warehouse workloads. Nothing could be easier than that: Just upload your data via batch or streaming and start running your queries. The underlying system will seamlessly take care of providing the infrastructural resources",
@@ -917,6 +880,43 @@
           "width": 2880,
           "height": 1200,
           "title": "Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-google-cloud-and-phoenix-labs-dauntless-in-the-face-of-demand-spikes.md",
+      "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
+      "excerpt": "In the role-playing video game Dauntless, players work in groups to battle monsters and protect the city-island of Ramsgate. Commitment reaps big rewards: with every beast slayed, you earn new weapons and armor made of the same materials as the Behemoth you took down, strengthening your arsenal for the",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/google-cloud-helped-phoenix-labs-meet-demand-for-dauntless/amp/",
+      "publishedDateTime": "2020-01-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/dauntless-artwork_stormchasers_illustration-fullsize.jpg",
+          "width": 4190,
+          "height": 2160,
+          "title": "Google Cloud and Phoenix Labs: Dauntless in the face of demand spikes",
           "attribution": null
         }
       ],

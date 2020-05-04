@@ -8,8 +8,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/covid-19-impact-on-clou
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covid-19-impact-on-cloud-computing-market-exclusive-report-by-marketsandmarkets-1029133814"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Business Insider
@@ -36,15 +36,6 @@ related:
       - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
         width: 666
         height: 350
-  - title: "Early Impacts of COVID-19 on Cloud Applications Market - Exclusive Report by MarketsandMarkets"
-    excerpt: "North America is the home to the leading cloud applications vendors, including Microsoft, Salesforce, Oracle, Google, Workday, Adobe, and IBM, making it contribute a larger share in the cloud applications revenue. Other factors driving the adoption of the cloud technology in this region include reduced costs, improved infrastructure efficiency ..."
-    publishedDateTime: 2020-04-15T00:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-04/49373591-early-impacts-of-covid-19-on-cloud-applications-market-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "1SLcaqKsZe6ofMHK23bUsBKcKbGTm6egxIauk3doGXgyDepFeo4XtFI7Ez/ZiOzgyXdyoAEGr9Yx8SLuwss14NbvWrz0SJRxlsvlC/MWRCnlRNdz1YG/P1VCrl3EHNh6umJF5jLW2JehdWMLZSS5qTRBC+yDUNOLwFxoXIziiXfkHQZDMxeNVPXc8yomo1dbIb6TNYOs4lhBlGkHZ1uuqSMA1wjJRFqza41jRIWN/FhUNFnF4bcSffCWiUDRqChTh6kwfClGSkDtterd5Ztt7yLIV+9bjkrkHBs1mC8qkEpPB1OwlTgjs4wkvXXRrnny;bMWUujHpKz0xfgHMSJRbbw=="
 ---

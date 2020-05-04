@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-03-30-google-cloud-releases-covid-19-data-sets-to-foster-coronavirus-fighting-ai-models.md",
-      "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
-      "excerpt": "The corpora within the COVID-19 Public Datasets program include the Johns Hopkins Center for Systems Science and Engineering (JHU CSSE) data set, Global Health Data from the World Bank, and OpenStreetMap data, all of which are stored for free on Google Cloud. (Google says it’ll reach out to organizations whose data sets are pre-selected for ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/google-launches-covid-19-public-datasets-program-to-foster-coronavirus-fighting-ai-models/amp/",
-      "publishedDateTime": "2020-03-30T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Cloud releases COVID-19 data sets to foster coronavirus-fighting AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
       "path": "_news/2020-03-30-covid-19-public-dataset-program-making-data-freely-accessible-for-better-public-outcomes.md",
       "title": "COVID-19 public dataset program: Making data freely accessible for better public outcomes",
       "excerpt": "Data always plays a critical role in the ability to research, study, and combat public health emergencies, and nowhere is this more true than in the case of a global crisis. Access to data sets—and tools that can analyze that data at cloud scale—are increasingly essential to the research process, and",
@@ -959,6 +915,42 @@
           "width": 2880,
           "height": 1200,
           "title": "How EBSCO delivers dynamic research services with Apigee",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce.md",
+      "title": "Best practices for Chrome Enterprise admins to enable a remote workforce",
+      "excerpt": "As more businesses consider how to enable their teams to work remotely, IT admins are increasingly thinking through how to best support a distributed workforce. Earlier this week we shared some tips and best practices, but if you’re an admin that uses Chromebooks or Chrome Browser in your environment,",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/chrome-enterprise/best-practices-for-chrome-enterprise-admins-to-enable-a-remote-workforce/amp/",
+      "publishedDateTime": "2020-03-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/chrome_enterprise_wfh.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for Chrome Enterprise admins to enable a remote workforce",
           "attribution": null
         }
       ],

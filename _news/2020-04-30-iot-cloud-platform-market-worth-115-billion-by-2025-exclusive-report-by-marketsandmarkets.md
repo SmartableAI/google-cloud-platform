@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
-  - title: "Early Impacts of COVID-19 on Cloud Applications Market - Exclusive Report by MarketsandMarkets"
-    excerpt: "North America is the home to the leading cloud applications vendors, including Microsoft, Salesforce, Oracle, Google, Workday, Adobe, and IBM, making it contribute a larger share in the cloud applications revenue. Other factors driving the adoption of the cloud technology in this region include reduced costs, improved infrastructure efficiency ..."
-    publishedDateTime: 2020-04-15T00:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-04/49373591-early-impacts-of-covid-19-on-cloud-applications-market-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "kS5DhrXTaH9YSZ+1BGY/UlNhB41YtalbKDzDcMXkhtsZmW3wOG1FpQNT34bZqJgUSFCQippN8JgTI54DYu5phCA/cTihz4HTem+q6zalmRbljkJsHlMUHKS0BMQDMw3aOP8cqSFG1aeAxmVs80hriUfdzlzKIuEE0qkGJ6NVs8MsyHtMsE/i0rCNPQv+R6+QAswlmHkwk6pBVN5W5POc4Dtq9c1j3BK7Mn/vabAXa2yZ+2yWkPCvtrw/53w3fmnjD04GM3xV5F0HgV+Q0vf4SAkdhg1EAw+am25Kz+c5xkxpdE60KkHkgjzJ6ebWrqAX9sUmhFGW9/dqY0j/Ou3lSxf4wFiHSF74W2/LQNeIhwPZ2lyacREcQx8kklHVd7l+eMtIB8IESqSXg86f4Wkm4zJtcwn2NUUCbe94GG7cjk/GNxQm/XNUmtjptFtIVqIpRv6aySi2Y+fBShskaw13AQfkAc/O4hpdtIQsA4EQUz0=;51S2YGmrH+6jthy7zFVXIQ=="
 ---
