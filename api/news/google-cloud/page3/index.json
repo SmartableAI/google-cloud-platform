@@ -2,6 +2,80 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-27-your-top-network-performance-problems-and-how-to-fix-them.md",
+      "title": "Your top network performance problems and how to fix them",
+      "excerpt": "Got network trouble, and don’t know where to start? Whether you’re trying to troubleshoot a performance problem or understand your network performance in order to make optimal deployment decisions, Google Cloud has a comprehensive set of tools for network monitoring, verification and optimization. With",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/your-top-network-performance-problems-and-how-to-fix-them/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Your top network performance problems and how to fix them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-explaining-model-predictions-on-image-data.md",
+      "title": "Explaining model predictions on image data",
+      "excerpt": "Editor's note: This is the second blog post in a series covering how to use AI Explanations with different data types. The first post explained how to use Explainable AI with tabular data.As machine learning technology continues to improve and models become increasingly accurate, we’re using ML to solve",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/explaining-model-predictions-on-image-data/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_explainable_ai.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Explaining model predictions on image data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-security-simplified-making-shielded-vm-the-default-for-compute-engine.md",
       "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
       "excerpt": "Last April we announced the general availability of Shielded VM—virtual machine instances that are hardened with a set of easily configurable security features to ensure that when your VM boots, it’s running a verified bootloader and kernel. To make it accessible to everyone, we offered Shielded VM at",
@@ -1131,94 +1205,6 @@
       "topics": [
         "Google Cloud",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-cisco-and-google-announce-joint-sd-wan-cloud-hub.md",
-      "title": "Cisco and Google announce joint SD-WAN cloud hub",
-      "excerpt": "The multicloud network fabric helps facilitate application use across the enterprise and improve customer experience. Cisco and Google announced on Tuesday the release of its industry-first SD-WAN cloud hub. The application-focused multicloud networking fabric will guarantee applications and networks have shared service-level agreement settings ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-and-google-announce-joint-sd-wan-cloud-hub/",
-      "publishedDateTime": "2020-04-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/28/5d70ba10-7e3a-4376-be18-e1ab8a6a6fab/resize/1200x/e0fad44feb704990a94da5b15f28c698/istock-1140300211.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Cisco and Google announce joint SD-WAN cloud hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub.md",
-      "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
-      "excerpt": "This latest integration is centered around Google Anthos, a platform launched last year for managing applications on premise or in any cloud environment. By tightly integrating Cisco SD-WAN services with Google Cloud and Anthos, the companies said they can offer a new turnkey, multicloud networking fabric called the Cisco SD-WAN Cloud Hub ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
-      "publishedDateTime": "2020-04-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/ce6814ff-ce69-44ef-b6a8-89993fd7e787/thumbnail/1200x675/90a7834e7d694a76c76eaaced038ebe8/istock-1092964846.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

@@ -2,6 +2,81 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2019-10-30-cloud-storage-data-protection-that-fits-your-business.md",
+      "title": "Cloud storage data protection that fits your business",
+      "excerpt": "As you’re moving apps and workloads to the cloud, you’ll have new options for data storage. It’s just as important to keep your data safe in the cloud as it was on-premises, though. We’ve recently released several enhancements to Persistent Disk that offer more options for keeping your disks available",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/cloud-storage-data-protection-that-fits-your-business/amp/",
+      "publishedDateTime": "2019-10-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1167,
+          "title": "Cloud storage data protection that fits your business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2019-10-29-app-engine-java-11-is-gadeploy-a-jar-scale-it-all-fully-managed.md",
+      "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+      "excerpt": "Attention, Java developers. If you want to build modern Java backends, use modern frameworks, or use the latest language features of Java 11, know that you can now deploy and scale your Java 11 apps in App Engine with ease. We’re happy to announce that the App Engine standard environment Java 11 runtime",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "publishedDateTime": "2019-10-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppEngine.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_news/2019-10-29-bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration.md",
       "title": "Bring Your Own IP addresses: the secret to Bitly’s shortened cloud migration",
       "excerpt": "Enterprises want to move their applications to the cloud, but worry about having to swap their IP addresses for ones from their cloud provider. We hear from our customers that managing the migration of IP addresses can be one of the most challenging aspects of a cloud migration for network administrators.Here",

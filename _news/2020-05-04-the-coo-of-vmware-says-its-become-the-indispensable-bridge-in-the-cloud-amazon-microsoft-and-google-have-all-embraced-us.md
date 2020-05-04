@@ -26,6 +26,6 @@ images:
     height: 600
     title: "The COO of VMware says it's become 'the indispensable bridge' in the cloud: Amazon, Microsoft and Google 'have all embraced us'"
 
-secured: "ifQF5qHz6dvqxZiq8BVaAN5ByYG0BkGiUo/8bJ5QA+kMIhkE6Lg4RpG3qTasRtwRFr7u+8L4VGj6mYt8UQvQYvTBzg3I3MdtvhJdBthO1haSyEOtTSAK+KSYz7POWFqu5KJ3VDrskmAiiYqxHV4JF2ZIg7N/gZF/c4NEwyHOIA4r0DhbEe9VQESrAeCEpVhC/q/88u8yUUvjdfinvKSPzjRxZ4ci6nKuFQOGL1Fol9NK9hXnXgN6pTpN8vguEmN/L+qWhDAR4jhtOOMkRkX5nGGzICVxYxqxJXG/Xs+34wMp6KWUxC84A4oyDQK5crrR;4jH0FE8Nxz2w+XV7vZQ87Q=="
+secured: "wuOxf6+LHoRNXlu/9f374n5G3jthSAi5JbHCJy8KZiz1IT0VFod1dvfc4ZYOv6bISdOUsFzRJAem7Q7JErl9bjFfnlrWFW5oEoKJsHh9Bz7HJfT5hMRh6RNabAZ3kZI9jB7VR6RvQ0rPTschzpClw6beVry1PU67o6EmUjZTv3lrmoPbnFOTb70gLuu5PhXFp9wdPU7LPciUkVNJmUGWCbFH6NPmUqaQXYgrCh2m8U/11kfY22LHVvts5mLc907kEG2F1JfcqQxwSw6eCrZfFi4/oeynmixwB9m7CeTzG5En4lE/SoG9uEs/fJycQvQG3yMiEp6t68+FWpfDO2YuhXi7WnRrZ/BqKL+GUZqCc1Vuk3fXeD5/IDanraDHV3nEhb37TTG/jtVsF46DjoolYrtrPPNB/SB6Gwa2lcQHIU1kuCwE2Fn3+Lw0LMcjPCY8jt3puXCnHWp0oXts+Sf49BBjNTyELpXlA7F4vPry5CQ=;aws/MJil/JOtpJBPxYVOwA=="
 ---
 

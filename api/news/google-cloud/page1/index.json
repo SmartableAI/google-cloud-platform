@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-04-how-to-record-video-meetings-on-zoom-google-meet-and-skype.md",
+      "title": "How to record video meetings on Zoom, Google Meet, and Skype",
+      "excerpt": "People are doing a lot more video conferencing now that they’re stuck at home due to the COVID-19 pandemic. These sessions can be a great way to stay in touch with friends and family, conduct business with colleagues,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/21243516/video-call-record-how-to-meeting-conference-zoom-google-skype",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/21243516/video-call-record-how-to-meeting-conference-zoom-google-skype",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21243516/video-call-record-how-to-meeting-conference-zoom-google-skype",
+      "publishedDateTime": "2020-05-04T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/YmBoozOARLHZoieUlvOdtVxvC_0=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66749718/bfarsace_200407_3962_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "How to record video meetings on Zoom, Google Meet, and Skype",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
+      "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+      "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "publishedDateTime": "2020-05-04T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-how-google-cloud-helped-scaling-out-one-persons-ai-serviceand-his-life.md",
       "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
       "excerpt": "AI Gahaku (AI master painter): built by Sato with Firebase, Cloud Run, and Google Colab. One million users are enjoying the tool everyday.Editor's note: This is a post by Kaz Sato from Google based on an interview with Sato (@sato_neet), an individual developer. It's confusing that we have similar names,",
@@ -207,50 +295,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
-      "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
-      "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "publishedDateTime": "2020-05-04T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
       "path": "_news/2020-05-04-hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments.md",
       "title": "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments",
       "excerpt": "HPE GreenLake Central is the as-a-service layer to its GreenLake platform, which has more than 800 customers globally.",
@@ -386,7 +430,7 @@
       "path": "_news/2020-05-03-rings-video-doorbell-3-plus-takes-a-run-at-googles-nest-hello.md",
       "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
       "excerpt": "Ring's Video Doorbell 3 Plus, first announced on March 11 -- which feels like a very long time ago amid the coronavirus pandemic and resulting quarantine -- is available now at Best Buy and other online retailers,",
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/reviews/ring-video-doorbell-3-plus-review/",
@@ -679,6 +723,50 @@
           "width": 1440,
           "height": 800,
           "title": "Facebook finally brings its Google Photos transfer tool to the US",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-to-easily-move-your-photos-from-facebook-to-google-photos.md",
+      "title": "How to easily move your photos from Facebook to Google Photos",
+      "excerpt": "Sick of having your shared photos scattered hither and yon? Facebook and Google, in a first step to making photo transfer easier, have made it possible to copy your photos and videos from Facebook to Google Photos.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/how-to-move-your-photos-from-facebook-to-google-photos/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-move-your-photos-from-facebook-to-google-photos/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-move-your-photos-from-facebook-to-google-photos/",
+      "publishedDateTime": "2020-05-01T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/01/49274fbb-68de-4d87-8d60-abd0832bb2de/facebook-information.jpg",
+          "width": 720,
+          "height": 430,
+          "title": "How to easily move your photos from Facebook to Google Photos",
           "attribution": null
         }
       ],
@@ -1156,87 +1244,6 @@
       "topics": [
         "Google Cloud",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-whats-happening-in-bigquery-efficient-new-views-and-cloud-ai-integrations.md",
-      "title": "What’s happening in BigQuery: Efficient new views and Cloud AI integrations",
-      "excerpt": "BigQuery, Google Cloud’s petabyte-scale data warehouse, lets you ingest and analyze data quickly and with high availability, so you can find new insights, trends, and predictions to efficiently run your business. Our engineering team is continually making improvements to BigQuery so you can get even",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/materialized-views-ml-models-in-data-warehouse/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_5I5zzaa.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "What’s happening in BigQuery: Efficient new views and Cloud AI integrations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-microsoft-revenue-beats-as-remote-work-boosts-teams.md",
-      "title": "Microsoft revenue beats as remote work boosts Teams",
-      "excerpt": "Microsoft Corp on Wednesday beat Wall Street sales and profit expectations, powered by sharp demand for its Teams chat and online meeting app and Xbox gaming services as the world shifted to working and playing from home because of the novel coronavirus pandemic.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-microsoft-results-idUSKBN22B34B",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22B34B",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B34B",
-      "publishedDateTime": "2020-04-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223",
-          "width": 817,
-          "height": 545,
-          "title": "Microsoft revenue beats as remote work boosts Teams",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],
