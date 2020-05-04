@@ -2,6 +2,86 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-google-cloud-sees-huge-revenue-jump.md",
+      "title": "Google Cloud sees huge revenue jump",
+      "excerpt": "Google's parent company Alphabet has announced its latest financial results revealing that Google Cloud revenue increased by 52 percent to reach $2.78bn during the first quarter of this year. Revenue from the company's cloud computing division helped it beat Wall Street's revenue expectations during a time when Google's advertising business experienced a slowdown as a result of the coronavirus outbreak.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/google-cloud-sees-huge-revenue-jump",
+      "ampWebUrl": "https://www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
+      "publishedDateTime": "2020-04-29T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/f2noH8daNe2WNYuaTKbjxT-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Cloud sees huge revenue jump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-synamedia-partners-with-google-cloud-on-video-network-offering.md",
+      "title": "Synamedia Partners With Google Cloud on Video Network Offering",
+      "excerpt": "Synamedia has announced a partnership with Google Cloud, expanding its video network portfolio with a new over-the-top (OTT) as-a-service offering. The partnership, which enhances service availability and scalability,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvtechnology.com/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "publishedDateTime": "2020-04-29T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nyqctXWHsEyvxvPW4b5Gxg-1200-80.jpg",
+          "width": 478,
+          "height": 269,
+          "title": "Synamedia Partners With Google Cloud on Video Network Offering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-explore-anthos-with-a-sample-deployment.md",
       "title": "Explore Anthos with a sample deployment",
       "excerpt": "Last week, we announced important updates to Anthos, our multi-cloud application management platform. Many of you reached out to find out how you could try Anthos, out today so we’re sharing the Anthos Sample Deployment on Google Cloud, a simple way to explore the platform and its components.Available",
@@ -964,86 +1044,6 @@
           "width": 1200,
           "height": 675,
           "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-this-analyst-thinks-cloud-stocks-are-overvalued-is-he-right.md",
-      "title": "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?",
-      "excerpt": "Follow @tmfbowman If you think cloud stocks are overvalued, you're not alone. JPMorgan Chase analyst Mark Murphy slashed his ratings on a number of well-known SaaS (software-as-a-service) companies  -- Alteryx (NYSE:AYX),",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx",
-      "publishedDateTime": "2020-04-27T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/c4900b39802be3daf7670618fa458d90.png",
-          "width": 720,
-          "height": 386,
-          "title": "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-6-new-device-data-and-user-controls-to-help-g-suite-customers-stay-secure.md",
-      "title": "6 new device, data, and user controls to help G Suite customers stay secure",
-      "excerpt": "At G Suite, we know that there’s a new reality facing many IT admins: with an increasingly remote workforce, you’re balancing priorities from business leaders focused on meeting business goals and your CISO focused on security, all while keeping your users online and productive. You’re doing you best,",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/6-new-controls-to-help-g-suite-customers-stay-secure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security-identity-04.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "6 new device, data, and user controls to help G Suite customers stay secure",
           "attribution": null
         }
       ],

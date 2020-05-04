@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-04-expectations-vs-execution-managing-your-cloud.md",
+      "title": "Expectations vs execution: managing your cloud",
+      "excerpt": "The promise and allure of cloud computing has always rested in its potential to lower costs, reduce management burdens, make organisations more resilient and allow them to innovate and scale-out faster.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/cloud/355529/expectations-vs-execution-managing-your-cloud",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/355529/expectations-vs-execution-managing-your-cloud?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/355529/expectations-vs-execution-managing-your-cloud?amp",
+      "publishedDateTime": "2020-05-04T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588591863/Cloud_question.jpg",
+          "width": 5616,
+          "height": 3744,
+          "title": "Expectations vs execution: managing your cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
+      "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+      "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "publishedDateTime": "2020-05-04T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments.md",
       "title": "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments",
       "excerpt": "HPE GreenLake Central is the as-a-service layer to its GreenLake platform, which has more than 800 customers globally.",
@@ -1125,94 +1213,6 @@
           "width": 1999,
           "height": 834,
           "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-oracle-launches-cloud-e3-platform-built-on-second-gen-amd-epyc-processors.md",
-      "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
-      "excerpt": "Oracle on Wednesday launched the Oracle Cloud Infrastructure Compute E3 platform, a new family of bare metal and standard instances powered by AMD's 2nd Gen Epyc processors. With the high core count and memory bandwidth delivered by the AMD chips,",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "publishedDateTime": "2020-04-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/10/25/93c8b76a-bd36-484e-82b6-7e8530b0aaca/thumbnail/1200x675/57ac64ca97ef5bec30bc41af38b3d033/20191025-steph-karen-oracle.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-google-makes-meet-video-conferencing-free-to-all-users-challenging-zoom.md",
-      "title": "Google makes Meet video conferencing free to all users, challenging Zoom",
-      "excerpt": "Alphabet Inc's Google on Wednesday said any user will soon be able to host free video conferences on Meet, turning its previously business-only tool into a bigger rival to Zoom and others battling for users during the coronavirus outbreak.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-alphabet-google-conferencing-idUSKBN22B1AX",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22B1AX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B1AX",
-      "publishedDateTime": "2020-04-29T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516848289&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S0NZ",
-          "width": 848,
-          "height": 545,
-          "title": "Google makes Meet video conferencing free to all users, challenging Zoom",
           "attribution": null
         }
       ],

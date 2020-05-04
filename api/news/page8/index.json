@@ -2,6 +2,80 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-09-compute-engine-instance-creation-made-easy-with-machine-images.md",
+      "title": "Compute Engine instance creation made easy with machine images",
+      "excerpt": "Today, we’re pleased to introduce machine images, a new type of Compute Engine resource that contains all the information you need to create, backup or restore a virtual machine, reducing the amount of time you spend managing your environment.If you administer applications that run on Compute Engine,",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/compute-engine-gets-machine-images/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/compute-engine-gets-machine-images/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/compute-engine-gets-machine-images/amp/",
+      "publishedDateTime": "2020-03-09T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Management_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Compute Engine instance creation made easy with machine images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-architecting-multi-region-database-disaster-recovery-for-mysql.md",
+      "title": "Architecting multi-region database disaster recovery for MySQL",
+      "excerpt": "Enterprises expect extreme reliability of the database infrastructure that’s accessed by their applications. Despite your best intentions and careful engineering, database errors happen, whether that’s machine crashes or network partitioning. Good planning can help you stay ahead of problems and recover",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/disaster-recovery-for-mysql/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/disaster-recovery-for-mysql/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/disaster-recovery-for-mysql/amp/",
+      "publishedDateTime": "2020-03-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Architecting multi-region database disaster recovery for MySQL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-create-deployment-pipelines-for-your-gke-workloads-in-a-few-clicks.md",
       "title": "Create deployment pipelines for your GKE workloads in a few clicks",
       "excerpt": "With Kubernetes becoming the de facto standard for container orchestration, many development teams are looking to build, test, and deploy code quickly in a frictionless manner to Kubernetes. Traditional continuous integration and continuous delivery (CI/CD) tools not designed for cloud-native environments",
@@ -853,80 +927,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-bigquery-under-the-hood-how-zone-assignments-work.md",
-      "title": "BigQuery under the hood: How zone assignments work",
-      "excerpt": "BigQuery is a serverless, highly scalable, and cost-effective cloud data warehouse. It’s designed to be flexible and easy to use. There are lots of interesting features and design decisions made when creating BigQuery, and we’ll dive into how zone assignments work in this post. Like other Google Cloud",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/how-bigquery-zone-assignments-work/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/how-bigquery-zone-assignments-work/amp/",
-      "publishedDateTime": "2020-02-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "BigQuery under the hood: How zone assignments work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-exploring-container-security-run-what-you-trust-isolate-what-you-dont.md",
-      "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
-      "excerpt": "From vulnerabilities to cryptojacking to well, more cryptojacking, there were plenty of security events to keep container users on their toes throughout 2019. With Kubernetes being used to manage most container-based environments (and increasingly hybrid ones too), it’s no surprise that Forrester Research,",
-      "heat": 133,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers/amp/",
-      "publishedDateTime": "2020-02-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548e_Container_security_full.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Exploring Container Security: Run what you trust; isolate what you don’t",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

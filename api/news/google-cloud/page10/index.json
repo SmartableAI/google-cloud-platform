@@ -2,6 +2,73 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-10-29-app-engine-java-11-is-gadeploy-a-jar-scale-it-all-fully-managed.md",
+      "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+      "excerpt": "Attention, Java developers. If you want to build modern Java backends, use modern frameworks, or use the latest language features of Java 11, know that you can now deploy and scale your Java 11 apps in App Engine with ease. We’re happy to announce that the App Engine standard environment Java 11 runtime",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/app-engine-java-11-is-ga-deploy-a-jar-scale-it-all-fully-managed/amp/",
+      "publishedDateTime": "2019-10-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppEngine.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-10-29-bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration.md",
+      "title": "Bring Your Own IP addresses: the secret to Bitly’s shortened cloud migration",
+      "excerpt": "Enterprises want to move their applications to the cloud, but worry about having to swap their IP addresses for ones from their cloud provider. We hear from our customers that managing the migration of IP addresses can be one of the most challenging aspects of a cloud migration for network administrators.Here",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/bring-your-own-ip-addresses-the-secret-to-bitlys-shortened-cloud-migration/amp/",
+      "publishedDateTime": "2019-10-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2019-10-21-leave-no-database-behind-with-cloud-sql-for-sql-server.md",
       "title": "Leave no database behind with Cloud SQL for SQL Server",
       "excerpt": "At Google Cloud, we develop our database services to meet the needs of enterprise teams wherever they are in their cloud journey. We’re excited today to announce the beta launch of Cloud SQL for SQL Server and make it available to all of our customers. This addition to our database lineup means you can",

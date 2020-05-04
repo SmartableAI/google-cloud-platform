@@ -2,6 +2,80 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-28-10-top-tips-unleash-your-bigquery-superpowers.md",
+      "title": "10 top tips: Unleash your BigQuery superpowers",
+      "excerpt": "Lots of us are already tech heroes by day. If you know SQL, for example, you’re a hero.You have the power to transform data into insights. You can save the day when someone in need comes to you to reveal the magic numbers they can then use in their business proposals. You can also amaze your colleagues",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/amp/",
+      "publishedDateTime": "2020-01-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GOOGLE_GCP_BANNER_2A.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "10 top tips: Unleash your BigQuery superpowers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-unify-kubernetes-and-gcp-resources-for-simpler-and-faster-deployments.md",
+      "title": "Unify Kubernetes and GCP resources for simpler and faster deployments",
+      "excerpt": "Adopting containers and Kubernetes means adopting new ways of doing things, not least of which is how you configure and maintain your resources. As a declarative system, Kubernetes allows you to express your intent for a given resource, and then creates and updates those resources using continuous reconciliation.",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/amp/",
+      "publishedDateTime": "2020-01-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes_tLRY5pW.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Unify Kubernetes and GCP resources for simpler and faster deployments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-exploring-an-apache-kafka-to-pubsub-migration-major-considerations.md",
       "title": "Exploring an Apache Kafka to Pub/Sub migration: Major considerations",
       "excerpt": "The fastest way to migrate a business application into Google Cloud is to use the lift and shift strategy—and part of that transition is migrating any OSS, or third-party services that the application uses. But sometimes it can be more efficient and beneficial to leverage Google Cloud services instead. One",
@@ -1039,81 +1113,6 @@
       "topics": [
         "Google Cloud",
         "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-12-10-8-production-ready-features-youll-find-in-cloud-run-fully-managed.md",
-      "title": "8 production-ready features you’ll find in Cloud Run fully managed",
-      "excerpt": "Since we launched Cloud Run at Google Cloud Next in April, developers have discovered that “serverless” and “containers” run well together. With Cloud Run, not only do you benefit from fully managed infrastructure, up and down auto-scaling, and pay-as-you-go pricing, but you’re also able to package your",
-      "heat": 151,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/a-developers-guide-to-new-features-in-cloud-run/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
-      "publishedDateTime": "2019-12-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run_blog.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "8 production-ready features you’ll find in Cloud Run fully managed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-12-10-packet-mirroring-visualize-and-protect-your-cloud-network.md",
-      "title": "Packet Mirroring: Visualize and protect your cloud network",
-      "excerpt": "As networks grow in complexity, network and security administrators need to be able to analyze and monitor network traffic to respond to security breaches and attacks. However, in public cloud environments, getting access to network traffic can be challenging.Many customers use advanced security and",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/packet-mirroring-visualize-and-protect-your-cloud-network/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/packet-mirroring-visualize-and-protect-your-cloud-network/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/packet-mirroring-visualize-and-protect-your-cloud-network/amp/",
-      "publishedDateTime": "2019-12-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_networking.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Packet Mirroring: Visualize and protect your cloud network",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],
