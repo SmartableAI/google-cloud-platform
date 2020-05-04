@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Google once considered acquiring Zoom because 'several thousand' employees preferred it to Google's own product"
 
-secured: "4Dnc1t2hdRTMu1S3Lp2KU8/Z6iP/W6vv07gn5SWNVSdC4LRXH55yq0j2e39dQ6NX0rpyiP3QwgRMzgadEQdxsIIrY+l+KA1T7NU9aJPEHTTy74M/6s9z/WhLS6MEJSE5X54VBYra+vO5Bts/LqI/iK8+iPkIQRTGfvBn2/jPVM+HJopYitYAhLD4w2j3uGy4lrClRjdMv1w+dPjH14n5s+6tkb+zQK0rq8CtVOc46SSb/iqdWHpdGmjd7/cjcTmJ9yLkh9C89beV6vwSy+hb4wH74s97VpRbHU8uyn6L0F2aKMzkBWciPP8fCrLyQdrw;eKIGhZNKClnNw/qnE40Z0A=="
+secured: "avgYipkHfYCqdzipJ0IQCmATtICYsRywmYcQNgpEGMu1Elf6/oH3xzMgB1YSmaJs5A1/FL3eTIO6VJpwtvzS34/c2wJYV+mrpU3gHsAK2ZIQDTkiX1PwfaaoJj0MggJR4gXuCpxiUm2gVXqrZRCof0G0UjfYLYyLcaepYaSRbykVgSs8UmXG/02RdKodhjGa8O7RbuWLotemDV/hWiQulZTrD1zZI6vSqn59IdbYmYBx+/EN6XVupeKbB58mf5F0EE3NjzJw0s/Voi4lq3hhOeS7TtRGKs/dYUQjn685MSU4QNpLz1/uRWeURZ5VQdS6PKmf1PyB+UIF1Fy8ZefOnr+gNScfl1UBlVkeZyjL7o7yf+OTQpSfmOVyghgvVKHBS66FZujh6qzZCi9cQiBt1LJXavOVz8qT0Mqv96Z5tKKVvEVI0/WI4vfBd7hJQEDpPGj3HVh6gIXAmf2eixErKnGVO+pHLrOd5mybxGbZq6k=;6oO/EIjGwDhJgjqbayF7mw=="
 ---
 
