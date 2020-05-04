@@ -2,6 +2,94 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-20-google-launches-cloud-healthcare-api-in-general-availability.md",
+      "title": "Google launches Cloud Healthcare API in general availability",
+      "excerpt": "As Google notes, even in the best of circumstances, collating healthcare data is often a challenge for health care and life science organizations. The API, then, enables providers to interact with data using endpoints and health plans, providing them a platform that scales and supports interoperability and patient access. Cloud Healthcare API ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/google-launches-cloud-healthcare-api-in-general-availability/amp/",
+      "publishedDateTime": "2020-04-20T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google launches Cloud Healthcare API in general availability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn.md",
+      "title": "Google rolls out BeyondCorp for secure remote network access without a VPN",
+      "excerpt": "With the number of employees working at home exploding during coronavirus lockdowns, Google is rolling out a new security service designed to allow remote access of internal systems without using a virtual private network. BeyondCorp Remote Access is a cloud-based security product based on a system that Google originally built for internal use ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/amp/",
+      "publishedDateTime": "2020-04-20T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/pasted-image-0-6-1-e1587375342626.png?fit=1414%2C569&strip=all",
+          "width": 1414,
+          "height": 569,
+          "title": "Google rolls out BeyondCorp for secure remote network access without a VPN",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-keep-your-teams-working-safely-with-beyondcorp-remote-access.md",
       "title": "Keep your teams working safely with BeyondCorp Remote Access",
       "excerpt": "The COVID-19 pandemic is affecting organizations in different ways, whether it’s hospitals or governments directly impacted by the coronavirus or businesses that need to rapidly evolve to support new work-from-home scenarios. Over the last few weeks, we’ve had numerous conversations with customers about",
@@ -1154,78 +1242,6 @@
           "width": 1000,
           "height": 416,
           "title": "How Google Cloud is helping global governments during the COVID-19 pandemic, and our future plans to work with the public sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-how-google-cloud-is-helping-covid-19-academic-research.md",
-      "title": "How Google Cloud is helping COVID-19 academic research",
-      "excerpt": "As COVID-19 continues to grow in impact, healthcare and life science researchers are in a race to understand more about the novel coronavirus, and are increasingly turning to cloud technologies to aid them in their work.We’re so grateful for the work of these experts, and want to support them with tools",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-covid-19-academic-research/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_B3.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "How Google Cloud is helping COVID-19 academic research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-supporting-not-for-profit-covid-19-response-efforts-with-google-maps-platform-credits.md",
-      "title": "Supporting not-for-profit COVID-19 response efforts with Google Maps Platform credits",
-      "excerpt": "In the wake of the COVID-19 pandemic, we’ve seen an inspiring response from our developer community. To support response efforts, we’ve expedited the processing of Google Maps Platform credit applications for COVID-19-related not-for-profit projects that offer a publicly-available website or mobile app.",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/supporting-not-profit-covid-19-response-efforts-google-maps-platform-credits/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/034-MAP-COVID_Response-SL_2880x1200_1.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Supporting not-for-profit COVID-19 response efforts with Google Maps Platform credits",
           "attribution": null
         }
       ],

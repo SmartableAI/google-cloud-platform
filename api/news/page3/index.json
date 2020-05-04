@@ -2,6 +2,79 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-27-online-event-helping-financial-services-organizations-deliver-the-foundations-for-true-resilience.md",
+      "title": "Online event: Helping financial services organizations deliver the foundations for true resilience",
+      "excerpt": "Financial services firms are increasingly turning to the cloud to create digital banking solutions and to build resiliency and agility into their core business infrastructure. This trend has only accelerated as the world adapts to virtual working environments and entirely new ways of doing business. To",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/financial-services/helping-financial-services-organizations-deliver-foundations-true-resilience/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/0710_Bankingonthecloud-BlogHeader.max-1300.max-2800x2800.png",
+          "width": 2800,
+          "height": 1555,
+          "title": "Online event: Helping financial services organizations deliver the foundations for true resilience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-your-top-network-performance-problems-and-how-to-fix-them.md",
+      "title": "Your top network performance problems and how to fix them",
+      "excerpt": "Got network trouble, and don’t know where to start? Whether you’re trying to troubleshoot a performance problem or understand your network performance in order to make optimal deployment decisions, Google Cloud has a comprehensive set of tools for network monitoring, verification and optimization. With",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/your-top-network-performance-problems-and-how-to-fix-them/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Your top network performance problems and how to fix them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-explaining-model-predictions-on-image-data.md",
       "title": "Explaining model predictions on image data",
       "excerpt": "Editor's note: This is the second blog post in a series covering how to use AI Explanations with different data types. The first post explained how to use Explainable AI with tabular data.As machine learning technology continues to improve and models become increasingly accurate, we’re using ML to solve",
@@ -910,94 +983,6 @@
           "width": 700,
           "height": 467,
           "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-computing-platform-will-optimize-renewable-energy-use-in-datacenters.md",
-      "title": "Google computing platform will optimize renewable energy use in datacenters",
-      "excerpt": "As part of an ongoing effort to reduce the environmental impact of cloud computing, Google announced that it has developed a platform that maximizes the use of alternative energy sources at its sprawling network of datacenters. In a blog post, Google officials described the system as a “carbon-intelligent computing platform.” The system ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
-      "publishedDateTime": "2020-04-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google computing platform will optimize renewable energy use in datacenters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-to-embrace-the-hybrid-cloud-reality-and-get-it-right.md",
-      "title": "How To Embrace The Hybrid Cloud Reality And Get It Right",
-      "excerpt": "With the initial promise of the cloud, organizations were rushing to implement “the next great thing” — but many failed to successfully put a hybrid strategy in place. Are you one of those organizations?",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/amp/",
-      "publishedDateTime": "2020-04-22T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-33-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How To Embrace The Hybrid Cloud Reality And Get It Right",
           "attribution": null
         }
       ],

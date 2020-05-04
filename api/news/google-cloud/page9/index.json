@@ -2,6 +2,80 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-12-09-modernize-your-apps-with-migrate-for-anthos.md",
+      "title": "Modernize your apps with Migrate for Anthos",
+      "excerpt": "In a perfect cloud world, you would host all your applications in containers running on Kubernetes and Istio, benefitting from the portability and improved resource utilization of containers, plus a robust orchestration platform with advanced application management, networking, and security functionality.",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/cloud-migration/modernize-your-apps-with-migrate-for-anthos/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/cloud-migration/modernize-your-apps-with-migrate-for-anthos/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/cloud-migration/modernize-your-apps-with-migrate-for-anthos/amp/",
+      "publishedDateTime": "2019-12-09T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modernize your apps with Migrate for Anthos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-12-06-expanding-the-serverless-ecosystem-for-cloud-run.md",
+      "title": "Expanding the serverless ecosystem for Cloud Run",
+      "excerpt": "Increasingly, organizations want to write applications in containers, without having to worry about provisioning, managing and scaling the underlying infrastructure. They also want to pay only for what they use. Cloud Run, which recently became generally available, makes this possible, with additional",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/expanding-the-serverless-ecosystem-for-cloud-run/amp/",
+      "publishedDateTime": "2019-12-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/WorkplaceTransformation-01_2FYra9X.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Expanding the serverless ecosystem for Cloud Run",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_news/2019-12-05-networking-cost-optimization-best-practices-an-overview.md",
       "title": "Networking cost optimization best practices: an overview",
       "excerpt": "Every cloud deployment needs a network over which to move data. Without a network, you can’t view cat videos or upload your selfies, much less allow microservices to talk to one another. Google Cloud provides a global, scalable, flexible network for your cloud-based workloads and services, and how you",
@@ -1026,80 +1100,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-10-21-leave-no-database-behind-with-cloud-sql-for-sql-server.md",
-      "title": "Leave no database behind with Cloud SQL for SQL Server",
-      "excerpt": "At Google Cloud, we develop our database services to meet the needs of enterprise teams wherever they are in their cloud journey. We’re excited today to announce the beta launch of Cloud SQL for SQL Server and make it available to all of our customers. This addition to our database lineup means you can",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/leave-no-database-behind-with-cloud-sql-for-sql-server/amp/",
-      "publishedDateTime": "2019-10-21T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_databases.jpg",
-          "width": 1999,
-          "height": 834,
-          "title": "Leave no database behind with Cloud SQL for SQL Server",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-10-17-improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options.md",
-      "title": "Improve your connectivity to Google Cloud with enhanced hybrid connectivity options",
-      "excerpt": "Whatever the requirement—from enterprise-readiness fundamentals like reliability, performance, and security, to innovations for enabling microservices architecture or hybrid and multi-cloud deployments—the Google Cloud networking portfolio has something to offer.  At NEXT ‘19 in San Francisco, we announced",
-      "heat": 143,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/improve-your-connectivity-to-google-cloud-with-enhanced-hybrid-connectivity-options/amp/",
-      "publishedDateTime": "2019-10-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP-networking.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Improve your connectivity to Google Cloud with enhanced hybrid connectivity options",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

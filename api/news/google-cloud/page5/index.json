@@ -2,6 +2,78 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-14-how-google-cloud-is-helping-covid-19-academic-research.md",
+      "title": "How Google Cloud is helping COVID-19 academic research",
+      "excerpt": "As COVID-19 continues to grow in impact, healthcare and life science researchers are in a race to understand more about the novel coronavirus, and are increasingly turning to cloud technologies to aid them in their work.We’re so grateful for the work of these experts, and want to support them with tools",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-covid-19-academic-research/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_B3.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "How Google Cloud is helping COVID-19 academic research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-supporting-not-for-profit-covid-19-response-efforts-with-google-maps-platform-credits.md",
+      "title": "Supporting not-for-profit COVID-19 response efforts with Google Maps Platform credits",
+      "excerpt": "In the wake of the COVID-19 pandemic, we’ve seen an inspiring response from our developer community. To support response efforts, we’ve expedited the processing of Google Maps Platform credit applications for COVID-19-related not-for-profit projects that offer a publicly-available website or mobile app.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/supporting-not-profit-covid-19-response-efforts-google-maps-platform-credits/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/034-MAP-COVID_Response-SL_2880x1200_1.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Supporting not-for-profit COVID-19 response efforts with Google Maps Platform credits",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-find-and-fix-issues-faster-with-our-new-logs-viewer.md",
       "title": "Find and fix issues faster with our new Logs Viewer",
       "excerpt": "Monitoring your cloud infrastructure is an essential part of making sure your operations are running smoothly. Since announcing the new Cloud Logging interface in February, we’ve heard from users that the new interface is making it faster and easier to meet logging needs, including troubleshooting issues,",
@@ -1036,86 +1108,6 @@
           "width": 1280,
           "height": 640,
           "title": "One Business Winner Amid Coronavirus Lockdowns: the Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
-      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
-      "excerpt": "Semantic Reactor, then, which is currently a whitelisted experiment in the Google Cloud AI Workshop, allows users to sort lines of text in a sheet using a range of AI models. (Testing it requires filling out a form and awaiting emailed instructions about how to install it.) It offers ranking methods that determine how lists will be sorted based ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
-      "publishedDateTime": "2020-03-27T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-g-suite-developers-scaling-best-practices-for-higher-user-demands.md",
-      "title": "G Suite developers: Scaling best practices for higher user demands",
-      "excerpt": "As people around the globe increasingly work or learn from home, we want to recognize the impact this shift is having on software providers. Many third-party developers rely on G Suite APIs to deliver richly integrated experiences to users, and it’s crucial for them to plan proactively for potential",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-to-scale-best-practices-for-increased-user-demand/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/how-to-scale-best-practices-for-increased-user-demand/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/how-to-scale-best-practices-for-increased-user-demand/amp/",
-      "publishedDateTime": "2020-03-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_API_Management.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "G Suite developers: Scaling best practices for higher user demands",
           "attribution": null
         }
       ],
