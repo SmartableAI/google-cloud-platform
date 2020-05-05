@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-05-thales-deploys-esim-subscription-platform-on-google-cloud.md",
+      "title": "Thales deploys eSIM subscription platform on Google Cloud",
+      "excerpt": "Thales has deployed a public cloud version of its embedded SIM (eSIM) remote subscription platform on Google Cloud to help telcos manage the increase of mobile subscription for eSIM-capable devices. As part of the initial deployment,",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/thales-deploys-esim-subscription-platform-on-google-cloud/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/thales-deploys-esim-subscription-platform-on-google-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/thales-deploys-esim-subscription-platform-on-google-cloud/",
+      "publishedDateTime": "2020-05-04T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/08/17/05ba1f01-22aa-44be-a582-06a5022459af/thumbnail/1200x675/45e5ce6d76f2cbc6b2e99da78353fffd/fire.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Thales deploys eSIM subscription platform on Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-a-closer-look-at-the-recent-flurry-of-google-meet-news.md",
+      "title": "A Closer Look At The Recent Flurry Of Google Meet News",
+      "excerpt": "Patrick Moorhead digs a little deeper on some new features announced for Meet, along with some customer stories of utilizing G Suite and Meet in the time of COVID-19.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/04/a-closer-look-at-the-recent-flurry-of-google-meet-news/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/04/a-closer-look-at-the-recent-flurry-of-google-meet-news/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/04/a-closer-look-at-the-recent-flurry-of-google-meet-news/amp/",
+      "publishedDateTime": "2020-05-04T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0b54ca7e7a500072013f8%2F0x0.jpg",
+          "width": 546,
+          "height": 357,
+          "title": "A Closer Look At The Recent Flurry Of Google Meet News",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-how-to-record-video-meetings-on-zoom-google-meet-and-skype.md",
       "title": "How to record video meetings on Zoom, Google Meet, and Skype",
       "excerpt": "People are doing a lot more video conferencing now that they’re stuck at home due to the COVID-19 pandemic. These sessions can be a great way to stay in touch with friends and family, conduct business with colleagues,",
@@ -1170,80 +1258,6 @@
       "topics": [
         "Google Cloud",
         "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-discover-understand-and-manage-your-data-with-data-catalog-now-ga.md",
-      "title": "Discover, understand and manage your data with Data Catalog, now GA",
-      "excerpt": "Google Cloud Data Catalog is a fully managed and scalable metadata management service. It can help your organization quickly discover, understand, and manage all your data from one simple interface. Accessible from within the Google Cloud console, Data Catalog allows immediate access to data discovery",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/data-catalog-metadata-management-now-generally-available/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/data_catalog.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Discover, understand and manage your data with Data Catalog, now GA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-managing-cost-and-reliability-in-serverless-applications.md",
-      "title": "Managing cost and reliability in serverless applications",
-      "excerpt": "In both good times and challenging ones, running an application on a serverless environment has lots of benefits. If you experience extremely high demand, your application scales automatically, avoiding crashes or downtime. And if you see a contraction of demand, then the application scales down and",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/managing-cost-and-reliability-serverless-applications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless_-_04.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Managing cost and reliability in serverless applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
       ]
     }
   ],

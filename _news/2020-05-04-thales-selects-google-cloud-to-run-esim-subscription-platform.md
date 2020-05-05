@@ -17,19 +17,21 @@ topics:
   - Google Cloud
 
 related:
-  - title: "Thales Selects Google Cloud to Expand Its eSIM Management Solution"
-    excerpt: "Thales has deployed the world’s first GSMA-certified eSIM activation solution on Google Cloud. This solution will offer telecom operators secure and h"
-    publishedDateTime: 2020-05-04T08:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200504005146/en/Thales-Selects-Google-Cloud-Expand-eSIM-Management"
+  - title: "Thales deploys eSIM subscription platform on Google Cloud"
+    excerpt: "Thales has deployed a public cloud version of its embedded SIM (eSIM) remote subscription platform on Google Cloud to help telcos manage the increase of mobile subscription for eSIM-capable devices. As part of the initial deployment,"
+    publishedDateTime: 2020-05-05T03:42:00Z
+    webUrl: "https://www.zdnet.com/article/thales-deploys-esim-subscription-platform-on-google-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/thales-deploys-esim-subscription-platform-on-google-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/thales-deploys-esim-subscription-platform-on-google-cloud/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
     images:
-      - url: "https://mms.businesswire.com/media/20200504005146/en/788573/23/thales+graphic.jpg"
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2018/08/17/05ba1f01-22aa-44be-a582-06a5022459af/thumbnail/1200x675/45e5ce6d76f2cbc6b2e99da78353fffd/fire.jpg"
         width: 1200
-        height: 627
+        height: 675
 
 secured: "2cbJo1/tFEglB+7VvUR+IYeQjFGe9mV09T5UoudQ+WH8EGwD8SM/PxYP726yG+vnlf3oRDZBFIe59sJHDi655KIbHLPygTI2XKjYEctgNt+7mbGPALyFeJ9c4H0qNdYnCSvFfMV8cHLnZPHcb/DDUsIGQJotzcShofFpLEguC2Oi9KxA+NBIWXCf3UD2bwew+/63LDGWGleKlAK89wAdu7MSoQ+KZabrTnuvjEihjJJKeaQkmxZ4BN4dJDiZCu6netzWZr0x7lzSxre0Cz5A3JrOOCkkZOao+TJhxIPwUF3OqHrEY0EzephLjV2d+G5L;7cekGaoSY/3CyHi4kbTyqA=="
 ---
