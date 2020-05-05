@@ -2,6 +2,42 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-06-announcing-the-winners-of-our-google-cloud-2019-partner-awards.md",
+      "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
+      "excerpt": "Day in and day out, our Google Cloud partners work tirelessly to help make our customers as successful as possible, and we want to share our gratitude. Today, we’re honored to recognize the hard work these partners do through our 2019 Partner Awards.Please join us in congratulating our 2019 winners.Click",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/announcing-the-winners-of-our-2019-partner-awards/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
+      "publishedDateTime": "2020-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_gNQBgP9.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-machine-learning-with-xgboost-gets-faster-with-dataproc-on-gpus.md",
       "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
       "excerpt": "Google Cloud’s Dataproc gives data scientists an easy, scalable, fully managed way to analyze data using Apache Spark. Apache Spark was built for high performance, but data scientists and other teams need an even higher level of performance as more questions and predictions need to be answered using",
@@ -927,43 +963,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-modernizing-twitters-ad-engagement-analytics-platform.md",
-      "title": "Modernizing Twitter's ad engagement analytics platform",
-      "excerpt": "As part of the daily business operations on its advertising platform, Twitter serves billions of ad engagement events, each of which potentially affects hundreds of downstream aggregate metrics. To enable its advertisers to measure user engagement and track ad campaign efficiency, Twitter offers a variety",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/amp/",
-      "publishedDateTime": "2020-03-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Modernizing Twitter's ad engagement analytics platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

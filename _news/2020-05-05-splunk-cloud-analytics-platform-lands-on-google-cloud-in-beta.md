@@ -22,21 +22,6 @@ images:
     height: 576
     title: "Splunk Cloud analytics platform lands on Google Cloud in beta"
 
-related:
-  - title: "Splunk Cloud On Google Cloud Now In Beta"
-    excerpt: "Splunk Cloud on Google Cloud is in beta with plans for a full rollout this year to help customers mine data while benefiting from the No. 3 cloud provider’s infrastructure and technology capabilities"
-    publishedDateTime: 2020-05-05T13:38:00Z
-    webUrl: "https://www.crn.com/news/cloud/splunk-cloud-on-google-cloud-now-in-beta"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025d-0f55dede8d4e-6c4fce471b7e-1000/splunk-sign.jpg"
-        width: 610
-        height: 457
-
 secured: "DQZGQcuuJ4Td/eAmE0sHGxchTbQPxnmLq2gmXxLu6IJyn3a3WD5FP2nujmiqrs91jmie3igV2s7k/dKARlwEc75Wd1cwh/bHTDWEYBuRlM2BufV5OjOHQ99T0KEkR08bIw4fYryVYuJg0C4qFCD50jy7XcuVfmfY6LdXAzfvs58QDADAmwLPbUAGl5dF9ghz7QPnG1EcdOWX4CySZZkvKO+U0T0VI1KlOwe/ooEwZud+A8V87sw00gNuVx/W/Va3DwtdexWHd+2x44rdmBhPL7xreZCIjbtyW9kfADdmBOKFRq3QoQOldZZM3Pr1kyBte82RTNmrMQe1IHGuAGb8GLYUidIdFcWfU0997qIxWaV7eorZR8/gf4KBlkxyYJtNVdy4RMCygV4n8BwLhhMPnTrtBcgWkGbGdSHu0aK5do86mN4Prw12feoFx9aR6CF9KVtqsuITsTPOEjl+MWobi5w9j0KAINhrqzG8MWcJ3ns=;vq0cA84BL1AwjG/G9v9KXg=="
 ---
 

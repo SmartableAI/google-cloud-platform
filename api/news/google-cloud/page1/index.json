@@ -2,10 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
+      "title": "Splunk Cloud comes to Google Cloud",
+      "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
+      "publishedDateTime": "2020-05-05T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/big_data_analytics_analysis_statistics_thinkstock_626673360-100749740-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Splunk Cloud comes to Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-anthos-in-depth-toward-a-service-based-architecture.md",
       "title": "Anthos in depth: Toward a service-based architecture",
       "excerpt": "Two weeks ago, we announced many new advancements we are making to Anthos, including new capabilities that let you better run and manage loosely coupled microservices anywhere you need them. Today, we’re diving deeper into this world of services, and how we have been helping customers on their journey",
-      "heat": 112,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive/",
@@ -34,7 +78,8 @@
         "news"
       ],
       "topics": [
-        "Google Cloud"
+        "Google Cloud",
+        "Networking"
       ]
     },
     {
@@ -1206,42 +1251,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-business-continuity-planning-and-resilience-in-financial-services-during-covid-19-and-beyond.md",
-      "title": "Business continuity planning and resilience in financial services during COVID-19 and beyond",
-      "excerpt": "As COVID-19 continues to affect our world, financial services organizations are working hard to ensure their services are available to all who need them. In many countries, financial services are “essential” and must remain available throughout COVID-19 for important reasons, including national economic",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/financial-services/business-continuity-planning-and-resilience-in-financial-services-during-covid-19-and-beyond/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_Finserve1_1.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Business continuity planning and resilience in financial services during COVID-19 and beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

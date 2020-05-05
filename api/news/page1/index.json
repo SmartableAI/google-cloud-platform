@@ -2,10 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
+      "title": "Splunk Cloud comes to Google Cloud",
+      "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
+      "publishedDateTime": "2020-05-05T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/big_data_analytics_analysis_statistics_thinkstock_626673360-100749740-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Splunk Cloud comes to Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-anthos-in-depth-toward-a-service-based-architecture.md",
       "title": "Anthos in depth: Toward a service-based architecture",
       "excerpt": "Two weeks ago, we announced many new advancements we are making to Anthos, including new capabilities that let you better run and manage loosely coupled microservices anywhere you need them. Today, we’re diving deeper into this world of services, and how we have been helping customers on their journey",
-      "heat": 112,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive/",
@@ -34,7 +78,8 @@
         "news"
       ],
       "topics": [
-        "Google Cloud"
+        "Google Cloud",
+        "Networking"
       ]
     },
     {
@@ -1008,50 +1053,6 @@
           "width": 720,
           "height": 430,
           "title": "How to easily move your photos from Facebook to Google Photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans.md",
-      "title": "Google rolls out new AI-powered product for banks processing PPP loans",
-      "excerpt": "The PPP Lending AI solution is designed for lending institutions that have been overwhelmed by loan applications from small businesses seeking COVID-19 pandemic relief.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "publishedDateTime": "2020-05-01T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/04/4e268e10-4522-42b7-8bc2-bc8d2906ced3/thumbnail/1200x675/f8dfa2c860a8294900066251d8d4c6fe/computer-power-supply-unit.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google rolls out new AI-powered product for banks processing PPP loans",
           "attribution": null
         }
       ],

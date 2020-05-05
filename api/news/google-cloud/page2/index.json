@@ -2,6 +2,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-01-business-continuity-planning-and-resilience-in-financial-services-during-covid-19-and-beyond.md",
+      "title": "Business continuity planning and resilience in financial services during COVID-19 and beyond",
+      "excerpt": "As COVID-19 continues to affect our world, financial services organizations are working hard to ensure their services are available to all who need them. In many countries, financial services are “essential” and must remain available throughout COVID-19 for important reasons, including national economic",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/financial-services/business-continuity-planning-and-resilience-in-financial-services-during-covid-19-and-beyond/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_Finserve1_1.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Business continuity planning and resilience in financial services during COVID-19 and beyond",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill.md",
       "title": "Google wants Australia to remove civil penalties from CLOUD Act-readying Bill",
       "excerpt": "The search giant believes the imposition of a mandatory obligation to comply with an international production order is contrary to the purpose of the CLOUD Act.",
@@ -1200,42 +1236,6 @@
           "width": 2880,
           "height": 1200,
           "title": "Improving your security posture with centralized secrets management",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-introducing-plus-codes-in-place-autocomplete-place-details-and-geocoding-to-help-you-serve-users-everywhere.md",
-      "title": "Introducing plus codes in Place Autocomplete, Place Details and Geocoding to help you serve users everywhere",
-      "excerpt": "Although we’re constantly mapping the world–adding addresses, points of interest, roads, and more–there are many places without traditional addressing systems and some areas with no addresses or road names at all. This can be a challenge for businesses such as food delivery or on-demand transportation,",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/introducing-plus-codes-place-autocomplete-place-details-and-geocoding-help-you-serve-users-everywhere/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/033-MAP-Plus-Codes-In-Place-Autocomplete-S.max-2200x2200.png",
-          "width": 2200,
-          "height": 917,
-          "title": "Introducing plus codes in Place Autocomplete, Place Details and Geocoding to help you serve users everywhere",
           "attribution": null
         }
       ],

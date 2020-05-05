@@ -28,6 +28,6 @@ images:
     height: 357
     title: "A Closer Look At The Recent Flurry Of Google Meet News"
 
-secured: "qYIjA41lhjqRR/f/WjGfwbYLh1xiEdxGTkcCkrbntypQBlifkieNf9NLbPB3+llQlOr2zfNFCyFfmrKiJEowdQ39zcSVhhCV2zw8MrHHBjSvdlOHDpN/OG5W0SCx+inDrv8UGgo3V7ryeDG5h9cLxGtF08x40cUR5PHSZ0jrX1hWvAgmWScEJanqn6JOMwgNvM3M8ne6TEm4Cpa3gEoUCX9gL0rQaJ6yHqZy9hoOoLdmQkdj8angks0xNPU6ndQnWhV/yfvtBOjRU1Uc+8O+cBLGdmiaelBDLBH2bknm3h1X64DwPcKiMvxdE7ZoJov+;mbgpWh+jkJXM5GfMLyiqAQ=="
+secured: "+xnLSxWN8clVAJne2geXRYN70nJB1erwEPoGpu9hkhKhXjH0481i4b4tIJ1nYi0hMWbHK87MlgQWSRnu296W+DaoZpc0xKBz+slddk8IDBcjWt0PHmh/kKB+iwKAqkBmCFHibDUi481zPuugZH91IebmO4f+F1IWpc7u4/6luVy+TJoRI1hG0mFAFzCY7JRaakJZgriDB6lbtr18U7m/TO/vVe8umYo1z1XrKa/9sj3MCuZxRya/QCeqWTIy6pnatLxu2lZdXxab/U5QMAkqRJaYlJftg+3hcL0/HJ594z3OiMMNeNTSE1XMW1Qn5oE3nPKnMxdmCpXLeezM++d7JAQbGL7pugRBMV55GMsi5c4LVfapJVCdwgkSsLSSWan3SZV+HTLfr2zgZDOmaJtz39cCBrfFQIkCr1LBQpgckQb8bXKm4/v95MZmxtK5QSTTJpY+IzBw0/c7zQ0uB5m4k7Vdz/+D4xQZALEA5Vr7qe8=;s8FoWbd5dGBa8350YbZKgw=="
 ---
 

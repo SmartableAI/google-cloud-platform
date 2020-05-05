@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-16-google-may-let-some-air-out-of-its-cloud.md",
+      "title": "Google May Let Some Air Out of Its Cloud",
+      "excerpt": "Google will be “recalibrating” its focus and pace of investments in areas like data centers and machines—the components underpinning cloud computing.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
+      "publishedDateTime": "2020-04-16T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-176970/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Google May Let Some Air Out of Its Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-kotlin-meet-grpc-a-new-open-source-project-for-modern-apps.md",
       "title": "Kotlin, meet gRPC: a new open-source project for modern apps",
       "excerpt": "As developers work to modernize applications, they need foundational tools that are simple and scalable. gRPC is a high-performance, open-source, universal RPC framework originally developed here at Google that developers are adopting in tremendous numbers, helping them connect services more easily and",
@@ -1131,42 +1175,6 @@
       "topics": [
         "Google Cloud",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-announcing-the-winners-of-our-google-cloud-2019-partner-awards.md",
-      "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
-      "excerpt": "Day in and day out, our Google Cloud partners work tirelessly to help make our customers as successful as possible, and we want to share our gratitude. Today, we’re honored to recognize the hard work these partners do through our 2019 Partner Awards.Please join us in congratulating our 2019 winners.Click",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/partners/announcing-the-winners-of-our-2019-partner-awards/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
-      "publishedDateTime": "2020-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_gNQBgP9.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

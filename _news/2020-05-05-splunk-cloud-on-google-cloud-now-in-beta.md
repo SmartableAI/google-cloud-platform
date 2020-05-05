@@ -23,19 +23,21 @@ images:
     title: "Splunk Cloud On Google Cloud Now In Beta"
 
 related:
-  - title: "Splunk Cloud analytics platform lands on Google Cloud in beta"
-    excerpt: "Splunk Inc. is bringing its big-data analytics platform to Google Cloud and integrating it with a number of Google Cloud services to enable enterprises to get more actionable insights from their data and drive faster decision-making."
-    publishedDateTime: 2020-05-05T13:05:00Z
-    webUrl: "https://siliconangle.com/2020/05/05/splunk-cloud-lands-google-cloud-beta/"
+  - title: "Splunk Cloud comes to Google Cloud"
+    excerpt: "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users"
+    publishedDateTime: 2020-05-05T16:12:00Z
+    webUrl: "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16730173_10154878156707752_4045546554994927923_n-768x576.jpg"
-        width: 768
-        height: 576
+      - url: "https://images.idgesg.net/images/article/2018/02/big_data_analytics_analysis_statistics_thinkstock_626673360-100749740-large.jpg"
+        width: 1200
+        height: 800
 
 secured: "0j4jt5BittOhLrg6wYyfc2/f14TaYz13udG53ulkAExB7rEnpUNOK4mNgy00C/3pFgS5kaqGxsLCrE+Ufw29mF4gWK8YAdtv82pdvRZq191R/cB64q4Lp7yTt8z2qqJ4rELFgMQ12BxT1dIgVo+s0Lvu1qGayBaJ/Ll4f0kd9UkLAxm4asDl/ALAjYP13HcqHFd7cb/8eJzZmmr784Gzfqs/fczpJXP+RKM3Flaz+BTSSzDALiJr5jplM2qgqz0lcrrXXn/8lR6ghNHC8IWPXOVhEyy+hPZtnlw5J1h/+/A7c3oSfi0aLGxbYgdUhizxDqT9fIIcjwNcUD3MsNFRzgjiWIzwGO8Uo3pL5zszXzwpmi7J+PcTfixqCEM8pyVJPrNxJi5uNBmafdVflWal++C+PMGpmzx/cX3UiVewoVpFWQwUhtHiONVf+hKZX30jVngoGJAv+F0BmtYJRKMcF6AU5Yy/jhNJg7KDzVZWLwY=;normylLYcycfchnA17zUBQ=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Two weeks ago, we announced many new advancements we are making to Ant
 publishedDateTime: 2020-05-05T16:00:00Z
 webUrl: "https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive/"
 type: article
-quality: 112
-heat: 112
+quality: 114
+heat: 114
 published: true
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - Google Cloud
+  - Networking
 
 images:
   - url: "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud__Anthos_B_1.jpg"

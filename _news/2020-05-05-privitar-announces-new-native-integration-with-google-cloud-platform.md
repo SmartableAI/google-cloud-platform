@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Privitar Announces New Native Integration with Google Cloud Platform"
-excerpt: "said Jason du Preez, CEO of Privitar “Privitar’s native integration with Google Cloud Platform makes it easy for customers to leverage their data to gain valuable insights and to support data-driven decisions, without jeopardizing its safety.”"
-publishedDateTime: 2020-05-05T00:00:00Z
+excerpt: "New integration enables users to seamlessly protect and extract maximum value from sensitive personal data, rounds out Privitar's support of public cloud services."
+publishedDateTime: 2020-05-05T16:04:00Z
 webUrl: "https://www.darkreading.com/cloud/privitar-announces-new-native-integration-with-google-cloud-platform/d/d-id/1337729"
 type: article
 quality: 52
@@ -22,6 +22,6 @@ images:
     height: 600
     title: "Privitar Announces New Native Integration with Google Cloud Platform"
 
-secured: "SV44NspwmMpFWN5jY4/jT4Fp29k9tUq1y9lxudfvt8uMmc7WJm8KDfnkgqlz/8o35MTxO5NE26ddk73uzywwAVhdqRK6+Ej/DLhkBuVY9ESzm3Xn/3cERhihUsdVzQ3vlBxcytZOGji2WvZCVGrm640GyjWvAswUnVrgzod/tJQTJjUIbDjrv6bE9LbH+mJoLprFDD88hY45HzOSwp+OgogYGJ8cBsSNFMC9lxXiN4kdodrMDOkV9o1uFK0tyNq3yk8AudZXTlGPYhYPSMbtwBBe451w/VIH6+iS/VMv1k3gyAhr99u6SRjzQH4t9zl/;2zrlRaTv9h0cXvp9baxAmw=="
+secured: "z4VQlfuGgB87EEsal2FncU5n6a2jjyxuxIrPwjj0LW/p76a7QJx12mhA/5IPD4Qy5p8pxFxMFgAZleqIhcEd4mUGI0Y4O4AbQCdUWj+s+jRT7P1PFYcJRP/+HCWx0uRUmAandvvo/J/BIChB+FLv4AMcvVORw4+zmhEDuIV56CYLKB1YTfJejHQiqd2KwYanhaijAWQ0Wh9uQI22vrwLRrVrgozNJZNSo3FFQEDCrUI271aWz5senD/KMATNixaXSeDR9yxwgGqi/bPu84oo4c272vYlEKAZOuhPVoWRlk3yujBDRgv3wc7rbqjtxuqk;RiBVaBOmmiyiaR8Xfxn6ZA=="
 ---
 
