@@ -23,6 +23,6 @@ images:
     height: 1200
     title: "Windows Server containers on GKE now GA, with ecosystem support"
 
-secured: "pyyAeC9vox2ygCP94hYjgavDnwIFgZ8Z/ZRNOqGHtV8CligHpOSR8XBSQM6sYZgpBtDw4UE05ChE+yMqXnwHQL7LLYzkS/R87w2ep6mJuCRtaQZq1WgI95OkvE+Gx2isll5VLBgu7BK0dGLEolfhZz97ZST+R2OkmKKank7ksx3Dcuw+H47KW1zALowHQCmRXoHanlLpmlC+L0vQnbOTyY2fgjVoNUhzbvPg+XGzYvFPKwDm1pMx46LEnaGsS8boGxBaUxwdPSFwaa+PXubtn1en0Qrl+89p8LI42sje/G/8P9y7tpdqYvgrby9gyfhzxZDzz43ke16KevJK0jCIOQ==;loO3VE/rr4e6S2MYrPoJfQ=="
+secured: "escJqjq23G+wBq0dg2WLnfPN5eLFbY2Ui98EeGCWXFfZhiBpIMx0zIepXCVwTOJcKdcHYO157rBLkQQerHhiUH0of4V7cz6fA4VwwUsbG1ffeeeQKg2IA82zeOUGTfm5jrvUD+op9KE21oRUXAHnP97B3MGbZr7YQydqX+Y4nzVV9s/Btai791k7CwSTJSsAiV5ZUaekUVxC4QAs/41/H/KtXuVMJSDPynUWZB1nILtAhDfPXK4GbZ7HCl1VyIdRhTAxc7U1FLJece2lI3WMuvos6zJOV25A9HZz6KoY+9yN3j5SC8csXSkbjybGiD6Sd7gmAX/eWWv0GSnKPy8j/Q==;pS/FRb2EdnLxDEwLdxTW9g=="
 ---
 
