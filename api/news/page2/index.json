@@ -2,6 +2,78 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-01-designing-distributed-systems-using-nalsd-flashcards.md",
+      "title": "Designing distributed systems using NALSD flashcards",
+      "excerpt": "There are many ways to design distributed systems. One way involves growing systems organically—components are rewritten or redesigned as the system handles more requests. Another method starts with a proof of concept. Once the system adds value to the business, a second version is designed from the",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/sre-principles-and-flashcards-to-design-nalsd/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_Management_tools.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Designing distributed systems using NALSD flashcards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-to-improve-the-delivery-and-ecommerce-experience-with-google-maps-platform.md",
+      "title": "How to improve the delivery and ecommerce experience with Google Maps Platform",
+      "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices for adding new functionality to your apps and websites.With many restaurants and stores around the world unable to open for business as usual, a common question we hear",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-improve-delivery-and-ecommerce-experience-google-maps-platform/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Delivery_GettyImages-930002622_2.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 1467,
+          "title": "How to improve the delivery and ecommerce experience with Google Maps Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-learn-3-in-demand-cloud-skills-in-30-days-at-no-cost-during-the-month-of-may.md",
       "title": "Learn 3 in-demand cloud skills in 30 days at no cost during the month of May",
       "excerpt": "In April, we announced we were expanding our Google Cloud learning resources to support the growing number of people working and learning from home. Today, we are excited to announce that if you sign up by May 31, 20201, you can still enroll in Google Cloud training on both Pluralsight and Qwiklabs at",
@@ -921,94 +993,6 @@
           "width": 841,
           "height": 545,
           "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-extending-cloud-reach-with-cisco-amazon-and-microsoft-connections.md",
-      "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
-      "excerpt": "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
-      "publishedDateTime": "2020-04-28T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg",
-          "width": 2461,
-          "height": 1200,
-          "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic.md",
-      "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
-      "excerpt": "While Advertising continues to generate the most revenue for Google, the number is down significantly compared to last quarter. In Q1, Google ad revenues came to $33.76 billion, c",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic/",
-      "publishedDateTime": "2020-04-28T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/03/27/1b7fafa5-dea5-4795-868f-c2763cca7bfc/thumbnail/1200x675/1c3625f42ed28bf6afd7d68469d6b1b9/managing-ai-in-the-enterprise-intro-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
           "attribution": null
         }
       ],

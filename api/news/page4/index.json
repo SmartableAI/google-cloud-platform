@@ -2,6 +2,78 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-24-how-the-google-maps-platform-community-is-responding-to-covid-19-visualizing-helpful-info.md",
+      "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
+      "excerpt": "Editor’s Note: Over the past few months we’ve seen an inspiring response to COVID-19 from our community. To thank the organizations that are building tools to help us through, in the coming weeks we’ll highlight some of the many projects our customers have created to support their communities.The first",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-google-maps-platform-community-responding-covid-19-visualizing-helpful-info/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/038-MAP-Covid_Visualizing_Helpful_Info-BLO.max-2200x2200.png",
+          "width": 2200,
+          "height": 917,
+          "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-admin-essentials-managing-chrome-browser-in-a-controlled-environment.md",
+      "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
+      "excerpt": "IT teams often require a range of controls to support different groups and users. In some cases, users need more permissions and access based on their role. Other situations might call for more restrictive measures, with limited access or heightened security measures. These tighter controls can be driven",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/managing-chrome-browser-in-a-controlled-environment/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ChromeEnterpriseSeries-01.png",
+          "width": 2000,
+          "height": 1110,
+          "title": "Admin Essentials: Managing Chrome Browser in a controlled environment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-how-to-add-buy-online-pick-up-in-store-capabilities-to-your-website-with-google-maps-platform.md",
       "title": "How to add “buy online, pick-up in store” capabilities to your website with Google Maps Platform",
       "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices over the coming weeks for adding new functionality to your apps and websites.One of the most common questions retailers ask us is how they can quickly add “buy online,",
@@ -926,94 +998,6 @@
           "width": 1024,
           "height": 681,
           "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn.md",
-      "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
-      "excerpt": "The survey also found that the gap between public cloud platform providers is closing with Google Cloud, Amazon Web Services, and Microsoft Azure each getting an equal share of votes as a preferred cloud provider. Tech leaders are looking for providers ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/it-directors-plan-to-protect-cloud-budgets-and-consolidate-vendors-during-downturn/",
-      "publishedDateTime": "2020-04-20T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/20/7f41e818-d531-4993-9a76-4cba42ad6471/resize/1200x/5534a0088a1a141e343fc913e14c3a3d/opsramp-costcutting.jpg",
-          "width": 1200,
-          "height": 1148,
-          "title": "IT directors plan to protect cloud budgets and consolidate vendors during downturn",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-in-pandemic-times.md",
-      "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
-      "excerpt": "RFIDs would also include the tokens needed to access our cloud-based medical history ... easy to enroll from a consumer experience perspective -- but it needs to have full platform integration for it to be completely seamless. If Apple and Google can cooperate on COVID-19 contact tracing, they can work on moving money around.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/payment-distancing-apple-and-google-we-need-our-cashless-society-even-more-now/",
-      "publishedDateTime": "2020-04-20T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/14/19c5dc91-c620-4112-b42e-86fba891b089/thumbnail/1200x675/85c560a226a9b6d969f608e96dd94cf6/istock-888701758.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Payment distancing: Apple and Google, we need our cashless society even more in pandemic times",
           "attribution": null
         }
       ],
