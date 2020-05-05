@@ -2,6 +2,81 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-02-21-your-ml-workloads-cheaper-and-faster-with-the-latest-gpus.md",
+      "title": "Your ML workloads cheaper and faster with the latest GPUs",
+      "excerpt": "Running ML workloads more cost effectivelyGoogle Cloud wants to help you run your ML workloads as efficiently as possible. To do this, we offer many options for accelerating ML training and prediction, including many types of NVIDIA GPUs. This flexibility is designed to let you get the right tradeoff",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
+      "publishedDateTime": "2020-02-21T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ml-competition-2_0a76EvN.png",
+          "width": 2880,
+          "height": 1600,
+          "title": "Your ML workloads cheaper and faster with the latest GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-explaining-model-predictions-on-structured-data.md",
+      "title": "Explaining model predictions on structured data",
+      "excerpt": "Machine learning technology continues to improve at a rapid pace, with increasingly accurate models being used to solve more complex problems. However, with this increased accuracy comes greater complexity. This complexity makes debugging models more challenging. To help with this, last November Google",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/explaining-model-predictions-structured-data/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/explaining-model-predictions-structured-data/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/explaining-model-predictions-structured-data/amp/",
+      "publishedDateTime": "2020-02-20T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Explaining model predictions on structured data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-new-application-manager-brings-gitops-to-google-kubernetes-engine.md",
       "title": "New Application Manager brings GitOps to Google Kubernetes Engine",
       "excerpt": "Kubernetes is the de facto standard for managing containerized applications, but developers and app operators often struggle with end-to-end Kubernetes lifecycle management—things like authoring, releasing and managing Kubernetes applications. To simplify the management of application lifecycle and configuration,",
@@ -852,81 +927,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut.md",
-      "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
-      "excerpt": "Google Cloud offers a wide range of GPUs to accelerate everything from AI deployment to 3D visualization. These use cases are now even more affordable with the price reduction of the NVIDIA T4 GPU. As of early January, we’ve reduced T4 prices by more than 60%, making it the lowest cost GPU instance on",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
-      "publishedDateTime": "2020-01-23T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GoogleCloud_AutoML.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-4-ways-anthos-delivers-roi-to-customers-according-to-new-forrester-consulting-study.md",
-      "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
-      "excerpt": "In our conversations with technology leaders about Anthos, we quickly get into the strategic questions about long term transformation and selection of the right technology architectures. At the heart of those discussions is an exploration of the potential economic value to their organization. So we commissioned",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/anthos/4-ways-anthos-delivers-roi-to-customers/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
-      "publishedDateTime": "2020-01-22T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Anthos_A.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
       ]
     }
   ],

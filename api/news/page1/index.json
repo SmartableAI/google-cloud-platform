@@ -2,6 +2,86 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-05-introducing-3-new-hp-chromebook-enterprise-devices-built-to-keep-business-running.md",
+      "title": "Introducing 3 new HP Chromebook Enterprise devices built to keep business running",
+      "excerpt": "Keeping your workforce secure and productive has become even more critical over the past several months. Whether you're supporting cloud-ready workers or employees that need access to legacy apps via virtualized desktops, Chrome Enterprise devices provide the necessary flexibility and security to keep",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/introducing-3-new-hp-chromebook-enterprise-devices/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/HP_Chromebook_Enterprise_devices.jpg",
+          "width": 1600,
+          "height": 667,
+          "title": "Introducing 3 new HP Chromebook Enterprise devices built to keep business running",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-splunk-forges-integration-pact-with-google-cloud.md",
+      "title": "Splunk forges integration pact with Google Cloud",
+      "excerpt": "The Splunk on Google Cloud offering expands on the company's existing partnership with Amazon Web Services, which integrates Splunk Cloud with a bevy of key AWS services.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/splunk-forges-integration-pact-with-google-cloud/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/splunk-forges-integration-pact-with-google-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/splunk-forges-integration-pact-with-google-cloud/",
+      "publishedDateTime": "2020-05-05T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2016/04/06/62eed2ca-29a7-47b9-a644-2e5d1f958143/thumbnail/1200x675/4b128b0098cc0f4a85d0d1ce6d40828c/businessman-holding-bank-notes.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Splunk forges integration pact with Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-thales-deploys-esim-subscription-platform-on-google-cloud.md",
       "title": "Thales deploys eSIM subscription platform on Google Cloud",
       "excerpt": "Thales has deployed a public cloud version of its embedded SIM (eSIM) remote subscription platform on Google Cloud to help telcos manage the increase of mobile subscription for eSIM-capable devices. As part of the initial deployment,",
@@ -980,79 +1060,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-learn-3-in-demand-cloud-skills-in-30-days-at-no-cost-during-the-month-of-may.md",
-      "title": "Learn 3 in-demand cloud skills in 30 days at no cost during the month of May",
-      "excerpt": "In April, we announced we were expanding our Google Cloud learning resources to support the growing number of people working and learning from home. Today, we are excited to announce that if you sign up by May 31, 20201, you can still enroll in Google Cloud training on both Pluralsight and Qwiklabs at",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-training-available-at-no-cost-for-30-days/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_HowTo_02.max-1500x1500.jpg",
-          "width": 1500,
-          "height": 625,
-          "title": "Learn 3 in-demand cloud skills in 30 days at no cost during the month of May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-understanding-forwarding-peering-and-private-zones-in-cloud-dns.md",
-      "title": "Understanding forwarding, peering, and private zones in Cloud DNS",
-      "excerpt": "The Domain Name System, or DNS, is one of the most foundational services of the Internet, turning human-friendly domain names into IP addresses. Often handled by specialized network engineers within an organization, DNS can feel like a black box to people who don’t deal with it often. For one, DNS terminology",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/cloud-forwarding-peering-and-zones/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google-networking.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Understanding forwarding, peering, and private zones in Cloud DNS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],

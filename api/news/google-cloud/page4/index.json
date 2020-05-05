@@ -2,6 +2,78 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-21-pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform.md",
+      "title": "Pulumi brings support for more languages to its infrastructure-as-code platform",
+      "excerpt": "Seattle-based Pulumi has quickly made a name for itself as a modern platform that lets developers specify their infrastructure through ... “We still embrace what makes each of the clouds special. AWS, Azure, Google Cloud and Kubernetes,” Duffy said. “We’re not trying to be a PaaS that abstracts over all. We’re just helping to be ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform/amp/",
+      "publishedDateTime": "2020-04-21T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/pulumi_logo.png?w=1024",
+          "width": 1024,
+          "height": 489,
+          "title": "Pulumi brings support for more languages to its infrastructure-as-code platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-helping-our-customers-navigate-covid-19-and-build-for-the-future.md",
+      "title": "Helping our customers navigate COVID-19 and build for the future",
+      "excerpt": "As the global response to COVID-19 evolves, businesses everywhere are adapting to an ever-changing environment that forces them to think differently. Our focus at Google Cloud right now is helping our customers navigate the impacts of COVID-19, whether that’s helping employees work remotely, ensuring",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-our-customers-navigate-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud.md",
       "title": "Google wants to make it easier to analyse health data in the cloud",
       "excerpt": "Google has expanded the availability of its Cloud Healthcare API in a bid to improve healthcare interoperability and help providers drive insights from myriad sources of medical data. Google's Cloud Healthcare API allows healthcare organizations to collect and manage various types of medical data via the cloud, including Digital Imaging and ...",
@@ -1160,94 +1232,6 @@
       "topics": [
         "Google Cloud",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work.md",
-      "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
-      "excerpt": "From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19. Read More Rolls Royce and a bevy of data science players including IBM, Google Cloud, Truata and the Leeds Institute for Data Analytics have formed a group to collaborate on modeling the economic recovery from the COVID ...",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work/",
-      "publishedDateTime": "2020-04-16T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/14/6b0e61f4-5b70-4981-9e00-aac95ef156df/thumbnail/1200x675/f91673ddda5b62d9289c06079356328f/microsoftteams.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them.md",
-      "title": "Your Zoom videos could live on in the cloud even after you delete them",
-      "excerpt": "If you clicked Record to Cloud during a Zoom meeting, you might have assumed Zoom and the cloud storage provider would have password-protected your video by default once it was uploaded. And if you deleted that video from your Zoom account,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
-      "publishedDateTime": "2020-04-16T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/zDJ-1qDidz7r3PiL8M2Uve6ZhOo=/756x567/2020/03/24/6d4a4d41-f7f5-4389-989d-65525058d751/14-zoom-app-meetings-work-from-home-coronavirus.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Your Zoom videos could live on in the cloud even after you delete them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

@@ -2,6 +2,80 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-17-not-just-for-http-anymore-grpc-comes-to-cloud-run.md",
+      "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
+      "excerpt": "Cloud Run is a managed serverless compute offering from Google Cloud that lets you run stateless server containers in a fully managed environment, without the hassle of managing the underlying infrastructure. Since its release, Cloud Run has enabled many of our customers to focus on their business logic,",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
+      "publishedDateTime": "2020-03-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-data-processing-just-got-easier-with-apps-scripts-new-v8-runtime.md",
+      "title": "Data processing just got easier with Apps Script’s new V8 runtime",
+      "excerpt": "We’re excited to announce Apps Script is nowsupported by the V8 runtime that powers Chrome and Node.js. This update lets users take advantage of modern JavaScript features (ECMA 6 and new releases moving forward). It also enhances new or existing scripts, like those that transform data in Google Sheets,",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
+      "publishedDateTime": "2020-03-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppDev.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Data processing just got easier with Apps Script’s new V8 runtime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-finding-a-problem-at-the-bottom-of-the-google-stack.md",
       "title": "Finding a problem at the bottom of the Google stack",
       "excerpt": "At Google, our teams follow site reliability engineering (SRE) practices to help keep systems healthy and users productive. There is a phrase we often use on our SRE teams: \"At Google scale, million-to-one chances happen all the time.\" This illustrates the massive complexity of the system that powers",
@@ -849,81 +923,6 @@
       "topics": [
         "Google Cloud",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-your-ml-workloads-cheaper-and-faster-with-the-latest-gpus.md",
-      "title": "Your ML workloads cheaper and faster with the latest GPUs",
-      "excerpt": "Running ML workloads more cost effectivelyGoogle Cloud wants to help you run your ML workloads as efficiently as possible. To do this, we offer many options for accelerating ML training and prediction, including many types of NVIDIA GPUs. This flexibility is designed to let you get the right tradeoff",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/your-ml-workloads-cheaper-and-faster-with-the-latest-gpus/amp/",
-      "publishedDateTime": "2020-02-21T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ml-competition-2_0a76EvN.png",
-          "width": 2880,
-          "height": 1600,
-          "title": "Your ML workloads cheaper and faster with the latest GPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-explaining-model-predictions-on-structured-data.md",
-      "title": "Explaining model predictions on structured data",
-      "excerpt": "Machine learning technology continues to improve at a rapid pace, with increasingly accurate models being used to solve more complex problems. However, with this increased accuracy comes greater complexity. This complexity makes debugging models more challenging. To help with this, last November Google",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/explaining-model-predictions-structured-data/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/explaining-model-predictions-structured-data/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/explaining-model-predictions-structured-data/amp/",
-      "publishedDateTime": "2020-02-20T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_2.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Explaining model predictions on structured data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,81 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-01-23-cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut.md",
+      "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+      "excerpt": "Google Cloud offers a wide range of GPUs to accelerate everything from AI deployment to 3D visualization. These use cases are now even more affordable with the price reduction of the NVIDIA T4 GPU. As of early January, we’ve reduced T4 prices by more than 60%, making it the lowest cost GPU instance on",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/cheaper-cloud-ai-deployments-with-nvidia-t4-gpu-price-cut/amp/",
+      "publishedDateTime": "2020-01-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GoogleCloud_AutoML.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-4-ways-anthos-delivers-roi-to-customers-according-to-new-forrester-consulting-study.md",
+      "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
+      "excerpt": "In our conversations with technology leaders about Anthos, we quickly get into the strategic questions about long term transformation and selection of the right technology architectures. At the heart of those discussions is an exploration of the potential economic value to their organization. So we commissioned",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/4-ways-anthos-delivers-roi-to-customers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/4-ways-anthos-delivers-roi-to-customers/amp/",
+      "publishedDateTime": "2020-01-22T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Anthos_A.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-want-to-use-automl-tables-from-a-jupyter-notebook-heres-how.md",
       "title": "Want to use AutoML Tables from a Jupyter Notebook? Here’s how",
       "excerpt": "While there’s no doubt that machine learning (ML) can be a great tool for businesses of all shapes and sizes, actually building ML models can seem daunting at first. Cloud AutoML—Google Cloud’s suite of products—provides tools and functionality to help you build ML models that are tailored to your specific",
@@ -853,81 +928,6 @@
       "topics": [
         "Google Cloud",
         "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-12-10-8-production-ready-features-youll-find-in-cloud-run-fully-managed.md",
-      "title": "8 production-ready features you’ll find in Cloud Run fully managed",
-      "excerpt": "Since we launched Cloud Run at Google Cloud Next in April, developers have discovered that “serverless” and “containers” run well together. With Cloud Run, not only do you benefit from fully managed infrastructure, up and down auto-scaling, and pay-as-you-go pricing, but you’re also able to package your",
-      "heat": 151,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/a-developers-guide-to-new-features-in-cloud-run/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/a-developers-guide-to-new-features-in-cloud-run/amp/",
-      "publishedDateTime": "2019-12-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run_blog.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "8 production-ready features you’ll find in Cloud Run fully managed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-12-10-packet-mirroring-visualize-and-protect-your-cloud-network.md",
-      "title": "Packet Mirroring: Visualize and protect your cloud network",
-      "excerpt": "As networks grow in complexity, network and security administrators need to be able to analyze and monitor network traffic to respond to security breaches and attacks. However, in public cloud environments, getting access to network traffic can be challenging.Many customers use advanced security and",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/packet-mirroring-visualize-and-protect-your-cloud-network/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/packet-mirroring-visualize-and-protect-your-cloud-network/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/packet-mirroring-visualize-and-protect-your-cloud-network/amp/",
-      "publishedDateTime": "2019-12-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_networking.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Packet Mirroring: Visualize and protect your cloud network",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],

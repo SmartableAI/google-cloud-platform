@@ -2,6 +2,94 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-16-rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work.md",
+      "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
+      "excerpt": "From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19. Read More Rolls Royce and a bevy of data science players including IBM, Google Cloud, Truata and the Leeds Institute for Data Analytics have formed a group to collaborate on modeling the economic recovery from the COVID ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work/",
+      "publishedDateTime": "2020-04-16T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/14/6b0e61f4-5b70-4981-9e00-aac95ef156df/thumbnail/1200x675/f91673ddda5b62d9289c06079356328f/microsoftteams.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them.md",
+      "title": "Your Zoom videos could live on in the cloud even after you delete them",
+      "excerpt": "If you clicked Record to Cloud during a Zoom meeting, you might have assumed Zoom and the cloud storage provider would have password-protected your video by default once it was uploaded. And if you deleted that video from your Zoom account,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-zoom-videos-could-live-on-in-the-cloud-even-after-you-delete-them/",
+      "publishedDateTime": "2020-04-16T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/zDJ-1qDidz7r3PiL8M2Uve6ZhOo=/756x567/2020/03/24/6d4a4d41-f7f5-4389-989d-65525058d751/14-zoom-app-meetings-work-from-home-coronavirus.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Your Zoom videos could live on in the cloud even after you delete them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-google-cloud-to-join-rolls-royce-coronavirus-alliance.md",
       "title": "Google Cloud to join Rolls-Royce coronavirus alliance",
       "excerpt": "Google Cloud has announced that it will be joining a new alliance of data analytics companies that aims to support businesses and governments in recovering from the coronavirus pandemic. Emer2gent is set to combine traditional economic, business, travel and retail data sets with behaviour and sentiment data, in order to facilitate the global ...",
@@ -1071,80 +1159,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-connecting-to-google-cloud-your-networking-options-explained.md",
-      "title": "Connecting to Google Cloud: your networking options explained",
-      "excerpt": "So, your organization recently decided to adopt Google Cloud. Now you just need to decide how you’re going to connect your applications to it... Public IP addresses, or VPN? Via an interconnect or through peering? Should you want to go the interconnect route, should it be direct or through a partner?",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/google-cloud-network-connectivity-options-explained/amp/",
-      "publishedDateTime": "2020-04-03T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Networking_lQ5HQBE.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Connecting to Google Cloud: your networking options explained",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-filling-the-ncaa-void-using-bigquery-to-simulate-march-madness.md",
-      "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
-      "excerpt": "As COVID-19 continues to have enormous impact around the world, we’ve focused on supporting customers and making available public data to help research efforts, among various other initiatives. Beyond the essential issues at hand, it’s been a truly strange time for sports fans, with virtually every league",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/march-madness-simulations-with-machine-learning/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
-      "publishedDateTime": "2020-04-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_basketball.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

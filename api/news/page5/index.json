@@ -2,6 +2,90 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-20-google-unveils-tech-to-make-it-easier-for-doctors-and-patients-to-share-health-info.md",
+      "title": "Google unveils tech to make it easier for doctors and patients to share health info",
+      "excerpt": "Google is announcing the general availability of technology that, if widely adopted, could make it easier for patients to access their own health information via third-party apps.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/20/google-cloud-health-api-released.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/20/google-cloud-health-api-released.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/20/google-cloud-health-api-released.html",
+      "publishedDateTime": "2020-04-20T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1582733192",
+          "width": 3000,
+          "height": 2003,
+          "title": "Google unveils tech to make it easier for doctors and patients to share health info",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-best-practices-for-optimizing-your-cloud-costs.md",
+      "title": "Best practices for optimizing your cloud costs",
+      "excerpt": "One of the greatest benefits of running in the cloud is being able to scale up and down to meet demand and reduce operational expenditures. And that’s especially true when you’re experiencing unexpected changes in customer demand.Here at Google Cloud, we have an entire team of Solutions Architects dedicated",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_5I5zzaa.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Best practices for optimizing your cloud costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Analytics",
+        "Networking",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-google-launches-cloud-healthcare-api-in-general-availability.md",
       "title": "Google launches Cloud Healthcare API in general availability",
       "excerpt": "As Google notes, even in the best of circumstances, collating healthcare data is often a challenge for health care and life science organizations. The API, then, enables providers to interact with data using endpoints and health plans, providing them a platform that scales and supports interoperability and patient access. Cloud Healthcare API ...",
@@ -949,94 +1033,6 @@
           "width": 1200,
           "height": 630,
           "title": "The best Google Home-compatible security devices for 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-pileus-helps-businesses-cut-their-cloud-spend.md",
-      "title": "Pileus helps businesses cut their cloud spend",
-      "excerpt": "Using machine learning, the company’s platform continuously learns about how a user typically uses a given cloud and then provides forecasts and daily personalized recommendations to help them stay within a budget. Pileus currently supports AWS, with support for Google Cloud and Microsoft Azure coming soon. With all of the information it ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "publishedDateTime": "2020-04-15T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/register_mockup_image.27280a96.png",
-          "width": 622,
-          "height": 364,
-          "title": "Pileus helps businesses cut their cloud spend",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing.md",
-      "title": "How Apple and Google plan to combat the coronavirus through contact tracing",
-      "excerpt": "Anticipating this concern, Apple and Google have both addressed it. In one of its documents, Apple explained that the proximity identifier changes every 15 minutes and requires the necessary key in order to be traced back to the user. These identifiers are processed on the device and not in the cloud. Each user chooses whether to contribute to ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-apple-and-google-plan-to-combat-the-coronavirus-through-contact-tracing/",
-      "publishedDateTime": "2020-04-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/15/d196417e-97e5-46e1-b2d0-185b234bd6a1/resize/1200x/5c40b60c64e46a2dcd1d9fa6ee53ac0c/istock-612616318.jpg",
-          "width": 1200,
-          "height": 939,
-          "title": "How Apple and Google plan to combat the coronavirus through contact tracing",
           "attribution": null
         }
       ],
