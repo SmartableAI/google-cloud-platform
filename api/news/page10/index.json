@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-01-28-unify-kubernetes-and-gcp-resources-for-simpler-and-faster-deployments.md",
+      "title": "Unify Kubernetes and GCP resources for simpler and faster deployments",
+      "excerpt": "Adopting containers and Kubernetes means adopting new ways of doing things, not least of which is how you configure and maintain your resources. As a declarative system, Kubernetes allows you to express your intent for a given resource, and then creates and updates those resources using continuous reconciliation.",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources/amp/",
+      "publishedDateTime": "2020-01-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes_tLRY5pW.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Unify Kubernetes and GCP resources for simpler and faster deployments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-exploring-an-apache-kafka-to-pubsub-migration-major-considerations.md",
       "title": "Exploring an Apache Kafka to Pub/Sub migration: Major considerations",
       "excerpt": "The fastest way to migrate a business application into Google Cloud is to use the lift and shift strategy—and part of that transition is migrating any OSS, or third-party services that the application uses. But sometimes it can be more efficient and beneficial to leverage Google Cloud services instead. One",
@@ -889,43 +926,6 @@
       "topics": [
         "Google Cloud",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2019-12-11-introducing-e2-new-cost-optimized-general-purpose-vms-for-google-compute-engine.md",
-      "title": "Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine",
-      "excerpt": "Editor’s note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regionsGeneral-purpose virtual machines are the workhorses of cloud applications. Today, we’re excited to announce our E2 family of VMs for Google Compute Engine featuring dynamic resource management",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/google-compute-engine-gets-new-e2-vm-machine-types/amp/",
-      "publishedDateTime": "2019-12-11T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/e2-hero-2880x1200.png",
-          "width": 2881,
-          "height": 1200,
-          "title": "Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
       ]
     }
   ],

@@ -2,6 +2,42 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-16-data-processing-just-got-easier-with-apps-scripts-new-v8-runtime.md",
+      "title": "Data processing just got easier with Apps Script’s new V8 runtime",
+      "excerpt": "We’re excited to announce Apps Script is nowsupported by the V8 runtime that powers Chrome and Node.js. This update lets users take advantage of modern JavaScript features (ECMA 6 and new releases moving forward). It also enhances new or existing scripts, like those that transform data in Google Sheets,",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/g-suite-developers/data-processing-just-got-easier-apps-scripts-new-v8-runtime/amp/",
+      "publishedDateTime": "2020-03-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AppDev.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Data processing just got easier with Apps Script’s new V8 runtime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-finding-a-problem-at-the-bottom-of-the-google-stack.md",
       "title": "Finding a problem at the bottom of the Google stack",
       "excerpt": "At Google, our teams follow site reliability engineering (SRE) practices to help keep systems healthy and users productive. There is a phrase we often use on our SRE teams: \"At Google scale, million-to-one chances happen all the time.\" This illustrates the massive complexity of the system that powers",
@@ -1072,43 +1108,6 @@
       "topics": [
         "Google Cloud",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-taking-a-practical-approach-to-bigquery-slot-usage-analysis.md",
-      "title": "Taking a practical approach to BigQuery slot usage analysis",
-      "excerpt": "Google BigQuery is a fully managed serverless solution for your enterprise data warehouse workloads. Nothing could be easier than that: Just upload your data via batch or streaming and start running your queries. The underlying system will seamlessly take care of providing the infrastructural resources",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse/amp/",
-      "publishedDateTime": "2020-02-14T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Data_Analytics1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Taking a practical approach to BigQuery slot usage analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

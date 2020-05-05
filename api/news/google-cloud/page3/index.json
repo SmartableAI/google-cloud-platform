@@ -2,6 +2,42 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-28-improving-your-security-posture-with-centralized-secrets-management.md",
+      "title": "Improving your security posture with centralized secrets management",
+      "excerpt": "Adopting centralized secrets management is an important step in improving your organization's security posture. Centralized solutions provide unified auditing, access controls, and policy management, but many organizations struggle to install, configure, and drive internal adoption of these solutions",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/amp/",
+      "publishedDateTime": "2020-04-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/secret-manager-ga-blog-hero.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Improving your security posture with centralized secrets management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-introducing-plus-codes-in-place-autocomplete-place-details-and-geocoding-to-help-you-serve-users-everywhere.md",
       "title": "Introducing plus codes in Place Autocomplete, Place Details and Geocoding to help you serve users everywhere",
       "excerpt": "Although we’re constantly mapping the world–adding addresses, points of interest, roads, and more–there are many places without traditional addressing systems and some areas with no addresses or road names at all. This can be a challenge for businesses such as food delivery or on-demand transportation,",
@@ -1151,50 +1187,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-cloud-anthos-now-available-for-aws-with-azure-to-follow.md",
-      "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
-      "excerpt": "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "publishedDateTime": "2020-04-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
           "attribution": null
         }
       ],

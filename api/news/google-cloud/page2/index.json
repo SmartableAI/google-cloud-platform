@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-01-understanding-forwarding-peering-and-private-zones-in-cloud-dns.md",
+      "title": "Understanding forwarding, peering, and private zones in Cloud DNS",
+      "excerpt": "The Domain Name System, or DNS, is one of the most foundational services of the Internet, turning human-friendly domain names into IP addresses. Often handled by specialized network engineers within an organization, DNS can feel like a black box to people who don’t deal with it often. For one, DNS terminology",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/cloud-forwarding-peering-and-zones/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google-networking.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Understanding forwarding, peering, and private zones in Cloud DNS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-business-continuity-planning-and-resilience-in-financial-services-during-covid-19-and-beyond.md",
       "title": "Business continuity planning and resilience in financial services during COVID-19 and beyond",
       "excerpt": "As COVID-19 continues to affect our world, financial services organizations are working hard to ensure their services are available to all who need them. In many countries, financial services are “essential” and must remain available throughout COVID-19 for important reasons, including national economic",
@@ -1200,42 +1237,6 @@
           "width": 1159,
           "height": 651,
           "title": "PUBG comes to Google Stadia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-improving-your-security-posture-with-centralized-secrets-management.md",
-      "title": "Improving your security posture with centralized secrets management",
-      "excerpt": "Adopting centralized secrets management is an important step in improving your organization's security posture. Centralized solutions provide unified auditing, access controls, and policy management, but many organizations struggle to install, configure, and drive internal adoption of these solutions",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/amp/",
-      "publishedDateTime": "2020-04-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/secret-manager-ga-blog-hero.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Improving your security posture with centralized secrets management",
           "attribution": null
         }
       ],

@@ -2,6 +2,42 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-16-how-to-get-remote-workers-up-and-running-quickly-and-securely-with-chrome-enterprise.md",
+      "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
+      "excerpt": "Shifting to a remote workforce is an important way businesses and organizations have supported their communities in response to COVID-19. But ensuring workers have remote access to the apps and data they need can be challenging, and in the rush to deploy devices quickly, many businesses worry about threats",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/remote-work-toolkit-from-chrome-enterprise/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/12985_RemoteWorker_BlogIllo_v011x.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-google-may-let-some-air-out-of-its-cloud.md",
       "title": "Google May Let Some Air Out of Its Cloud",
       "excerpt": "Google will be “recalibrating” its focus and pace of investments in areas like data centers and machines—the components underpinning cloud computing.",
@@ -1128,43 +1164,6 @@
           "width": 1100,
           "height": 619,
           "title": "Improved database performance data: Key Visualizer now in Cloud Bigtable console",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-same-cloud-bigtable-database-now-for-smaller-workloads.md",
-      "title": "Same Cloud Bigtable database, now for smaller workloads",
-      "excerpt": "Cloud Bigtable is a fast, petabyte-scale NoSQL database service that has long supported massive workloads, both internally at Google and for Google Cloud customers. We are now announcing that Bigtable is expanding its support for smaller workloads.You can now create production instances with one or two",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/nosql-cloud-database-1-or-2-nodes/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/nosql-cloud-database-1-or-2-nodes/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/nosql-cloud-database-1-or-2-nodes/amp/",
-      "publishedDateTime": "2020-04-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/cloud_bigtable.gif",
-          "width": 1040,
-          "height": 1040,
-          "title": "Same Cloud Bigtable database, now for smaller workloads",
           "attribution": null
         }
       ],
