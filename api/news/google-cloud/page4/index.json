@@ -2,6 +2,79 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-22-modernize-legacy-apps-with-migrate-for-anthos-introducing-support-for-day-two-operations.md",
+      "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+      "excerpt": "Not all application modernization strategies are created equal. One of the simplest approaches is to take an existing virtual machine and save it as a container. But while the resulting container will work, it won’t give you the benefits of more sophisticated modernization techniques—both in terms of",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/migrate-for-anthos-1-3-accelerates-modernization/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-were-rolling-out-4-top-requested-google-meet-features.md",
+      "title": "We’re rolling out 4 top-requested Google Meet features",
+      "excerpt": "Remote work has become increasingly necessary for public safety and wellbeing—which makes staying connected, even while we’re apart, more important than ever. Each day, a rapidly growing number of people connect on Google Meet, and we want to make sure they have the features they need to share and be",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/productivity-collaboration/introducing-tiled-view-and-other-top-requested-features-in-google-meet/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Meet_16.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "We’re rolling out 4 top-requested Google Meet features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-google-cloud-made-its-healthcare-api-available-to-providers-amid-the-pandemic.md",
       "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
       "excerpt": "Google Cloud made its Healthcare API generally available to healthcare organizations in response to the coronavirus pandemic.",
@@ -924,7 +997,7 @@
       "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
       "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
       "excerpt": "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ...",
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
@@ -1166,94 +1239,6 @@
           "width": 1200,
           "height": 800,
           "title": "Google's Stadia Finally Offers a Free Option",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails.md",
-      "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
-      "excerpt": "That's especially true with phishing emails, which often promise information and updates about COVID-19 but instead lead people to malicious content. The popularity of Google Cloud services such as G Suite, Gmail, and Chrome have made their users tempting targets for malware. In a blog post published on Thursday, Google explained what it's ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
-      "publishedDateTime": "2020-04-17T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/26/05489297-ce39-46e0-a5b9-c1d8795feefe/resize/1200x/e23b602d8e1f28512faa6302a8d89e4b/istock-1211016776.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025.md",
-      "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
-      "excerpt": "New York, April 17, 2020: The Global Chatbot Market is segmented on the lines of its platform, enterprise size and",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025-2020-04-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
           "attribution": null
         }
       ],

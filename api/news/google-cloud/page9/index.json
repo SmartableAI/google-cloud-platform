@@ -2,6 +2,80 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-01-13-performance-art-making-cloud-network-performance-benchmarking-faster-and-easier.md",
+      "title": "Performance art: Making cloud network performance benchmarking faster and easier",
+      "excerpt": "Before you migrate workloads to the cloud, you need to benchmark network performance in order to understand how that performance affects your business applications. Unfortunately, the cloud hasn’t offered the standards, tools, and methods to do the benchmark testing you need. As a result, you’re forced",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance/amp/",
+      "publishedDateTime": "2020-01-13T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP-networking-01.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Performance art: Making cloud network performance benchmarking faster and easier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-exploring-container-security-navigate-the-security-seas-with-ease-in-gke-v115.md",
+      "title": "Exploring container security:  Navigate the security seas with ease in GKE v1.15",
+      "excerpt": "Your container fleet, like a flotilla, needs ongoing maintenance and attention to stay afloat—and stay secure. In the olden days of seafaring, you grounded your ship at high tide and turned it on its side to clean and repair the hull, essentially taking it “offline.” We know that isn’t practical for",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/new-kubernetes-security-settings-2019/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/new-kubernetes-security-settings-2019/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/new-kubernetes-security-settings-2019/amp/",
+      "publishedDateTime": "2020-01-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/548d_Container_security_full.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Exploring container security:  Navigate the security seas with ease in GKE v1.15",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-01-10-a-home-away-from-home-wayfair-goes-hybrid-on-google-cloud-with-100-gbps-dedicated-interconnect.md",
       "title": "A home away from home: Wayfair goes hybrid on Google Cloud with 100 Gbps Dedicated Interconnect",
       "excerpt": "Whatever the requirement—everything from enterprise-readiness fundamentals like reliability, performance, and security, to innovations for enabling microservices architecture or hybrid/multi-cloud deployments—the Google Cloud networking portfolio has something to offer.  For Wayfair Inc., an American",
@@ -1039,80 +1113,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-26-you-can-cook-turkey-in-a-toaster-oven-but-you-dont-have-to.md",
-      "title": "You can cook turkey in a toaster oven, but you don't have to",
-      "excerpt": "When I was in college and couldn't make it home for the Thanksgiving holiday, I would get together with other students in the same situation and do the next best thing: cook a traditional Thanksgiving feast of roast turkey, mashed potatoes and gravy, stuffing, and green beans by ourselves. In a dorm",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/application-developers-should-try-all-the-tools-on-google-cloud-/amp/",
-      "publishedDateTime": "2019-11-26T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Thanksgiving.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "You can cook turkey in a toaster oven, but you don't have to",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-11-25-understanding-google-cloud-armors-new-waf-capabilities.md",
-      "title": "Understanding Google Cloud Armor’s new WAF capabilities",
-      "excerpt": "Protecting applications exposed to the internet is an increasingly difficult job. Since we launched Google Cloud Armor last December, it has helped enterprises protect themselves and their users with a native solution that protects big and small applications from Distributed Denial of Service (DDoS)",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/identity-security/understanding-google-cloud-armors-new-waf-capabilities/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/understanding-google-cloud-armors-new-waf-capabilities/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/understanding-google-cloud-armors-new-waf-capabilities/amp/",
-      "publishedDateTime": "2019-11-25T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Armor.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Understanding Google Cloud Armor’s new WAF capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],

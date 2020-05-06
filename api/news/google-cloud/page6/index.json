@@ -2,6 +2,78 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-07-secure-connections-how-google-meet-keeps-your-video-conferences-protected.md",
+      "title": "Secure connections: How Google Meet keeps your video conferences protected",
+      "excerpt": "All over the world, businesses, schools and users depend on G Suite to help them stay connected and get work done. Google designs, builds, and operates our products on a secure foundation, aimed at thwarting attacks and providing the protections needed to keep you safe. G Suite and Google Meet are no",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-meet-keeps-video-conferences-secure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog-header--how-Hangouts-helped-one-of-Go.max-1200x1200_wYZQAj3.png",
+          "width": 1200,
+          "height": 631,
+          "title": "Secure connections: How Google Meet keeps your video conferences protected",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-last-month-today-march-in-google-cloud.md",
+      "title": "Last month today: March in Google Cloud",
+      "excerpt": "While many of us had plans for March—including simply carrying out our normal routines—life as we know it has been upended by the global coronavirus pandemic. In a time of social distancing, technology has played a greater role in bringing us together. Here’s a look at stories from March that explored",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/last-month-today-march-in-google-cloud-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GOOGLE_GCP_C_Rnd1_1HnkAko.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Last month today: March in Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-admin-essentials-simplifying-chrome-deployments-on-macos.md",
       "title": "Admin Essentials: Simplifying Chrome deployments on macOS",
       "excerpt": "At Google, the Chrome Browser Enterprise team is working to help make IT admins' jobs easier, and to make Chrome as flexible as possible. Because there are a lot of enterprise admins responsible for managing Macs, we recently made some changes aimed at simplifying deployment and to help ensure that Chrome",
@@ -1064,79 +1136,6 @@
           "width": 1000,
           "height": 555,
           "title": "Google Cloud named a leader in the Forrester Wave for Public Cloud Development and Infrastructure Platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-modernizing-twitters-ad-engagement-analytics-platform.md",
-      "title": "Modernizing Twitter's ad engagement analytics platform",
-      "excerpt": "As part of the daily business operations on its advertising platform, Twitter serves billions of ad engagement events, each of which potentially affects hundreds of downstream aggregate metrics. To enable its advertisers to measure user engagement and track ad campaign efficiency, Twitter offers a variety",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform/amp/",
-      "publishedDateTime": "2020-03-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Modernizing Twitter's ad engagement analytics platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-protect-users-in-your-apps-with-multi-factor-authentication.md",
-      "title": "Protect users in your apps with multi-factor authentication",
-      "excerpt": "These days, using a password alone to secure user accounts containing sensitive, identifiable, or private information just isn’t sufficient. Passwords are often subject to reuse and can easily be phished and stolen. With this in mind, we recently teamed up with researchers from New York University and",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/identity-security/protect-users-in-your-apps-with-multi-factor-authentication/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/protect-users-in-your-apps-with-multi-factor-authentication/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/protect-users-in-your-apps-with-multi-factor-authentication/amp/",
-      "publishedDateTime": "2020-03-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Security-identity.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Protect users in your apps with multi-factor authentication",
           "attribution": null
         }
       ],

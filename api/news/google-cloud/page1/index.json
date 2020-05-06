@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-06-microsoft-word-vs-google-docs.md",
+      "title": "Microsoft Word vs. Google Docs",
+      "excerpt": "Word or Docs? The decision may seem simple if you're already integrated into either Microsoft or Google services, but there are other factors to consider.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-word-versus-google-docs/",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-word-versus-google-docs/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-versus-google-docs/?amp",
+      "publishedDateTime": "2020-05-05T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/how-to-use-microsoft-office-for-free-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Microsoft Word vs. Google Docs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-googles-stadia-controller-will-finally-work-wirelessly-with-computers-starting-this-week.md",
       "title": "Google’s Stadia controller will finally work wirelessly with computers starting this week",
       "excerpt": "Google’s Stadia Controller will finally work wirelessly with laptops and desktops starting this week, the company announced today (via Engadget). Since the cloud gaming services",
@@ -447,6 +491,42 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-google-explored-acquiring-zoom.md",
+      "title": "Google Explored Acquiring Zoom",
+      "excerpt": "A group of Google engineers reportedly spearheaded an initiative to acquire Zoom in 2018, according to a report from The Information.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2020/05/04/google-explored-acquiring-zoom/",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2020/05/04/google-explored-acquiring-zoom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2020/05/04/google-explored-acquiring-zoom/amp/",
+      "publishedDateTime": "2020-05-04T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1177,78 +1257,6 @@
           "width": 1200,
           "height": 675,
           "title": "Google rolls out new AI-powered product for banks processing PPP loans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-designing-distributed-systems-using-nalsd-flashcards.md",
-      "title": "Designing distributed systems using NALSD flashcards",
-      "excerpt": "There are many ways to design distributed systems. One way involves growing systems organically—components are rewritten or redesigned as the system handles more requests. Another method starts with a proof of concept. Once the system adds value to the business, a second version is designed from the",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/management-tools/sre-principles-and-flashcards-to-design-nalsd/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_Management_tools.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Designing distributed systems using NALSD flashcards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-to-improve-the-delivery-and-ecommerce-experience-with-google-maps-platform.md",
-      "title": "How to improve the delivery and ecommerce experience with Google Maps Platform",
-      "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices for adding new functionality to your apps and websites.With many restaurants and stores around the world unable to open for business as usual, a common question we hear",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-improve-delivery-and-ecommerce-experience-google-maps-platform/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Delivery_GettyImages-930002622_2.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 1467,
-          "title": "How to improve the delivery and ecommerce experience with Google Maps Platform",
           "attribution": null
         }
       ],

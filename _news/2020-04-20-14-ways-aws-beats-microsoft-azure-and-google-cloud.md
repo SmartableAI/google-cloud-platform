@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-20T10:02:00Z
 webUrl: "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
     width: 700
     height: 467
     title: "14 ways AWS beats Microsoft Azure and Google Cloud"
-
-related:
-  - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
-    excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
-    publishedDateTime: 2020-04-16T18:06:00Z
-    webUrl: "https://www.computerworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 52
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
 
 secured: "W7yub85GVk3MmIq/XHFOGtVdljpkOsSNUI1AEtc/1uVR7DMldKvr94PaETXAdXyisqD3/HKzXoYPBlipsF8+krpszpIWSpYt1ByM+3+SeFRIeZxe9ZCbnQf89l1tA62OVKPNrUQWElg8GEDexKp38h+NeewsY282wHCb0kmE4qJ5d9gJHRNe9vQfPlV1lexDeDUFTXJdIX/pjdlQsHA9wHLISEPcakvzNBO6wokLnaJiqHIiNXL20I+UBBFbk96tyjN3DJ8YXcikzg8HpdH4OVQk3CBdhe1waV/atSEgeaYDbEBCGNSFzyMuzEn98mLsFWvWIAvi5PbS7SJMxSEg+ROU2K9AEUWjMBWMK81bvdTy/EgUByVOid303kH4GnFhTiHBj6A6kOhwn4/JQjHwVp9BmfKFla32fRQTsP2ueXWpdrh/1XS+B+dfAnmZpnVNwgmvfv/45jGJU0y9d48ux2+C5DDpZR9ALQkb7fZuMFE=;r9lPrZsaeacpCzOzp4HCNQ=="
 ---

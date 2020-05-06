@@ -2,6 +2,94 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-17-how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails.md",
+      "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
+      "excerpt": "That's especially true with phishing emails, which often promise information and updates about COVID-19 but instead lead people to malicious content. The popularity of Google Cloud services such as G Suite, Gmail, and Chrome have made their users tempting targets for malware. In a blog post published on Thursday, Google explained what it's ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
+      "publishedDateTime": "2020-04-17T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/26/05489297-ce39-46e0-a5b9-c1d8795feefe/resize/1200x/e23b602d8e1f28512faa6302a8d89e4b/istock-1211016776.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025.md",
+      "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
+      "excerpt": "New York, April 17, 2020: The Global Chatbot Market is segmented on the lines of its platform, enterprise size and",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025-2020-04-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-protecting-businesses-against-cyber-threats-during-covid-19-and-beyond.md",
       "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
       "excerpt": "No matter the size of your business, IT teams are facing increased pressure to navigate the challenges of COVID-19. At the same time, some things remain constant: Security is at the top of the priority list, and phishing is still one of the most effective methods that attackers use to compromise accounts",
@@ -1101,78 +1189,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-secure-connections-how-google-meet-keeps-your-video-conferences-protected.md",
-      "title": "Secure connections: How Google Meet keeps your video conferences protected",
-      "excerpt": "All over the world, businesses, schools and users depend on G Suite to help them stay connected and get work done. Google designs, builds, and operates our products on a secure foundation, aimed at thwarting attacks and providing the protections needed to keep you safe. G Suite and Google Meet are no",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/how-google-meet-keeps-video-conferences-secure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog-header--how-Hangouts-helped-one-of-Go.max-1200x1200_wYZQAj3.png",
-          "width": 1200,
-          "height": 631,
-          "title": "Secure connections: How Google Meet keeps your video conferences protected",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-last-month-today-march-in-google-cloud.md",
-      "title": "Last month today: March in Google Cloud",
-      "excerpt": "While many of us had plans for March—including simply carrying out our normal routines—life as we know it has been upended by the global coronavirus pandemic. In a time of social distancing, technology has played a greater role in bringing us together. Here’s a look at stories from March that explored",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/gcp/last-month-today-march-in-google-cloud-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GOOGLE_GCP_C_Rnd1_1HnkAko.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Last month today: March in Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],
