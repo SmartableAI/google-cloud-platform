@@ -38,6 +38,19 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/02/big_data_analytics_analysis_statistics_thinkstock_626673360-100749740-large.jpg"
         width: 1200
         height: 800
+  - title: "Privitar Data Privacy Platform now natively integrates with Google Cloud"
+    excerpt: "Privitar, a data privacy platform provider, announced that the Privitar Data Privacy Platform now natively integrates with the Google Cloud Platform."
+    publishedDateTime: 2020-05-05T23:48:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/05/06/privitar-google-cloud/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 36
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+        width: 304
+        height: 430
   - title: "Privitar Announces New Native Integration With Google Cloud Platform"
     excerpt: "Privitar, the leading data privacy platform provider, today announced that the Privitar Data Privacy Platform™ now natively integrates with the Google Cloud Platform. The new integration adds to Privitar’s native support of public cloud services,"
     publishedDateTime: 2020-05-05T13:14:00Z

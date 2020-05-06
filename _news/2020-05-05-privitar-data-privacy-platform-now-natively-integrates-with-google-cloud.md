@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Privitar Announces New Native Integration With Google Cloud Platform"
-excerpt: "Privitar, the leading data privacy platform provider, today announced that the Privitar Data Privacy Platform™ now natively integrates with the Google Cloud Platform. The new integration adds to Privitar’s native support of public cloud services,"
-publishedDateTime: 2020-05-05T13:14:00Z
-webUrl: "https://www.businesswire.com/news/home/20200505005123/en/Privitar-Announces-New-Native-Integration-Google-Cloud"
+title: "Privitar Data Privacy Platform now natively integrates with Google Cloud"
+excerpt: "Privitar, a data privacy platform provider, announced that the Privitar Data Privacy Platform now natively integrates with the Google Cloud Platform."
+publishedDateTime: 2020-05-05T23:48:00Z
+webUrl: "https://www.helpnetsecurity.com/2020/05/06/privitar-google-cloud/"
 type: article
-quality: 32
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Google Cloud
+
+images:
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+    width: 304
+    height: 430
+    title: "Privitar Data Privacy Platform now natively integrates with Google Cloud"
 
 related:
   - title: "Splunk Cloud comes to Google Cloud"
@@ -45,20 +51,16 @@ related:
       - url: "https://www.crn.com/resources/025d-0f55dede8d4e-6c4fce471b7e-1000/splunk-sign.jpg"
         width: 610
         height: 457
-  - title: "Privitar Data Privacy Platform now natively integrates with Google Cloud"
-    excerpt: "Privitar, a data privacy platform provider, announced that the Privitar Data Privacy Platform now natively integrates with the Google Cloud Platform."
-    publishedDateTime: 2020-05-05T23:48:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/05/06/privitar-google-cloud/"
+  - title: "Privitar Announces New Native Integration With Google Cloud Platform"
+    excerpt: "Privitar, the leading data privacy platform provider, today announced that the Privitar Data Privacy Platform™ now natively integrates with the Google Cloud Platform. The new integration adds to Privitar’s native support of public cloud services,"
+    publishedDateTime: 2020-05-05T13:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200505005123/en/Privitar-Announces-New-Native-Integration-Google-Cloud"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 36
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
-        width: 304
-        height: 430
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
 
-secured: "1gS+cnKKaMYZd7TEDC4T2t58D0/r9cmes1p70J/MP85tfM58PiXtmf0fW82jAiO/eymyRUSDqVy/+mFoIv2Yn29oi3vnxm5eUdYwJBObC3byYPvPkF0DOYKSPxVrdST/R1FBOO/U7Cmo3MatE9eRvp/EnYny+cEgoeOLf/V7aJGJY9MdNStiVNvgtt1tw9Z5N+8bROGpUFodQ5VUs5Bg0bvPyN1x13k/xRUzIOIuq4tmeoH+gkiDH32tuheWM5SfM6hUyM8lFdmirtIYLbtVX8Vn+9F2URPwOxAzDyODXK19CK1Vqko+vAQAuQUB0BCw;H/d/LkrPryDLM8duj7Qi8A=="
+secured: "rnxAhInwQSa4IdTCZqOuI+c6ZWert5XUYgeTLQwxxJ5RGZpP42byYY96gXoASd3Kbo4Ow2gQp1K2gpZ6Or3PRKgbWRIR3apnDnlLIMwE0V3bZQHmzqZdvAsbp/CzH/+Y8GDT/ehvHKeTAstYqqoqh3llVFbNmfahLAK3lcxlkiohZPYStvVl9BBJH//E3Io36A+qMrITm6sztorja1PtuS77CAcxgtsm2cS7zOEDJvYC1S39UmLkO8ldpC9H1TanTKpWO1MRbFfZqIdwlkgPBkmmXWGwkeOBxn/oYvXU4sOx6OPCmtLtOIvSNfi3I+N9;aK9JcY/ApQsjFkHucDPZ5A=="
 ---
 
