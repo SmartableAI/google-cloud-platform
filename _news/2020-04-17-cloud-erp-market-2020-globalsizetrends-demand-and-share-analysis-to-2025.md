@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T10:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025-2020-04-17"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -36,19 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Cloud IAM Market Size, Share, Growth, Trends, Global Industry Analysis Forecasts 2020-2025"
-    excerpt: "To access a sample of the study before purchase, kindly follow through @https://www.arcognizance.com/enquiry-sample/830305#utm_source=google&utm_campaign=Mayur The Cloud IAM industry can be categorized on a global scale across various districts, appropriate distribution and production channels, income generated per capita, general market share ..."
-    publishedDateTime: 2020-04-16T08:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-iam-market-size-share-growth-trends-global-industry-analysis-forecasts-2020-2025-2020-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

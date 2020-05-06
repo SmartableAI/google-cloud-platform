@@ -32,6 +32,19 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
+  - title: "HPE GreenLake Central helps customers run, manage, and optimize their hybrid cloud estate"
+    excerpt: "Hewlett Packard Enterprise (HPE) announced that HPE GreenLake Central, unveiled in December 2019, is now generally available for HPE GreenLake customers."
+    publishedDateTime: 2020-05-06T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/05/06/hpe-greenlake-central/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 13
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+        width: 304
+        height: 430
 
 secured: "V+FQQ1WVSL83+6Cj8mA3AeUlV6Va3nJGE/BQnn60ZNiy016uY8LwDFtqqAbOw3u0cql6133UYxrXDnw2IycgMRq1mD84NzV9QE9lScpRyw/UTMvEPL29JLS3zK65b1GYkACUt4flrWjtx0V9f16ikuATAzUyDvFzJo8uWEKpJUEkuQmYVJLGWqk3PgYYcpUfyyciUyzsV8vNjxQ5O0GCClE4dXIE4W7odxO2z8TGi2EAib5NMtIAl7jbQdsSsnmASeFmvFAqWG/AP8YC0kKQ1+Qm+gTKXALRxB8DFVWLBQF1dmKqTqWGq+aH5JwU2Yk0;iq4NTJnKnBI1WfX1kXx7Gg=="
 ---

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-06-googles-stadia-controller-will-finally-work-wirelessly-with-computers-starting-this-week.md",
+      "title": "Google’s Stadia controller will finally work wirelessly with computers starting this week",
+      "excerpt": "Google’s Stadia Controller will finally work wirelessly with laptops and desktops starting this week, the company announced today (via Engadget). Since the cloud gaming services",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/5/21248769/google-stadia-controller-wireless-computers-desktop-laptop",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/5/21248769/google-stadia-controller-wireless-computers-desktop-laptop",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/5/21248769/google-stadia-controller-wireless-computers-desktop-laptop",
+      "publishedDateTime": "2020-05-05T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/yxc7GCwTB6kZozLpIjAiyK9YRwc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66756942/akrales_191113_3779_0163.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google’s Stadia controller will finally work wirelessly with computers starting this week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-providing-transparency-into-government-requests-for-enterprise-data.md",
       "title": "Providing transparency into government requests for enterprise data",
       "excerpt": "At Google Cloud, we’re committed to being transparent about when governments request our enterprise customers’ data. Today, to continue our company-wide efforts to build trust through transparency, Google published its semi-annual Requests for user information transparency report. This version of the",
@@ -1205,42 +1249,6 @@
           "width": 2200,
           "height": 1467,
           "title": "How to improve the delivery and ecommerce experience with Google Maps Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-learn-3-in-demand-cloud-skills-in-30-days-at-no-cost-during-the-month-of-may.md",
-      "title": "Learn 3 in-demand cloud skills in 30 days at no cost during the month of May",
-      "excerpt": "In April, we announced we were expanding our Google Cloud learning resources to support the growing number of people working and learning from home. Today, we are excited to announce that if you sign up by May 31, 20201, you can still enroll in Google Cloud training on both Pluralsight and Qwiklabs at",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-training-available-at-no-cost-for-30-days/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_HowTo_02.max-1500x1500.jpg",
-          "width": 1500,
-          "height": 625,
-          "title": "Learn 3 in-demand cloud skills in 30 days at no cost during the month of May",
           "attribution": null
         }
       ],

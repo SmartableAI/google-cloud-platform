@@ -2,6 +2,42 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-16-protecting-businesses-against-cyber-threats-during-covid-19-and-beyond.md",
+      "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
+      "excerpt": "No matter the size of your business, IT teams are facing increased pressure to navigate the challenges of COVID-19. At the same time, some things remain constant: Security is at the top of the priority list, and phishing is still one of the most effective methods that attackers use to compromise accounts",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/protecting-against-cyber-threats-during-covid-19-and-beyond/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Security-identity-04.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-how-to-get-remote-workers-up-and-running-quickly-and-securely-with-chrome-enterprise.md",
       "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
       "excerpt": "Shifting to a remote workforce is an important way businesses and organizations have supported their communities in response to COVID-19. But ensuring workers have remote access to the apps and data they need can be challenging, and in the rush to deploy devices quickly, many businesses worry about threats",
@@ -187,6 +223,42 @@
           "width": 1200,
           "height": 675,
           "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-ecs-announces-expanded-services-for-google-cloud-platform.md",
+      "title": "ECS Announces Expanded Services for Google Cloud Platform",
+      "excerpt": "FAIRFAX, Va.--(BUSINESS WIRE)--ECS, a leader in advanced technology, science, and engineering solutions, announced an expansion of its services as a Google Cloud Platform (GCP) partner. Through the ECS Cloud Center of Excellence, ECS delivers solutions from leading cloud service providers (CSPs) to deploy mission-critical workloads to some of ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200416005580/en/ECS-Announces-Expanded-Services-Google-Cloud-Platform",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200416005580/en/785511/23/ECS_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "ECS Announces Expanded Services for Google Cloud Platform",
           "attribution": null
         }
       ],
@@ -1101,79 +1173,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-admin-essentials-simplifying-chrome-deployments-on-macos.md",
-      "title": "Admin Essentials: Simplifying Chrome deployments on macOS",
-      "excerpt": "At Google, the Chrome Browser Enterprise team is working to help make IT admins' jobs easier, and to make Chrome as flexible as possible. Because there are a lot of enterprise admins responsible for managing Macs, we recently made some changes aimed at simplifying deployment and to help ensure that Chrome",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/amp/",
-      "publishedDateTime": "2020-04-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ChromeEnterpriseSeries-01.png",
-          "width": 2000,
-          "height": 1110,
-          "title": "Admin Essentials: Simplifying Chrome deployments on macOS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-improved-database-performance-data-key-visualizer-now-in-cloud-bigtable-console.md",
-      "title": "Improved database performance data: Key Visualizer now in Cloud Bigtable console",
-      "excerpt": "Cloud Bigtable is Google Cloud’s petabyte-scale NoSQL database service for demanding, data-driven workloads that need low latency, high throughput, and scale insurance. If you’ve been looking for more ways to monitor your Bigtable performance more easily, you’re in luck: Key Visualizer is now directly",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/databases/cloud-database-monitoring-for-bigtable/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/cloud-database-monitoring-for-bigtable/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/cloud-database-monitoring-for-bigtable/amp/",
-      "publishedDateTime": "2020-04-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Key_Visualizer.max-1100x1100.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Improved database performance data: Key Visualizer now in Cloud Bigtable console",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Databases"
       ]
     }
   ],

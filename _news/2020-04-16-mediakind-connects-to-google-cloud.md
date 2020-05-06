@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-16T18:37:00Z
 webUrl: "https://www.lightreading.com/cloud-native-nfv/mediakind-connects-to-google-cloud-/d/d-id/758956"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,32 @@ images:
     title: "MediaKind connects to Google Cloud"
 
 related:
-  - title: "MediaKind Unveils Public Cloud OTT Streaming"
-    excerpt: "Citing increased demand for a broadcast quality viewing experience on channels offered over the top, MediaKind has teamed with Google Cloud to launch a software-as-a-service version of its Aquila end-to-end streaming solution. The new service enables MediaKind customers to launch OTT services rapidly without compromising on quality of viewing ..."
-    publishedDateTime: 2020-04-16T11:11:00Z
-    webUrl: "https://tvnewscheck.com/article/top-news/247670/mediakind-unveils-public-cloud-ott-streaming/"
+  - title: "ECS Announces Expanded Services for Google Cloud Platform"
+    excerpt: "FAIRFAX, Va.--(BUSINESS WIRE)--ECS, a leader in advanced technology, science, and engineering solutions, announced an expansion of its services as a Google Cloud Platform (GCP) partner. Through the ECS Cloud Center of Excellence, ECS delivers solutions from leading cloud service providers (CSPs) to deploy mission-critical workloads to some of ..."
+    publishedDateTime: 2020-04-16T14:28:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200416005580/en/ECS-Announces-Expanded-Services-Google-Cloud-Platform"
     type: article
     provider:
-      name: TV NewsCheck
-      domain: tvnewscheck.com
-    quality: 22
+      name: Business Wire
+      domain: businesswire.com
+    quality: 52
     images:
-      - url: "https://media.tvnewscheck.com/wp/content/uploads/2018/12/Cloud_cord.jpg"
-        width: 1000
-        height: 565
+      - url: "https://mms.businesswire.com/media/20200416005580/en/785511/23/ECS_Logo.jpg"
+        width: 1200
+        height: 627
+  - title: "ECS expands services for Google Cloud Platform to deploy mission-critical workloads to large orgs"
+    excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced an expansion of its services as a Google Cloud Platform (GCP) partner. Through the ECS Cloud Center of Excellence, ECS delivers solutions from leading cloud service providers (CSPs) to deploy mission-critical workloads to some of the largest organizations in the ..."
+    publishedDateTime: 2020-04-20T00:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/04/20/ecs-google-cloud/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+        width: 304
+        height: 430
 
 secured: "Azi163Gg2PMfmRrZXzTLf7QeFJBdrS6RPBTfdwwT94dXvUP4vEpWHr0sOcZk1wGlBytxDiJN9wHJtxKE7ZNqH38yaHhhCiI939kbfp1pR5+/edKvqaVr8ThK49XobjoXae3JSDp7suKvcqMVfG/dvE6quns3Z5dWsWxrJpF0B2Cju0nQmKsqcTX8nkeDzHWxyySKiTDI8+8rjo2X+YlRWkZwSJlSi9Iab0D19NAMTKqlAsFfKiW/ITrqAIWWz8aK3OcUoguBt5ggAsptDXNDbOWI9DmFKd/Mn7s8wHJdiuJCTHf4CW/XkiKEBypu2MD+;mhF64g5ceAe1h/n3y9H99g=="
 ---

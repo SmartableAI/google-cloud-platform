@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-21-cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub.md",
+      "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
+      "excerpt": "This latest integration is centered around Google Anthos, a platform launched last year for managing applications on premise or in any cloud environment. By tightly integrating Cisco SD-WAN services with Google Cloud and Anthos, the companies said they can offer a new turnkey, multicloud networking fabric called the Cisco SD-WAN Cloud Hub ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/",
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/ce6814ff-ce69-44ef-b6a8-89993fd7e787/thumbnail/1200x675/90a7834e7d694a76c76eaaced038ebe8/istock-1092964846.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cisco expands Google Cloud partnership with new SD-WAN cloud hub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-modernize-enterprise-networking-with-cisco-sd-wan-and-google-cloud.md",
       "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
       "excerpt": "Enterprises are increasingly adopting hybrid and multi-cloud to deliver the best experiences for their customers. The network is at the foundation of this transformation, but is getting exponentially more complex to manage, secure, and scale throughout an enterprise footprint that can include multiple",
@@ -764,7 +808,7 @@
       "path": "_news/2020-04-17-cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025.md",
       "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
       "excerpt": "New York, April 17, 2020: The Global Chatbot Market is segmented on the lines of its platform, enterprise size and",
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025-2020-04-17",
@@ -991,50 +1035,6 @@
       "topics": [
         "Google Cloud",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work.md",
-      "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
-      "excerpt": "From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19. Read More Rolls Royce and a bevy of data science players including IBM, Google Cloud, Truata and the Leeds Institute for Data Analytics have formed a group to collaborate on modeling the economic recovery from the COVID ...",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work/",
-      "publishedDateTime": "2020-04-16T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/14/6b0e61f4-5b70-4981-9e00-aac95ef156df/thumbnail/1200x675/f91673ddda5b62d9289c06079356328f/microsoftteams.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

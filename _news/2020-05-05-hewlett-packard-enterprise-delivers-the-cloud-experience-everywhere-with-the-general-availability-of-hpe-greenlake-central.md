@@ -25,6 +25,19 @@ images:
     title: "Hewlett Packard enterprise delivers the cloud experience everywhere with the general availability of HPE Greenlake central"
 
 related:
+  - title: "HPE GreenLake Central helps customers run, manage, and optimize their hybrid cloud estate"
+    excerpt: "Hewlett Packard Enterprise (HPE) announced that HPE GreenLake Central, unveiled in December 2019, is now generally available for HPE GreenLake customers."
+    publishedDateTime: 2020-05-06T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/05/06/hpe-greenlake-central/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 13
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+        width: 304
+        height: 430
   - title: "Hewlett Packard Enterprise Delivers the Cloud Experience Everywhere with the General Availability of HPE GreenLake Central"
     excerpt: "Hewlett Packard Enterprise (HPE) today announced that HPE GreenLake Central, unveiled in December 2019, is now generally available for HPE GreenLake c"
     publishedDateTime: 2020-05-04T12:16:00Z

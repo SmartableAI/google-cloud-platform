@@ -2,6 +2,79 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-07-admin-essentials-simplifying-chrome-deployments-on-macos.md",
+      "title": "Admin Essentials: Simplifying Chrome deployments on macOS",
+      "excerpt": "At Google, the Chrome Browser Enterprise team is working to help make IT admins' jobs easier, and to make Chrome as flexible as possible. Because there are a lot of enterprise admins responsible for managing Macs, we recently made some changes aimed at simplifying deployment and to help ensure that Chrome",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/chrome-enterprise/simplifying-chrome-deployments-on-macos/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/ChromeEnterpriseSeries-01.png",
+          "width": 2000,
+          "height": 1110,
+          "title": "Admin Essentials: Simplifying Chrome deployments on macOS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-improved-database-performance-data-key-visualizer-now-in-cloud-bigtable-console.md",
+      "title": "Improved database performance data: Key Visualizer now in Cloud Bigtable console",
+      "excerpt": "Cloud Bigtable is Google Cloud’s petabyte-scale NoSQL database service for demanding, data-driven workloads that need low latency, high throughput, and scale insurance. If you’ve been looking for more ways to monitor your Bigtable performance more easily, you’re in luck: Key Visualizer is now directly",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/cloud-database-monitoring-for-bigtable/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/cloud-database-monitoring-for-bigtable/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/cloud-database-monitoring-for-bigtable/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Key_Visualizer.max-1100x1100.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Improved database performance data: Key Visualizer now in Cloud Bigtable console",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-same-cloud-bigtable-database-now-for-smaller-workloads.md",
       "title": "Same Cloud Bigtable database, now for smaller workloads",
       "excerpt": "Cloud Bigtable is a fast, petabyte-scale NoSQL database service that has long supported massive workloads, both internally at Google and for Google Cloud customers. We are now announcing that Bigtable is expanding its support for smaller workloads.You can now create production instances with one or two",
@@ -1073,80 +1146,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-postponing-google-cloud-next-20-digital-connect.md",
-      "title": "Postponing Google Cloud Next ’20: Digital Connect",
-      "excerpt": "Google Cloud has decided to postpone Google Cloud Next ‘20: Digital Connect out of concern for the health and safety of our customers, partners, employees and local communities, and based on recent decisions made by the federal and local governments regarding the coronavirus (COVID-19). Right now, the",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/postponing-google-cloud-next20-digital-connect/amp/",
-      "publishedDateTime": "2020-03-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_7.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Postponing Google Cloud Next ’20: Digital Connect",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-not-just-for-http-anymore-grpc-comes-to-cloud-run.md",
-      "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
-      "excerpt": "Cloud Run is a managed serverless compute offering from Google Cloud that lets you run stateless server containers in a fully managed environment, without the hassle of managing the underlying infrastructure. Since its release, Cloud Run has enabled many of our customers to focus on their business logic,",
-      "heat": 151,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/serve-cloud-run-requests-with-grpc-not-just-http/amp/",
-      "publishedDateTime": "2020-03-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Not just for HTTP anymore: gRPC comes to Cloud Run",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Serverless"
       ]
     }
   ],
