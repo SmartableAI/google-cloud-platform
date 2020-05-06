@@ -2,6 +2,166 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-26-simplifying-google-drives-folder-structure-and-sharing-models.md",
+      "title": "Simplifying Google Drive’s folder structure and sharing models",
+      "excerpt": "The G Suite team has been working hard to make it easier to organize and share content in Google Drive, and help direct users to relevant files across various drives. These efforts have resulted in Drive shortcuts, which are files that act as pointers to other files in Google Drive. Shortcut files can",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/simplifying-google-drives-folder-structure-and-sharing-models/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/simplifying-google-drives-folder-structure-and-sharing-models/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/simplifying-google-drives-folder-structure-and-sharing-models/amp/",
+      "publishedDateTime": "2020-03-26T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/DriveForresterAnnouncement-03_1.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Simplifying Google Drive’s folder structure and sharing models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-when-girls-are-the-shero-of-the-story.md",
+      "title": "When girls are the shero of the story",
+      "excerpt": "Editor’s note: We’re celebrating Women’s History Month by talking with Cloud Googlers about identity and how it influences their work in technology. Cloud Googler Komal Singh’s path has taken her from India to Waterloo, Canada, where she’s an engineering program manager working on serverless products.",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/helping-girls-see-themselves-as-engineers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/helping-girls-see-themselves-as-engineers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/helping-girls-see-themselves-as-engineers/amp/",
+      "publishedDateTime": "2020-03-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/google_cloud_women.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "When girls are the shero of the story",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-amazon-settles-non-compete-lawsuit-involving-aws-sales-exec-who-joined-google-cloud.md",
+      "title": "Amazon settles non-compete lawsuit involving AWS sales exec who joined Google Cloud",
+      "excerpt": "Amazon settled a lawsuit involving a former Amazon Web Services sales executive who joined rival Google Cloud last year. Amazon sued Philip Moyer in July after he left the company to join Google. In its lawsuit, the tech giant argued Moyer’s move to Google would “threaten the disclosure of Amazon’s highly confidential information,” in ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazon-settles-non-compete-lawsuit-involving-aws-sales-exec-joined-google-cloud/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-settles-non-compete-lawsuit-involving-aws-sales-exec-joined-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-settles-non-compete-lawsuit-involving-aws-sales-exec-joined-google-cloud/amp/",
+      "publishedDateTime": "2020-03-23T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/07/philip-moyer-300x300.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": "Amazon settles non-compete lawsuit involving AWS sales exec who joined Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud.md",
+      "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
+      "excerpt": "Unity’s newest tool allows game developers to run cloud-based playtests at unprecedented speed and scale with machine learning. T0day, as part of the Google for Games Developer Summit, Unity Technologies announced Unity Game Simulation.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/",
+      "ampWebUrl": "https://www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/amp/",
+      "publishedDateTime": "2020-03-23T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78dcbcc7b02d000666f0b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 605,
+          "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-simplified-global-game-management-introducing-game-servers.md",
       "title": "Simplified global game management: Introducing Game Servers",
       "excerpt": "To deliver the multiplayer gaming experiences gamers expect, game developers are increasingly relying on dedicated game servers as the default option for connecting players. But hosting and scaling a game server fleet to support a global game can be challenging, and many game companies either end up",
@@ -962,155 +1122,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-with-kubeflow-10-run-ml-workflows-on-anthos-across-environments.md",
-      "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
-      "excerpt": "Google started the open-source Kubeflow Project with the goal of making Kubernetes the best way to run machine learning (ML) workloads in production. Today, Kubeflow 1.0 was released. Kubeflow helps companies standardize on a common infrastructure across software development and machine learning, leveraging",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
-      "publishedDateTime": "2020-03-02T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_kubeflow_1.0.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-google-named-a-leader-in-the-gartner-2020-magic-quadrant-for-cloud-ai-developer-services.md",
-      "title": "Google named a Leader in the Gartner 2020 Magic Quadrant for Cloud AI Developer Services",
-      "excerpt": "The enterprise applications for artificial intelligence and machine learning seem to grow by the day. To take advantage of everything AI/ML technologies have to offer, it’s important to have a platform that supports your needs fully—whether you’re a developer, a data scientist, an analyst, or just interested",
-      "heat": 125,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services/amp/",
-      "publishedDateTime": "2020-02-27T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/CloudAutoML.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Google named a Leader in the Gartner 2020 Magic Quadrant for Cloud AI Developer Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-bigquery-leads-the-way-toward-modern-data-analytics.md",
-      "title": "BigQuery leads the way toward modern data analytics",
-      "excerpt": "At Google, we think you should have the right tools and support to let you embrace data growth. Enterprises and digital-native organizations are generating incredible value from their data using Google Cloud’s smart analytics platform. At the heart of the platform is BigQuery, a cloud-native enterprise",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/cloud-data-warehouse-bigquery-powers-analytics/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/cloud-data-warehouse-bigquery-powers-analytics/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/cloud-data-warehouse-bigquery-powers-analytics/amp/",
-      "publishedDateTime": "2020-02-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_AIML_Data_Analytics.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "BigQuery leads the way toward modern data analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-introducing-bigquery-flex-slots-for-unparalleled-flexibility-and-control.md",
-      "title": "Introducing BigQuery Flex Slots for unparalleled flexibility and control",
-      "excerpt": "Organizations of all sizes look to BigQuery to meet their growing analytics needs. We hear that customers value BigQuery’s radically innovative architecture, serverless delivery model, and integrated advanced capabilities in machine learning, real-time analytics, and business intelligence. To help you",
-      "heat": 148,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-flex-slots/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-flex-slots/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/introducing-bigquery-flex-slots/amp/",
-      "publishedDateTime": "2020-02-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_BigQuery_FWMHfWn.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Introducing BigQuery Flex Slots for unparalleled flexibility and control",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Genesys Virtual Xperience Shines Light on How Organizations are Successfully Overcoming Uncertainty by Leveraging the Cloud and AI"
-excerpt: "Join Virtual Xperience presented by Genesys®, the global leader in cloud customer experience and contact center solutions. The live"
-publishedDateTime: 2020-05-06T12:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/genesys-virtual-xperience-shines-light-on-how-organizations-are-successfully-overcoming-uncertainty-by-leveraging-the-cloud-and-ai-301053631.html"
+excerpt: "Join Virtual Xperience presented by Genesys®, the global leader in cloud customer experience and contact center solutions. The live digital event on May"
+publishedDateTime: 2020-05-06T14:33:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/genesys-virtual-xperience-shines-light-on-how-organizations-are-successfully-overcoming-uncertainty-by-leveraging-the/article_4fd93a5f-5294-5fcf-baba-e07201a44fb2.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Google Cloud
 
-images:
-  - url: "https://mma.prnewswire.com/media/408485/Geneys_RGB_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1047
-    title: "Genesys Virtual Xperience Shines Light on How Organizations are Successfully Overcoming Uncertainty by Leveraging the Cloud and AI"
-
-secured: "6Rih3m2wPu9ORp6a4xEUFUPf5UUf81fOFjE8FPQCnPXMoQaqL61D5Fk3ec0UiO4JkTc1p827qKcyy7ZA25aZ1/samrAfX4vxLOjVEFKI9NKf9iMAu0I/15XEGrFCCi67ptlCZXYLVNwYJETs3PqEkOKGQYS4DQkd7CZesTBa27VHYRSi++q8lhIVbuVkepzGUcdF7iSqPJ92IzsTObEQnacj7VdmmLySvKLh0JHaDtFEz2IK827Q83Qrxc240ptVPrcJ/Dr/9OX0m4Yk55lmWK+Nv7NbaE57nnKgBHmC+SHy95m0vzhSprEmHXtBTaE4;Kg+dAUKvI6Xz22tbt6DJYw=="
+secured: "3H+oWhOxIneQU20bwMe4gbTDzMco0f9BCpcQHUN0VJ+0UYqGpEmI6SpHwJSUF6jBJ61ftDkEKbEb6VBOT0b93szirlWvd0bm6emsdQtfrUjvdSeIzWbELcWucsYk/A+NXM+/zLiTMzaA/jIGryQ1U7eR7/EG9YZad4jqr3Pckxen/jstblvzKgTH0JCtpqXC7OBhrPnUXMdp6kpe7H9PU7ayxJz25HtZrrkiAZRNzjWObifHezoRcxfeRe1KUwc14mvI2u+nUma+gDDxAgIzGWycR8tv8+/yaufWhOX/RtQAqS7xMWW6cjNke2bRsthcSTPcIbVbxF2l+YBonq9LloBgW+AqlElrh5wroMvmDnVu9jWxEsJM+gsEW2ShmaRIty0RiFNMnALHMRsbSlsV/ZBohfvGP8AxmAcSRcmaNfwgxAd1Gzx3FJqHxxNaBdSND0X/Yerwt3JBiPxw4LSrdLzG6yx0Gbbc0JwNjd/ITPs=;790+DQCtwn4AsxyCwMTjUA=="
 ---
 

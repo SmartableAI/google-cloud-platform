@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-06-how-cloud-ai-is-helping-during-covid-19.md",
+      "title": "How Cloud AI is helping during COVID-19",
+      "excerpt": "For years, I’ve been challenging people who advocate for the potential of artificial intelligence: Before you turn to AI as a solution, find a specific problem that needs solving. Now that we’re faced with a global pandemic, there is no shortage of immediate, complex problems that need to be solved.People",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-cloud-ai-helping-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_AI.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How Cloud AI is helping during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-how-google-cloud-helped-scaling-out-one-persons-ai-serviceand-his-life.md",
       "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
       "excerpt": "AI Gahaku (AI master painter): built by Sato with Firebase, Cloud Run, and Google Colab. One million users are enjoying the tool everyday.Editor's note: This is a post by Kaz Sato from Google based on an interview with Sato (@sato_neet), an individual developer. It's confusing that we have similar names,",

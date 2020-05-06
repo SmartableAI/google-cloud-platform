@@ -2,6 +2,182 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-04-hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments.md",
+      "title": "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments",
+      "excerpt": "HPE GreenLake Central is the as-a-service layer to its GreenLake platform, which has more than 800 customers globally.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/",
+      "publishedDateTime": "2020-05-04T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/30/f66edada-ce05-4950-8f6c-92359717a853/thumbnail/1200x675/08eac1fa9c322dffceac2936c79fe33e/wdc-q3-2020.png",
+          "width": 1200,
+          "height": 675,
+          "title": "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-cloud-manufacturing-market-size-growth-analysis-outlook-by-trends-and-forecast-to-2019-2024.md",
+      "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
+      "excerpt": "Global Cloud Manufacturing Market Research Report: by Component (Hardware, Software and Services), by Deployment",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-manufacturing-market-size-growth-analysis-outlook-by---trends-and-forecast-to-2019-2024-2020-05-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-google-cloud-and-youtube-help-protect-alphabet-from-a-coronavirus-disaster.md",
+      "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
+      "excerpt": "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "publishedDateTime": "2020-05-03T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570704%2Fman-touching-magnifying-glass-button-on-floating-search-bar-internet-google-search-engine.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 850,
+          "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-rings-video-doorbell-3-plus-takes-a-run-at-googles-nest-hello.md",
+      "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+      "excerpt": "Ring's Video Doorbell 3 Plus, first announced on March 11 -- which feels like a very long time ago amid the coronavirus pandemic and resulting quarantine -- is available now at Best Buy and other online retailers,",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/reviews/ring-video-doorbell-3-plus-review/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "publishedDateTime": "2020-05-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/7sOGJCBIVZ6Vr28vEq9mFv0UKvI=/770x433/2020/04/30/e7305fb1-ee20-4926-95e6-d2d3a171f4c0/ringvideodoorbell3plus.jpg",
+          "width": 770,
+          "height": 433,
+          "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news.md",
       "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
       "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
@@ -856,160 +1032,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-google-cloud-sees-huge-revenue-jump.md",
-      "title": "Google Cloud sees huge revenue jump",
-      "excerpt": "Google's parent company Alphabet has announced its latest financial results revealing that Google Cloud revenue increased by 52 percent to reach $2.78bn during the first quarter of this year. Revenue from the company's cloud computing division helped it beat Wall Street's revenue expectations during a time when Google's advertising business experienced a slowdown as a result of the coronavirus outbreak.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/google-cloud-sees-huge-revenue-jump",
-      "ampWebUrl": "https://www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-cloud-sees-huge-revenue-jump",
-      "publishedDateTime": "2020-04-29T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/f2noH8daNe2WNYuaTKbjxT-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google Cloud sees huge revenue jump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-synamedia-partners-with-google-cloud-on-video-network-offering.md",
-      "title": "Synamedia Partners With Google Cloud on Video Network Offering",
-      "excerpt": "Synamedia has announced a partnership with Google Cloud, expanding its video network portfolio with a new over-the-top (OTT) as-a-service offering. The partnership, which enhances service availability and scalability,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvtechnology.com/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
-      "publishedDateTime": "2020-04-29T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/nyqctXWHsEyvxvPW4b5Gxg-1200-80.jpg",
-          "width": 478,
-          "height": 269,
-          "title": "Synamedia Partners With Google Cloud on Video Network Offering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-explore-anthos-with-a-sample-deployment.md",
-      "title": "Explore Anthos with a sample deployment",
-      "excerpt": "Last week, we announced important updates to Anthos, our multi-cloud application management platform. Many of you reached out to find out how you could try Anthos, out today so we’re sharing the Anthos Sample Deployment on Google Cloud, a simple way to explore the platform and its components.Available",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/anthos/explore-anthos-with-a-sample-deployment/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Explore Anthos with a sample deployment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-optimize-dataproc-costs-using-vm-machine-type.md",
-      "title": "Optimize Dataproc costs using VM machine type",
-      "excerpt": "Dataproc is a fast, easy-to-use, fully managed cloud service for running managed open source, such as Apache Spark, Apache Presto, and Apache Hadoop clusters, in a simpler, more cost-efficient way. We hear that enterprises are migrating their big data workloads to the cloud to gain cost advantages with",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/optimize-dataproc-costs-using-vm-machine-type/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Optimize Dataproc costs using VM machine type",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

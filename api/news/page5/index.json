@@ -2,6 +2,182 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-22-google-cloud-anthos-now-available-for-aws-with-azure-to-follow.md",
+      "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
+      "excerpt": "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
+      "publishedDateTime": "2020-04-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-computing-platform-will-optimize-renewable-energy-use-in-datacenters.md",
+      "title": "Google computing platform will optimize renewable energy use in datacenters",
+      "excerpt": "As part of an ongoing effort to reduce the environmental impact of cloud computing, Google announced that it has developed a platform that maximizes the use of alternative energy sources at its sprawling network of datacenters. In a blog post, Google officials described the system as a “carbon-intelligent computing platform.” The system ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
+      "publishedDateTime": "2020-04-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google computing platform will optimize renewable energy use in datacenters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-how-to-embrace-the-hybrid-cloud-reality-and-get-it-right.md",
+      "title": "How To Embrace The Hybrid Cloud Reality And Get It Right",
+      "excerpt": "With the initial promise of the cloud, organizations were rushing to implement “the next great thing” — but many failed to successfully put a hybrid strategy in place. Are you one of those organizations?",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/22/how-to-embrace-the-hybrid-cloud-reality-and-get-it-right/amp/",
+      "publishedDateTime": "2020-04-22T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-33-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Embrace The Hybrid Cloud Reality And Get It Right",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-amazon-tells-cloud-customers-its-here-to-help-as-businesses-face-financial-hardship.md",
+      "title": "Amazon tells cloud customers it's 'here to help' as businesses face financial hardship",
+      "excerpt": "AWS sent an email to some customers on Monday, providing a way for them to ask for help while dealing with the coronavirus.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/21/aws-offers-to-help-customers-facing-financial-challenges-from-covid-19.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/21/aws-offers-to-help-customers-facing-financial-challenges-from-covid-19.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/21/aws-offers-to-help-customers-facing-financial-challenges-from-covid-19.html",
+      "publishedDateTime": "2020-04-21T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105416027-1535149821829gettyimages-670451702.jpeg?v=1585952485",
+          "width": 4000,
+          "height": 2667,
+          "title": "Amazon tells cloud customers it's 'here to help' as businesses face financial hardship",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform.md",
       "title": "Pulumi brings support for more languages to its infrastructure-as-code platform",
       "excerpt": "Seattle-based Pulumi has quickly made a name for itself as a modern platform that lets developers specify their infrastructure through ... “We still embrace what makes each of the clouds special. AWS, Azure, Google Cloud and Kubernetes,” Duffy said. “We’re not trying to be a PaaS that abstracts over all. We’re just helping to be ...",
@@ -867,182 +1043,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-top-smart-home-devices-that-arent-made-by-amazon-or-google.md",
-      "title": "Top smart home devices that aren't made by Amazon or Google",
-      "excerpt": "We took Amazon and Google out of the running (just this once) to see what other great smart home products are out there.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/top-smart-home-devices-not-made-by-amazon-or-google/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/top-smart-home-devices-not-made-by-amazon-or-google/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/top-smart-home-devices-not-made-by-amazon-or-google/",
-      "publishedDateTime": "2020-04-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/3ch8Tk6KjCc-IrFSKOiw3sftRPs=/2019/10/18/cd7b233c-2f7b-46b8-a97b-ff30dc90aeea/wyze-bulb-2-720.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "Top smart home devices that aren't made by Amazon or Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-googles-stadia-finally-offers-a-free-option.md",
-      "title": "Google's Stadia Finally Offers a Free Option",
-      "excerpt": "The change is a welcome one for a cloud gaming platform that, not so long ago, was getting some very rough press coverage ... Image source: Getty Images Super-fans who subscribed ahead of launch day used Google's cloud service with the Stadia Premiere edition: a hardware setup that included a Stadia controller and a Chromecast device with ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/17/googles-stadia-finally-offers-a-free-option.aspx",
-      "publishedDateTime": "2020-04-17T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568172%2Fvideo-game-shooter-console-getty-6217.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Google's Stadia Finally Offers a Free Option",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails.md",
-      "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
-      "excerpt": "That's especially true with phishing emails, which often promise information and updates about COVID-19 but instead lead people to malicious content. The popularity of Google Cloud services such as G Suite, Gmail, and Chrome have made their users tempting targets for malware. In a blog post published on Thursday, Google explained what it's ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
-      "publishedDateTime": "2020-04-17T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/26/05489297-ce39-46e0-a5b9-c1d8795feefe/resize/1200x/e23b602d8e1f28512faa6302a8d89e4b/istock-1211016776.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025.md",
-      "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
-      "excerpt": "New York, April 17, 2020: The Global Chatbot Market is segmented on the lines of its platform, enterprise size and",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025-2020-04-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

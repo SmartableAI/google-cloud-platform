@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-06-easy-access-to-stream-analytics-with-sql-real-time-ai-and-more.md",
+      "title": "Easy access to stream analytics with SQL, real-time AI, and more",
+      "excerpt": "During times of challenge and uncertainty, businesses across the world must think creatively and do more with less in order to maintain reliable and effective systems for customers in need. In terms of data analytics, it’s important to find ways for bootstrapped engineering and ops teams working in unique",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/easy-access-stream-analytics-sql-real-time-ai-and-more/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Analytics_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Easy access to stream analytics with SQL, real-time AI, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-how-cloud-ai-is-helping-during-covid-19.md",
+      "title": "How Cloud AI is helping during COVID-19",
+      "excerpt": "For years, I’ve been challenging people who advocate for the potential of artificial intelligence: Before you turn to AI as a solution, find a specific problem that needs solving. Now that we’re faced with a global pandemic, there is no shortage of immediate, complex problems that need to be solved.People",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-cloud-ai-helping-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Cloud_AI.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How Cloud AI is helping during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-how-our-community-is-responding-to-covid-19-fostering-community-engagement.md",
+      "title": "How our community is responding to COVID-19: Fostering community engagement",
+      "excerpt": "Editor’s Note:This is the second post of a series highlighting the inspiring response to COVID-19 from the Google Maps Platform community. This week we’re focusing on projects that help individuals help others in their local communities. You can take a look back at projects that aim to keep communities",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-our-community-responding-covid-19-fostering-community-engagement/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/039-MAP-COVID19-Fostering-Community-engagement-SL-01.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "How our community is responding to COVID-19: Fostering community engagement",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-last-month-today-google-cloud-in-april.md",
+      "title": "Last month today: Google Cloud in April",
+      "excerpt": "This month brought spring flowers, and plenty of adaptations to a work-from-home, virtually powered routine. At Google Cloud, we welcomed news of new certifications, lots of updates and news on conferencing with Google Meet, and security additions. Here’s a look at the top stories.Meet online, securely",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/last-month-today-google-cloud-in-april-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_10.jpg",
+          "width": 6000,
+          "height": 2500,
+          "title": "Last month today: Google Cloud in April",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-googles-charitable-arm-ups-coronavirus-relief-to-100-million.md",
       "title": "Google's charitable arm ups coronavirus relief to $100 million",
       "excerpt": "Google's charitable arm, Google.org, is pledging another $50 million in grants for COVID-19 relief. In a blogpost Wednesday, Google.org vice president Jacquelline Fuller said the",
@@ -261,7 +407,7 @@
       "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
       "title": "Splunk Cloud comes to Google Cloud",
       "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
@@ -1073,182 +1219,6 @@
           "width": 1200,
           "height": 800,
           "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-i-cant-stop-escaping-into-google-photos-nostalgia-vortex.md",
-      "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
-      "excerpt": "I got the app for its easy photo backups. I didn’t realize it would become a precious window to the past—or a lifeline in a time of existential despair.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/goole-photos-and-nostalgia/",
-      "ampWebUrl": "https://www.wired.com/story/goole-photos-and-nostalgia/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/goole-photos-and-nostalgia/amp",
-      "publishedDateTime": "2020-05-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eaca3feb9223ceeb3be4220/master/pass/google-photos-nostalgia.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-free-cloud-storage-which-providers-offer-the-most-space.md",
-      "title": "Free cloud storage: Which providers offer the most space",
-      "excerpt": "The most generous free storage provider offers a whopping 100GB of space for your images, videos, and other files.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/best-free-cloud-storage-1113950/",
-      "ampWebUrl": "https://www.androidauthority.com/best-free-cloud-storage-1113950/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/best-free-cloud-storage-1113950/amp/",
-      "publishedDateTime": "2020-05-02T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/Google-Drive-icon-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Free cloud storage: Which providers offer the most space",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-how-to-use-googles-new-hey-google-audio-sensitivity-controls.md",
-      "title": "How to use Google's new 'Hey, Google' audio sensitivity controls",
-      "excerpt": "Google is officially rolling out new controls that let you adjust the sensitivity of your Google Home smart speaker to its wake word. That means you can fine-tune your Google Home ($49 at Walmart) or Nest devices to pick up \"Hey,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/how-to/how-to-use-googles-new-hey-google-audio-sensitivity-controls/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-to-use-googles-new-hey-google-audio-sensitivity-controls/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-use-googles-new-hey-google-audio-sensitivity-controls/",
-      "publishedDateTime": "2020-05-02T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/NNAZMTc50q7NRH6EKRRmmNXCvmc=/756x567/2018/10/01/bf81a96a-6a09-47a3-80fd-b5eae197ec09/google-home-hub-2110.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "How to use Google's new 'Hey, Google' audio sensitivity controls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-google-is-working-on-4khdr-streaming-to-android-tv-for-stadia.md",
-      "title": "Google is working on 4K/HDR streaming to Android TV for Stadia",
-      "excerpt": "Recent updates to the Stadia Android app show Google is working on some new features: sharing game captures as a link, 4K/HDR-quality playback on Android TV and a built-in messenger.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/stadia-4k-messenger-084537722.html",
-      "ampWebUrl": "https://www.engadget.com/amp/stadia-4k-messenger-084537722.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/stadia-4k-messenger-084537722.html",
-      "publishedDateTime": "2020-05-02T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-03%2Fbfede340-6640-11ea-b7ff-c0a54d89250e&client=amp-blogside-v2&signature=e94a860b73878ca9c3703e6ee1c0738d782b665b",
-          "width": 600,
-          "height": 350,
-          "title": "Google is working on 4K/HDR streaming to Android TV for Stadia",
           "attribution": null
         }
       ],
