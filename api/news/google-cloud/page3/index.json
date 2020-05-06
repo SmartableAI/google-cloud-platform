@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-28-rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million.md",
+      "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
+      "excerpt": "platform offers real-time remediation with configurable bots and over 200 out-of-the-box guardrail policies. It works across public clouds such as Amazon Web Services, Google Cloud, and Azure and ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/rapid7-acquires-cloud-infrastructure-automation-platform-divvycloud-for-145-million/amp/",
+      "publishedDateTime": "2020-04-28T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1065824694-1-e1579193201293.jpg?fit=1200%2C601&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "Rapid7 acquires cloud infrastructure automation platform DivvyCloud for $145 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-live-here-come-google-and-alphabets-q1-earnings.md",
+      "title": "Live: Here come Google and Alphabet's Q1 earnings",
+      "excerpt": "Alphabet is set to announce its Q1 2020 earnings, and all eyes are on how much damage the pandemic is doing to its ad business.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-google-q1-earnings-revenue-profit-2020-4?amp",
+      "publishedDateTime": "2020-04-28T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8735ea2fd91369d26c673?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Live: Here come Google and Alphabet's Q1 earnings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-can-googles-new-pixel-buds-finally-challenge-apples-airpods-dominance.md",
+      "title": "Can Google's New Pixel Buds Finally Challenge Apple's AirPods Dominance?",
+      "excerpt": "About two and a half years after Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) subsidiary Google launched its original Pixel Buds, the search juggernaut is finally releasing a revamped second-generation model that has high hopes of challenging Apple's (NASDAQ:AAPL) AirPods,",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/28/can-googles-new-pixel-buds-finally-challenge-apple.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/28/can-googles-new-pixel-buds-finally-challenge-apple.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/can-googles-new-pixel-buds-finally-challenge-apple.aspx",
+      "publishedDateTime": "2020-04-28T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569863%2Fpixel-buds-2.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 600,
+          "title": "Can Google's New Pixel Buds Finally Challenge Apple's AirPods Dominance?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-cloud-security-company-cloudflare-makes-maverick-big-bet-on-china.md",
       "title": "Cloud Security Company Cloudflare Makes ‘Maverick’ Big Bet On China",
       "excerpt": "With U.S.-China relations at a frigid moment as the COVID-19 pandemic grinds world trade to a trickle, it might seem an unlikely moment for a Silicon Valley tech company to make a big China push. But to hear Cloudflare CEO Matthew Prince tell it,",
@@ -1086,131 +1218,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-stadia-gains-users-after-giving-free-access-for-two-months.md",
-      "title": "Google Stadia gains users after giving free access for two months",
-      "excerpt": "Google’s cloud-based game, Stadia, has witnessed a surge in users after the tech giant gifted two months of free access to its premium version for gamers sheltering at home to curb the spread of the coronavirus.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-google-stadia-idUSKCN224386",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN224386",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN224386",
-      "publishedDateTime": "2020-04-22T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200422&t=2&i=1516080494&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3L24Y",
-          "width": 850,
-          "height": 545,
-          "title": "Google Stadia gains users after giving free access for two months",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure.md",
-      "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
-      "excerpt": "Anthos, Google’s platform for managing hybrid clouds that span Google Cloud and on-premise datacenters, has hit general availability for Amazon Web Services (AWS) and is in preview for Microsoft Azure. Additionally, Google today updated Anthos Config Management with a programmatic and declarative GitOps approach to manage policies for ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
-      "publishedDateTime": "2020-04-22T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/google-cloud-anthos.jpg?fit=2000%2C1000&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-anthosdriving-business-agility-and-efficiency.md",
-      "title": "Anthos—driving business agility and efficiency",
-      "excerpt": "In business as in life, change is constant and unpredictable. When building the platforms to power your organization, you can’t be limited by yesterday’s technology decisions. Nor can the systems you create today constrain your ability to act tomorrow. In times of uncertainty, you need an architecture",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-for-aws-is-now-ga/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Anthos—driving business agility and efficiency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
       ]
     }
   ],

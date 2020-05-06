@@ -2,6 +2,117 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2019-12-20-kubernetes-podcast-in-2019-year-end-recap.md",
+      "title": "Kubernetes Podcast in 2019: year-end recap",
+      "excerpt": "At the Kubernetes Podcast, we bring you a weekly round-up of cloud-native news, accompanied by an in-depth interview with a community member. As we publish our 50th and final episode for 2019, it's time to look back on some of our favorite moments from the year.This year, we stepped out of the studio.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/kubernetes-podcast-in-2019-year-end-recap/amp/",
+      "publishedDateTime": "2019-12-20T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Kubernetes_A.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Kubernetes Podcast in 2019: year-end recap",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-12-18-5-best-practices-for-compute-engine-cost-optimization.md",
+      "title": "5 best practices for Compute Engine Cost Optimization",
+      "excerpt": "When customers migrate to Google Cloud Platform (GCP), their first step is often to adopt Compute Engine, which makes it easy to procure and set up virtual machines (VMs) in the cloud that provide large amounts of computing power. Launched in 2012, Compute Engine offers multiple machine types, many innovative",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/5-best-practices-compute-engine-cost-optimization/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/5-best-practices-compute-engine-cost-optimization/amp/",
+      "publishedDateTime": "2019-12-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_compute.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "5 best practices for Compute Engine Cost Optimization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2019-12-18-introducing-more-maintenance-controls-for-cloud-sql.md",
+      "title": "Introducing more maintenance controls for Cloud SQL",
+      "excerpt": "Routine maintenance is a part of every database user experience—it’s how we ensure you get the performance improvements and new feature updates that keep your business running smoothly and securely. But we get it: Nobody likes downtime, no matter how brief. That's why we’re pleased to announce that Cloud",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/introducing-more-maintenance-controls-for-cloud-sql/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
+      "publishedDateTime": "2019-12-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing more maintenance controls for Cloud SQL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2019-12-17-file-storage-made-easier-with-netapp-cloud-volumes-now-ga.md",
       "title": "File storage made easier with NetApp Cloud Volumes, now GA",
       "excerpt": "At both NetApp and Google Cloud, we share a mission to offer our users a top-notch file service in Google Cloud. Whether you’re moving workloads to cloud or deploying net-new applications in cloud that need file interfaces, our aim is to offer a highly available, feature-rich, and high-performing file",
@@ -816,118 +927,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-11-22-google-kubernetes-engine-or-cloud-run-which-should-you-use.md",
-      "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
-      "excerpt": "When it comes to managed Kubernetes services, Google Kubernetes Engine (GKE) is a great choice if you are looking for a container orchestration platform that offers advanced scalability and configuration flexibility. GKE gives you complete control over every aspect of container orchestration, from networking,",
-      "heat": 166,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers/amp/",
-      "publishedDateTime": "2019-11-22T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_GKE.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Google Kubernetes Engine or Cloud Run: which should you use?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2019-11-22-simplifying-service-mesh-with-istio-14.md",
-      "title": "Simplifying service mesh with Istio 1.4",
-      "excerpt": "Istio, the open-source service mesh that we created with IBM and Lyft, is now at version 1.4, and we’re very excited by how quickly the project is evolving and being adopted by end users. When we released Istio 1.1 in March, we announced that we would move to quarterly releases to get functionality out",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/simplifying-service-mesh-istio-1-4/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/simplifying-service-mesh-istio-1-4/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/simplifying-service-mesh-istio-1-4/amp/",
-      "publishedDateTime": "2019-11-22T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Istio.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Simplifying service mesh with Istio 1.4",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-11-21-introducing-new-assistive-features-in-g-suite-to-help-businesses-focus-on-what-matters.md",
-      "title": "Introducing new assistive features in G Suite to help businesses focus on what matters",
-      "excerpt": "We’re dedicated to creating products that are helpful for our users, including those in a business setting. G Suite helps companies of all sizes transform how they work by encouraging people to focus on what really matters, whether that be fostering a culture of collaboration like Iron Mountain or reducing",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/introducing-new-assistive-features-in-gsuite/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/introducing-new-assistive-features-in-gsuite/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/introducing-new-assistive-features-in-gsuite/amp/",
-      "publishedDateTime": "2019-11-21T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gsuite_assist_2.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Introducing new assistive features in G Suite to help businesses focus on what matters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
       ]
     }
   ],

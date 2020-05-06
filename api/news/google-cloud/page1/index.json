@@ -2,6 +2,138 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-06-googles-charitable-arm-ups-coronavirus-relief-to-100-million.md",
+      "title": "Google's charitable arm ups coronavirus relief to $100 million",
+      "excerpt": "Google's charitable arm, Google.org, is pledging another $50 million in grants for COVID-19 relief. In a blogpost Wednesday, Google.org vice president Jacquelline Fuller said the",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/googles-charitable-arm-ups-coronavirus-relief-to-100-million/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-charitable-arm-ups-coronavirus-relief-to-100-million/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-charitable-arm-ups-coronavirus-relief-to-100-million/",
+      "publishedDateTime": "2020-05-06T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/MFLT6rx2GFLOe1gR08eDHpmjdcA=/756x567/2019/09/10/2e5b33b9-5b16-46a4-89d0-b7251ace8e71/google-logo-5.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Google's charitable arm ups coronavirus relief to $100 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-top-cloud-computing-stocks-to-buy-in-may.md",
+      "title": "3 Top Cloud Computing Stocks to Buy in May",
+      "excerpt": "Three such examples in the cloud computing market are Microsoft (NASDAQ:MSFT), Amazon.com (NASDAQ:AMZN), and Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL). Here's why.  Image source: . It's hard to find a large tech company that's executed its cloud computing strategy as well as Microsoft.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Top Cloud Computing Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location.md",
+      "title": "Apple and Google to prevent contact tracing apps from tracking your location",
+      "excerpt": "The built-in technology would ban the use of GPS location data to monitor contact with people who test positive for COVID-19.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location/",
+      "publishedDateTime": "2020-05-06T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/21/14e14661-cdb5-4308-8cf9-3bc3a07471b5/thumbnail/1200x675/fe9a24b34992db55e7d7add977f199f8/20200420-dallon-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Apple and Google to prevent contact tracing apps from tracking your location",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-microsoft-word-vs-google-docs.md",
       "title": "Microsoft Word vs. Google Docs",
       "excerpt": "Word or Docs? The decision may seem simple if you're already integrated into either Microsoft or Google services, but there are other factors to consider.",
@@ -129,26 +261,18 @@
       "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
       "title": "Splunk Cloud comes to Google Cloud",
       "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 127,
+      "heat": 77,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "webUrl": "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
       "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
-      "publishedDateTime": "2020-05-05T09:12:00-07:00",
+      "publishedDateTime": "2020-05-05T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "ITworld",
+        "domain": "itworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1125,138 +1249,6 @@
           "width": 600,
           "height": 350,
           "title": "Google is working on 4K/HDR streaming to Android TV for Stadia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-facebook-finally-brings-its-google-photos-transfer-tool-to-the-us.md",
-      "title": "Facebook finally brings its Google Photos transfer tool to the US",
-      "excerpt": "Following its initial announcement of the offering late last year, Facebook has announced the North American release of its new tool that enables its users to transfer their uploaded images to",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/facebook-finally-brings-its-google-photos-transfer-tool-to-the-us-01619031/",
-      "ampWebUrl": "https://www.slashgear.com/facebook-finally-brings-its-google-photos-transfer-tool-to-the-us-01619031/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-finally-brings-its-google-photos-transfer-tool-to-the-us-01619031/amp/",
-      "publishedDateTime": "2020-05-01T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/facebook_laptop_mobile_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Facebook finally brings its Google Photos transfer tool to the US",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-to-easily-move-your-photos-from-facebook-to-google-photos.md",
-      "title": "How to easily move your photos from Facebook to Google Photos",
-      "excerpt": "Sick of having your shared photos scattered hither and yon? Facebook and Google, in a first step to making photo transfer easier, have made it possible to copy your photos and videos from Facebook to Google Photos.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-to-move-your-photos-from-facebook-to-google-photos/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-move-your-photos-from-facebook-to-google-photos/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-move-your-photos-from-facebook-to-google-photos/",
-      "publishedDateTime": "2020-05-01T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/01/49274fbb-68de-4d87-8d60-abd0832bb2de/facebook-information.jpg",
-          "width": 720,
-          "height": 430,
-          "title": "How to easily move your photos from Facebook to Google Photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans.md",
-      "title": "Google rolls out new AI-powered product for banks processing PPP loans",
-      "excerpt": "The PPP Lending AI solution is designed for lending institutions that have been overwhelmed by loan applications from small businesses seeking COVID-19 pandemic relief.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "publishedDateTime": "2020-05-01T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/04/4e268e10-4522-42b7-8bc2-bc8d2906ced3/thumbnail/1200x675/f8dfa2c860a8294900066251d8d4c6fe/computer-power-supply-unit.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google rolls out new AI-powered product for banks processing PPP loans",
           "attribution": null
         }
       ],

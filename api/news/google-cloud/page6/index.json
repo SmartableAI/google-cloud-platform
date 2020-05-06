@@ -2,6 +2,116 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-08-helping-contact-centers-respond-rapidly-to-customer-concerns-about-covid-19.md",
+      "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
+      "excerpt": "As COVID-19 has spread globally, people are turning to governments, healthcare organizations, and other businesses with questions about their health and wellness, finances, and more. This sudden, unprecedented demand is putting strain on customer support resources, and many organizations are telling",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/support-for-contact-centers-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_contact_center_ai.max-2200x2200.jpg",
+          "width": 2200,
+          "height": 917,
+          "title": "Helping contact centers respond rapidly to customer concerns about COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google.md",
+      "title": "Learn to build secure and reliable systems with a new book from Google",
+      "excerpt": "In the new “Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems” book, engineers across Google's security and SRE organizations share best practices to help you design scalable and reliable systems that are fundamentally secure. Reliability matters",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/learn-to-build-secure-and-reliable-systems-with-a-new-book-from-google/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/G-Management-banner-05.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Learn to build secure and reliable systems with a new book from Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-new-ai-driven-features-in-dataprep-enhance-the-wrangling-experience.md",
+      "title": "New AI-driven features in Dataprep enhance the wrangling experience",
+      "excerpt": "Since the inception of Cloud Dataprep by Trifacta, we’ve focused on making the data preparation work of data professionals more accessible and efficient, with a determined intention to make the work of preparing data more enjoyable (and even fun, in some cases!).The latest release of Dataprep brings",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/new-dataprep-ai-features-for-data-wrangling/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "New AI-driven features in Dataprep enhance the wrangling experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-secure-connections-how-google-meet-keeps-your-video-conferences-protected.md",
       "title": "Secure connections: How Google Meet keeps your video conferences protected",
       "excerpt": "All over the world, businesses, schools and users depend on G Suite to help them stay connected and get work done. Google designs, builds, and operates our products on a secure foundation, aimed at thwarting attacks and providing the protections needed to keep you safe. G Suite and Google Meet are no",
@@ -1020,122 +1130,6 @@
           "width": 1200,
           "height": 605,
           "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-simplified-global-game-management-introducing-game-servers.md",
-      "title": "Simplified global game management: Introducing Game Servers",
-      "excerpt": "To deliver the multiplayer gaming experiences gamers expect, game developers are increasingly relying on dedicated game servers as the default option for connecting players. But hosting and scaling a game server fleet to support a global game can be challenging, and many game companies either end up",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/gaming/introducing-google-cloud-game-servers/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gaming/introducing-google-cloud-game-servers/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gaming/introducing-google-cloud-game-servers/amp/",
-      "publishedDateTime": "2020-03-23T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Gaming_LgLTGIJ.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Simplified global game management: Introducing Game Servers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-22-get-certified-on-the-google-cloud-platform-for-just-9.md",
-      "title": "Get certified on the Google Cloud Platform for just $9",
-      "excerpt": "How else are the corporations going to process all the data they hold about us? Get fully trained for the Google Data Engineer and Cloud Architect certification exams. Over 2,000 people have already signed up, but the deal is ending soon. To find out more, follow the link below.",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/google-cloud-platform-deal-1095642/",
-      "ampWebUrl": "https://www.androidauthority.com/google-cloud-platform-deal-1095642/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-cloud-platform-deal-1095642/amp/",
-      "publishedDateTime": "2020-03-22T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2018/08/Google-Eye-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Get certified on the Google Cloud Platform for just $9",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-google-cloud-named-a-leader-in-the-forrester-wave-for-public-cloud-development-and-infrastructure-platforms.md",
-      "title": "Google Cloud named a leader in the Forrester Wave for Public Cloud Development and Infrastructure Platforms",
-      "excerpt": "Today, we’re announcing that Google Cloud has been named a leader in The Forrester Wave™ for Public Cloud Development and Infrastructure Platforms, Q1 2020. This report evaluated cloud providers’ infrastructure and application development capabilities—important considerations for enterprises turning",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-recognized-in-new-forrester-wave/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/google-cloud-recognized-in-new-forrester-wave/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/google-cloud-recognized-in-new-forrester-wave/amp/",
-      "publishedDateTime": "2020-03-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_jxB08Ak.max-1000x1000.jpg",
-          "width": 1000,
-          "height": 555,
-          "title": "Google Cloud named a leader in the Forrester Wave for Public Cloud Development and Infrastructure Platforms",
           "attribution": null
         }
       ],

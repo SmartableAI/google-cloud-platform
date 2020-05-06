@@ -2,6 +2,114 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-27-a-note-to-our-customers-how-were-supporting-you-through-covid-19.md",
+      "title": "A note to our customers: How we’re supporting you through COVID-19",
+      "excerpt": "As COVID-19 makes its way across the globe, we know you are under extraordinary pressure to keep your organizations up and running. You rely on Google Cloud to stay connected and get work done every day. Whether it's helping you run a high-demand e-commerce site, augment your call center staff with Contact",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-clouds-coronavirus-response/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/google-clouds-coronavirus-response/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/google-clouds-coronavirus-response/amp/",
+      "publishedDateTime": "2020-03-26T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud-01_q1Ox36D.png",
+          "width": 2084,
+          "height": 1157,
+          "title": "A note to our customers: How we’re supporting you through COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-simplifying-google-drives-folder-structure-and-sharing-models.md",
+      "title": "Simplifying Google Drive’s folder structure and sharing models",
+      "excerpt": "The G Suite team has been working hard to make it easier to organize and share content in Google Drive, and help direct users to relevant files across various drives. These efforts have resulted in Drive shortcuts, which are files that act as pointers to other files in Google Drive. Shortcut files can",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/simplifying-google-drives-folder-structure-and-sharing-models/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/simplifying-google-drives-folder-structure-and-sharing-models/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/simplifying-google-drives-folder-structure-and-sharing-models/amp/",
+      "publishedDateTime": "2020-03-26T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/DriveForresterAnnouncement-03_1.max-1000x1000.png",
+          "width": 1000,
+          "height": 555,
+          "title": "Simplifying Google Drive’s folder structure and sharing models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-when-girls-are-the-shero-of-the-story.md",
+      "title": "When girls are the shero of the story",
+      "excerpt": "Editor’s note: We’re celebrating Women’s History Month by talking with Cloud Googlers about identity and how it influences their work in technology. Cloud Googler Komal Singh’s path has taken her from India to Waterloo, Canada, where she’s an engineering program manager working on serverless products.",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/helping-girls-see-themselves-as-engineers/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/gcp/helping-girls-see-themselves-as-engineers/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/gcp/helping-girls-see-themselves-as-engineers/amp/",
+      "publishedDateTime": "2020-03-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/google_cloud_women.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "When girls are the shero of the story",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-amazon-settles-non-compete-lawsuit-involving-aws-sales-exec-who-joined-google-cloud.md",
       "title": "Amazon settles non-compete lawsuit involving AWS sales exec who joined Google Cloud",
       "excerpt": "Amazon settled a lawsuit involving a former Amazon Web Services sales executive who joined rival Google Cloud last year. Amazon sued Philip Moyer in July after he left the company to join Google. In its lawsuit, the tech giant argued Moyer’s move to Google would “threaten the disclosure of Amazon’s highly confidential information,” in ...",
@@ -817,117 +925,6 @@
           "width": 2880,
           "height": 1200,
           "title": "Enhanced models and features now available in new languages on Speech-to-Text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-anthos-one-multi-cloud-management-layer-for-all-your-applications.md",
-      "title": "Anthos: one multi-cloud management layer for all your applications",
-      "excerpt": "When we first introduced Anthos in 2018, some observers described it as a way to modernize legacy applications. Simply drop your legacy on-prem application into a container, and you were on your way to cloud! But since becoming generally available last April, our customers tell us Anthos is how they",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-goes-multi-cloud-and-beyond/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/anthos/anthos-goes-multi-cloud-and-beyond/amp/",
-      "publishedDateTime": "2020-03-05T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.gif",
-          "width": 1600,
-          "height": 900,
-          "title": "Anthos: one multi-cloud management layer for all your applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-discords-migration-from-redshift-to-bigquery-lessons-learned.md",
-      "title": "Discord's migration from Redshift to BigQuery: lessons learned",
-      "excerpt": "Editor’s note: We’re hearing today from Discord, maker of a popular voice, video, and text chat app for gaming. They have to bring a great experience to millions of customers concurrently, and keep up with demand. Here’s how they moved from Redshift to Google Cloud’s BigQuery to support their growth. At",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/redshift-to-bigquery-migration-for-gaming-app/amp/",
-      "publishedDateTime": "2020-03-04T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Gaming_RWH0IxR.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Discord's migration from Redshift to BigQuery: lessons learned",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-learning-custom-tf-hub-embeddings-with-swivel-and-kubeflow-pipeline.md",
-      "title": "Learning Custom TF-Hub Embeddings with Swivel and Kubeflow Pipeline",
-      "excerpt": "The goal of machine learning (ML) is to extract patterns from existing data to make predictions on new data. Embeddings are an important tool for creating useful representations for input features in ML, and are fundamental to search and retrieval, recommendation systems, and other use cases. In this",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/train-custom-embeddings-based-on-co-occurrence-data-with-kfp-pipeline/amp/",
-      "publishedDateTime": "2020-03-04T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Item2Hub.max-600x600.jpg",
-          "width": 336,
-          "height": 600,
-          "title": "Learning Custom TF-Hub Embeddings with Swivel and Kubeflow Pipeline",
           "attribution": null
         }
       ],
