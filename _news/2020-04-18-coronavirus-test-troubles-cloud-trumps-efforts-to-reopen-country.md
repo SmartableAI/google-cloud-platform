@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: "https://media.wusa9.com/assets/CCT/images/b746d539-ffef-430e-befa-ee0c4ddd72cc/b746d539-ffef-430e-befa-ee0c4ddd72cc_360x203.jpg"
         width: 361
         height: 203
-  - title: "Coronavirus test troubles cloud Trump recovery effort"
-    excerpt: "WASHINGTON >> The United States is struggling to test enough people to track and control the spread of the novel coronavirus, a crucial first step to reopening parts of the economy, which President Donald Trump is pushing to do by May 1."
-    publishedDateTime: 2020-04-18T04:25:00Z
-    webUrl: "https://www.staradvertiser.com/2020/04/17/breaking-news/coronavirus-test-troubles-cloud-trump-recovery-effort/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 22
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/04/web1_9884507-5d1b624bcc644f8284a48d24f85681fe.jpg"
-        width: 760
-        height: 507
 
 secured: "jYKv+etKKxI/qK5El+ylEzskC+foWOGb3VM0pwRoKqCrxG+q2ueSrV0QB5omS4USL5Yup1cVlATIgUsYlMc9hGYl5yvGRMD18agy0YCM4dGq6guGwXtRVYsyH7mVKMpFoPFGuwOS6eLzN2tjpZfSFP4uCYdgky20wWs/+YV13ehvkwyKwn+iJcNJDVftrGRzdXKzHVMWZPif3wtdzQ+BcPNhJMUdSLMENkQdJKZnfFab4n2C6xaGC8+mDVX94oM2THc1XOVALO8APNtAGQ8hb7mPgIHRwFLGZXLUAclIc0jLTyYuPFR9HYotGZGVTx7vWUFGA30WmmhrN++c2MlnB/pJQalzOCRZgIKdVlQTboAihCfaI3BIatJI8ffYY+F5ZP3BtWreTznhcN3XetIjR/62NmhyC570JFTnIfNJBOLVzozQGf9DTfsp4wHB3pgrwLXGQHRhCEBxYZWBb3V8mrS5o5BcNdJRbmJsBDOCV2o=;OE+PKCSsG0Dlv6aH2A3dlA=="
 ---

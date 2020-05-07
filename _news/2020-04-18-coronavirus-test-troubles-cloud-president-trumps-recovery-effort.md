@@ -40,19 +40,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20108812937625.jpg?ve=1&tl=1"
         width: 640
         height: 320
-  - title: "Coronavirus test troubles cloud Trump recovery effort"
-    excerpt: "WASHINGTON >> The United States is struggling to test enough people to track and control the spread of the novel coronavirus, a crucial first step to reopening parts of the economy, which President Donald Trump is pushing to do by May 1."
-    publishedDateTime: 2020-04-18T04:25:00Z
-    webUrl: "https://www.staradvertiser.com/2020/04/17/breaking-news/coronavirus-test-troubles-cloud-trump-recovery-effort/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 22
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/04/web1_9884507-5d1b624bcc644f8284a48d24f85681fe.jpg"
-        width: 760
-        height: 507
 
 secured: "StH9iGEstUOVZG3k1XVe0yfh3fGK+9wKN2a5eoXPbS1HFusmR5FZrkwdB9kEzVWGcSM6e/YGrmPaRbYUDMFT9aH0KtGfAJCDhykNZDm0Rb9aDslknZKNHq1v00G+K2EgChfuwZUkhmk0w17YdDZmokZ1Z+Gcy/09kpVLgN3MSDP1S529us6VSE5Ot9Y8yK7vdbjkBXaSOwn2WAFQ6RIKTttKC+KmJya6e4eVhXRmzp4oaUGE0fU9lsorFvo//DsT3u6ndQVJwdTfR78Kl0Th/3fRnyXFNU07vhADDI8YiZ+P6VlaAh6ePSPgGbl4UUXCOkZv6bShtvLH+GZ/fjMdNV5EHcB9xs2xOAmKz8vbbo1ilepdjBb0Q+QGAdygkjp2j2NZnUlhtWLXdR0KI5mx3oyuDZJqbaOSeGIxjuUKSl7AU75R0TCEEt2e3yseTv0V6j8OOKBMP00la92VpOlwdQ37ZcWykcSu2LVzZUa5TrQ=;dqKkAjp8lVVj/yjdLvWwmQ=="
 ---

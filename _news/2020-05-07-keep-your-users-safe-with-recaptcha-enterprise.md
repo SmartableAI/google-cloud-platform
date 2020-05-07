@@ -22,6 +22,6 @@ images:
     height: 1200
     title: "Keep your users safe with reCAPTCHA Enterprise"
 
-secured: "yEr0zeazBywr/tzsFt1B8Urjdbr2beSHxI8Im9Qbz6NkallTWFcuBcAOY8DYDSyMUP+pxE1crh+dC/C/1JKG1l5X5wiwyqxYVz7qGfZC0aU2aZJTpgDyLVsIw5f8IjdIRHHB794FZMgg6fo26Z4XrTLIgnDGcfyuEP+h2qudh60Y5BAPiRuA1+Ap6yXhMlNhzqceBzMWtMnQ4XDjuf2SL8SSNYU58c3dVHpJY94hT5+oZumG5vjJoltQMZzYP2qG0mg8/OUjDjMbVrOgA2QQID857uQzLUSSF6dCPeUWpvoz3oyRf3z/az+/C1xVp47M8vocZcCY3++Qh1UGm03yTQ==;i1hUsPYC0QZmKbtBeSxTeA=="
+secured: "C5jgi1+6NjZvr+nNE4VEm6gyacpxWNnoTXqBBcl5B6ZiWa/SoKBr820nscTgsq6Sy9s+lV9AmLXv3FnukgoPWFFEFT9rBQ72X1vSeQv6dQcU9SqWNpBrZ8mx/eTLm/JPrEJeLR9v6Ppl9ARFnqH3LljtQyNh9DXdgXIflcthdReFgnUj6wyHjp49tS8nOeI//aufYYH7lvHQueQYEJkRGt8k02kfns3U1iR0xE4lvEv/vIgLq3Hm4PZE5XG4THAsjCjPmMlZTFP3H8TiVDUnKmUo4vp/zGhOzL4pGpd6hE/PtXiXTZf7nqNbszUbLtZP3NK7l7uIXzFQKdVbeJTWPw==;RaN7B7bLiQFHGS5po4q1hA=="
 ---
 
