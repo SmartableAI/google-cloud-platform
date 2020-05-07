@@ -40,21 +40,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20108812937625.jpg?ve=1&tl=1"
         width: 640
         height: 320
-  - title: "Coronavirus testing troubles cloud President Trump’s recovery effort"
-    excerpt: "“It’s a little bit like rationing,” Patel said. In early March, Trump announced a plan for nationwide testing via drive-thru sites at chains such as Walmart and Target, linked by a Google-affiliated website. Six weeks later, the website is a pilot program available in just four California counties. Few of the retailers’ sites have ..."
-    publishedDateTime: 2020-04-17T19:21:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-testing-troubles-20200417-emqb5fhurzbcbjshqesriwwfim-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-testing-troubles-20200417-emqb5fhurzbcbjshqesriwwfim-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-coronavirus-testing-troubles-20200417-emqb5fhurzbcbjshqesriwwfim-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 42
-    images:
-      - url: "https://www.chicagotribune.com/resizer/V5TpEVWYFYPhe_YZTEfyL_z3-QQ=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2DQO654J5Z5RRXSBOHENAU2UVQ.jpg"
-        width: 1200
-        height: 800
   - title: "Coronavirus test troubles cloud President Trump's recovery effort"
     excerpt: "The country is struggling to test enough people for the coronavirus so officials can track and control the spread of the disease."
     publishedDateTime: 2020-04-18T05:19:00Z

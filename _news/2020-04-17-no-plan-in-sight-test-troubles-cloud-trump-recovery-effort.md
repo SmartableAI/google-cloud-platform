@@ -40,19 +40,6 @@ related:
       - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/04/drive-in-test.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Testing troubles cloud White House recovery effort"
-    excerpt: "\"It's a little bit like rationing,\" Patel said. In early March, Trump announced a plan for nationwide testing via drive-thru sites at chains such as Walmart and Target, linked by a Google-affiliated website. Six weeks later, the website is a pilot program available in just four California counties. Few of the retailers' sites have opened ..."
-    publishedDateTime: 2020-04-17T20:39:00Z
-    webUrl: "https://www.modernhealthcare.com/government/testing-troubles-cloud-white-house-recovery-effort"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 22
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/NEWS_180119892_AR_0_VXZHHRUDJGQV.png"
-        width: 800
-        height: 600
   - title: "No plan in sight: COVID-19 testing troubles cloud Trump recovery effort"
     excerpt: "\"It's a little bit like rationing,\" Patel said. In early March, Trump announced a plan for nationwide testing via drive-thru sites at chains such as Walmart and Target, linked by a Google-affiliated website. Six weeks later, the website is a pilot program available in just four California counties. Few of the retailers' sites have opened ..."
     publishedDateTime: 2020-04-18T07:07:00Z

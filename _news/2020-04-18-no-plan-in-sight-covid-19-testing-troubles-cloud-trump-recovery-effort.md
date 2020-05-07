@@ -53,19 +53,6 @@ related:
       - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/04/drive-in-test.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Testing troubles cloud White House recovery effort"
-    excerpt: "\"It's a little bit like rationing,\" Patel said. In early March, Trump announced a plan for nationwide testing via drive-thru sites at chains such as Walmart and Target, linked by a Google-affiliated website. Six weeks later, the website is a pilot program available in just four California counties. Few of the retailers' sites have opened ..."
-    publishedDateTime: 2020-04-17T20:39:00Z
-    webUrl: "https://www.modernhealthcare.com/government/testing-troubles-cloud-white-house-recovery-effort"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 22
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/NEWS_180119892_AR_0_VXZHHRUDJGQV.png"
-        width: 800
-        height: 600
 
 secured: "V0JZARsNrqWPvmVCmqKl1nMx9znRHJLu7UXhr1zBiRPJPRPGcJooR6E298R4QluIHNeg8FY3SAuHoTQ/L3eZ3pxDUCP33G7ub5BmUkSqLu/yGKpifE/SR1LRHcbHIQaCHKIyTTU+XYrJDJfZtaGg4iN2joWeK0I/EMSyZdSJxSjY6Wgyhk2ol5rRezUy3f3wjLco2ctsNYGJWAo0I7VvPaP6EzGSr4cwms2EVXg5Z7C9r9JZHzW15zg7+i9wnmHXtSPRPvK+76mJ9LJaiGI3nSYJQKemYR+IwMSHG46vpJeps8/75yYsSYMVj7zz51tA;WxiAI07dyaLeLcwe8gMEPQ=="
 ---
