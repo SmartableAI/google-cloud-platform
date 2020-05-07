@@ -2,6 +2,210 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-28-pubg-comes-to-google-stadia.md",
+      "title": "PUBG comes to Google Stadia",
+      "excerpt": "Google revealed during today's Stadia Connect video presentation that PUBG is now available for the cloud gaming platform.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/pubg-comes-to-google-stadia/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/pubg-comes-to-google-stadia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/pubg-comes-to-google-stadia/amp/",
+      "publishedDateTime": "2020-04-28T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/PUBG-E3-2018-02.jpg?fit=1159%2C651&strip=all",
+          "width": 1159,
+          "height": 651,
+          "title": "PUBG comes to Google Stadia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-improving-your-security-posture-with-centralized-secrets-management.md",
+      "title": "Improving your security posture with centralized secrets management",
+      "excerpt": "Adopting centralized secrets management is an important step in improving your organization's security posture. Centralized solutions provide unified auditing, access controls, and policy management, but many organizations struggle to install, configure, and drive internal adoption of these solutions",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/amp/",
+      "publishedDateTime": "2020-04-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/secret-manager-ga-blog-hero.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Improving your security posture with centralized secrets management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-introducing-plus-codes-in-place-autocomplete-place-details-and-geocoding-to-help-you-serve-users-everywhere.md",
+      "title": "Introducing plus codes in Place Autocomplete, Place Details and Geocoding to help you serve users everywhere",
+      "excerpt": "Although we’re constantly mapping the world–adding addresses, points of interest, roads, and more–there are many places without traditional addressing systems and some areas with no addresses or road names at all. This can be a challenge for businesses such as food delivery or on-demand transportation,",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/introducing-plus-codes-place-autocomplete-place-details-and-geocoding-help-you-serve-users-everywhere/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/033-MAP-Plus-Codes-In-Place-Autocomplete-S.max-2200x2200.png",
+          "width": 2200,
+          "height": 917,
+          "title": "Introducing plus codes in Place Autocomplete, Place Details and Geocoding to help you serve users everywhere",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.md",
+      "title": "Zoom taps Oracle for cloud deal, passing over Amazon, Microsoft",
+      "excerpt": "The Covid-19 pandemic has pushed many companies and schools to remote work, which allowed Zoom to emerge as a key player. The videoconferencing software company last week surpassed 300 million daily users,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html",
+      "publishedDateTime": "2020-04-28T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106411476-1582742955089gettyimages-1173631560.jpeg?v=1585759755",
+          "width": 4000,
+          "height": 2670,
+          "title": "Zoom taps Oracle for cloud deal, passing over Amazon, Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share.md",
+      "title": "Multicloud deployments become go-to strategy as AWS, Microsoft Azure, Google Cloud grab wallet share",
+      "excerpt": "Flexera's State of the Cloud 2020 report highlights how multicloud is becoming a default strategy for many enterprises and the big three providers are grabbing more of your cloud budget.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share/",
+      "publishedDateTime": "2020-04-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/04/24/e0f20bdd-b937-4683-b57b-1a402eb52f64/flexera-state-of-cloud-2020-f.png",
+          "width": 701,
+          "height": 343,
+          "title": "Multicloud deployments become go-to strategy as AWS, Microsoft Azure, Google Cloud grab wallet share",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro.md",
       "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
       "excerpt": "IT's future belongs to containers and Kubernetes, and Red Hat thinks its latest OpenShift Kubernetes distro will take you there.",
@@ -785,204 +989,6 @@
           "width": 2200,
           "height": 917,
           "title": "How TELUS International got employees back to work with virtual desktops",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-stadia-gains-users-after-giving-free-access-for-two-months.md",
-      "title": "Google Stadia gains users after giving free access for two months",
-      "excerpt": "Google’s cloud-based game, Stadia, has witnessed a surge in users after the tech giant gifted two months of free access to its premium version for gamers sheltering at home to curb the spread of the coronavirus.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-google-stadia-idUSKCN224386",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN224386",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN224386",
-      "publishedDateTime": "2020-04-22T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200422&t=2&i=1516080494&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3L24Y",
-          "width": 850,
-          "height": 545,
-          "title": "Google Stadia gains users after giving free access for two months",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure.md",
-      "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
-      "excerpt": "Anthos, Google’s platform for managing hybrid clouds that span Google Cloud and on-premise datacenters, has hit general availability for Amazon Web Services (AWS) and is in preview for Microsoft Azure. Additionally, Google today updated Anthos Config Management with a programmatic and declarative GitOps approach to manage policies for ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
-      "publishedDateTime": "2020-04-22T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/google-cloud-anthos.jpg?fit=2000%2C1000&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-anthosdriving-business-agility-and-efficiency.md",
-      "title": "Anthos—driving business agility and efficiency",
-      "excerpt": "In business as in life, change is constant and unpredictable. When building the platforms to power your organization, you can’t be limited by yesterday’s technology decisions. Nor can the systems you create today constrain your ability to act tomorrow. In times of uncertainty, you need an architecture",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-for-aws-is-now-ga/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "Anthos—driving business agility and efficiency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-modernize-legacy-apps-with-migrate-for-anthos-introducing-support-for-day-two-operations.md",
-      "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
-      "excerpt": "Not all application modernization strategies are created equal. One of the simplest approaches is to take an existing virtual machine and save it as a container. But while the resulting container will work, it won’t give you the benefits of more sophisticated modernization techniques—both in terms of",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/migrate-for-anthos-1-3-accelerates-modernization/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-were-rolling-out-4-top-requested-google-meet-features.md",
-      "title": "We’re rolling out 4 top-requested Google Meet features",
-      "excerpt": "Remote work has become increasingly necessary for public safety and wellbeing—which makes staying connected, even while we’re apart, more important than ever. Each day, a rapidly growing number of people connect on Google Meet, and we want to make sure they have the features they need to share and be",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/productivity-collaboration/introducing-tiled-view-and-other-top-requested-features-in-google-meet/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Meet_16.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "We’re rolling out 4 top-requested Google Meet features",
           "attribution": null
         }
       ],

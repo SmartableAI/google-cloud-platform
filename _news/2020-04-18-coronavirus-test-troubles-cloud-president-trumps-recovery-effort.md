@@ -40,21 +40,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20108812937625.jpg?ve=1&tl=1"
         width: 640
         height: 320
-  - title: "Test troubles cloud Trump recovery effort"
-    excerpt: "“It’s a little bit like rationing,” Patel said. In early March, Trump announced a plan for nationwide testing via drive-thru sites at chains such as Walmart and Target, linked by a Google-affiliated website. Six weeks later, the website is a pilot program available in just four California counties. Few of the retailers’ sites have ..."
-    publishedDateTime: 2020-04-17T21:33:00Z
-    webUrl: "https://www.pbs.org/newshour/health/test-troubles-cloud-trump-recovery-effort"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/health/test-troubles-cloud-trump-recovery-effort"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/health/test-troubles-cloud-trump-recovery-effort"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 42
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/04/2020-04-09T202409Z_1697919662_RC281G9F1IVN_RTRMADP_3_HEALTH-CORONAVIRUS-USA-1024x683.jpg"
-        width: 1024
-        height: 683
   - title: "Coronavirus test troubles cloud Trump recovery effort"
     excerpt: "WASHINGTON >> The United States is struggling to test enough people to track and control the spread of the novel coronavirus, a crucial first step to reopening parts of the economy, which President Donald Trump is pushing to do by May 1."
     publishedDateTime: 2020-04-18T04:25:00Z

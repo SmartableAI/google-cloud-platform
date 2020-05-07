@@ -2,6 +2,218 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-20-our-healthcare-api-and-other-solutions-for-supporting-healthcare-and-life-sciences-organizations-during-the-pandemic.md",
+      "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
+      "excerpt": "Whether they’re caring for patients or advancing research towards a cure, healthcare and life sciences organizations are on the front lines in the fight against COVID-19. We know that the pandemic is impacting every aspect of the healthcare industry differently, and that the needs of organizations are",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-supporting-healthcare-and-life-sciences-organizations/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-alibaba-will-allocate-28-billion-in-three-years-to-expand-cloud-business.md",
+      "title": "Alibaba Will Allocate $28 Billion In Three Years to Expand Cloud Business",
+      "excerpt": "Alibaba will be hoping to gain market share from other large cloud players such as Amazon, Microsoft and Alphabet's Google. The global cloud infrastructure spending in 2019 stood at $107.1 billion, up 37.6% from $77.8 billion spent in the prior-year period, according to Canalys.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx?source=iedfolrf0000001",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx",
+      "publishedDateTime": "2020-04-20T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568677%2Falibaba-cloud.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Alibaba Will Allocate $28 Billion In Three Years to Expand Cloud Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
+      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+      "excerpt": "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-coronavirus-test-troubles-cloud-trumps-efforts-to-reopen-country.md",
+      "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
+      "excerpt": "The United States is struggling to test enough people to track and control the spread of the novel coronavirus, a crucial first step to reopening parts of the economy, which President Donald Trump is pushing to do by May 1.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1",
+      "ampWebUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
+      "publishedDateTime": "2020-04-18T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20108812937625.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know.md",
+      "title": "Google Stadia free tier, newest games and everything else you need to know",
+      "excerpt": "Google Stadia, the megacorp's service to stream playable games on TVs and mobile devices without a console or PC, is the company's leap into the melee of cloud gaming. Google is typically the biggest fish in any pond,",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
+      "publishedDateTime": "2020-04-17T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/yUWTwiSF9gNLBd6FlrNb7yjxtrs=/756x567/2019/11/15/a6594deb-1dba-451a-98bb-02fe83b80a9b/18-google-stadia.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Google Stadia free tier, newest games and everything else you need to know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-introducing-dataflow-template-to-stream-data-to-splunk.md",
       "title": "Introducing Dataflow template to stream data to Splunk",
       "excerpt": "At Google Cloud, we’re focused on solving customer problems and meeting them where they are. Many of you use third-party monitoring solutions from Splunk to keep a tab on both on-prem and cloud environments. These use cases include IT ops, security, application development, and business analytics. In",
@@ -817,202 +1029,6 @@
           "width": 877,
           "height": 593,
           "title": "Pentagon's inspector general says Microsoft's JEDI cloud win should stand",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-this-cloud-software-startup-used-by-the-us-air-force-just-raised-30-million-from-vcs-and-the-cia.md",
-      "title": "This Cloud Software Startup Used By The U.S. Air Force Just Raised $30 Million From VCs And The CIA",
-      "excerpt": "Many of those still in high-demand operate in cloud computing, such as HashiCorp, which raised $175 million at a $5.1 billion valuation in March, and Notion, a workflow productivity platform that competes with Google Docs and Slack, that raised $50 million at a $2 billion valuation also last month. Entwistle says Coder is not yet profitable as ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/davidjeans/2020/04/15/-cloud-software-startup-air-force-just-raised-funding-from-cia/",
-      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2020/04/15/-cloud-software-startup-air-force-just-raised-funding-from-cia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/04/15/-cloud-software-startup-air-force-just-raised-funding-from-cia/amp/",
-      "publishedDateTime": "2020-04-15T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e962fcd25f8bf00076b6a30%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "This Cloud Software Startup Used By The U.S. Air Force Just Raised $30 Million From VCs And The CIA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-private-access-with-serverless-managing-serverless-application-access-in-google-cloud-platform-gcp.md",
-      "title": "Private Access With Serverless — Managing Serverless Application Access in Google Cloud Platform (GCP)",
-      "excerpt": "Cloud Run and Google App Engine Flex (with custom runtime) have been my prime serverless choices in Google Cloud Platform (GCP). Both offer a high degree of flexibility — with the ability to deploy with any runtime due to its configuration dependency as a Dockerfile. App Engine has been made available as a commercial tool for a longer period ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/swlh/private-access-with-serverless-managing-serverless-application-access-in-google-cloud-platform-857c74bc55cd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*s3SfHFu0tszfPURFr9mOFQ.jpeg",
-          "width": 1200,
-          "height": 796,
-          "title": "Private Access With Serverless — Managing Serverless Application Access in Google Cloud Platform (GCP)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-how-google-cloud-is-helping-global-governments-during-the-covid-19-pandemic-and-our-future-plans-to-work-with-the-public-sector.md",
-      "title": "How Google Cloud is helping global governments during the COVID-19 pandemic, and our future plans to work with the public sector",
-      "excerpt": "We are deeply committed to providing the public sector with the best technology to help improve government services and increase operational effectiveness, and we continue to work with government agencies to advocate for and contribute to the responsible and beneficial use of technology. Around the world,",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-global-governments-during-the-covid-19-pandemic/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_cloud_network-01.max-1000x1000.jpg",
-          "width": 1000,
-          "height": 416,
-          "title": "How Google Cloud is helping global governments during the COVID-19 pandemic, and our future plans to work with the public sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-how-google-cloud-is-helping-covid-19-academic-research.md",
-      "title": "How Google Cloud is helping COVID-19 academic research",
-      "excerpt": "As COVID-19 continues to grow in impact, healthcare and life science researchers are in a race to understand more about the novel coronavirus, and are increasingly turning to cloud technologies to aid them in their work.We’re so grateful for the work of these experts, and want to support them with tools",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-covid-19-academic-research/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_B3.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "How Google Cloud is helping COVID-19 academic research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-supporting-not-for-profit-covid-19-response-efforts-with-google-maps-platform-credits.md",
-      "title": "Supporting not-for-profit COVID-19 response efforts with Google Maps Platform credits",
-      "excerpt": "In the wake of the COVID-19 pandemic, we’ve seen an inspiring response from our developer community. To support response efforts, we’ve expedited the processing of Google Maps Platform credit applications for COVID-19-related not-for-profit projects that offer a publicly-available website or mobile app.",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/supporting-not-profit-covid-19-response-efforts-google-maps-platform-credits/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/034-MAP-COVID_Response-SL_2880x1200_1.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Supporting not-for-profit COVID-19 response efforts with Google Maps Platform credits",
           "attribution": null
         }
       ],

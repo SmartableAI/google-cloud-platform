@@ -2,6 +2,204 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-22-google-stadia-gains-users-after-giving-free-access-for-two-months.md",
+      "title": "Google Stadia gains users after giving free access for two months",
+      "excerpt": "Google’s cloud-based game, Stadia, has witnessed a surge in users after the tech giant gifted two months of free access to its premium version for gamers sheltering at home to curb the spread of the coronavirus.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-google-stadia-idUSKCN224386",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN224386",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN224386",
+      "publishedDateTime": "2020-04-22T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200422&t=2&i=1516080494&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3L24Y",
+          "width": 850,
+          "height": 545,
+          "title": "Google Stadia gains users after giving free access for two months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure.md",
+      "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
+      "excerpt": "Anthos, Google’s platform for managing hybrid clouds that span Google Cloud and on-premise datacenters, has hit general availability for Amazon Web Services (AWS) and is in preview for Microsoft Azure. Additionally, Google today updated Anthos Config Management with a programmatic and declarative GitOps approach to manage policies for ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-hybrid-cloud-platform-anthos-hits-general-availability-for-aws-in-preview-for-azure/amp/",
+      "publishedDateTime": "2020-04-22T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/google-cloud-anthos.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Google’s hybrid cloud platform Anthos hits general availability for AWS, in preview for Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-anthosdriving-business-agility-and-efficiency.md",
+      "title": "Anthos—driving business agility and efficiency",
+      "excerpt": "In business as in life, change is constant and unpredictable. When building the platforms to power your organization, you can’t be limited by yesterday’s technology decisions. Nor can the systems you create today constrain your ability to act tomorrow. In times of uncertainty, you need an architecture",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-for-aws-is-now-ga/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Anthos.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Anthos—driving business agility and efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-modernize-legacy-apps-with-migrate-for-anthos-introducing-support-for-day-two-operations.md",
+      "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+      "excerpt": "Not all application modernization strategies are created equal. One of the simplest approaches is to take an existing virtual machine and save it as a container. But while the resulting container will work, it won’t give you the benefits of more sophisticated modernization techniques—both in terms of",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/migrate-for-anthos-1-3-accelerates-modernization/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-were-rolling-out-4-top-requested-google-meet-features.md",
+      "title": "We’re rolling out 4 top-requested Google Meet features",
+      "excerpt": "Remote work has become increasingly necessary for public safety and wellbeing—which makes staying connected, even while we’re apart, more important than ever. Each day, a rapidly growing number of people connect on Google Meet, and we want to make sure they have the features they need to share and be",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/productivity-collaboration/introducing-tiled-view-and-other-top-requested-features-in-google-meet/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Meet_16.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "We’re rolling out 4 top-requested Google Meet features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-google-cloud-made-its-healthcare-api-available-to-providers-amid-the-pandemic.md",
       "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
       "excerpt": "Google Cloud made its Healthcare API generally available to healthcare organizations in response to the coronavirus pandemic.",
@@ -838,218 +1036,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-our-healthcare-api-and-other-solutions-for-supporting-healthcare-and-life-sciences-organizations-during-the-pandemic.md",
-      "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
-      "excerpt": "Whether they’re caring for patients or advancing research towards a cure, healthcare and life sciences organizations are on the front lines in the fight against COVID-19. We know that the pandemic is impacting every aspect of the healthcare industry differently, and that the needs of organizations are",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-supporting-healthcare-and-life-sciences-organizations/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-alibaba-will-allocate-28-billion-in-three-years-to-expand-cloud-business.md",
-      "title": "Alibaba Will Allocate $28 Billion In Three Years to Expand Cloud Business",
-      "excerpt": "Alibaba will be hoping to gain market share from other large cloud players such as Amazon, Microsoft and Alphabet's Google. The global cloud infrastructure spending in 2019 stood at $107.1 billion, up 37.6% from $77.8 billion spent in the prior-year period, according to Canalys.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx?source=iedfolrf0000001",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/20/alibaba-will-allocate-28-billion-in-three-years-to.aspx",
-      "publishedDateTime": "2020-04-20T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568677%2Falibaba-cloud.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Alibaba Will Allocate $28 Billion In Three Years to Expand Cloud Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
-      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-      "excerpt": "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-coronavirus-test-troubles-cloud-trumps-efforts-to-reopen-country.md",
-      "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
-      "excerpt": "The United States is struggling to test enough people to track and control the spread of the novel coronavirus, a crucial first step to reopening parts of the economy, which President Donald Trump is pushing to do by May 1.",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1",
-      "ampWebUrl": "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp",
-      "publishedDateTime": "2020-04-18T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20108812937625.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Coronavirus test troubles cloud Trump's efforts to reopen country",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know.md",
-      "title": "Google Stadia free tier, newest games and everything else you need to know",
-      "excerpt": "Google Stadia, the megacorp's service to stream playable games on TVs and mobile devices without a console or PC, is the company's leap into the melee of cloud gaming. Google is typically the biggest fish in any pond,",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-stadia-free-tier-newest-games-and-everything-else-you-need-to-know/",
-      "publishedDateTime": "2020-04-17T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/yUWTwiSF9gNLBd6FlrNb7yjxtrs=/756x567/2019/11/15/a6594deb-1dba-451a-98bb-02fe83b80a9b/18-google-stadia.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Google Stadia free tier, newest games and everything else you need to know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

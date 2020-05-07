@@ -2,6 +2,226 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-04-expectations-vs-execution-managing-your-cloud.md",
+      "title": "Expectations vs execution: managing your cloud",
+      "excerpt": "The promise and allure of cloud computing has always rested in its potential to lower costs, reduce management burdens, make organisations more resilient and allow them to innovate and scale-out faster.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/cloud/355529/expectations-vs-execution-managing-your-cloud",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/355529/expectations-vs-execution-managing-your-cloud?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/355529/expectations-vs-execution-managing-your-cloud?amp",
+      "publishedDateTime": "2020-05-04T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588591863/Cloud_question.jpg",
+          "width": 5616,
+          "height": 3744,
+          "title": "Expectations vs execution: managing your cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments.md",
+      "title": "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments",
+      "excerpt": "HPE GreenLake Central is the as-a-service layer to its GreenLake platform, which has more than 800 customers globally.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/",
+      "publishedDateTime": "2020-05-04T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/30/f66edada-ce05-4950-8f6c-92359717a853/thumbnail/1200x675/08eac1fa9c322dffceac2936c79fe33e/wdc-q3-2020.png",
+          "width": 1200,
+          "height": 675,
+          "title": "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-cloud-manufacturing-market-size-growth-analysis-outlook-by-trends-and-forecast-to-2019-2024.md",
+      "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
+      "excerpt": "Global Cloud Manufacturing Market Research Report: by Component (Hardware, Software and Services), by Deployment",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-manufacturing-market-size-growth-analysis-outlook-by---trends-and-forecast-to-2019-2024-2020-05-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-google-cloud-and-youtube-help-protect-alphabet-from-a-coronavirus-disaster.md",
+      "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
+      "excerpt": "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "publishedDateTime": "2020-05-03T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570704%2Fman-touching-magnifying-glass-button-on-floating-search-bar-internet-google-search-engine.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 850,
+          "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-rings-video-doorbell-3-plus-takes-a-run-at-googles-nest-hello.md",
+      "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+      "excerpt": "Ring's Video Doorbell 3 Plus, first announced on March 11 -- which feels like a very long time ago amid the coronavirus pandemic and resulting quarantine -- is available now at Best Buy and other online retailers,",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/reviews/ring-video-doorbell-3-plus-review/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "publishedDateTime": "2020-05-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/7sOGJCBIVZ6Vr28vEq9mFv0UKvI=/770x433/2020/04/30/e7305fb1-ee20-4926-95e6-d2d3a171f4c0/ringvideodoorbell3plus.jpg",
+          "width": 770,
+          "height": 433,
+          "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news.md",
       "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
       "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
@@ -1010,218 +1230,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-viva-las-vegas-with-our-latest-google-cloud-platform-region.md",
-      "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
-      "excerpt": "If you’re running in the cloud, more regions means being able to build reliable, fast applications that can serve your local customers. Today, we’re launching our newest Google Cloud Platform region in Las Vegas, bringing a fourth region to the western United States, the seventh nationally, and our global",
-      "heat": 182,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/infrastructure/google-clouds-las-vegas-region-is-now-open/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_las_vegas.jpg",
-          "width": 1999,
-          "height": 834,
-          "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-oracle-launches-cloud-e3-platform-built-on-second-gen-amd-epyc-processors.md",
-      "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
-      "excerpt": "Oracle on Wednesday launched the Oracle Cloud Infrastructure Compute E3 platform, a new family of bare metal and standard instances powered by AMD's 2nd Gen Epyc processors. With the high core count and memory bandwidth delivered by the AMD chips,",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "publishedDateTime": "2020-04-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/10/25/93c8b76a-bd36-484e-82b6-7e8530b0aaca/thumbnail/1200x675/57ac64ca97ef5bec30bc41af38b3d033/20191025-steph-karen-oracle.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-google-makes-meet-video-conferencing-free-to-all-users-challenging-zoom.md",
-      "title": "Google makes Meet video conferencing free to all users, challenging Zoom",
-      "excerpt": "Alphabet Inc's Google on Wednesday said any user will soon be able to host free video conferences on Meet, turning its previously business-only tool into a bigger rival to Zoom and others battling for users during the coronavirus outbreak.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-alphabet-google-conferencing-idUSKBN22B1AX",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22B1AX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B1AX",
-      "publishedDateTime": "2020-04-29T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516848289&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S0NZ",
-          "width": 848,
-          "height": 545,
-          "title": "Google makes Meet video conferencing free to all users, challenging Zoom",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-google-is-making-meet-free-for-everyone.md",
-      "title": "Google is making Meet free for everyone",
-      "excerpt": "Google today announced that it is making Meet, its video meeting tool for businesses that directly competes with the likes of Zoom, available for free to everyone. Until now, you could participate in a Meet call without being a paying user,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/29/google-is-making-meet-free-for-everyone/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/29/google-is-making-meet-free-for-everyone/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/google-is-making-meet-free-for-everyone/amp/",
-      "publishedDateTime": "2020-04-29T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Google-Meet-Create-New-Meeting_gb.gif",
-          "width": 800,
-          "height": 482,
-          "title": "Google is making Meet free for everyone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-alphabet-warns-of-difficult-quarter-as-consumers-google-pandemic-not-shopping.md",
-      "title": "Alphabet warns of difficult quarter as consumers Google pandemic, not shopping",
-      "excerpt": "Alphabet Inc on Tuesday beat analysts' estimate for quarterly revenue as its Google unit posted double-digit advertising growth despite the economic slowdown from the novel coronavirus.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-alphabet-results-idUSKCN22A37K",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22A37K",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22A37K",
-      "publishedDateTime": "2020-04-28T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200428&t=2&i=1516782288&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3R28N",
-          "width": 841,
-          "height": 545,
-          "title": "Alphabet warns of difficult quarter as consumers Google pandemic, not shopping",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

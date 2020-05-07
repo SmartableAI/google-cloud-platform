@@ -23,21 +23,6 @@ images:
     title: "No plan in sight: COVID-19 testing troubles cloud Trump recovery effort"
 
 related:
-  - title: "No Plan in Sight: Test Troubles Cloud Trump Recovery Effort"
-    excerpt: "“It’s a little bit like rationing,” Patel said. In early March, Trump announced a plan for nationwide testing via drive-thru sites at chains such as Walmart and Target, linked by a Google-affiliated website. Six weeks later, the website is a pilot program available in just four California counties. Few of the retailers' sites have ..."
-    publishedDateTime: 2020-04-17T22:32:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/no-plan-in-sight-test-troubles-cloud-trump-recovery-effort/2379111/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/no-plan-in-sight-test-troubles-cloud-trump-recovery-effort/2379111/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/no-plan-in-sight-test-troubles-cloud-trump-recovery-effort/2379111/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 42
-    images:
-      - url: "https://media.nbcnewyork.com/2019/09/GettyImages-1219271521.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
   - title: "No plan in sight: Test troubles cloud Trump recovery effort"
     excerpt: "The United States is struggling to test enough people to track and control the spread of the novel coronavirus, a crucial first step to reopening parts of the"
     publishedDateTime: 2020-04-18T09:49:00Z

@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-07-how-sesame-pivoted-during-covid-19-to-support-local-healthcare-providers.md",
+      "title": "How Sesame pivoted during COVID-19 to support local healthcare providers",
+      "excerpt": "COVID-19 is forcing us all to adapt to new realities. This is especially true for the healthcare industry. From large healthcare providers to pharmaceutical companies to small, privately run practices, nearly every customer in the healthcare industry is re-evaluating and shifting their strategies. To",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/healthcare-life-sciences/how-sesame-pivoted-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How Sesame pivoted during COVID-19 to support local healthcare providers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-windows-server-containers-on-gke-now-ga-with-ecosystem-support.md",
       "title": "Windows Server containers on GKE now GA, with ecosystem support",
       "excerpt": "As organizations look to modernize their Windows Server applications to achieve improved scalability and smoother operations, migrating them into Windows containers has become a leading solution. And orchestrating these containers with Kubernetes has become the industry norm, just as it has with Linux. We",

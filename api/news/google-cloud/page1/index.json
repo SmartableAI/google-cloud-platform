@@ -2,6 +2,195 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-07-admin-essentials-protecting-enterprise-credentials-with-password-alert.md",
+      "title": "Admin Essentials: Protecting enterprise credentials with Password Alert",
+      "excerpt": "Protecting users and data is a big job for organizations, especially as attackers continue to attempt to access enterprise credentials and gain control of corporate machines. Google has been working hard to help protect corporate passwords with features like Password Checkup and a variety of other Chrome",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/protecting-enterprise-credentials-with-password-alert/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/chrome_enterprise_securing_cloud_worker.max-1000x1000.png",
+          "width": 1000,
+          "height": 417,
+          "title": "Admin Essentials: Protecting enterprise credentials with Password Alert",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-anthos-in-depth-modern-application-development-and-delivery.md",
+      "title": "Anthos in depth: Modern application development and delivery",
+      "excerpt": "“Keep calm and carry on.” While the words may resonate with the public, carrying on with business as usual these days is not an option for most enterprises—especially not application development and delivery teams. And to the 71% of CIOs who recently cited “improved agility and faster time to market”",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/how-anthos-helps-modernize-application-development/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Anthos in depth: Modern application development and delivery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-how-sesame-pivoted-during-covid-19-to-support-local-healthcare-providers.md",
+      "title": "How Sesame pivoted during COVID-19 to support local healthcare providers",
+      "excerpt": "COVID-19 is forcing us all to adapt to new realities. This is especially true for the healthcare industry. From large healthcare providers to pharmaceutical companies to small, privately run practices, nearly every customer in the healthcare industry is re-evaluating and shifting their strategies. To",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/healthcare-life-sciences/how-sesame-pivoted-during-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How Sesame pivoted during COVID-19 to support local healthcare providers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-keep-your-users-safe-with-recaptcha-enterprise.md",
+      "title": "Keep your users safe with reCAPTCHA Enterprise",
+      "excerpt": "Globally, organizations across industries have been working to expand their online footprint to continue doing business. Whether it’s to help more workers safely do their job from home, to help customers interact with them more efficiently, or other reasons, this sudden shift has put a strain on IT teams,",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/keep-your-users-safe-with-recaptcha-enterprise/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/reCAPTCHA.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Keep your users safe with reCAPTCHA Enterprise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-cloud-music-services-market-outlook-and-growth-opportunities-2020.md",
+      "title": "Cloud Music Services Market Outlook and Growth Opportunities 2020",
+      "excerpt": "Global Cloud Music Services Market research report published by market insight reports explores the current outlook in global and",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-music-services-market-outlook-and-growth-opportunities-2020-2020-05-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Music Services Market Outlook and Growth Opportunities 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-this-neat-trick-lets-you-play-google-stadia-on-an-ipad.md",
       "title": "This Neat Trick Lets You Play Google Stadia On An iPad",
       "excerpt": "Google finally delivered on one of its pre-launch promises, namely the ability to use the Stadia controller wirelessly with any computer. That facility, combined with Apple’s Sidecar technology, means Mac owners can now play Stadia on an iPad with the wireless controller,",
@@ -451,26 +640,18 @@
       "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
       "title": "Splunk Cloud comes to Google Cloud",
       "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 127,
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "webUrl": "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
       "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
-      "publishedDateTime": "2020-05-05T09:12:00-07:00",
+      "publishedDateTime": "2020-05-05T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "ITworld",
+        "domain": "itworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1007,226 +1188,6 @@
           "width": 1200,
           "height": 675,
           "title": "Zoom vs Microsoft Teams vs Google Meet: How do they compare?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-expectations-vs-execution-managing-your-cloud.md",
-      "title": "Expectations vs execution: managing your cloud",
-      "excerpt": "The promise and allure of cloud computing has always rested in its potential to lower costs, reduce management burdens, make organisations more resilient and allow them to innovate and scale-out faster.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/cloud/355529/expectations-vs-execution-managing-your-cloud",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/355529/expectations-vs-execution-managing-your-cloud?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/355529/expectations-vs-execution-managing-your-cloud?amp",
-      "publishedDateTime": "2020-05-04T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1588591863/Cloud_question.jpg",
-          "width": 5616,
-          "height": 3744,
-          "title": "Expectations vs execution: managing your cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments.md",
-      "title": "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments",
-      "excerpt": "HPE GreenLake Central is the as-a-service layer to its GreenLake platform, which has more than 800 customers globally.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/",
-      "publishedDateTime": "2020-05-04T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/30/f66edada-ce05-4950-8f6c-92359717a853/thumbnail/1200x675/08eac1fa9c322dffceac2936c79fe33e/wdc-q3-2020.png",
-          "width": 1200,
-          "height": 675,
-          "title": "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-cloud-manufacturing-market-size-growth-analysis-outlook-by-trends-and-forecast-to-2019-2024.md",
-      "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
-      "excerpt": "Global Cloud Manufacturing Market Research Report: by Component (Hardware, Software and Services), by Deployment",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-manufacturing-market-size-growth-analysis-outlook-by---trends-and-forecast-to-2019-2024-2020-05-03",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-03T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-google-cloud-and-youtube-help-protect-alphabet-from-a-coronavirus-disaster.md",
-      "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
-      "excerpt": "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
-      "publishedDateTime": "2020-05-03T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570704%2Fman-touching-magnifying-glass-button-on-floating-search-bar-internet-google-search-engine.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 850,
-          "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-rings-video-doorbell-3-plus-takes-a-run-at-googles-nest-hello.md",
-      "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
-      "excerpt": "Ring's Video Doorbell 3 Plus, first announced on March 11 -- which feels like a very long time ago amid the coronavirus pandemic and resulting quarantine -- is available now at Best Buy and other online retailers,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/reviews/ring-video-doorbell-3-plus-review/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
-      "publishedDateTime": "2020-05-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/7sOGJCBIVZ6Vr28vEq9mFv0UKvI=/770x433/2020/04/30/e7305fb1-ee20-4926-95e6-d2d3a171f4c0/ringvideodoorbell3plus.jpg",
-          "width": 770,
-          "height": 433,
-          "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
           "attribution": null
         }
       ],
