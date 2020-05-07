@@ -23,6 +23,6 @@ images:
     height: 1200
     title: "How Sesame pivoted during COVID-19 to support local healthcare providers"
 
-secured: "gETmCl/L35/ZnoQCrQZ2iUggRGebP6dov3Em4gVL0DBs1ZhXRR0ZGB0WD9DVuoARImxlUkybbE2ldr8VOSy+WHbuF67/vGPHraClc1+1FSjyJgAKnh7al5ZLMFA2DVmbLekvIsYuGJTneqJiGcmKn7vZpHKzwM0KOo2+1r2znWS/e68GGIJKl9afQ9Z//vgFfS9KRIIuROiVLIjYTsEU+5Rc+8ebvS+OkMmpKLxfsCD9s+fGxDsLCkO/S0ePXIuN1kg6sgs/vV53DmBEqHwxmHwVLpP2IuQB3tNlEITtP9Ia3HkODF2rqxnixEdBw8siJw/NQl2Hveljy5Yg5Wfg/g==;D6ESWXwUpiY16B+G+8taGA=="
+secured: "VNUzIPXX2DJH5cIyasW8ad/6igyqeoRobmzL862cTFR35mGEBH0GxwAv0dyGNt2e141b155OgBwKs1lFcl0ZD73yx9XBuA3z9usT6sBn4ka66ULr+RuXpf5meqQQhN3LIFHeFwP1dbEu2kjBTEH/8YKqJZNTMf+CTFRqiQMeU7dWc4pskgZUlzyO4vPr53yrChXXP+RV9PBuz3GrTc6TQtMI9g3umDgT1ogeDizQPBC38gqNTwj4+/7w8TOZSOgu+osuYxfbRAfLaxygwqL7TshI24msUHw7r4ZPYLRghCIP7ndn46SoMXZAeh024b0RdG032ST1FigBbVIVMqLnRw==;oyk+cL4BVMJrmjZw8XrecA=="
 ---
 

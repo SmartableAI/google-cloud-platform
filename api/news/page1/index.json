@@ -194,7 +194,7 @@
       "path": "_news/2020-05-07-uk-eyeing-switch-to-apple-google-api-for-coronavirus-contacts-tracing-report.md",
       "title": "UK eyeing switch to Apple-Google API for coronavirus contacts tracing — report",
       "excerpt": "The UK may be rethinking its decision to shun Apple and Google’s API for its national coronavirus contacts tracing app, according to the Financial Times, which reported yesterday that the government is paying an IT supplier to investigate whether it can integrate the tech giants’",
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/07/uk-eyeing-switch-to-apple-google-api-for-coronavirus-contacts-tracing-report/",
@@ -684,26 +684,18 @@
       "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
       "title": "Splunk Cloud comes to Google Cloud",
       "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 127,
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "webUrl": "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
       "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
-      "publishedDateTime": "2020-05-05T09:12:00-07:00",
+      "publishedDateTime": "2020-05-05T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "ITworld",
+        "domain": "itworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
