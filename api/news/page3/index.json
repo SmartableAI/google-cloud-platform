@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-30-google-clouds-enterprise-weakness-is-its-hidden-complexity.md",
+      "title": "Google Cloud’s Enterprise Weakness Is Its Hidden Complexity",
+      "excerpt": "Driving for cost optimization and low-cost leadership is not a strategy to extract value from enterprise accounts. GCP is focusing on a small handful of verticals to create enterprise solutions value.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/paulteich/2020/04/30/google-clouds-enterprise-weakness-is-its-hidden-complexity/",
+      "ampWebUrl": "https://www.forbes.com/sites/paulteich/2020/04/30/google-clouds-enterprise-weakness-is-its-hidden-complexity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/04/30/google-clouds-enterprise-weakness-is-its-hidden-complexity/amp/",
+      "publishedDateTime": "2020-04-30T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eab24b91c73f70006613477%2F0x0.jpg",
+          "width": 767,
+          "height": 384,
+          "title": "Google Cloud’s Enterprise Weakness Is Its Hidden Complexity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-cloud-foundry-renews-its-focus-on-developer-experience-as-it-looks-beyond-the-enterprise.md",
       "title": "Cloud Foundry renews its focus on developer experience as it looks beyond the enterprise",
       "excerpt": "The Cloud Foundry Foundation (CFF) just went through a major leadership change, with executive director Abby Kearns stepping down after five years (and becoming a CTO at Puppet) and the CFF’s CTO Chip Childers stepping into the top leadership role in the organization.",
@@ -988,50 +1032,6 @@
           "width": 1199,
           "height": 798,
           "title": "Cloud Security Company Cloudflare Makes ‘Maverick’ Big Bet On China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia.md",
-      "title": "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia",
-      "excerpt": "Google revealed today during its latest Google Stadia Connect presentation that Electronic Arts is bringing some big games to the cloud gaming service.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/amp/",
-      "publishedDateTime": "2020-04-28T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/greez.jpg?fit=1391%2C941&strip=all",
-          "width": 1391,
-          "height": 941,
-          "title": "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia",
           "attribution": null
         }
       ],

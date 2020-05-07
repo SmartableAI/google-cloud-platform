@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-15-pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand.md",
+      "title": "Pentagon's inspector general says Microsoft's JEDI cloud win should stand",
+      "excerpt": "From the 313-page Inspector General's report: \"We sought to review whether there was any White House influence on the JEDI cloud procurement. We could not review this matter ... Amazon and Microsoft emerged as the two final bidders in the winner-take-all deal. (Google dropped out of the JEDI bidding late last year, while Oracle and IBM were ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/",
+      "publishedDateTime": "2020-04-15T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg",
+          "width": 877,
+          "height": 593,
+          "title": "Pentagon's inspector general says Microsoft's JEDI cloud win should stand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-this-cloud-software-startup-used-by-the-us-air-force-just-raised-30-million-from-vcs-and-the-cia.md",
       "title": "This Cloud Software Startup Used By The U.S. Air Force Just Raised $30 Million From VCs And The CIA",
       "excerpt": "Many of those still in high-demand operate in cloud computing, such as HashiCorp, which raised $175 million at a $5.1 billion valuation in March, and Notion, a workflow productivity platform that competes with Google Docs and Slack, that raised $50 million at a $2 billion valuation also last month. Entwistle says Coder is not yet profitable as ...",
@@ -1063,50 +1107,6 @@
           "width": 2880,
           "height": 1200,
           "title": "Customer engineers bring people and technology together",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-google-microsoft-and-palantir-are-building-a-covid-19-dashboard-for-the-uks-health-system.md",
-      "title": "Google, Microsoft, and Palantir are building a COVID-19 dashboard for the UK's health system",
-      "excerpt": "The NHS says all data will remain under its control.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-microsoft-palantir-covid-19-dashboard-nhs-2020-3?amp",
-      "publishedDateTime": "2020-03-30T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e7ddb8d671de001c164e5b3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google, Microsoft, and Palantir are building a COVID-19 dashboard for the UK's health system",
           "attribution": null
         }
       ],

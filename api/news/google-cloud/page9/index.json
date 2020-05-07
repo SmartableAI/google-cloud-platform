@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-01-30-announcing-new-certifications-for-technical-leaders-and-devops-engineers.md",
+      "title": "Announcing new certifications for technical leaders and DevOps engineers",
+      "excerpt": "As the cloud continues to evolve, it’s paving the way for exciting innovations that were difficult to imagine even a few years ago. To take advantage of everything the latest cloud technology has to offer, organizations must be able to find people with the right combination of skills to make it happen.",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/training-certifications/new-google-cloud-certifications-address-the-cloud-skills-gap/amp/",
+      "publishedDateTime": "2020-01-30T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_Training_and_Certification.max-1100x1100.jpg",
+          "width": 1100,
+          "height": 458,
+          "title": "Announcing new certifications for technical leaders and DevOps engineers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-expanding-our-alliance-with-cisco-in-hybrid-cloud-and-the-contact-center.md",
       "title": "Expanding our alliance with Cisco in hybrid cloud and the contact center",
       "excerpt": "Over the past three years, we’ve worked closely with Cisco to deliver a number of customer-focused solutions in areas such as hybrid cloud, multi-cloud, work transformation, and contact center integrations. This week at Cisco Live in Barcelona, we’re sharing updates on our joint work in two key areas",
@@ -1075,45 +1112,6 @@
       "topics": [
         "Google Cloud",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2019-12-11-whats-new-in-cloud-run-for-anthos.md",
-      "title": "What’s new in Cloud Run for Anthos",
-      "excerpt": "Earlier this year, we announced Cloud Run, our newest compute platform for serverless containers, which runs either on Google’s fully managed infrastructure–or on your Google Kubernetes Engine (GKE) clusters with Cloud Run for Anthos. This portability is achieved with Knative open-source APIs.With Cloud",
-      "heat": 168,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/new-features-in-cloud-run-for-anthos-ga/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/new-features-in-cloud-run-for-anthos-ga/amp/",
-      "publishedDateTime": "2019-12-11T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Serverless.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "What’s new in Cloud Run for Anthos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute",
-        "Serverless",
-        "Hybrid Cloud"
       ]
     }
   ],
