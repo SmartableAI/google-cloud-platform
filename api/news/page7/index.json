@@ -2,6 +2,42 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-13-find-and-fix-issues-faster-with-our-new-logs-viewer.md",
+      "title": "Find and fix issues faster with our new Logs Viewer",
+      "excerpt": "Monitoring your cloud infrastructure is an essential part of making sure your operations are running smoothly. Since announcing the new Cloud Logging interface in February, we’ve heard from users that the new interface is making it faster and easier to meet logging needs, including troubleshooting issues,",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/troubleshoot-issues-faster-with-cloud-logging/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Find and fix issues faster with our new Logs Viewer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-from-raw-data-to-machine-learning-model-no-coding-required.md",
       "title": "From raw data to machine learning model, no coding required",
       "excerpt": "Machine learning was once the domain of specialized researchers, with complex models and proprietary code required to build a solution. But, Cloud AutoML has made machine learning more accessible than ever before. By automating the model building process, users can create highly performant models with",
@@ -875,50 +911,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google, Microsoft, and Palantir are building a COVID-19 dashboard for the UK's health system",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-google-sets-aside-800m-in-ads-and-loans-to-help-in-covid-19-fight.md",
-      "title": "Google sets aside $800M in ads and loans to help in COVID-19 fight",
-      "excerpt": "The credits are good through the end of the year. They’ll be giving away $20 million worth of Google Cloud credits to academic institutions and researchers that are tackling COVID-19. $200 million will go to an investment fund for nonprofits and financial institutions to provide small businesses with loans. Google further reiterated they will ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/27/google-sets-aside-800m-in-ads-and-cash-to-help-in-covid-19-fight/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/27/google-sets-aside-800m-in-ads-and-cash-to-help-in-covid-19-fight/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/27/google-sets-aside-800m-in-ads-and-cash-to-help-in-covid-19-fight/amp/",
-      "publishedDateTime": "2020-03-27T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/08/174351909.jpg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": "Google sets aside $800M in ads and loans to help in COVID-19 fight",
           "attribution": null
         }
       ],

@@ -2,6 +2,42 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-20-our-healthcare-api-and-other-solutions-for-supporting-healthcare-and-life-sciences-organizations-during-the-pandemic.md",
+      "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
+      "excerpt": "Whether they’re caring for patients or advancing research towards a cure, healthcare and life sciences organizations are on the front lines in the fight against COVID-19. We know that the pandemic is impacting every aspect of the healthcare industry differently, and that the needs of organizations are",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-supporting-healthcare-and-life-sciences-organizations/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_healthcare_lifesciences.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Our Healthcare API and other solutions for supporting healthcare and life sciences organizations during the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-alibaba-will-allocate-28-billion-in-three-years-to-expand-cloud-business.md",
       "title": "Alibaba Will Allocate $28 Billion In Three Years to Expand Cloud Business",
       "excerpt": "Alibaba will be hoping to gain market share from other large cloud players such as Amazon, Microsoft and Alphabet's Google. The global cloud infrastructure spending in 2019 stood at $107.1 billion, up 37.6% from $77.8 billion spent in the prior-year period, according to Canalys.",
@@ -1189,42 +1225,6 @@
           "width": 2200,
           "height": 917,
           "title": "Supporting not-for-profit COVID-19 response efforts with Google Maps Platform credits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-find-and-fix-issues-faster-with-our-new-logs-viewer.md",
-      "title": "Find and fix issues faster with our new Logs Viewer",
-      "excerpt": "Monitoring your cloud infrastructure is an essential part of making sure your operations are running smoothly. Since announcing the new Cloud Logging interface in February, we’ve heard from users that the new interface is making it faster and easier to meet logging needs, including troubleshooting issues,",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/management-tools/troubleshoot-issues-faster-with-cloud-logging/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "Find and fix issues faster with our new Logs Viewer",
           "attribution": null
         }
       ],

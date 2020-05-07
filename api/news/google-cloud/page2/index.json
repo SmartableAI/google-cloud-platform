@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-03-google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news.md",
+      "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
+      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
+      "publishedDateTime": "2020-05-03T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058701%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-i-cant-stop-escaping-into-google-photos-nostalgia-vortex.md",
       "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
       "excerpt": "I got the app for its easy photo backups. I didn’t realize it would become a precious window to the past—or a lifeline in a time of existential despair.",
@@ -1169,50 +1213,6 @@
           "width": 841,
           "height": 545,
           "title": "Alphabet warns of difficult quarter as consumers Google pandemic, not shopping",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-discloses-zero-click-bugs-impacting-several-apple-operating-systems.md",
-      "title": "Google discloses zero-click bugs impacting several Apple operating systems",
-      "excerpt": "Apple needs to follow in Google and Mozilla's footsteps and secure its multimedia processing libraries. Multimedia processing components are one of today's most dangerous attack surfaces in any operating system.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-discloses-zero-click-bugs-impacting-several-apple-operating-systems/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-discloses-zero-click-bugs-impacting-several-apple-operating-systems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-discloses-zero-click-bugs-impacting-several-apple-operating-systems/",
-      "publishedDateTime": "2020-04-28T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/04/28/83ca6cfb-1379-45cc-bce1-54af43cf7c61/image-glitched.png",
-          "width": 1000,
-          "height": 543,
-          "title": "Google discloses zero-click bugs impacting several Apple operating systems",
           "attribution": null
         }
       ],

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-07-this-neat-trick-lets-you-play-google-stadia-on-an-ipad.md",
+      "title": "This Neat Trick Lets You Play Google Stadia On An iPad",
+      "excerpt": "Google finally delivered on one of its pre-launch promises, namely the ability to use the Stadia controller wirelessly with any computer. That facility, combined with Apple’s Sidecar technology, means Mac owners can now play Stadia on an iPad with the wireless controller,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2020/05/07/play-google-stadia-on-an-ipad/",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2020/05/07/play-google-stadia-on-an-ipad/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/05/07/play-google-stadia-on-an-ipad/amp/",
+      "publishedDateTime": "2020-05-07T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185152046%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "This Neat Trick Lets You Play Google Stadia On An iPad",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-easy-access-to-stream-analytics-with-sql-real-time-ai-and-more.md",
       "title": "Easy access to stream analytics with SQL, real-time AI, and more",
       "excerpt": "During times of challenge and uncertainty, businesses across the world must think creatively and do more with less in order to maintain reliable and effective systems for customers in need. In terms of data analytics, it’s important to find ways for bootstrapped engineering and ops teams working in unique",
@@ -407,26 +451,18 @@
       "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
       "title": "Splunk Cloud comes to Google Cloud",
       "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 127,
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "webUrl": "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
       "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
-      "publishedDateTime": "2020-05-05T09:12:00-07:00",
+      "publishedDateTime": "2020-05-05T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "ITworld",
+        "domain": "itworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1183,50 +1219,6 @@
           "width": 770,
           "height": 433,
           "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news.md",
-      "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
-      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
-      "publishedDateTime": "2020-05-03T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058701%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2019-11-27-how-cloud-ai-is-shaping-the-future-of-retailonline-and-in-store.md",
+      "title": "How Cloud AI is shaping the future of retail—online and in-store",
+      "excerpt": "Technology has played a key role in retail for decades, from early innovations like barcode scanning and digital point of sale devices, to the global frontier of modern logistics. Through it all, however, the fundamentals remain the same: retailers generate huge quantities of data, face unpredictable",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/how-cloud-ai-shaping-future-retailonline-and-store/amp/",
+      "publishedDateTime": "2019-11-27T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Fashion.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "How Cloud AI is shaping the future of retail—online and in-store",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2019-11-26-forrester-names-google-cloud-a-leader-in-the-new-wave-for-computer-vision-platforms.md",
       "title": "Forrester names Google Cloud a Leader in the New Wave for Computer Vision Platforms",
       "excerpt": "We’re proud to announce that Forrester has named Google Cloud as a Leader in its report, The Forrester New Wave™: Computer Vision (CV) Platforms Q4, 2019. We believe Forrester’s report validates Google Cloud’s AI ​strategy, and echoes the feedback we’ve heard from customers: Google Cloud offers powerful,",
@@ -885,43 +922,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-10-02-archive-media-for-the-long-term-with-preservation-masters.md",
-      "title": "Archive media for the long term with preservation masters",
-      "excerpt": "Media and entertainment companies have plenty of storage needs, and have to make sure they’re storing the right data for the right period of time. Media archives are often thought of as repositories of readily available media to be accessed for various workflow needs in the near and immediate term, such",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/archive-media-for-the-long-term-with-preservation-masters/amp/",
-      "publishedDateTime": "2019-10-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_Data_Transfer.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Archive media for the long term with preservation masters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
       ]
     }
   ],

@@ -22,6 +22,6 @@ images:
     height: 484
     title: "Google Cloud Expands Features In Anthos — Now Running & Managing Applications On AWS"
 
-secured: "LxtsFY8+H8riugBl4/ulvGFd8QFGr39PA9t9JZt+lugioHOhY84JWx/F7ONApY2mtrbGwAd0Vgw5QrNRzYgmrHfniL8XJ2awpyzcMwEFXyVIeMHkr09kn93MnnLhs6lvGEFYGGlqhWYbkINLCJLjH0uczMdV+ns/f7ILKMMQSG7is/ZiNA75Br4fagdqrMymKF/ITrngY6896ULeqnWyL/0BpfiC9s2/bJ+k6FFlqoK2D6Hh9LgX7luQRVSSyNhNkHUA2qALu3H5Or49IjAxtf0xpIyMJS/KBuociIP4CgWk81A5b07Uxv/r3d607Rz/;CNJgVvVubkG15AyXQS+CAA=="
+secured: "rrJzGw/tEScHTroRfDE8aQpifsZVfKimh0aWnCHKmxkXuzNdwxpZzqnnaKC/6+wh5zSSjem7948l7cfb0iSzr2F9g6NTAgILj9qTDL/NooMuUfeSVbSzp+USid34cc+WZ2RVPLTHQLZGclfeHvONOAXqjzrKUx0fg97AGhZAKSwP0BzG635GNwsxl1ecaYGLTK2+HAFN/yejNZ5rRwA5/zYxwkFTsx96QZlLJ9bfKYS1F8PMSwpMHC7UTmLkWAlkUjm2k8PQb9fOB4J2fLnSDomhXZqa+yVA8eWU4WDfPGL69A/w/9zhmgCrgmN51tHKtTm9+LCVpE6ekrUILVHlOXjDmw7Pogpp2vrRykI78ERGcrMZsMggE3bA5teVtaKJUULVW1PLik3A2xrYxbuMUzREEhQhoji6spQwXTLvzBX6v5uRs5hZn2zSvjpDbwEbg/F3Yll57GDpon5EmCbLzlOyoOGX5uFIHKKpzhpxAVA=;S37ZYGMhWTSClIq+ZjbEyQ=="
 ---
 
