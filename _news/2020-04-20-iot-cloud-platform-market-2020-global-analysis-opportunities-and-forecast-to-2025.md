@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-20T10:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/iot-cloud-platform-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-20"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -27,15 +27,15 @@ images:
     title: "IoT Cloud Platform Market 2020 Global Analysis, Opportunities And Forecast To 2025"
 
 related:
-  - title: "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025"
-    excerpt: "New York, April 17, 2020: The Global Chatbot Market is segmented on the lines of its platform, enterprise size and"
-    publishedDateTime: 2020-04-17T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025-2020-04-17"
+  - title: "Cloud Database and DBaaS Market Global Demand, Growth, Opportunities, Top Key Players and Forecast to 2026"
+    excerpt: "Growing demand to process low-latency queries, rising need for self-driving cloud database, and increasing use of cloud service"
+    publishedDateTime: 2020-04-17T11:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-database-and-dbaas-market-global-demand-growth-opportunities-top-key-players-and-forecast-to-2026-2020-04-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
