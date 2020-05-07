@@ -26,6 +26,6 @@ images:
     height: 600
     title: "Nvidia's Cumulus acquisition is part of a push to offer a broader range of enterprise cloud computing services"
 
-secured: "cBGka+43x7yARxpTtynu0tB0KJdZr3VSJJzSwdf0L8QoKaRFPDVzK+DIeRhZ5IkxDZvQGkVymnB1RWC8F5QmofPqF7jfMhc5diFL0+bDo4nV2cXfcAa8SG5hU6DzvuTLUQpULmDrTqbxY67V+RHnyZ6b/w9GWkrfp5/Q6b0MqQLoV9tLo+olGbuKJgqJe/MYG3eDCuJ4gpGGZgCRWxcR0DHRFKydEM4kfYxIs2GX+GAydGGh0jXqjmBaVROWFqFKZLQg015c8vnXpBNLwH2nsVo0xo4zTAZH8KgHMplVgZQNC/vj6Y0wCcOORB8GWDi+;q6EWQA/jIjwt4tkBLLMRwA=="
+secured: "WuBF/dth5HAjSESE2apENinOovH/ecwFEZaqCSewGe1Hqlou/qCl8frMpzziuE2lG2bS2Ut/4TGFsAF7aVEMD4mvVHTovEDpqfShmoPALIPaU3kT+/j+haSXehIQCsIngCFKRrqwvdVZdVtyl6SlFUDjnohiAEHs033Y2WNJzWPtXLYJtVLBmmbcLh2tyTPz6jI+vJ4Nem+Th9OoqO+FJSH/E6lERMSXEamP+WU0xr5ytzpiJCEBz+mBN7LWQYLk6D5iEf8MuwxEwCtQeVqYtpdpm6g31vPX+xg4CqdvdfhVH7ehOTsynPg36+s2QHXGFTSZC1O2YgUC0XwqCk0zOQnuv7LfDDXHSANiwD73MNZULyjNmVZYfI0KX+xUsAhkBVTODfx+ocIK8X/ymplIyiieGDkA9LDUMx/daqQ/Eb3w4fHbRARMxSC8gnJggn7xDtvROO9qxl8FzTe7WrdrlqwdmO2xnhQ0bCLomzzCwdE=;bpJz5Bc/oQ5Wo9ykIY5NxQ=="
 ---
 

@@ -79,7 +79,7 @@
       "path": "_news/2020-05-06-how-our-community-is-responding-to-covid-19-fostering-community-engagement.md",
       "title": "How our community is responding to COVID-19: Fostering community engagement",
       "excerpt": "Editor’s Note:This is the second post of a series highlighting the inspiring response to COVID-19 from the Google Maps Platform community. This week we’re focusing on projects that help individuals help others in their local communities. You can take a look back at projects that aim to keep communities",
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "type": "article",
       "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-our-community-responding-covid-19-fostering-community-engagement/",
@@ -407,26 +407,18 @@
       "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
       "title": "Splunk Cloud comes to Google Cloud",
       "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 127,
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "webUrl": "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
       "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
-      "publishedDateTime": "2020-05-05T09:12:00-07:00",
+      "publishedDateTime": "2020-05-05T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "ITworld",
+        "domain": "itworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
