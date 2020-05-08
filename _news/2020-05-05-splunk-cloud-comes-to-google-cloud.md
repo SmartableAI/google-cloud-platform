@@ -2,18 +2,22 @@
 category: news
 title: "Splunk Cloud comes to Google Cloud"
 excerpt: "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users"
-publishedDateTime: 2020-05-05T16:14:00Z
-webUrl: "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html"
+publishedDateTime: 2020-05-05T16:12:00Z
+webUrl: "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html"
 ampWebUrl: "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html"
 type: article
-quality: 57
-heat: 87
+quality: 97
+heat: 127
 published: true
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google Cloud
@@ -61,6 +65,6 @@ related:
       domain: businesswire.com
     quality: 32
 
-secured: "Jr+iQjFqyfHljUlSUKrwaQEuz9A2FgC1+3Aah1SXjQ9NuV3v1tWG8v0nPzrqmu4XB07MiSOMPuxCp/qRRu+JBpdxpvKbPvrul7HPYaoT1n2qjSXkLtCPG/35H3e2Mm0F4KPK7WqG3nrrCdLgzUZSDFc5ol4ZJCnTMTmvq4gr13v0Gobp5nhNLe4BSrJ7LahoWkrX7sNtCWmIljLWIhdnGFzcodnPTPmlFjc2jXOBVzIKfk99ZkBB/C4JWKF+MkAHgSRJC4AeJRxvNA/uB6Tco5ctTGVcpRjyFqgB9tsIT9TIuHHakQggn4UubxFop5/5;a55l2a+5XyfBSBBNk8V6Gg=="
+secured: "wOncW8m3jxoS+SiokfNaOqh2u8x3EwKN2OgKt4JaQNN6Dg/Lc5xYzjY/Y28GEu/k8pAShSlOCF5w9J0GrldA+iaDQ82cvd7QOw9l5dBgp3K87DZAsgNz0dSGdaYKjdRXL/gQW3hJDmvHeOpyEpX5chR1LH1rr/ncyNesVKXfJNRqqqnLXRiR5/20WNpiXH4Qy5YJCdYFCPK9A+IgXJJtaUQQ6IKtG3ygT6BtRQBkHfNXULIhYVqKM4JUrnLkvlzohDwBmzPbLv7MbEFt79lyKPwYZ8ZSFojsn6sK5nCT0ux0zckuIUFrZylsneWkOX8D;+PWydB73RNqEWx2HGxUS4A=="
 ---
 
