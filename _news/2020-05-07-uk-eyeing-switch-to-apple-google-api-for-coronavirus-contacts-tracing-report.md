@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/05/07/uk-eyeing-switch-to-apple-google-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/uk-eyeing-switch-to-apple-google-api-for-coronavirus-contacts-tracing-report/amp/"
 type: article
 quality: 78
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -29,6 +29,21 @@ images:
     title: "UK eyeing switch to Apple-Google API for coronavirus contacts tracing — report"
 
 related:
+  - title: "Huawei’s Striking New Billion-Dollar Gamble Targets Apple, Google (And Tesla)"
+    excerpt: "Huawei’s loss of Google, forcing them to replicate the Play Store and its underlying services, has sent China’s tech giant down an Apple-shaped path. A leading device manufacturer with its own app ecosystem,"
+    publishedDateTime: 2020-05-08T06:50:00Z
+    webUrl: "https://www.forbes.com/sites/zakdoffman/2020/05/07/this-is-huaweis-striking-new-billion-dollar-gamble-to-take-on-apple-google-and-tesla/"
+    ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2020/05/07/this-is-huaweis-striking-new-billion-dollar-gamble-to-take-on-apple-google-and-tesla/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2020/05/07/this-is-huaweis-striking-new-billion-dollar-gamble-to-take-on-apple-google-and-tesla/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192081202%2F0x0.jpg"
+        width: 1200
+        height: 881
   - title: "This Is Huawei’s Striking New Billion-Dollar Gamble To Take On Apple, Google (And Tesla)"
     excerpt: "Huawei’s loss of Google, forcing them to replicate the Play Store and its underlying services, has sent China’s tech giant down an Apple-shaped path. A leading device manufacturer with its own app ecosystem,"
     publishedDateTime: 2020-05-07T19:15:00Z
