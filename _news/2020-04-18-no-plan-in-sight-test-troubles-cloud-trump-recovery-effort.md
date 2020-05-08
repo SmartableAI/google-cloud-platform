@@ -24,21 +24,6 @@ images:
     height: 720
     title: "No plan in sight: Test troubles cloud Trump recovery effort"
 
-related:
-  - title: "No plan in sight: COVID-19 testing troubles cloud Trump recovery effort"
-    excerpt: "\"It's a little bit like rationing,\" Patel said. In early March, Trump announced a plan for nationwide testing via drive-thru sites at chains such as Walmart and Target, linked by a Google-affiliated website. Six weeks later, the website is a pilot program available in just four California counties. Few of the retailers' sites have opened ..."
-    publishedDateTime: 2020-04-18T07:07:00Z
-    webUrl: "https://www.timesfreepress.com/news/politics/national/story/2020/apr/18/no-plan-test-troubles-cloud-trump-recovery/520956/"
-    type: article
-    provider:
-      name: Times Free Press
-      domain: timesfreepress.com
-    quality: 22
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2020/04/17/1587176149_101392945-5d1b624bcc644f8284a48d24f85681fe_gs_t1070_h396a884cc973614a990c09c925ec0e81da6ef077.jpg"
-        width: 1070
-        height: 714
-
 secured: "UqF43WuQWU7flUZbtQOb82g1eDmHZGMO8bVXO9zYWWneIxlwisiM97WkvdmBpURRZHwJaudVre9JAfb2v8xrNsRKOfrvgqeNCLlyCtfxvYrI1Bsek3eeBzRU5oO7zWJ0EInMl+fZmdZYHUsIMp1Ndhsml9oNgSD+C4ZlfUcn371UwETldhwWJyETVlCvYc2Vc3NSkgCQ6GsqwvOp6ExMAtasnmXHJjrGiV6pg45Disv9e4NwJJTDfklhTEK/PgxciIxa+O9UKBdwjdpNKG7+AtdMXbRIoTCZvNHVc1DuWpd+Ul9PO86sgJfCT5OcTjdR;JJr8v8gnrp3XWHscVFJHHQ=="
 ---
 
