@@ -2,18 +2,22 @@
 category: news
 title: "Splunk Cloud comes to Google Cloud"
 excerpt: "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users"
-publishedDateTime: 2020-05-05T16:14:00Z
-webUrl: "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html"
+publishedDateTime: 2020-05-05T16:12:00Z
+webUrl: "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html"
 ampWebUrl: "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html"
 type: article
-quality: 57
-heat: 87
+quality: 97
+heat: 117
 published: true
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google Cloud
@@ -51,16 +55,7 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
-  - title: "Privitar Announces New Native Integration With Google Cloud Platform"
-    excerpt: "Privitar, the leading data privacy platform provider, today announced that the Privitar Data Privacy Platform™ now natively integrates with the Google Cloud Platform. The new integration adds to Privitar’s native support of public cloud services,"
-    publishedDateTime: 2020-05-05T13:14:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200505005123/en/Privitar-Announces-New-Native-Integration-Google-Cloud"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
 
-secured: "D58dIHzUUaVwkRjEkvELyLCuBw5ay4iScVZ8bRptDoJb7yFZ59uxfqFM24JF8rhysZrzy/if0mpiIMyo/+DiZ4goz3kBREuPqG8psD6FZjv/f+AbBP+e6dy1H3DkC2peyf3ouk32K8sHAhMB3YBv98+iJIledATI9Muk48k3TXLkAqsCJli4/mpfjWgPucqbbxUL0qisrD3GIFjlvM2jD4xkNIE5xCqCQvDGyLQAJVrc12Brv/B2bzStdUnOyUIRUTjmWeNL6dHFw1jdlJGxeE0ZIIv5g/IdPOIQxtqqZC2BA2qaCzYiepWUzdWL2rxD;5IzLcJHzoMQOuoooNELSEg=="
+secured: "rcpqi27ztSdlY8qbU3ES4UwHrTp/2abkSPJCq81Y8ihwoUZhaZo2VPgJp6erFNVZnN3mC2TQW9sgl4A+/6NNTyLh0oGeOtGt6aJldFB7PRK8LBaRW2PdY0Re8FHnCURml1OzwGR3bvsxBRmaGSgOAin7g7dIvDZjYtVrhBUTnM2pNtgrrqVkpKJQsniRMgJzyk4R1QrEq6kosFxX52KTDMOt5dhq42xsgmDhQmedaXV74pBDt0sxbgJct6rAiZRX8RB9cnGautwcpTYUo3cqrHidLKDGzwga+C4gpWPTwfjYYYDcdF16DzLBw+eHJ5MR;KoSnvP1mnLyt1pObXgrhpA=="
 ---
 

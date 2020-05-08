@@ -882,18 +882,26 @@
       "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
       "title": "Splunk Cloud comes to Google Cloud",
       "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 87,
+      "heat": 117,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
       "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
-      "publishedDateTime": "2020-05-05T09:14:00-07:00",
+      "publishedDateTime": "2020-05-05T09:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITworld",
-        "domain": "itworld.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
