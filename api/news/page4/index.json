@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-28-google-extending-cloud-reach-with-cisco-amazon-and-microsoft-connections.md",
+      "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
+      "excerpt": "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
+      "publishedDateTime": "2020-04-28T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg",
+          "width": 2461,
+          "height": 1200,
+          "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-google-cloud-revenue-climbs-in-q1-ad-sales-sink-due-to-pandemic.md",
       "title": "Google Cloud revenue climbs in Q1, ad sales sink due to pandemic",
       "excerpt": "While Advertising continues to generate the most revenue for Google, the number is down significantly compared to last quarter. In Q1, Google ad revenues came to $33.76 billion, c",
@@ -985,42 +1029,6 @@
           "width": 770,
           "height": 578,
           "title": "Google opens its Cloud Healthcare API to help COVID-19 doctors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-how-the-google-maps-platform-community-is-responding-to-covid-19-visualizing-helpful-info.md",
-      "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
-      "excerpt": "Editor’s Note: Over the past few months we’ve seen an inspiring response to COVID-19 from our community. To thank the organizations that are building tools to help us through, in the coming weeks we’ll highlight some of the many projects our customers have created to support their communities.The first",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-google-maps-platform-community-responding-covid-19-visualizing-helpful-info/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/038-MAP-Covid_Visualizing_Helpful_Info-BLO.max-2200x2200.png",
-          "width": 2200,
-          "height": 917,
-          "title": "How the Google Maps Platform community is responding to COVID-19: Visualizing helpful info",
           "attribution": null
         }
       ],

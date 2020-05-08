@@ -2,6 +2,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2019-12-11-performance-driven-dynamic-resource-management-in-e2-vms.md",
+      "title": "Performance-driven dynamic resource management in E2 VMs",
+      "excerpt": "Editor's note: As of March 19, 2020, E2 VMs are generally available. We’ve also added E2 VMs to all 22 global regions. This is the second post in a two-post series. Click here for part 1: E2 introduction.As one of the most avid users of compute in the world, Google has invested heavily in making compute",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/compute/understanding-dynamic-resource-management-in-e2-vms/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/compute/understanding-dynamic-resource-management-in-e2-vms/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/compute/understanding-dynamic-resource-management-in-e2-vms/amp/",
+      "publishedDateTime": "2019-12-11T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/e2-hero-technical.png",
+          "width": 2881,
+          "height": 1200,
+          "title": "Performance-driven dynamic resource management in E2 VMs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2019-12-11-whats-new-in-cloud-run-for-anthos.md",
       "title": "What’s new in Cloud Run for Anthos",
       "excerpt": "Earlier this year, we announced Cloud Run, our newest compute platform for serverless containers, which runs either on Google’s fully managed infrastructure–or on your Google Kubernetes Engine (GKE) clusters with Cloud Run for Anthos. This portability is achieved with Knative open-source APIs.With Cloud",
@@ -892,43 +929,6 @@
       "topics": [
         "Google Cloud",
         "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2019-11-15-introducing-batch-on-gkemodernizing-hpc-with-kubernetes-in-the-cloud.md",
-      "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
-      "excerpt": "One of our most important goals at Google Cloud is to make cloud computing easier, so that you can focus on answering questions that matter the most to you, your business and your users—not on managing infrastructure. Today, we are excited to announce the preview of Batch on Google Kubernetes Engine",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hpc/introducing-batch-gke-modernizing-hpc-kubernetes-cloud/amp/",
-      "publishedDateTime": "2019-11-15T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Batch.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

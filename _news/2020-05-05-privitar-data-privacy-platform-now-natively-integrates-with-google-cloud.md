@@ -51,6 +51,15 @@ related:
       - url: "https://www.crn.com/resources/025d-0f55dede8d4e-6c4fce471b7e-1000/splunk-sign.jpg"
         width: 610
         height: 457
+  - title: "Privitar Announces New Native Integration With Google Cloud Platform"
+    excerpt: "Privitar, the leading data privacy platform provider, today announced that the Privitar Data Privacy Platform™ now natively integrates with the Google Cloud Platform. The new integration adds to Privitar’s native support of public cloud services,"
+    publishedDateTime: 2020-05-05T13:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200505005123/en/Privitar-Announces-New-Native-Integration-Google-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
 
 secured: "fjDYiZc03p93/ECcln3jLYy6er7Jq1iGiFQhqun0OHGj5Usgc1w7iNjoSLnptxpJ3NXv06Y4VCPvFKBJ++y9KsIBx4HAr2D9wqxcVRIhcUVz13S0wXu+hzcbfo+MacmBmV2z99uV3px2NGsQPIVBuD3e6UyxyTLB+v4KcclLV22ODMBonIgphiwkXWr1AJAw9oFFpLNyy3H2XzAMYrmLULOv4ZwZzZXucjJtFX9qVk2vpHUT8XpCccWoBW7x6u0y7rqENFPTDMaC0caBsnqjy4mjre1CWoG61cF5ebuCjLs4OAC5AB67+pL8WZC6Y6o1mAIBQql/nkQhX8PU3x17EamWhYMJWPFQs9FshGr6Nc1tUUbij7Zz3UpP8jObqZq1CNlXmQd8Xq0vqVUWTd/VIvh8KxUQ00l1VxvAwUMV6PV0qyuYG1yG2uAZpxara1UZY+bwFmhq0CtonePXHelzeisNuGWwFjTaXS+sVFhnIpw=;kqSQ9F5Ylsgf50wAOQo4Vg=="
 ---

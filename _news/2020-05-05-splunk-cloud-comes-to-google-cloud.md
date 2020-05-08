@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-goog
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html"
 type: article
 quality: 97
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+  - title: "Privitar Announces New Native Integration With Google Cloud Platform"
+    excerpt: "Privitar, the leading data privacy platform provider, today announced that the Privitar Data Privacy Platform™ now natively integrates with the Google Cloud Platform. The new integration adds to Privitar’s native support of public cloud services,"
+    publishedDateTime: 2020-05-05T13:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200505005123/en/Privitar-Announces-New-Native-Integration-Google-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
 
 secured: "rcpqi27ztSdlY8qbU3ES4UwHrTp/2abkSPJCq81Y8ihwoUZhaZo2VPgJp6erFNVZnN3mC2TQW9sgl4A+/6NNTyLh0oGeOtGt6aJldFB7PRK8LBaRW2PdY0Re8FHnCURml1OzwGR3bvsxBRmaGSgOAin7g7dIvDZjYtVrhBUTnM2pNtgrrqVkpKJQsniRMgJzyk4R1QrEq6kosFxX52KTDMOt5dhq42xsgmDhQmedaXV74pBDt0sxbgJct6rAiZRX8RB9cnGautwcpTYUo3cqrHidLKDGzwga+C4gpWPTwfjYYYDcdF16DzLBw+eHJ5MR;KoSnvP1mnLyt1pObXgrhpA=="
 ---

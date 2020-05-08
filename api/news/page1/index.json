@@ -200,6 +200,50 @@
       ]
     },
     {
+      "path": "_news/2020-05-08-5-things-we-want-to-see-from-the-google-pixel-5.md",
+      "title": "5 things we want to see from the Google Pixel 5",
+      "excerpt": "Google doesn’t make phones like any other Android OEM and the Pixel 5 is threatening to be the most unique and potentially divisive handset from the search giant to date. We’re still some ways out from the expected Pixel 5 release date which will likely slot into the calendar in the series’ usual October launch window.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/google-pixel-5-1116387/",
+      "ampWebUrl": "https://www.androidauthority.com/google-pixel-5-1116387/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-pixel-5-1116387/amp/",
+      "publishedDateTime": "2020-05-08T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Google-Logo-Pixel-4-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "5 things we want to see from the Google Pixel 5",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-huaweis-striking-new-billion-dollar-gamble-targets-apple-google-and-tesla.md",
       "title": "Huawei’s Striking New Billion-Dollar Gamble Targets Apple, Google (And Tesla)",
       "excerpt": "Huawei’s loss of Google, forcing them to replicate the Play Store and its underlying services, has sent China’s tech giant down an Apple-shaped path. A leading device manufacturer with its own app ecosystem,",
@@ -882,7 +926,7 @@
       "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
       "title": "Splunk Cloud comes to Google Cloud",
       "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
@@ -957,43 +1001,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-windows-server-containers-on-gke-now-ga-with-ecosystem-support.md",
-      "title": "Windows Server containers on GKE now GA, with ecosystem support",
-      "excerpt": "As organizations look to modernize their Windows Server applications to achieve improved scalability and smoother operations, migrating them into Windows containers has become a leading solution. And orchestrating these containers with Kubernetes has become the industry norm, just as it has with Linux. We",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/windows-server-containers-on-gke-now-ga/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Windows Server containers on GKE now GA, with ecosystem support",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],

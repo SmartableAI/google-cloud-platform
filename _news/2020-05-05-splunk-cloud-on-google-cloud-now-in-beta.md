@@ -51,6 +51,15 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+  - title: "Privitar Announces New Native Integration With Google Cloud Platform"
+    excerpt: "Privitar, the leading data privacy platform provider, today announced that the Privitar Data Privacy Platform™ now natively integrates with the Google Cloud Platform. The new integration adds to Privitar’s native support of public cloud services,"
+    publishedDateTime: 2020-05-05T13:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200505005123/en/Privitar-Announces-New-Native-Integration-Google-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
 
 secured: "0j4jt5BittOhLrg6wYyfc2/f14TaYz13udG53ulkAExB7rEnpUNOK4mNgy00C/3pFgS5kaqGxsLCrE+Ufw29mF4gWK8YAdtv82pdvRZq191R/cB64q4Lp7yTt8z2qqJ4rELFgMQ12BxT1dIgVo+s0Lvu1qGayBaJ/Ll4f0kd9UkLAxm4asDl/ALAjYP13HcqHFd7cb/8eJzZmmr784Gzfqs/fczpJXP+RKM3Flaz+BTSSzDALiJr5jplM2qgqz0lcrrXXn/8lR6ghNHC8IWPXOVhEyy+hPZtnlw5J1h/+/A7c3oSfi0aLGxbYgdUhizxDqT9fIIcjwNcUD3MsNFRzgjiWIzwGO8Uo3pL5zszXzwpmi7J+PcTfixqCEM8pyVJPrNxJi5uNBmafdVflWal++C+PMGpmzx/cX3UiVewoVpFWQwUhtHiONVf+hKZX30jVngoGJAv+F0BmtYJRKMcF6AU5Yy/jhNJg7KDzVZWLwY=;normylLYcycfchnA17zUBQ=="
 ---

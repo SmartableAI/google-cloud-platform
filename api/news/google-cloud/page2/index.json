@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-04-how-to-record-video-meetings-on-zoom-google-meet-and-skype.md",
+      "title": "How to record video meetings on Zoom, Google Meet, and Skype",
+      "excerpt": "People are doing a lot more video conferencing now that they’re stuck at home due to the COVID-19 pandemic. These sessions can be a great way to stay in touch with friends and family, conduct business with colleagues,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/21243516/video-call-record-how-to-meeting-conference-zoom-google-skype",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/21243516/video-call-record-how-to-meeting-conference-zoom-google-skype",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21243516/video-call-record-how-to-meeting-conference-zoom-google-skype",
+      "publishedDateTime": "2020-05-04T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/YmBoozOARLHZoieUlvOdtVxvC_0=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66749718/bfarsace_200407_3962_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "How to record video meetings on Zoom, Google Meet, and Skype",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
       "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
       "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
@@ -1199,43 +1243,6 @@
       "topics": [
         "Google Cloud",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-managing-cost-and-reliability-in-serverless-applications.md",
-      "title": "Managing cost and reliability in serverless applications",
-      "excerpt": "In both good times and challenging ones, running an application on a serverless environment has lots of benefits. If you experience extremely high demand, your application scales automatically, avoiding crashes or downtime. And if you see a contraction of demand, then the application scales down and",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/serverless/managing-cost-and-reliability-serverless-applications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless_-_04.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Managing cost and reliability in serverless applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Serverless"
       ]
     }
   ],
