@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/politics/coronavirus-test-troubles-trump-reo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-test-troubles-trump-reopen-country-phase-1.amp"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 640
     height: 320
     title: "Coronavirus test troubles cloud Trump's efforts to reopen country"
-
-related:
-  - title: "Coronavirus test troubles cloud President Trump's recovery effort"
-    excerpt: "The country is struggling to test enough people for the coronavirus so officials can track and control the spread of the disease."
-    publishedDateTime: 2020-04-18T05:19:00Z
-    webUrl: "https://www.wusa9.com/article/news/health/coronavirus/test-troubles-cloud-president-trumps-recovery-effort/507-739e703d-61fa-4ff2-9dd5-e8d32bbe4e48"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/health/coronavirus/test-troubles-cloud-president-trumps-recovery-effort/507-739e703d-61fa-4ff2-9dd5-e8d32bbe4e48"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/health/coronavirus/test-troubles-cloud-president-trumps-recovery-effort/507-739e703d-61fa-4ff2-9dd5-e8d32bbe4e48"
-    type: article
-    provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 42
-    images:
-      - url: "https://media.wusa9.com/assets/CCT/images/b746d539-ffef-430e-befa-ee0c4ddd72cc/b746d539-ffef-430e-befa-ee0c4ddd72cc_360x203.jpg"
-        width: 361
-        height: 203
 
 secured: "jYKv+etKKxI/qK5El+ylEzskC+foWOGb3VM0pwRoKqCrxG+q2ueSrV0QB5omS4USL5Yup1cVlATIgUsYlMc9hGYl5yvGRMD18agy0YCM4dGq6guGwXtRVYsyH7mVKMpFoPFGuwOS6eLzN2tjpZfSFP4uCYdgky20wWs/+YV13ehvkwyKwn+iJcNJDVftrGRzdXKzHVMWZPif3wtdzQ+BcPNhJMUdSLMENkQdJKZnfFab4n2C6xaGC8+mDVX94oM2THc1XOVALO8APNtAGQ8hb7mPgIHRwFLGZXLUAclIc0jLTyYuPFR9HYotGZGVTx7vWUFGA30WmmhrN++c2MlnB/pJQalzOCRZgIKdVlQTboAihCfaI3BIatJI8ffYY+F5ZP3BtWreTznhcN3XetIjR/62NmhyC570JFTnIfNJBOLVzozQGf9DTfsp4wHB3pgrwLXGQHRhCEBxYZWBb3V8mrS5o5BcNdJRbmJsBDOCV2o=;OE+PKCSsG0Dlv6aH2A3dlA=="
 ---
