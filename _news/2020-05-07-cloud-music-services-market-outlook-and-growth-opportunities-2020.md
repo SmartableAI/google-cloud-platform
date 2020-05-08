@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-07T15:21:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-music-services-market-outlook-and-growth-opportunities-2020-2020-05-07"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -36,6 +36,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Cloud Office Services Market Size, industry Trends, Development, Revenue 2019-2024"
+    excerpt: "Global Cloud Office Services Market Research Report: by Component (Cloud Office Services Suite, Cloud Office Services Migration Tools, Cloud Office Services Collaboration Services, Cloud Office Services Professional Services),"
+    publishedDateTime: 2020-05-08T02:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-office-services-market-size-industry-trends-development-revenue-2019-2024-2020-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

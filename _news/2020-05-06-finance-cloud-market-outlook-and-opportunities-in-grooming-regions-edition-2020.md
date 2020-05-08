@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Cloud Office Services Market Size, industry Trends, Development, Revenue 2019-2024"
+    excerpt: "Global Cloud Office Services Market Research Report: by Component (Cloud Office Services Suite, Cloud Office Services Migration Tools, Cloud Office Services Collaboration Services, Cloud Office Services Professional Services),"
+    publishedDateTime: 2020-05-08T02:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-office-services-market-size-industry-trends-development-revenue-2019-2024-2020-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "r1EEpMZvy4tYO3rfH/7J7sDCdTEvxffauiTinoE9N55rpbx1yQV99KWezOC688gdUoHqqLtfzXHEW1I8woLCtaINRi4IX7r07oaK44OW3uqPEjEr9U1pduKEPgcfu7XRvByYnRZhqpGbGIMF4aoayWZGePk/YMgzKWMrBegnKVreQQ1Qltzz8ZN/I498teqHHYLKsCRLZsaJCsja6ekII3WX9zjkttwPxFqyyVZURd4uzRuJDQlTbCoUJ04y7leMpkDNmKmEy9lQbuvYjZBz5wdc2hHr32W5+psn2e0K2mo3PwDFpGTNLdBQSVJT8fv6;LADZt8cHE5CoBKouCdpnyg=="
 ---
