@@ -2,6 +2,194 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2019-11-14-cloud-run-a-managed-knative-service-is-ga.md",
+      "title": "Cloud Run, a managed Knative service, is GA",
+      "excerpt": "We want to empower developers no matter where their businesses are in their cloud journey, whether that's on-prem, operating in a managed Kubernetes environment, or running on a fully managed serverless computing platform. Today, we're announcing that Cloud Run is generally available, helping developers",
+      "heat": 153,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/knative-based-cloud-run-services-are-ga/amp/",
+      "publishedDateTime": "2019-11-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Run.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Cloud Run, a managed Knative service, is GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless",
+        "Containers",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2019-11-13-announcing-network-intelligence-centertowards-proactive-network-operations.md",
+      "title": "Announcing Network Intelligence Center—towards proactive network operations",
+      "excerpt": "We are very excited to introduce Network Intelligence Center, Google Cloud’s comprehensive network monitoring, verification, and optimization platform across the cloud and on-prem data centers, along with an initial set of modules. Organizations are increasingly adopting multi-cloud implementations and",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/networking/announcing-network-intelligence-center/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/networking/announcing-network-intelligence-center/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/networking/announcing-network-intelligence-center/amp/",
+      "publishedDateTime": "2019-11-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Networking_3zUkxrK.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Announcing Network Intelligence Center—towards proactive network operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-11-07-kubernetes-development-simplifiedskaffold-is-now-ga.md",
+      "title": "Kubernetes development, simplified—Skaffold is now GA",
+      "excerpt": "Back in 2017, we noticed that developers creating Kubernetes-native applications spent a long time building and managing container images across registries, manually updating their Kubernetes manifests, and redeploying their applications every time they made even the smallest code changes. We set out",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga/amp/",
+      "publishedDateTime": "2019-11-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Skaffold.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Kubernetes development, simplified—Skaffold is now GA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2019-11-06-updating-app-engine-with-more-new-runtimes-nodejs-12-go-113-php-73-and-python-38.md",
+      "title": "Updating App Engine with more new runtimes: Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8",
+      "excerpt": "Last week, we announced that the Java 11 runtime for App Engine standard environment is now generally available. But that’s not all the App Engine news we have to share. In addition to Java 11, developers can also now use Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8. These latest additions to App Engine",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/application-development/updating-app-engine-with-more-new-runtimes/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/application-development/updating-app-engine-with-more-new-runtimes/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/application-development/updating-app-engine-with-more-new-runtimes/amp/",
+      "publishedDateTime": "2019-11-06T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_serverless_computing.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Updating App Engine with more new runtimes: Nodejs 12, Go 1.13, PHP 7.3 and Python 3.8",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2019-11-06-opening-the-door-to-more-dev-tools-for-cloud-spanner.md",
+      "title": "Opening the door to more dev tools for Cloud Spanner",
+      "excerpt": "We recently released a new native open-source JDBC driver built by Google Cloud Platform (GCP) to enable the easy integration of Cloud Spanner into graphical database development tools. This can be useful for software engineers designing application database schemas in Cloud Spanner, database architects",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner/amp/",
+      "publishedDateTime": "2019-11-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Spanner_databases.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Opening the door to more dev tools for Cloud Spanner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_news/2019-10-30-tensorflow-enterprise-makes-accessing-data-on-google-cloud-faster-and-easier.md",
       "title": "TensorFlow Enterprise makes accessing data on Google Cloud faster and easier",
       "excerpt": "Data is at the heart of all AI initiatives. Put simply, you need to collect and store a lot of it to train a deep learning model, and with the advancements and increased availability of accelerators such asGPUs andCloud TPUs, the speed of getting the data from its storage location to the training process",

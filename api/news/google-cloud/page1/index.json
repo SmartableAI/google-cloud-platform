@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-08-automating-bigquery-exports-to-an-email.md",
+      "title": "Automating BigQuery exports to an email",
+      "excerpt": "Data accessibility and analysis is a crucial part of getting value from your data. While there are many methods to view data when it comes to BigQuery, one common way is to export query results as an email on a scheduled basis. This lets end users get an email with a link to the most recent query results,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/automating-bigquery-exports-to-an-email/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_BigQuery_KHi78bE.jpg",
+          "width": 6001,
+          "height": 2501,
+          "title": "Automating BigQuery exports to an email",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-get-to-know-cloud-tpus.md",
+      "title": "Get to know Cloud TPUs",
+      "excerpt": "Editor’s note: Yufeng Guo is a Developer Advocate who focuses on AI technologies.No matter what type of workloads we’re running, we’re always looking for more computational power. With general purpose processors, we’re quickly coming up against a hard limit: the laws of physics. At the same time, the",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introduction-to-cloud-tpus-video-series/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/tpu-v2-1.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1593,
+          "title": "Get to know Cloud TPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-manage-logs-from-multiple-clouds-and-on-premises-workloads-together.md",
+      "title": "Manage logs from multiple clouds and on-premises workloads together",
+      "excerpt": "We’ve heard from our customers that you need visibility into metrics and logs from Google Cloud, other clouds, and on-prem in one place. Google Cloud has partnered with Blue Medora to bring you a single solution to save time and money in managing your logs in a single place. Google Cloud’s operations",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/use-bluemedoras-bindplane-with-google-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Management_tools.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Manage logs from multiple clouds and on-premises workloads together",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-microsoft-to-invest-15-billion-in-italian-cloud-business.md",
+      "title": "Microsoft to invest $1.5 billion in Italian cloud business",
+      "excerpt": "Microsoft Corp. said on Friday it would create its first datacentre region in Italy under a $1.5 billion investment plan as the U.S. company expands its cloud computing services to more locations across the world.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-microsoft-italy-idUSKBN22K211",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22K211",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K211",
+      "publishedDateTime": "2020-05-08T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517951945&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG471BI",
+          "width": 817,
+          "height": 545,
+          "title": "Microsoft to invest $1.5 billion in Italian cloud business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-ceos-have-their-heads-in-the-cloud-around-covid-19.md",
+      "title": "CEOs Have Their Heads In The Cloud Around COVID-19",
+      "excerpt": "The COVID-19 pandemic is hastening many companies’ ongoing migration to the cloud as organizations both small and large see their workforce turned into a well-distributed, stay-at-home army.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mergermarket/2020/05/08/ceos-have-their-heads-in-the-cloud-around-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/mergermarket/2020/05/08/ceos-have-their-heads-in-the-cloud-around-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mergermarket/2020/05/08/ceos-have-their-heads-in-the-cloud-around-covid-19/amp/",
+      "publishedDateTime": "2020-05-08T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb569eda96e2d000657371b%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": "CEOs Have Their Heads In The Cloud Around COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-huaweis-striking-new-billion-dollar-gamble-targets-apple-google-and-tesla.md",
       "title": "Huawei’s Striking New Billion-Dollar Gamble Targets Apple, Google (And Tesla)",
       "excerpt": "Huawei’s loss of Google, forcing them to replicate the Play Store and its underlying services, has sent China’s tech giant down an Apple-shaped path. A leading device manufacturer with its own app ecosystem,",
@@ -684,18 +882,26 @@
       "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
       "title": "Splunk Cloud comes to Google Cloud",
       "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 87,
+      "heat": 127,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
       "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
-      "publishedDateTime": "2020-05-05T09:14:00-07:00",
+      "publishedDateTime": "2020-05-05T09:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITworld",
-        "domain": "itworld.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -991,203 +1197,6 @@
           "width": 1400,
           "height": 933,
           "title": "How to record video meetings on Zoom, Google Meet, and Skype",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
-      "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
-      "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "publishedDateTime": "2020-05-04T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-google-explored-acquiring-zoom.md",
-      "title": "Google Explored Acquiring Zoom",
-      "excerpt": "A group of Google engineers reportedly spearheaded an initiative to acquire Zoom in 2018, according to a report from The Information.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2020/05/04/google-explored-acquiring-zoom/",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2020/05/04/google-explored-acquiring-zoom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2020/05/04/google-explored-acquiring-zoom/amp/",
-      "publishedDateTime": "2020-05-04T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-how-google-cloud-helped-scaling-out-one-persons-ai-serviceand-his-life.md",
-      "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
-      "excerpt": "AI Gahaku (AI master painter): built by Sato with Firebase, Cloud Run, and Google Colab. One million users are enjoying the tool everyday.Editor's note: This is a post by Kaz Sato from Google based on an interview with Sato (@sato_neet), an individual developer. It's confusing that we have similar names,",
-      "heat": 128,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/using-google-cloud-platform-free-tier-to-scale-out-an-ai-service/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "How Google Cloud helped scaling-out one person's AI service—and his life",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-how-were-supporting-retailers-across-the-globe-during-covid-19.md",
-      "title": "How we’re supporting retailers across the globe during COVID-19",
-      "excerpt": "The shift to digital has been well under way for years in retail, but today, retailers have a new sense of urgency to digitally transform as the industry responds to COVID-19. The pandemic has dramatically impacted the retail industry at-large, exposing gaps in omnichannel capabilities, business continuity",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/retail/supporting-retail-operations-during-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_retail.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How we’re supporting retailers across the globe during COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-cloud-lift-amazon-microsoft-google-apple-and-others-find-a-common-cushion-in-the-crisis.md",
-      "title": "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis",
-      "excerpt": "Amazon CEO Jeff Bezos is advising the company’s shareholders to “take a seat” to prepare for the tech giant’s ambitious spending on COVID-19 initiatives, but if not for Amazon Web Services, they",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/",
-      "ampWebUrl": "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/",
-      "publishedDateTime": "2020-05-04T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg",
-          "width": 630,
-          "height": 442,
-          "title": "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis",
           "attribution": null
         }
       ],

@@ -2,6 +2,218 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-introducing-3-new-hp-chromebook-enterprise-devices-built-to-keep-business-running.md",
+      "title": "Introducing 3 new HP Chromebook Enterprise devices built to keep business running",
+      "excerpt": "Keeping your workforce secure and productive has become even more critical over the past several months. Whether you're supporting cloud-ready workers or employees that need access to legacy apps via virtualized desktops, Chrome Enterprise devices provide the necessary flexibility and security to keep",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/introducing-3-new-hp-chromebook-enterprise-devices/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/HP_Chromebook_Enterprise_devices.jpg",
+          "width": 1600,
+          "height": 667,
+          "title": "Introducing 3 new HP Chromebook Enterprise devices built to keep business running",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-splunk-forges-integration-pact-with-google-cloud.md",
+      "title": "Splunk forges integration pact with Google Cloud",
+      "excerpt": "The Splunk on Google Cloud offering expands on the company's existing partnership with Amazon Web Services, which integrates Splunk Cloud with a bevy of key AWS services.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/splunk-forges-integration-pact-with-google-cloud/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/splunk-forges-integration-pact-with-google-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/splunk-forges-integration-pact-with-google-cloud/",
+      "publishedDateTime": "2020-05-05T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2016/04/06/62eed2ca-29a7-47b9-a644-2e5d1f958143/thumbnail/1200x675/4b128b0098cc0f4a85d0d1ce6d40828c/businessman-holding-bank-notes.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Splunk forges integration pact with Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-thales-deploys-esim-subscription-platform-on-google-cloud.md",
+      "title": "Thales deploys eSIM subscription platform on Google Cloud",
+      "excerpt": "Thales has deployed a public cloud version of its embedded SIM (eSIM) remote subscription platform on Google Cloud to help telcos manage the increase of mobile subscription for eSIM-capable devices. As part of the initial deployment,",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/thales-deploys-esim-subscription-platform-on-google-cloud/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/thales-deploys-esim-subscription-platform-on-google-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/thales-deploys-esim-subscription-platform-on-google-cloud/",
+      "publishedDateTime": "2020-05-04T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/08/17/05ba1f01-22aa-44be-a582-06a5022459af/thumbnail/1200x675/45e5ce6d76f2cbc6b2e99da78353fffd/fire.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Thales deploys eSIM subscription platform on Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-a-closer-look-at-the-recent-flurry-of-google-meet-news.md",
+      "title": "A Closer Look At The Recent Flurry Of Google Meet News",
+      "excerpt": "Patrick Moorhead digs a little deeper on some new features announced for Meet, along with some customer stories of utilizing G Suite and Meet in the time of COVID-19.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/04/a-closer-look-at-the-recent-flurry-of-google-meet-news/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/04/a-closer-look-at-the-recent-flurry-of-google-meet-news/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/04/a-closer-look-at-the-recent-flurry-of-google-meet-news/amp/",
+      "publishedDateTime": "2020-05-04T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0b54ca7e7a500072013f8%2F0x0.jpg",
+          "width": 546,
+          "height": 357,
+          "title": "A Closer Look At The Recent Flurry Of Google Meet News",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-how-to-record-video-meetings-on-zoom-google-meet-and-skype.md",
+      "title": "How to record video meetings on Zoom, Google Meet, and Skype",
+      "excerpt": "People are doing a lot more video conferencing now that they’re stuck at home due to the COVID-19 pandemic. These sessions can be a great way to stay in touch with friends and family, conduct business with colleagues,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/21243516/video-call-record-how-to-meeting-conference-zoom-google-skype",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/21243516/video-call-record-how-to-meeting-conference-zoom-google-skype",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21243516/video-call-record-how-to-meeting-conference-zoom-google-skype",
+      "publishedDateTime": "2020-05-04T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/YmBoozOARLHZoieUlvOdtVxvC_0=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66749718/bfarsace_200407_3962_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "How to record video meetings on Zoom, Google Meet, and Skype",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
       "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
       "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
@@ -839,195 +1051,6 @@
           "width": 2200,
           "height": 917,
           "title": "Designing distributed systems using NALSD flashcards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-to-improve-the-delivery-and-ecommerce-experience-with-google-maps-platform.md",
-      "title": "How to improve the delivery and ecommerce experience with Google Maps Platform",
-      "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices for adding new functionality to your apps and websites.With many restaurants and stores around the world unable to open for business as usual, a common question we hear",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-improve-delivery-and-ecommerce-experience-google-maps-platform/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Delivery_GettyImages-930002622_2.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 1467,
-          "title": "How to improve the delivery and ecommerce experience with Google Maps Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-learn-3-in-demand-cloud-skills-in-30-days-at-no-cost-during-the-month-of-may.md",
-      "title": "Learn 3 in-demand cloud skills in 30 days at no cost during the month of May",
-      "excerpt": "In April, we announced we were expanding our Google Cloud learning resources to support the growing number of people working and learning from home. Today, we are excited to announce that if you sign up by May 31, 20201, you can still enroll in Google Cloud training on both Pluralsight and Qwiklabs at",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-training-available-at-no-cost-for-30-days/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_HowTo_02.max-1500x1500.jpg",
-          "width": 1500,
-          "height": 625,
-          "title": "Learn 3 in-demand cloud skills in 30 days at no cost during the month of May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-understanding-forwarding-peering-and-private-zones-in-cloud-dns.md",
-      "title": "Understanding forwarding, peering, and private zones in Cloud DNS",
-      "excerpt": "The Domain Name System, or DNS, is one of the most foundational services of the Internet, turning human-friendly domain names into IP addresses. Often handled by specialized network engineers within an organization, DNS can feel like a black box to people who don’t deal with it often. For one, DNS terminology",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/cloud-forwarding-peering-and-zones/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google-networking.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Understanding forwarding, peering, and private zones in Cloud DNS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-business-continuity-planning-and-resilience-in-financial-services-during-covid-19-and-beyond.md",
-      "title": "Business continuity planning and resilience in financial services during COVID-19 and beyond",
-      "excerpt": "As COVID-19 continues to affect our world, financial services organizations are working hard to ensure their services are available to all who need them. In many countries, financial services are “essential” and must remain available throughout COVID-19 for important reasons, including national economic",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/financial-services/business-continuity-planning-and-resilience-in-financial-services-during-covid-19-and-beyond/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_Finserve1_1.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Business continuity planning and resilience in financial services during COVID-19 and beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill.md",
-      "title": "Google wants Australia to remove civil penalties from CLOUD Act-readying Bill",
-      "excerpt": "The search giant believes the imposition of a mandatory obligation to comply with an international production order is contrary to the purpose of the CLOUD Act.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill/",
-      "publishedDateTime": "2020-04-30T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/30/120ce3e8-a4c8-4d15-baaf-75335c8da183/thumbnail/1200x675/32b1552d383ecb729eae2c8ade05ccf3/istock-1154834209.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google wants Australia to remove civil penalties from CLOUD Act-readying Bill",
           "attribution": null
         }
       ],
