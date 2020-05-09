@@ -799,6 +799,42 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-thales-selects-google-cloud-to-expand-its-esim-management-solution.md",
+      "title": "Thales selects Google Cloud to expand its eSIM management solution",
+      "excerpt": "The Thales-operated solution provides secure eSIM management services and provides compliance with data protection and privacy requirements.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Thales_selects_Google_Cloud_to_expand_its_eSIM_management_solution-ZAWYA20200506073300/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/",
+      "publishedDateTime": "2020-05-06T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Thales selects Google Cloud to expand its eSIM management solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-microsoft-word-vs-google-docs.md",
       "title": "Microsoft Word vs. Google Docs",
       "excerpt": "Word or Docs? The decision may seem simple if you're already integrated into either Microsoft or Google services, but there are other factors to consider.",
@@ -1153,50 +1189,6 @@
           "width": 1200,
           "height": 675,
           "title": "Thales deploys eSIM subscription platform on Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-a-closer-look-at-the-recent-flurry-of-google-meet-news.md",
-      "title": "A Closer Look At The Recent Flurry Of Google Meet News",
-      "excerpt": "Patrick Moorhead digs a little deeper on some new features announced for Meet, along with some customer stories of utilizing G Suite and Meet in the time of COVID-19.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/04/a-closer-look-at-the-recent-flurry-of-google-meet-news/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/04/a-closer-look-at-the-recent-flurry-of-google-meet-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/04/a-closer-look-at-the-recent-flurry-of-google-meet-news/amp/",
-      "publishedDateTime": "2020-05-04T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0b54ca7e7a500072013f8%2F0x0.jpg",
-          "width": 546,
-          "height": 357,
-          "title": "A Closer Look At The Recent Flurry Of Google Meet News",
           "attribution": null
         }
       ],

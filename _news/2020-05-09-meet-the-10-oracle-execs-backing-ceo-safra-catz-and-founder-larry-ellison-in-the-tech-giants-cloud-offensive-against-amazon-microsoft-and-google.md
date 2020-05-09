@@ -26,6 +26,6 @@ images:
     height: 600
     title: "Meet the 10 Oracle execs backing CEO Safra Catz and founder Larry Ellison in the tech giant's cloud offensive against Amazon, Microsoft, and Google"
 
-secured: "3yMv5jhtike4bu+MbqRIVma8cM9TK0+H8nZBSc2rl9IjVGlDhPL0A2RL7I9BncW72+HVpZkFRXIyGjY+PmBLmXtO3E4jQihYEUGyujcCQ1jeyliQDv7mRcpZ1SQneDrcrUMZfHTdiWE9PhOcCpl0afLYcjwInFLQaJSWN9z4igeO+DrKJ56njmZdr29le/pgb5/BNqUVc927d4f4SCxxOLiSZ/14hF0oSLq9cZmSm4RDs4FcG01CyqOOil/S2xgoUmdrx9d7zPmGY4obIejVzwIUpv8L5C/l92H/7HTkEjrZ2bUObrHnxf1kMEI12Ki7;WLHnT3ciM258MOETRpL+zg=="
+secured: "GbJN5aFwMBAe1n27qa0mP+JLlxfQ77Ve0NunCLTbW5gENMHOcZErkQwJClRztTGtenrNXNXVB6UnJGj9fHbk/bbOUFMYFMQDweJlNMbYhd2hzxQn37nKfTUNq78EFfy2vOrvaBiiLRuSxpCKzX6OrwcvizgqHucYoksPome3FgstgN/zbuRkSFqoabRM2Xz7O0BxCiMlADbuyhqxfVP8tbDm+o58zg03SzevhVlZZfDk2JB/OZ32wVTFVAXTypuj6n7RUPg2rWd+m6wKFYJ/x9B5FWiaEvFbFiFuTibiBsunh9YfjCELOmNL5nLtCDjFGgHgbBHH9JCDxHt/dldYR1SjIpshgSSCitzRTdP6Y0gZPrtUxWWRDpC4AbGIz8fBuKXJRo1N0pFgrpHP1aLbNyDTucc1+SWO5dBZEKIEtx6FQio+jX03ArVqPX/HKP5HMZ8K4wDZvUy/uWTV6/kbVTVIOoSpPJyMTEvMJRlqLNw=;aPDFGOuG3TEL5CgKbYfcQw=="
 ---
 

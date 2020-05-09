@@ -2,6 +2,42 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-27-6-new-device-data-and-user-controls-to-help-g-suite-customers-stay-secure.md",
+      "title": "6 new device, data, and user controls to help G Suite customers stay secure",
+      "excerpt": "At G Suite, we know that there’s a new reality facing many IT admins: with an increasingly remote workforce, you’re balancing priorities from business leaders focused on meeting business goals and your CISO focused on security, all while keeping your users online and productive. You’re doing you best,",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/6-new-controls-to-help-g-suite-customers-stay-secure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security-identity-04.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "6 new device, data, and user controls to help G Suite customers stay secure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-online-event-helping-financial-services-organizations-deliver-the-foundations-for-true-resilience.md",
       "title": "Online event: Helping financial services organizations deliver the foundations for true resilience",
       "excerpt": "Financial services firms are increasingly turning to the cloud to create digital banking solutions and to build resiliency and agility into their core business infrastructure. This trend has only accelerated as the world adapts to virtual working environments and entirely new ways of doing business. To",
@@ -1154,50 +1190,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud.md",
-      "title": "Google wants to make it easier to analyse health data in the cloud",
-      "excerpt": "Google has expanded the availability of its Cloud Healthcare API in a bid to improve healthcare interoperability and help providers drive insights from myriad sources of medical data. Google's Cloud Healthcare API allows healthcare organizations to collect and manage various types of medical data via the cloud, including Digital Imaging and ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
-      "publishedDateTime": "2020-04-21T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/04/30/a1920c33-8bb2-426e-958c-757992604693/thumbnail/1200x675/70cdb5522ace34daae74aaedd541691e/istock-1127069581.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google wants to make it easier to analyse health data in the cloud",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

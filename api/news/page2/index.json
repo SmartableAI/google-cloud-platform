@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-anthos-in-depth-toward-a-service-based-architecture.md",
+      "title": "Anthos in depth: Toward a service-based architecture",
+      "excerpt": "Two weeks ago, we announced many new advancements we are making to Anthos, including new capabilities that let you better run and manage loosely coupled microservices anywhere you need them. Today, we’re diving deeper into this world of services, and how we have been helping customers on their journey",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud__Anthos_B_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Anthos in depth: Toward a service-based architecture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-windows-server-containers-on-gke-now-ga-with-ecosystem-support.md",
       "title": "Windows Server containers on GKE now GA, with ecosystem support",
       "excerpt": "As organizations look to modernize their Windows Server applications to achieve improved scalability and smoother operations, migrating them into Windows containers has become a leading solution. And orchestrating these containers with Kubernetes has become the industry norm, just as it has with Linux. We",
@@ -1008,50 +1045,6 @@
           "width": 720,
           "height": 430,
           "title": "How to easily move your photos from Facebook to Google Photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans.md",
-      "title": "Google rolls out new AI-powered product for banks processing PPP loans",
-      "excerpt": "The PPP Lending AI solution is designed for lending institutions that have been overwhelmed by loan applications from small businesses seeking COVID-19 pandemic relief.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "publishedDateTime": "2020-05-01T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/04/4e268e10-4522-42b7-8bc2-bc8d2906ced3/thumbnail/1200x675/f8dfa2c860a8294900066251d8d4c6fe/computer-power-supply-unit.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google rolls out new AI-powered product for banks processing PPP loans",
           "attribution": null
         }
       ],

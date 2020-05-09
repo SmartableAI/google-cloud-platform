@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-02-filling-the-ncaa-void-using-bigquery-to-simulate-march-madness.md",
+      "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+      "excerpt": "As COVID-19 continues to have enormous impact around the world, we’ve focused on supporting customers and making available public data to help research efforts, among various other initiatives. Beyond the essential issues at hand, it’s been a truly strange time for sports fans, with virtually every league",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/march-madness-simulations-with-machine-learning/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/march-madness-simulations-with-machine-learning/amp/",
+      "publishedDateTime": "2020-04-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_basketball.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Filling the NCAA void: Using BigQuery to simulate March Madness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-powering-up-caching-with-memorystore-for-memcached.md",
       "title": "Powering up caching with Memorystore for Memcached",
       "excerpt": "In-memory data stores are a fundamental infrastructure for building scalable, high-performance applications. Whether it is building a highly responsive ecommerce website, creating multiplayer games with thousands of users, or doing real-time analysis on data pipelines with millions of events, an in-memory",
@@ -1115,43 +1152,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-local-ssds-vms-love-at-first-terabyte.md",
-      "title": "Local SSDs + VMs = love at first (tera)byte",
-      "excerpt": "Data storage is the foundation for all kinds of enterprises and their workloads. For most of those, our Google Cloud standard object, block, and file storage products offer the necessary performance. But for companies doing compute-intensive work like analytics for ecommerce websites, or gaming and visual",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/storage-data-transfer/larger-local-ssd-storage-available-now/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/storage-data-transfer/larger-local-ssd-storage-available-now/amp/",
-      "publishedDateTime": "2020-03-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Storage_and_Data_Transfer.max-2800x2800.jpg",
-          "width": 2800,
-          "height": 1167,
-          "title": "Local SSDs + VMs = love at first (tera)byte",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Storage"
       ]
     }
   ],

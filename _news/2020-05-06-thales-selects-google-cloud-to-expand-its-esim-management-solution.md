@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Zawya
@@ -38,6 +38,17 @@ related:
       - url: "https://mms.businesswire.com/media/20200504005146/en/788573/23/thales+graphic.jpg"
         width: 1200
         height: 627
+  - title: "Thales selects Google Cloud to expand its eSIM management solution"
+    excerpt: "The solution enables telecom operators to support a massive global increase in the volume of embedded mobile subscriptions"
+    publishedDateTime: 2020-05-09T08:35:00Z
+    webUrl: "https://www.commsmea.com/technology/projects/21846-thales-selects-google-cloud-to-expand-its-esim-management-solution"
+    ampWebUrl: "https://www.commsmea.com/technology/projects/21846-thales-selects-google-cloud-to-expand-its-esim-management-solution?amp"
+    cdnAmpWebUrl: "https://www-commsmea-com.cdn.ampproject.org/c/s/www.commsmea.com/technology/projects/21846-thales-selects-google-cloud-to-expand-its-esim-management-solution?amp"
+    type: article
+    provider:
+      name: CommsMEA
+      domain: commsmea.com
+    quality: 37
 
 secured: "evT+cAK60WL3Z9Y/qqwSwl9HP0tpOuAYD6bM5dfPE28tfHGfMNc/BeRfMW9BFUTguCDVlTG7DEkaQQnC6GAIIqbS/kuKx3yBkBBkQqPA0m5gZHRZfbrakbimXyE4hhL8NjUkgfSC4Fo1NgTN8+7dPHnmsImTV04ETmCg7/mA5QJf5hCcwHu7mJH81KOvmumP/P0ZRKxBRfTGFHUTVJXYTpLV1WEw3ghRbCwWzpa/99OEsXrfOiQoUi4ycXYfRLvXl/P9Mo+adAcpgWGShfPvITQZ1M663PJnLYvFtMytQnKFO03aK8SgToBVLu6/LK3i;7GUjoFCf71hGetgNhrz1QQ=="
 ---

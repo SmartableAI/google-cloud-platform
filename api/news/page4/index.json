@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-28-google-parent-alphabet-tops-sales-estimates-despite-virus-hammering-economy.md",
+      "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
+      "excerpt": "Alphabet Inc on Tuesday beat analysts' estimate for quarterly revenue as its Google unit experienced a smaller drop-off in advertiser spending than had been anticipated given economic concerns related to the novel coronavirus.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-results-idUSKCN22A37K",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22A37K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22A37K",
+      "publishedDateTime": "2020-04-28T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200428&t=2&i=1516782288&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3R28N",
+          "width": 841,
+          "height": 545,
+          "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-google-extending-cloud-reach-with-cisco-amazon-and-microsoft-connections.md",
       "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
       "excerpt": "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview",
@@ -985,50 +1029,6 @@
           "width": 1200,
           "height": 637,
           "title": "Is NVIDIA’s Cloud Gaming Platform Already Dying?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-google-opens-its-cloud-healthcare-api-to-help-covid-19-doctors.md",
-      "title": "Google opens its Cloud Healthcare API to help COVID-19 doctors",
-      "excerpt": "The Cloud Healthcare API will allow doctors to analyse data using cloud-computing technologies.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/24/ebd1a882-f291-4e47-a522-90448bad9c3b/thumbnail/770x578/3d9ef60d318581abeab767fec7adce7d/google-wants-to-make-it-easier-to-analys-5ea1d8c41c719e452658f1bd-1-apr-24-2020-17-50-50-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Google opens its Cloud Healthcare API to help COVID-19 doctors",
           "attribution": null
         }
       ],

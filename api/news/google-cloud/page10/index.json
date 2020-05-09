@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-12-18-introducing-more-maintenance-controls-for-cloud-sql.md",
+      "title": "Introducing more maintenance controls for Cloud SQL",
+      "excerpt": "Routine maintenance is a part of every database user experience—it’s how we ensure you get the performance improvements and new feature updates that keep your business running smoothly and securely. But we get it: Nobody likes downtime, no matter how brief. That's why we’re pleased to announce that Cloud",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/introducing-more-maintenance-controls-for-cloud-sql/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/introducing-more-maintenance-controls-for-cloud-sql/amp/",
+      "publishedDateTime": "2019-12-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Database_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Introducing more maintenance controls for Cloud SQL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2019-12-17-file-storage-made-easier-with-netapp-cloud-volumes-now-ga.md",
       "title": "File storage made easier with NetApp Cloud Volumes, now GA",
       "excerpt": "At both NetApp and Google Cloud, we share a mission to offer our users a top-notch file service in Google Cloud. Whether you’re moving workloads to cloud or deploying net-new applications in cloud that need file interfaces, our aim is to offer a highly available, feature-rich, and high-performing file",
@@ -1077,43 +1114,6 @@
       "topics": [
         "Google Cloud",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-11-18-helping-our-customers-migrate-to-the-cloud-google-acquires-cloudsimple.md",
-      "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
-      "excerpt": "Today, Google is excited to announce that it has acquired CloudSimple, a leading provider of secure, high performance, dedicated environments to run VMware workloads in the cloud. This acquisition builds on our existing partnership with CloudSimple that we announced earlier this year, allowing us to",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/helping-customers-run-more-vmware-workloads-in-the-cloud/amp/",
-      "publishedDateTime": "2019-11-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_x_Cloud_Simple.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
       ]
     }
   ],
