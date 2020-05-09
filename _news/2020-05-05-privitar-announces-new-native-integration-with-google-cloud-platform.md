@@ -19,15 +19,15 @@ topics:
 related:
   - title: "Splunk Cloud comes to Google Cloud"
     excerpt: "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users"
-    publishedDateTime: 2020-05-05T16:14:00Z
-    webUrl: "https://www.itworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html"
+    publishedDateTime: 2020-05-05T16:12:00Z
+    webUrl: "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html"
     ampWebUrl: "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html"
     cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html"
     type: article
     provider:
-      name: ITworld
-      domain: itworld.com
-    quality: 57
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
     images:
       - url: "https://images.idgesg.net/images/article/2018/02/big_data_analytics_analysis_statistics_thinkstock_626673360-100749740-large.jpg"
         width: 1200
