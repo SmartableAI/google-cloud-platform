@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-28-red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro.md",
+      "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
+      "excerpt": "IT's future belongs to containers and Kubernetes, and Red Hat thinks its latest OpenShift Kubernetes distro will take you there.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
+      "publishedDateTime": "2020-04-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/17/80f9289a-950c-41d9-9434-64906e178775/thumbnail/1200x675/1503a8d0f23cb307b71eda70d8ddcada/openshift-container-logo.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-this-analyst-thinks-cloud-stocks-are-overvalued-is-he-right.md",
       "title": "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?",
       "excerpt": "Follow @tmfbowman If you think cloud stocks are overvalued, you're not alone. JPMorgan Chase analyst Mark Murphy slashed his ratings on a number of well-known SaaS (software-as-a-service) companies  -- Alteryx (NYSE:AYX),",
@@ -1159,50 +1203,6 @@
           "width": 4000,
           "height": 2667,
           "title": "Amazon tells cloud customers it's 'here to help' as businesses face financial hardship",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform.md",
-      "title": "Pulumi brings support for more languages to its infrastructure-as-code platform",
-      "excerpt": "Seattle-based Pulumi has quickly made a name for itself as a modern platform that lets developers specify their infrastructure through ... “We still embrace what makes each of the clouds special. AWS, Azure, Google Cloud and Kubernetes,” Duffy said. “We’re not trying to be a PaaS that abstracts over all. We’re just helping to be ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/21/pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/21/pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/pulumi-brings-support-for-more-languages-to-its-infrastructure-as-code-platform/amp/",
-      "publishedDateTime": "2020-04-21T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/pulumi_logo.png?w=1024",
-          "width": 1024,
-          "height": 489,
-          "title": "Pulumi brings support for more languages to its infrastructure-as-code platform",
           "attribution": null
         }
       ],

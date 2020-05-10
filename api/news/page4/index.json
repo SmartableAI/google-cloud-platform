@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-28-google-discloses-zero-click-bugs-impacting-several-apple-operating-systems.md",
+      "title": "Google discloses zero-click bugs impacting several Apple operating systems",
+      "excerpt": "Apple needs to follow in Google and Mozilla's footsteps and secure its multimedia processing libraries. Multimedia processing components are one of today's most dangerous attack surfaces in any operating system.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-discloses-zero-click-bugs-impacting-several-apple-operating-systems/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-discloses-zero-click-bugs-impacting-several-apple-operating-systems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-discloses-zero-click-bugs-impacting-several-apple-operating-systems/",
+      "publishedDateTime": "2020-04-28T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/04/28/83ca6cfb-1379-45cc-bce1-54af43cf7c61/image-glitched.png",
+          "width": 1000,
+          "height": 543,
+          "title": "Google discloses zero-click bugs impacting several Apple operating systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-google-cloud-generated-nearly-28-billion-in-revenue-this-quarter-up-52-from-a-year-ago.md",
       "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
       "excerpt": "Google Cloud reported 52% year-over-year revenue growth. Google Cloud CEO Thomas Kurian has previously spoken about plans to triple its salesforce.",
@@ -985,50 +1029,6 @@
           "width": 1200,
           "height": 675,
           "title": "Social Distancing Is Over On Google Stadia As Free Tier Rescues Multiplayer Modes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-you-can-finally-change-your-ok-google-sensitivity-settings-heres-how.md",
-      "title": "You can finally change your OK, Google sensitivity settings. Here's how",
-      "excerpt": "Now your Google Home can. The search giant is officially rolling out new controls that let you adjust the sensitivity of your smart speaker to its wake word. That means you can fine-tune your Google Home ($49 at Walmart) or Nest devices to pick up \"Hey,",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/how-to/you-can-finally-change-your-ok-google-sensitivity-settings-heres-how/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/you-can-finally-change-your-ok-google-sensitivity-settings-heres-how/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/you-can-finally-change-your-ok-google-sensitivity-settings-heres-how/",
-      "publishedDateTime": "2020-04-26T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/NNAZMTc50q7NRH6EKRRmmNXCvmc=/756x567/2018/10/01/bf81a96a-6a09-47a3-80fd-b5eae197ec09/google-home-hub-2110.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "You can finally change your OK, Google sensitivity settings. Here's how",
           "attribution": null
         }
       ],

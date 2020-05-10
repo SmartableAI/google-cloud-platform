@@ -2,6 +2,34 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-03-how-google-cloud-is-helping-us-public-sector-agencies-during-the-covid-19-pandemic-and-beyond.md",
+      "title": "How Google Cloud is helping U.S public sector agencies during the COVID-19 pandemic and beyond",
+      "excerpt": "In light of the current situation with COVID-19, public sector agencies are turning to the cloud more than ever, particularly as people increasingly need access to information and government services. Today, we’re happy to share more on our efforts to help governments with their COVID-19 needs and also",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/how-google-cloud-is-helping-us-public-sector-agencies-during-covid-19-pandemic-and-beyond/amp/",
+      "publishedDateTime": "2020-04-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-connecting-to-google-cloud-your-networking-options-explained.md",
       "title": "Connecting to Google Cloud: your networking options explained",
       "excerpt": "So, your organization recently decided to adopt Google Cloud. Now you just need to decide how you’re going to connect your applications to it... Public IP addresses, or VPN? Via an interconnect or through peering? Should you want to go the interconnect route, should it be direct or through a partner?",
@@ -1108,42 +1136,6 @@
           "width": 2800,
           "height": 1554,
           "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-how-ebsco-delivers-dynamic-research-services-with-apigee.md",
-      "title": "How EBSCO delivers dynamic research services with Apigee",
-      "excerpt": "Editor's note: Today we hear from Adam Ray, platform product manager at EBSCO Information Services, a leading provider of research databases, e-journals, magazines, and eBooks. Learn how the company is working with Apigee to connect with customers through APIs.For more than 70 years, EBSCO has supported",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/api-management/how-ebsco-delivers-dynamic-research-services-with-apigee/amp/",
-      "publishedDateTime": "2020-03-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_api-management-02_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How EBSCO delivers dynamic research services with Apigee",
           "attribution": null
         }
       ],
