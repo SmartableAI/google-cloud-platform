@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-01-how-to-easily-move-your-photos-from-facebook-to-google-photos.md",
+      "title": "How to easily move your photos from Facebook to Google Photos",
+      "excerpt": "Sick of having your shared photos scattered hither and yon? Facebook and Google, in a first step to making photo transfer easier, have made it possible to copy your photos and videos from Facebook to Google Photos.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/how-to-move-your-photos-from-facebook-to-google-photos/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-move-your-photos-from-facebook-to-google-photos/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-move-your-photos-from-facebook-to-google-photos/",
+      "publishedDateTime": "2020-05-01T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/01/49274fbb-68de-4d87-8d60-abd0832bb2de/facebook-information.jpg",
+          "width": 720,
+          "height": 430,
+          "title": "How to easily move your photos from Facebook to Google Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans.md",
       "title": "Google rolls out new AI-powered product for banks processing PPP loans",
       "excerpt": "The PPP Lending AI solution is designed for lending institutions that have been overwhelmed by loan applications from small businesses seeking COVID-19 pandemic relief.",
@@ -949,50 +993,6 @@
           "width": 1000,
           "height": 543,
           "title": "Google discloses zero-click bugs impacting several Apple operating systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-cloud-generated-nearly-28-billion-in-revenue-this-quarter-up-52-from-a-year-ago.md",
-      "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
-      "excerpt": "Google Cloud reported 52% year-over-year revenue growth. Google Cloud CEO Thomas Kurian has previously spoken about plans to triple its salesforce.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
-      "publishedDateTime": "2020-04-28T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5cf9809111e20513e77b4df7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
           "attribution": null
         }
       ],

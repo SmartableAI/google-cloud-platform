@@ -2,6 +2,34 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-21-helping-our-customers-navigate-covid-19-and-build-for-the-future.md",
+      "title": "Helping our customers navigate COVID-19 and build for the future",
+      "excerpt": "As the global response to COVID-19 evolves, businesses everywhere are adapting to an ever-changing environment that forces them to think differently. Our focus at Google Cloud right now is helping our customers navigate the impacts of COVID-19, whether that’s helping employees work remotely, ensuring",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/helping-our-customers-navigate-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud.md",
       "title": "Google wants to make it easier to analyse health data in the cloud",
       "excerpt": "Google has expanded the availability of its Cloud Healthcare API in a bid to improve healthcare interoperability and help providers drive insights from myriad sources of medical data. Google's Cloud Healthcare API allows healthcare organizations to collect and manage various types of medical data via the cloud, including Digital Imaging and ...",
@@ -1195,42 +1223,6 @@
           "width": 1200,
           "height": 675,
           "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ecs-announces-expanded-services-for-google-cloud-platform.md",
-      "title": "ECS Announces Expanded Services for Google Cloud Platform",
-      "excerpt": "FAIRFAX, Va.--(BUSINESS WIRE)--ECS, a leader in advanced technology, science, and engineering solutions, announced an expansion of its services as a Google Cloud Platform (GCP) partner. Through the ECS Cloud Center of Excellence, ECS delivers solutions from leading cloud service providers (CSPs) to deploy mission-critical workloads to some of ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200416005580/en/ECS-Announces-Expanded-Services-Google-Cloud-Platform",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200416005580/en/785511/23/ECS_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ECS Announces Expanded Services for Google Cloud Platform",
           "attribution": null
         }
       ],

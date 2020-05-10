@@ -2,6 +2,44 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-02-with-kubeflow-10-run-ml-workflows-on-anthos-across-environments.md",
+      "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
+      "excerpt": "Google started the open-source Kubeflow Project with the goal of making Kubernetes the best way to run machine learning (ML) workloads in production. Today, Kubeflow 1.0 was released. Kubeflow helps companies standardize on a common infrastructure across software development and machine learning, leveraging",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/run-ml-workflows-in-production-with-cloud-native-toolkit-kubeflow-1-0/amp/",
+      "publishedDateTime": "2020-03-02T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_kubeflow_1.0.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "With Kubeflow 1.0, run ML workflows on Anthos across environments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-google-named-a-leader-in-the-gartner-2020-magic-quadrant-for-cloud-ai-developer-services.md",
       "title": "Google named a Leader in the Gartner 2020 Magic Quadrant for Cloud AI Developer Services",
       "excerpt": "The enterprise applications for artificial intelligence and machine learning seem to grow by the day. To take advantage of everything AI/ML technologies have to offer, it’s important to have a platform that supports your needs fully—whether you’re a developer, a data scientist, an analyst, or just interested",
@@ -890,43 +928,6 @@
         "Google Cloud",
         "AI",
         "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-10-top-tips-unleash-your-bigquery-superpowers.md",
-      "title": "10 top tips: Unleash your BigQuery superpowers",
-      "excerpt": "Lots of us are already tech heroes by day. If you know SQL, for example, you’re a hero.You have the power to transform data into insights. You can save the day when someone in need comes to you to reveal the magic numbers they can then use in their business proposals. You can also amaze your colleagues",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics/amp/",
-      "publishedDateTime": "2020-01-28T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GOOGLE_GCP_BANNER_2A.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "10 top tips: Unleash your BigQuery superpowers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
       ]
     }
   ],

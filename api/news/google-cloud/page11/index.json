@@ -2,6 +2,43 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2019-11-18-bringing-hibernate-orm-to-cloud-spanner-for-database-adoption.md",
+      "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
+      "excerpt": "When you’re adopting a new database technology, some things to consider can include learning a new SQL dialect or writing new boilerplate persistence logic. As much as possible, we’d like to make this simpler. For this type of work, Hibernate has become the de facto standard object relational mapping",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/bringing-hibernate-orm-cloud-spanner-database-adoption/amp/",
+      "publishedDateTime": "2019-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/singer.max-600x600.png",
+          "width": 600,
+          "height": 394,
+          "title": "Bringing Hibernate ORM to Cloud Spanner for database adoption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2019-11-18-helping-our-customers-migrate-to-the-cloud-google-acquires-cloudsimple.md",
       "title": "Helping our customers migrate to the cloud: Google acquires CloudSimple",
       "excerpt": "Today, Google is excited to announce that it has acquired CloudSimple, a leading provider of secure, high performance, dedicated environments to run VMware workloads in the cloud. This acquisition builds on our existing partnership with CloudSimple that we announced earlier this year, allowing us to",

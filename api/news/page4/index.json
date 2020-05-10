@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-28-google-cloud-generated-nearly-28-billion-in-revenue-this-quarter-up-52-from-a-year-ago.md",
+      "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
+      "excerpt": "Google Cloud reported 52% year-over-year revenue growth. Google Cloud CEO Thomas Kurian has previously spoken about plans to triple its salesforce.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp",
+      "publishedDateTime": "2020-04-28T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5cf9809111e20513e77b4df7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-google-parent-alphabet-tops-sales-estimates-despite-virus-hammering-economy.md",
       "title": "Google parent Alphabet tops sales estimates despite virus hammering economy",
       "excerpt": "Alphabet Inc on Tuesday beat analysts' estimate for quarterly revenue as its Google unit experienced a smaller drop-off in advertiser spending than had been anticipated given economic concerns related to the novel coronavirus.",
@@ -985,50 +1029,6 @@
           "width": 756,
           "height": 567,
           "title": "You can finally change your OK, Google sensitivity settings. Here's how",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-is-nvidias-cloud-gaming-platform-already-dying.md",
-      "title": "Is NVIDIA’s Cloud Gaming Platform Already Dying?",
-      "excerpt": "When NVIDIA (NASDAQ:NVDA) launched its cloud gaming platform GeForce Now in February, it seemed poised to disrupt the nascent market. Unlike Alphabet's (NASDAQ:GOOG) (NASDAQ:GOOGL) Google Stadia, which required gamers to repurchase games they already owned, GeForce Now allowed gamers to stream those owned games without an additional purchase.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
-      "publishedDateTime": "2020-04-25T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569248%2Fgeforce-now-key-visual-1280x680.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 637,
-          "title": "Is NVIDIA’s Cloud Gaming Platform Already Dying?",
           "attribution": null
         }
       ],

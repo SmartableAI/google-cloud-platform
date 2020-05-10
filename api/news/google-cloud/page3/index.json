@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-30-anthos-in-depth-what-new-aws-multi-cloud-support-means-for-you.md",
+      "title": "Anthos in depth: What new AWS multi-cloud support means for you",
+      "excerpt": "Last week we announced new features for Anthos that our customers tell us will drive business agility and efficiency. Today, we’d like to dive a bit deeper into one of Anthos’ most exciting new features: support for multi-cloud. Now, you can use Anthos to consolidate all your operations across on-premises,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/multi-cloud-features-make-anthos-on-aws-possible/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Anthos_A_pmqIcQ2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Anthos in depth: What new AWS multi-cloud support means for you",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-discover-understand-and-manage-your-data-with-data-catalog-now-ga.md",
       "title": "Discover, understand and manage your data with Data Catalog, now GA",
       "excerpt": "Google Cloud Data Catalog is a fully managed and scalable metadata management service. It can help your organization quickly discover, understand, and manage all your data from one simple interface. Accessible from within the Google Cloud console, Data Catalog allows immediate access to data discovery",
@@ -1199,50 +1236,6 @@
           "width": 1200,
           "height": 675,
           "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-this-analyst-thinks-cloud-stocks-are-overvalued-is-he-right.md",
-      "title": "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?",
-      "excerpt": "Follow @tmfbowman If you think cloud stocks are overvalued, you're not alone. JPMorgan Chase analyst Mark Murphy slashed his ratings on a number of well-known SaaS (software-as-a-service) companies  -- Alteryx (NYSE:AYX),",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/27/this-analyst-thinks-cloud-stocks-are-overvalued-is.aspx",
-      "publishedDateTime": "2020-04-27T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/c4900b39802be3daf7670618fa458d90.png",
-          "width": 720,
-          "height": 386,
-          "title": "This Analyst Thinks Cloud Stocks Are Overvalued. Is He Right?",
           "attribution": null
         }
       ],

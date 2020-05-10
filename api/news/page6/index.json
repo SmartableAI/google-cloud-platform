@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-21-modernize-enterprise-networking-with-cisco-sd-wan-and-google-cloud.md",
+      "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
+      "excerpt": "Enterprises are increasingly adopting hybrid and multi-cloud to deliver the best experiences for their customers. The network is at the foundation of this transformation, but is getting exponentially more complex to manage, secure, and scale throughout an enterprise footprint that can include multiple",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Cisco.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-forgerock-nabs-935m-for-its-id-management-platform-gears-up-next-for-an-ipo.md",
       "title": "ForgeRock nabs $93.5M for its ID management platform, gears up next for an IPO",
       "excerpt": "The company is today announcing that it has raised $93.5 million in funding, a Series E it will use to continue expanding its product and take it to its next step as a business, specifically investing in R&D, cloud services ... a time when our platform can consume decentralised identity, on par with logins from Google or Facebook today.",
@@ -989,42 +1026,6 @@
           "width": 1200,
           "height": 675,
           "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ecs-announces-expanded-services-for-google-cloud-platform.md",
-      "title": "ECS Announces Expanded Services for Google Cloud Platform",
-      "excerpt": "FAIRFAX, Va.--(BUSINESS WIRE)--ECS, a leader in advanced technology, science, and engineering solutions, announced an expansion of its services as a Google Cloud Platform (GCP) partner. Through the ECS Cloud Center of Excellence, ECS delivers solutions from leading cloud service providers (CSPs) to deploy mission-critical workloads to some of ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200416005580/en/ECS-Announces-Expanded-Services-Google-Cloud-Platform",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200416005580/en/785511/23/ECS_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ECS Announces Expanded Services for Google Cloud Platform",
           "attribution": null
         }
       ],
