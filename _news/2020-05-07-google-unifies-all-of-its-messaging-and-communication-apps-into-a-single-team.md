@@ -28,6 +28,6 @@ images:
     height: 933
     title: "Google unifies all of its messaging and communication apps into a single team"
 
-secured: "AKCfCq7UvYlUrWhZnyrJ5tY6Flyo7vo97h5I2KvhG5Ojm8Um+fshWAOmtq5ZQgN+NXij/kumsn7vpJpSQeVGjtt8UdjTopa8WgqjYWODpdAfhpDUXpbvTSdwNbMcNhN3gC8I/Dxipc6NUL7YJKwlKAStjFnz7nFcBO+sVWC68rgnRgrWfeuAmlmKCV36Sh6CkBzw4yx5UUoeWbYrSFhkIuE0QFar4EKeFQEe/epJgiOrdhV09F8zDkTxZXsbFMUvnP/Fxtfh4OzQ4jjjn+3vj+0ihCgtzVSRd8XKX2yD5QqlbGUXXGLnuj8dJlKfiCdF;A4nYLu9WOG2WPNUuvECEaA=="
+secured: "OVuYZCWBdR4A/qnIDgLRtCh1w4U6zok9PZ+qhyHTXOPUapI364vcvGkwENcq+9/pEIeDSUe6w/UBuYawieSHO8r7uHg3P5vsNK4xxPXJgl23qHTZ36FeM2IeBWEU72/exCqQXFOIdtGIXKss9TBX27oy5MRDD3v7q+p1Y6krevrc/X76pjpBeZREMgfFVnDgqn4j2pNLBz83/BXZ/WF2/L4WAOwQsDkd/+8qP41EH0jlNPZgfTAB0haqSsa1z+SUDeoDIAwmbRKn6kcLi1k3sX85A0e6oaI7Z/2PEr/Zwx+5q5H+NjULQRWv1vvbw7jPvaIcC6c7ahHMU2J/WSw5iOdphcqltPpGu7uVaAdXMi/iBSijZq+3xtX9dZJtjMGVlq+WmNoy/ZP2+l9wa8SJyTLHSFD0X7PoBfyl35HO11HZ3uNhBo+xOyZac8KJJEsDxhUVBZUJ4DSTXxgnyxAzRud2I+52JCBV+6Q8U0zsD7k=;aY20xiTOsTk9RYIXFAXN/Q=="
 ---
 
