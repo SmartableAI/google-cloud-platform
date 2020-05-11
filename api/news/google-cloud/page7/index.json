@@ -2,79 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-04-06-announcing-the-winners-of-our-google-cloud-2019-partner-awards.md",
-      "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
-      "excerpt": "Day in and day out, our Google Cloud partners work tirelessly to help make our customers as successful as possible, and we want to share our gratitude. Today, we’re honored to recognize the hard work these partners do through our 2019 Partner Awards.Please join us in congratulating our 2019 winners.Click",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/partners/announcing-the-winners-of-our-2019-partner-awards/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
-      "publishedDateTime": "2020-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_gNQBgP9.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-machine-learning-with-xgboost-gets-faster-with-dataproc-on-gpus.md",
-      "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
-      "excerpt": "Google Cloud’s Dataproc gives data scientists an easy, scalable, fully managed way to analyze data using Apache Spark. Apache Spark was built for high performance, but data scientists and other teams need an even higher level of performance as more questions and predictions need to be answered using",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
-      "publishedDateTime": "2020-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Training_classification_model.max-800x800.jpg",
-          "width": 800,
-          "height": 308,
-          "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_news/2020-04-03-how-google-cloud-is-helping-us-public-sector-agencies-during-the-covid-19-pandemic-and-beyond.md",
       "title": "How Google Cloud is helping U.S public sector agencies during the COVID-19 pandemic and beyond",
       "excerpt": "In light of the current situation with COVID-19, public sector agencies are turning to the cloud more than ever, particularly as people increasingly need access to information and government services. Today, we’re happy to share more on our efforts to help governments with their COVID-19 needs and also",
@@ -1137,6 +1064,78 @@
           "width": 2880,
           "height": 1200,
           "title": "Data processing just got easier with Apps Script’s new V8 runtime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-finding-a-problem-at-the-bottom-of-the-google-stack.md",
+      "title": "Finding a problem at the bottom of the Google stack",
+      "excerpt": "At Google, our teams follow site reliability engineering (SRE) practices to help keep systems healthy and users productive. There is a phrase we often use on our SRE teams: \"At Google scale, million-to-one chances happen all the time.\" This illustrates the massive complexity of the system that powers",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/management-tools/sre-keeps-digging-to-prevent-problems/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/management-tools/sre-keeps-digging-to-prevent-problems/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_5KDV2JX.max-800x800.jpg",
+          "width": 800,
+          "height": 591,
+          "title": "Finding a problem at the bottom of the Google stack",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-g-suite-pro-tips-declutter-your-inbox-with-gmail-filters.md",
+      "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
+      "excerpt": "Editor’s note: In a previous blog post, Greg shared tips on how to use advanced search and labels to organize your inbox. Here, he explains how Gmail filters can help you prioritize your emails.As an airplane pilot, I have a lot to think about when flying, and cockpit management skills are key for flying",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/g-suite/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters/amp/",
+      "publishedDateTime": "2020-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GmailLaunch-03.max-2800x2800.jpg",
+          "width": 2800,
+          "height": 1554,
+          "title": "G Suite Pro Tips: Declutter your inbox with Gmail filters",
           "attribution": null
         }
       ],

@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-05-02-how-to-use-googles-new-hey-google-audio-sensitivity-controls.md",
-      "title": "How to use Google's new 'Hey, Google' audio sensitivity controls",
-      "excerpt": "Google is officially rolling out new controls that let you adjust the sensitivity of your Google Home smart speaker to its wake word. That means you can fine-tune your Google Home ($49 at Walmart) or Nest devices to pick up \"Hey,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/how-to/how-to-use-googles-new-hey-google-audio-sensitivity-controls/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-to-use-googles-new-hey-google-audio-sensitivity-controls/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-use-googles-new-hey-google-audio-sensitivity-controls/",
-      "publishedDateTime": "2020-05-02T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/NNAZMTc50q7NRH6EKRRmmNXCvmc=/756x567/2018/10/01/bf81a96a-6a09-47a3-80fd-b5eae197ec09/google-home-hub-2110.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "How to use Google's new 'Hey, Google' audio sensitivity controls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
       "path": "_news/2020-05-02-google-is-working-on-4khdr-streaming-to-android-tv-for-stadia.md",
       "title": "Google is working on 4K/HDR streaming to Android TV for Stadia",
       "excerpt": "Recent updates to the Stadia Android app show Google is working on some new features: sharing game captures as a link, 4K/HDR-quality playback on Android TV and a built-in messenger.",
@@ -993,6 +949,50 @@
           "width": 848,
           "height": 545,
           "title": "Google makes Meet video conferencing free to all users, challenging Zoom",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-google-is-making-meet-free-for-everyone.md",
+      "title": "Google is making Meet free for everyone",
+      "excerpt": "Google today announced that it is making Meet, its video meeting tool for businesses that directly competes with the likes of Zoom, available for free to everyone. Until now, you could participate in a Meet call without being a paying user,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/29/google-is-making-meet-free-for-everyone/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/29/google-is-making-meet-free-for-everyone/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/google-is-making-meet-free-for-everyone/amp/",
+      "publishedDateTime": "2020-04-29T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Google-Meet-Create-New-Meeting_gb.gif",
+          "width": 800,
+          "height": 482,
+          "title": "Google is making Meet free for everyone",
           "attribution": null
         }
       ],

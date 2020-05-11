@@ -2,79 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-04-16-kotlin-meet-grpc-a-new-open-source-project-for-modern-apps.md",
-      "title": "Kotlin, meet gRPC: a new open-source project for modern apps",
-      "excerpt": "As developers work to modernize applications, they need foundational tools that are simple and scalable. gRPC is a high-performance, open-source, universal RPC framework originally developed here at Google that developers are adopting in tremendous numbers, helping them connect services more easily and",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_AppDev.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Kotlin, meet gRPC: a new open-source project for modern apps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-protect-your-running-vms-with-new-os-patch-management-service.md",
-      "title": "Protect your running VMs with new OS patch management service",
-      "excerpt": "Managing patches effectively is a great way to keep your infrastructure up-to-date and reduce the risk of security vulnerabilities. But without the right tools, patching can be daunting and labor intensive.Today, we are announcing the general availability of Google Cloud’s OS patch management service",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/management-tools/new-os-patch-management-service-protects-your-compute-engine-vms/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "Protect your running VMs with new OS patch management service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
       "path": "_news/2020-04-16-rolls-royce-google-cloud-ibm-others-partner-to-model-covid-19-economic-recovery-return-to-work.md",
       "title": "Rolls Royce, Google Cloud, IBM, others partner to model COVID-19 economic recovery, return to work",
       "excerpt": "From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19. Read More Rolls Royce and a bevy of data science players including IBM, Google Cloud, Truata and the Leeds Institute for Data Analytics have formed a group to collaborate on modeling the economic recovery from the COVID ...",
@@ -1167,6 +1094,79 @@
       "topics": [
         "Google Cloud",
         "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-announcing-the-winners-of-our-google-cloud-2019-partner-awards.md",
+      "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
+      "excerpt": "Day in and day out, our Google Cloud partners work tirelessly to help make our customers as successful as possible, and we want to share our gratitude. Today, we’re honored to recognize the hard work these partners do through our 2019 Partner Awards.Please join us in congratulating our 2019 winners.Click",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/partners/announcing-the-winners-of-our-2019-partner-awards/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/partners/announcing-the-winners-of-our-2019-partner-awards/amp/",
+      "publishedDateTime": "2020-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_gNQBgP9.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Announcing the winners of our Google Cloud 2019 Partner Awards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-machine-learning-with-xgboost-gets-faster-with-dataproc-on-gpus.md",
+      "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
+      "excerpt": "Google Cloud’s Dataproc gives data scientists an easy, scalable, fully managed way to analyze data using Apache Spark. Apache Spark was built for high performance, but data scientists and other teams need an even higher level of performance as more questions and predictions need to be answered using",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/data-analytics/ml-with-xgboost-gets-faster-with-dataproc-on-gpus/amp/",
+      "publishedDateTime": "2020-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Training_classification_model.max-800x800.jpg",
+          "width": 800,
+          "height": 308,
+          "title": "Machine learning with XGBoost gets faster with Dataproc on GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
       ]
     }
   ],

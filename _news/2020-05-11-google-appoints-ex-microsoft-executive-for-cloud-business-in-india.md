@@ -24,6 +24,23 @@ images:
     height: 390
     title: "Google appoints ex-Microsoft executive for cloud business in India"
 
-secured: "SStKF1d4Yg+CidvimQ0S6jEsBb+Sh1br4az2E7+mKSL5kzcDM/VurasgqoY/XrVuo/3TcWC/GNJkmh6s+zUFdJddBP759oSrMdWZfBDOUc9JdKEukHCdpxDka6l0DnrrOS43G1hPNmAhn1nd3rbPmCtB+lyL2rieN+3ll+E47v2Eijq5vSoFL1/zWQzrXvF539J/59vwUzPpMa459t9Xkrm6yII/VHnJLoBM0s6VnQixc1P4as1PteJhJRFGh68ejmWJNkW8hROX10sxi9hlCXWRVSVbdu9navIYHUTuiMEZRNFSrEyr+LdUjlMG4urw;08IKVAwVdcW8/zWKTeHEnw=="
+related:
+  - title: "Google poaches ex-Microsoft executive for Cloud biz in India"
+    excerpt: "Google Cloud on Monday announced the appointment of former Microsoft executive Anil Bhansali as Vice President of Engineering. In his new role, Bhansali will coordinate all software development support efforts for Google Cloud in India."
+    publishedDateTime: 2020-05-11T07:10:00Z
+    webUrl: "https://newsd.in/google-poaches-ex-microsoft-executive-for-cloud-biz-in-india/"
+    ampWebUrl: "https://newsd.in/google-poaches-ex-microsoft-executive-for-cloud-biz-in-india/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/google-poaches-ex-microsoft-executive-for-cloud-biz-in-india/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 42
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/05/Anil-Bhansali-1.jpg"
+        width: 1280
+        height: 720
+
+secured: "vAelCwVMJYQ7WMEyWG5tmjHzRqud6JX9N0+96Ka+OunwTYjX4PjzLqOXTb4NBkkhD6j8ZBp4CxTQkFlo/uOxwbbUpv8OzSrsBI5eAUi+oueZBS5deYV1H/e75ekU9woHfhM2ZXcmqwTdZjGo0q5IrLvEEjF1hgZGQXAUgMJyE+JI6n6RdXqgS6cBWqZ6llNEkegZCMdmXRyryeaxb9y9qdlwghlWrv5bpRn1T9ygv3Erz1Dtm/eDkQwh5N24HswpUAeQqrhTr0oaTZRAvszMUcIcqTqrKq/yt7JXYtxC9taEx8X1XSFD5CfFp4FF29O12fPbYf8usgKEh7UMuyOoWr9H4EdoFWu8+8sIWX5ukfjLtXnxED7gIg07wXvATQgxZ46BnR+B47YR68wFuwUVgbYnLZX//xVymWoJgdNKABv+QQ8J5dZCHeSaC/Zmfk2w2rBalFpzET3bJVZzA6lHiR4DC5B2ikrSUmJ/eceIY7Y=;lMHK6K7mfuFfamaGRxtYrw=="
 ---
 

@@ -2,80 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-02-13-how-udacity-students-succeed-with-google-cloud.md",
-      "title": "How Udacity students succeed with Google Cloud",
-      "excerpt": "Editor’s note: Today we hear from Udacity, which uses a variety of Google Cloud technologies for its online learning platform. Read on to learn how they built online workspaces that give students immediate access to fast, isolated compute resources and private data sets. At Udacity, we use advanced technologies",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/customers/how-udacity-uses-google-cloud/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/customers/how-udacity-uses-google-cloud/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/customers/how-udacity-uses-google-cloud/amp/",
-      "publishedDateTime": "2020-02-13T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Udacity.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How Udacity students succeed with Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-google-completes-looker-acquisition.md",
-      "title": "Google completes Looker acquisition",
-      "excerpt": "I’m pleased to announce that Google has completed its acquisition of Looker. Together, we're excited to offer customers a comprehensive analytics solution that integrates and visualizes insights at every layer of their business.  Today, hundreds of joint customers already rely on Google Cloud and Looker",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-completes-looker-acquisition/",
-      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/inside-google-cloud/google-completes-looker-acquisition/amp/",
-      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/inside-google-cloud/google-completes-looker-acquisition/amp/",
-      "publishedDateTime": "2020-02-12T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_x_Looker.jpg",
-          "width": 1999,
-          "height": 834,
-          "title": "Google completes Looker acquisition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_news/2020-02-12-google-cloud-named-a-leader-in-the-forrester-wave-data-management-for-analytics.md",
       "title": "Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics",
       "excerpt": "We’re pleased to announce that Forrester has named Google Cloud a Leader in its report, The Forrester Wave™: Data Management for Analytics (DMA) Q1, 2020. This is the first DMA Wave Forrester is publishing and it assesses Google Cloud’s broader data analytics portfolio, with BigQuery at the heart. In",
@@ -1112,6 +1038,81 @@
       "topics": [
         "Google Cloud",
         "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-01-07-your-guide-to-kubernetes-best-practices.md",
+      "title": "Your guide to Kubernetes best practices",
+      "excerpt": "Kubernetes made a splash when it brought containerized app management to the world a few years back. Now, many of us are using it in production to deploy and manage apps at scale. Along the way, we’ve gathered tips and best practices on using Kubernetes and Google Kubernetes Engine (GKE) to your best",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/containers-kubernetes/your-guide-kubernetes-best-practices/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/containers-kubernetes/your-guide-kubernetes-best-practices/amp/",
+      "publishedDateTime": "2020-01-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Kubernetes.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Your guide to Kubernetes best practices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions.md",
+      "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
+      "excerpt": "Do you wish you could access resources in your Virtual Private Cloud (VPC) with serverless applications running on App Engine or Cloud Functions? Now you can, with the new Serverless VPC Access service.Available now, Serverless VPC access lets you access virtual machines, Cloud Memorystore Redis instances,",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/serverless/connect-to-your-vpc-and-managed-redis-from-app-engine-and-cloud-functions/amp/",
+      "publishedDateTime": "2020-01-06T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Serverless.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Connect to your VPC and managed Redis from App Engine and Cloud Functions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Compute",
+        "Serverless"
       ]
     }
   ],
