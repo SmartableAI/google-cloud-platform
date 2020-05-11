@@ -23,6 +23,6 @@ images:
     height: 2313
     title: "The case of the missing DNS packets: a Google Cloud support story"
 
-secured: "RoX0r9qoSZIVP3eOTaw1VErOcTxwykxeRfipMN6YBD2dAumWwHlQ7ul2a4hNz16XCOG2/29jQzfzZE1smcshEycdp+8e4/ab9ICk5MLhVX/Di7DWN4rqIhlHX7Hi8XwERqj3lp2rYYsEJys6iQCpBeiphGQGnaFAkOcCfok7CrklwQnHo58xx1QOpPS8+JClGm2mD26P7cvWRDMgn4BGLmI/pVo7J5tX0oImZohYiR6f5QzTG4US0lQ8IcTl401UKw3JsDXnz3vqYmfrXnArdosnK+Xu6wiYsfAOc2P20mK6s2i9KMrrcFM0Wezs9dQBfY/WBf4k2/EJmGdm0NBh2A==;DzrtjWid4MTXRWI9pRsu7g=="
+secured: "P9pG+Pz6SGLMiCaPR3fPvFT98Un2ff+5ArliswzC93dgFAylYaf8vpDxE9/7Bf/4dryrsCnceFOeVIfqX4+zHOn9WJn2Urpvfy/ULJmJ1QsTBP/Tl9hR/9YGBvdQSWd7dTd85YtaFUYGxCUp4YyETOcswKo1QQZAee/uP36UzllwqFctbE30SBEZ6QV40aGK8ZvB3oYmSvhFnJuQMTyC4xJaVTw12TzgXf0tfFuIKqge4uc1sYbyEZBSkdViUYWf/oiqVicD9qP1gCmx24oyUiMrAdmdRYjJDevSE1nCU7eWnqLqHRbVO2TfkkX71Qb929/e2akA/HCoNVy/GG/XsQ==;5GwaNGFR+7UTn5jf7HZ/Rw=="
 ---
 
