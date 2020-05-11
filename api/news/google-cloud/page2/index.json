@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-windows-server-containers-on-gke-now-ga-with-ecosystem-support.md",
+      "title": "Windows Server containers on GKE now GA, with ecosystem support",
+      "excerpt": "As organizations look to modernize their Windows Server applications to achieve improved scalability and smoother operations, migrating them into Windows containers has become a leading solution. And orchestrating these containers with Kubernetes has become the industry norm, just as it has with Linux. We",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/windows-server-containers-on-gke-now-ga/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Windows Server containers on GKE now GA, with ecosystem support",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-introducing-3-new-hp-chromebook-enterprise-devices-built-to-keep-business-running.md",
       "title": "Introducing 3 new HP Chromebook Enterprise devices built to keep business running",
       "excerpt": "Keeping your workforce secure and productive has become even more critical over the past several months. Whether you're supporting cloud-ready workers or employees that need access to legacy apps via virtualized desktops, Chrome Enterprise devices provide the necessary flexibility and security to keep",
@@ -1196,50 +1233,6 @@
           "width": 2200,
           "height": 917,
           "title": "Business continuity planning and resilience in financial services during COVID-19 and beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill.md",
-      "title": "Google wants Australia to remove civil penalties from CLOUD Act-readying Bill",
-      "excerpt": "The search giant believes the imposition of a mandatory obligation to comply with an international production order is contrary to the purpose of the CLOUD Act.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-wants-australia-to-remove-civil-penalties-from-cloud-act-readying-bill/",
-      "publishedDateTime": "2020-04-30T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/30/120ce3e8-a4c8-4d15-baaf-75335c8da183/thumbnail/1200x675/32b1552d383ecb729eae2c8ade05ccf3/istock-1154834209.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google wants Australia to remove civil penalties from CLOUD Act-readying Bill",
           "attribution": null
         }
       ],

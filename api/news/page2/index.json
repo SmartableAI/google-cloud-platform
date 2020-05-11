@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-06-microsoft-word-vs-google-docs.md",
+      "title": "Microsoft Word vs. Google Docs",
+      "excerpt": "Word or Docs? The decision may seem simple if you're already integrated into either Microsoft or Google services, but there are other factors to consider.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-word-versus-google-docs/",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-word-versus-google-docs/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-versus-google-docs/?amp",
+      "publishedDateTime": "2020-05-05T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/how-to-use-microsoft-office-for-free-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Microsoft Word vs. Google Docs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-googles-stadia-controller-will-finally-work-wirelessly-with-computers-starting-this-week.md",
       "title": "Google’s Stadia controller will finally work wirelessly with computers starting this week",
       "excerpt": "Google’s Stadia Controller will finally work wirelessly with laptops and desktops starting this week, the company announced today (via Engadget). Since the cloud gaming services",
@@ -993,50 +1037,6 @@
           "width": 920,
           "height": 470,
           "title": "Free cloud storage: Which providers offer the most space",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-how-to-use-googles-new-hey-google-audio-sensitivity-controls.md",
-      "title": "How to use Google's new 'Hey, Google' audio sensitivity controls",
-      "excerpt": "Google is officially rolling out new controls that let you adjust the sensitivity of your Google Home smart speaker to its wake word. That means you can fine-tune your Google Home ($49 at Walmart) or Nest devices to pick up \"Hey,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/how-to/how-to-use-googles-new-hey-google-audio-sensitivity-controls/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-to-use-googles-new-hey-google-audio-sensitivity-controls/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-use-googles-new-hey-google-audio-sensitivity-controls/",
-      "publishedDateTime": "2020-05-02T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/NNAZMTc50q7NRH6EKRRmmNXCvmc=/756x567/2018/10/01/bf81a96a-6a09-47a3-80fd-b5eae197ec09/google-home-hub-2110.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "How to use Google's new 'Hey, Google' audio sensitivity controls",
           "attribution": null
         }
       ],
