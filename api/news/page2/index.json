@@ -2,6 +2,210 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-06-how-our-community-is-responding-to-covid-19-fostering-community-engagement.md",
+      "title": "How our community is responding to COVID-19: Fostering community engagement",
+      "excerpt": "Editor’s Note:This is the second post of a series highlighting the inspiring response to COVID-19 from the Google Maps Platform community. This week we’re focusing on projects that help individuals help others in their local communities. You can take a look back at projects that aim to keep communities",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-our-community-responding-covid-19-fostering-community-engagement/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/039-MAP-COVID19-Fostering-Community-engagement-SL-01.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "How our community is responding to COVID-19: Fostering community engagement",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-last-month-today-google-cloud-in-april.md",
+      "title": "Last month today: Google Cloud in April",
+      "excerpt": "This month brought spring flowers, and plenty of adaptations to a work-from-home, virtually powered routine. At Google Cloud, we welcomed news of new certifications, lots of updates and news on conferencing with Google Meet, and security additions. Here’s a look at the top stories.Meet online, securely",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/last-month-today-google-cloud-in-april-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_10.jpg",
+          "width": 6000,
+          "height": 2500,
+          "title": "Last month today: Google Cloud in April",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-googles-charitable-arm-ups-coronavirus-relief-to-100-million.md",
+      "title": "Google's charitable arm ups coronavirus relief to $100 million",
+      "excerpt": "Google's charitable arm, Google.org, is pledging another $50 million in grants for COVID-19 relief. In a blogpost Wednesday, Google.org vice president Jacquelline Fuller said the",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/googles-charitable-arm-ups-coronavirus-relief-to-100-million/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-charitable-arm-ups-coronavirus-relief-to-100-million/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-charitable-arm-ups-coronavirus-relief-to-100-million/",
+      "publishedDateTime": "2020-05-06T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/MFLT6rx2GFLOe1gR08eDHpmjdcA=/756x567/2019/09/10/2e5b33b9-5b16-46a4-89d0-b7251ace8e71/google-logo-5.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Google's charitable arm ups coronavirus relief to $100 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-top-cloud-computing-stocks-to-buy-in-may.md",
+      "title": "3 Top Cloud Computing Stocks to Buy in May",
+      "excerpt": "Three such examples in the cloud computing market are Microsoft (NASDAQ:MSFT), Amazon.com (NASDAQ:AMZN), and Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL). Here's why.  Image source: . It's hard to find a large tech company that's executed its cloud computing strategy as well as Microsoft.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Top Cloud Computing Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location.md",
+      "title": "Apple and Google to prevent contact tracing apps from tracking your location",
+      "excerpt": "The built-in technology would ban the use of GPS location data to monitor contact with people who test positive for COVID-19.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location/",
+      "publishedDateTime": "2020-05-06T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/21/14e14661-cdb5-4308-8cf9-3bc3a07471b5/thumbnail/1200x675/fe9a24b34992db55e7d7add977f199f8/20200420-dallon-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Apple and Google to prevent contact tracing apps from tracking your location",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-thales-selects-google-cloud-to-expand-its-esim-management-solution.md",
       "title": "Thales selects Google Cloud to expand its eSIM management solution",
       "excerpt": "The Thales-operated solution provides secure eSIM management services and provides compliance with data protection and privacy requirements.",
@@ -809,226 +1013,6 @@
           "width": 1200,
           "height": 675,
           "title": "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-cloud-manufacturing-market-size-growth-analysis-outlook-by-trends-and-forecast-to-2019-2024.md",
-      "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
-      "excerpt": "Global Cloud Manufacturing Market Research Report: by Component (Hardware, Software and Services), by Deployment",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-manufacturing-market-size-growth-analysis-outlook-by---trends-and-forecast-to-2019-2024-2020-05-03",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-03T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-google-cloud-and-youtube-help-protect-alphabet-from-a-coronavirus-disaster.md",
-      "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
-      "excerpt": "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
-      "publishedDateTime": "2020-05-03T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570704%2Fman-touching-magnifying-glass-button-on-floating-search-bar-internet-google-search-engine.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 850,
-          "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-rings-video-doorbell-3-plus-takes-a-run-at-googles-nest-hello.md",
-      "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
-      "excerpt": "Ring's Video Doorbell 3 Plus, first announced on March 11 -- which feels like a very long time ago amid the coronavirus pandemic and resulting quarantine -- is available now at Best Buy and other online retailers,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/reviews/ring-video-doorbell-3-plus-review/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
-      "publishedDateTime": "2020-05-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/7sOGJCBIVZ6Vr28vEq9mFv0UKvI=/770x433/2020/04/30/e7305fb1-ee20-4926-95e6-d2d3a171f4c0/ringvideodoorbell3plus.jpg",
-          "width": 770,
-          "height": 433,
-          "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news.md",
-      "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
-      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
-      "publishedDateTime": "2020-05-03T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058701%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-i-cant-stop-escaping-into-google-photos-nostalgia-vortex.md",
-      "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
-      "excerpt": "I got the app for its easy photo backups. I didn’t realize it would become a precious window to the past—or a lifeline in a time of existential despair.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/goole-photos-and-nostalgia/",
-      "ampWebUrl": "https://www.wired.com/story/goole-photos-and-nostalgia/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/goole-photos-and-nostalgia/amp",
-      "publishedDateTime": "2020-05-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eaca3feb9223ceeb3be4220/master/pass/google-photos-nostalgia.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
           "attribution": null
         }
       ],

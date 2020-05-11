@@ -2,6 +2,211 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-22-modernize-legacy-apps-with-migrate-for-anthos-introducing-support-for-day-two-operations.md",
+      "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+      "excerpt": "Not all application modernization strategies are created equal. One of the simplest approaches is to take an existing virtual machine and save it as a container. But while the resulting container will work, it won’t give you the benefits of more sophisticated modernization techniques—both in terms of",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/migrate-for-anthos-1-3-accelerates-modernization/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
+          "width": 2000,
+          "height": 1000,
+          "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-were-rolling-out-4-top-requested-google-meet-features.md",
+      "title": "We’re rolling out 4 top-requested Google Meet features",
+      "excerpt": "Remote work has become increasingly necessary for public safety and wellbeing—which makes staying connected, even while we’re apart, more important than ever. Each day, a rapidly growing number of people connect on Google Meet, and we want to make sure they have the features they need to share and be",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/productivity-collaboration/introducing-tiled-view-and-other-top-requested-features-in-google-meet/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Meet_16.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "We’re rolling out 4 top-requested Google Meet features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-cloud-made-its-healthcare-api-available-to-providers-amid-the-pandemic.md",
+      "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
+      "excerpt": "Google Cloud made its Healthcare API generally available to healthcare organizations in response to the coronavirus pandemic.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/google-cloud-opens-healthcare-api-to-providers-amid-pandemic-2020-4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5db72045dee0190c79375578?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-cloud-anthos-now-available-for-aws-with-azure-to-follow.md",
+      "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
+      "excerpt": "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
+      "publishedDateTime": "2020-04-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-computing-platform-will-optimize-renewable-energy-use-in-datacenters.md",
+      "title": "Google computing platform will optimize renewable energy use in datacenters",
+      "excerpt": "As part of an ongoing effort to reduce the environmental impact of cloud computing, Google announced that it has developed a platform that maximizes the use of alternative energy sources at its sprawling network of datacenters. In a blog post, Google officials described the system as a “carbon-intelligent computing platform.” The system ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
+      "publishedDateTime": "2020-04-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google computing platform will optimize renewable energy use in datacenters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-how-to-embrace-the-hybrid-cloud-reality-and-get-it-right.md",
       "title": "How To Embrace The Hybrid Cloud Reality And Get It Right",
       "excerpt": "With the initial promise of the cloud, organizations were rushing to implement “the next great thing” — but many failed to successfully put a hybrid strategy in place. Are you one of those organizations?",
@@ -1034,210 +1239,6 @@
           "width": 1200,
           "height": 800,
           "title": "Google's Stadia Finally Offers a Free Option",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails.md",
-      "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
-      "excerpt": "That's especially true with phishing emails, which often promise information and updates about COVID-19 but instead lead people to malicious content. The popularity of Google Cloud services such as G Suite, Gmail, and Chrome have made their users tempting targets for malware. In a blog post published on Thursday, Google explained what it's ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-cloud-users-can-combat-coronavirus-themed-phishing-emails/",
-      "publishedDateTime": "2020-04-17T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/26/05489297-ce39-46e0-a5b9-c1d8795feefe/resize/1200x/e23b602d8e1f28512faa6302a8d89e4b/istock-1211016776.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "How Google Cloud users can combat coronavirus-themed phishing emails",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025.md",
-      "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
-      "excerpt": "New York, April 17, 2020: The Global Chatbot Market is segmented on the lines of its platform, enterprise size and",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-erp-market-2020-globalsizetrends-demand-and-share-analysis-to-2025-2020-04-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud ERP Market 2020 Global,Size,Trends, Demand and Share Analysis to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-protecting-businesses-against-cyber-threats-during-covid-19-and-beyond.md",
-      "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
-      "excerpt": "No matter the size of your business, IT teams are facing increased pressure to navigate the challenges of COVID-19. At the same time, some things remain constant: Security is at the top of the priority list, and phishing is still one of the most effective methods that attackers use to compromise accounts",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/identity-security/protecting-against-cyber-threats-during-covid-19-and-beyond/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Security-identity-04.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Protecting businesses against cyber threats during COVID-19 and beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-how-to-get-remote-workers-up-and-running-quickly-and-securely-with-chrome-enterprise.md",
-      "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
-      "excerpt": "Shifting to a remote workforce is an important way businesses and organizations have supported their communities in response to COVID-19. But ensuring workers have remote access to the apps and data they need can be challenging, and in the rush to deploy devices quickly, many businesses worry about threats",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/chrome-enterprise/remote-work-toolkit-from-chrome-enterprise/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/12985_RemoteWorker_BlogIllo_v011x.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "How to get remote workers up and running quickly and securely with Chrome Enterprise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-google-may-let-some-air-out-of-its-cloud.md",
-      "title": "Google May Let Some Air Out of Its Cloud",
-      "excerpt": "Google will be “recalibrating” its focus and pace of investments in areas like data centers and machines—the components underpinning cloud computing.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-may-let-some-air-out-of-its-cloud-11587057504",
-      "publishedDateTime": "2020-04-16T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-176970/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Google May Let Some Air Out of Its Cloud",
           "attribution": null
         }
       ],

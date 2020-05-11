@@ -2,6 +2,226 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-04-cloud-manufacturing-market-size-growth-analysis-outlook-by-trends-and-forecast-to-2019-2024.md",
+      "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
+      "excerpt": "Global Cloud Manufacturing Market Research Report: by Component (Hardware, Software and Services), by Deployment",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-manufacturing-market-size-growth-analysis-outlook-by---trends-and-forecast-to-2019-2024-2020-05-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-google-cloud-and-youtube-help-protect-alphabet-from-a-coronavirus-disaster.md",
+      "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
+      "excerpt": "Some investors have criticized Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) for being the least diversified among the tech titans. Microsoft has its software, cloud, and hardware empire;",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/google-cloud-youtube-protect-alphabet-coronavirus.aspx",
+      "publishedDateTime": "2020-05-03T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570704%2Fman-touching-magnifying-glass-button-on-floating-search-bar-internet-google-search-engine.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 850,
+          "title": "Google Cloud and YouTube Help Protect Alphabet From a Coronavirus Disaster",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-rings-video-doorbell-3-plus-takes-a-run-at-googles-nest-hello.md",
+      "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+      "excerpt": "Ring's Video Doorbell 3 Plus, first announced on March 11 -- which feels like a very long time ago amid the coronavirus pandemic and resulting quarantine -- is available now at Best Buy and other online retailers,",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/reviews/ring-video-doorbell-3-plus-review/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/reviews/ring-video-doorbell-3-plus-review/",
+      "publishedDateTime": "2020-05-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/7sOGJCBIVZ6Vr28vEq9mFv0UKvI=/770x433/2020/04/30/e7305fb1-ee20-4926-95e6-d2d3a171f4c0/ringvideodoorbell3plus.jpg",
+          "width": 770,
+          "height": 433,
+          "title": "Ring's Video Doorbell 3 Plus takes a run at Google's Nest Hello",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news.md",
+      "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
+      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/05/03/google-meet-goes-free-microsoft-flags-double-spacesand-other-small-business-tech-news/amp/",
+      "publishedDateTime": "2020-05-03T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058701%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-i-cant-stop-escaping-into-google-photos-nostalgia-vortex.md",
+      "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
+      "excerpt": "I got the app for its easy photo backups. I didn’t realize it would become a precious window to the past—or a lifeline in a time of existential despair.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/goole-photos-and-nostalgia/",
+      "ampWebUrl": "https://www.wired.com/story/goole-photos-and-nostalgia/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/goole-photos-and-nostalgia/amp",
+      "publishedDateTime": "2020-05-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eaca3feb9223ceeb3be4220/master/pass/google-photos-nostalgia.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-free-cloud-storage-which-providers-offer-the-most-space.md",
       "title": "Free cloud storage: Which providers offer the most space",
       "excerpt": "The most generous free storage provider offers a whopping 100GB of space for your images, videos, and other files.",
@@ -803,196 +1023,6 @@
           "width": 1200,
           "height": 675,
           "title": "Google Cloud sees huge revenue jump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-synamedia-partners-with-google-cloud-on-video-network-offering.md",
-      "title": "Synamedia Partners With Google Cloud on Video Network Offering",
-      "excerpt": "Synamedia has announced a partnership with Google Cloud, expanding its video network portfolio with a new over-the-top (OTT) as-a-service offering. The partnership, which enhances service availability and scalability,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvtechnology.com/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
-      "publishedDateTime": "2020-04-29T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/nyqctXWHsEyvxvPW4b5Gxg-1200-80.jpg",
-          "width": 478,
-          "height": 269,
-          "title": "Synamedia Partners With Google Cloud on Video Network Offering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-explore-anthos-with-a-sample-deployment.md",
-      "title": "Explore Anthos with a sample deployment",
-      "excerpt": "Last week, we announced important updates to Anthos, our multi-cloud application management platform. Many of you reached out to find out how you could try Anthos, out today so we’re sharing the Anthos Sample Deployment on Google Cloud, a simple way to explore the platform and its components.Available",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/anthos/explore-anthos-with-a-sample-deployment/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Explore Anthos with a sample deployment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-optimize-dataproc-costs-using-vm-machine-type.md",
-      "title": "Optimize Dataproc costs using VM machine type",
-      "excerpt": "Dataproc is a fast, easy-to-use, fully managed cloud service for running managed open source, such as Apache Spark, Apache Presto, and Apache Hadoop clusters, in a simpler, more cost-efficient way. We hear that enterprises are migrating their big data workloads to the cloud to gain cost advantages with",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/data-analytics/optimize-dataproc-costs-using-vm-machine-type/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Optimize Dataproc costs using VM machine type",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-viva-las-vegas-with-our-latest-google-cloud-platform-region.md",
-      "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
-      "excerpt": "If you’re running in the cloud, more regions means being able to build reliable, fast applications that can serve your local customers. Today, we’re launching our newest Google Cloud Platform region in Las Vegas, bringing a fourth region to the western United States, the seventh nationally, and our global",
-      "heat": 182,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/infrastructure/google-clouds-las-vegas-region-is-now-open/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_las_vegas.jpg",
-          "width": 1999,
-          "height": 834,
-          "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-oracle-launches-cloud-e3-platform-built-on-second-gen-amd-epyc-processors.md",
-      "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
-      "excerpt": "Oracle on Wednesday launched the Oracle Cloud Infrastructure Compute E3 platform, a new family of bare metal and standard instances powered by AMD's 2nd Gen Epyc processors. With the high core count and memory bandwidth delivered by the AMD chips,",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
-      "publishedDateTime": "2020-04-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/10/25/93c8b76a-bd36-484e-82b6-7e8530b0aaca/thumbnail/1200x675/57ac64ca97ef5bec30bc41af38b3d033/20191025-steph-karen-oracle.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
           "attribution": null
         }
       ],

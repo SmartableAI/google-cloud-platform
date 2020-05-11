@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-11-get-to-know-google-cloud-with-our-new-architecture-framework.md",
+      "title": "Get to know Google Cloud with our new Architecture Framework",
+      "excerpt": "Are you using Google Cloud or thinking about making the move to the cloud? Are you a cloud architect or cloud engineer who needs to ensure your services are secure and reliable yet also manageable during day-to-day operations? We have heard feedback from many of you that you need a structured approach",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/new-google-cloud-architecture-framework-guide/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_CkvXMRW.max-1000x1000.jpg",
+          "width": 1000,
+          "height": 555,
+          "title": "Get to know Google Cloud with our new Architecture Framework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-the-case-of-the-missing-dns-packets-a-google-cloud-support-story.md",
+      "title": "The case of the missing DNS packets: a Google Cloud support story",
+      "excerpt": "Editor’s note: Ever wonder how Google Cloud Technical Solutions Engineers (TSE) approach your support cases? TSEs are the support engineers responsible for troubleshooting and identifying the technical root cause of issues reported by customers. Some are fairly simple, but, every once in a while, a support",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_11.jpg",
+          "width": 4167,
+          "height": 2313,
+          "title": "The case of the missing DNS packets: a Google Cloud support story",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-using-logging-for-your-apps-running-on-kubernetes-engine.md",
+      "title": "Using logging for your apps running on Kubernetes Engine",
+      "excerpt": "Whether you’re a developer debugging an application or on the DevOps team monitoring applications across several production clusters, logs are the lifeblood of the IT organization. And if you run on top of Google Kubernetes Engine (GKE), you can use Cloud Logging, one of the many services integrated",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/using-logging-your-apps-running-kubernetes-engine/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Containers_08_Toz0BRc.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Using logging for your apps running on Kubernetes Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-google-cloud-appoints-anil-bhansali-as-vp-engineering-in-india.md",
+      "title": "Google Cloud appoints Anil Bhansali as VP Engineering in India",
+      "excerpt": "The new VP will coordinate all software development support efforts for Google Cloud in the country, according to a company statement.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/05/google-cloud-appoints-anil-bhansali-vp-engineer",
+      "ampWebUrl": "https://yourstory.com/2020/05/google-cloud-appoints-anil-bhansali-vp-engineer/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/google-cloud-appoints-anil-bhansali-vp-engineer/amp",
+      "publishedDateTime": "2020-05-11T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imageqdzp-1589208696650.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Google Cloud appoints Anil Bhansali as VP Engineering in India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-memsql-raises-50m-in-debt-facility-for-its-real-time-database-platform.md",
+      "title": "MemSQL raises $50M in debt facility for its real-time database platform",
+      "excerpt": "As a number of startups get back into fundraising in earnest, one that is on a growth tear has closed a substantial debt round to hold on to more equity in the company as it inches to being cash-flow positive.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/11/memsql-raises-50m-in-debt-facility-for-its-real-time-database-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/11/memsql-raises-50m-in-debt-facility-for-its-real-time-database-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/memsql-raises-50m-in-debt-facility-for-its-real-time-database-platform/amp/",
+      "publishedDateTime": "2020-05-11T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1213764552-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "MemSQL raises $50M in debt facility for its real-time database platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-cloud-platform-modernizes-911-system-by-adding-location-data-chat-and-video-to-emergency-calls.md",
       "title": "Cloud platform modernizes 911 system by adding location data, chat and video to emergency calls",
       "excerpt": "Most 911 dispatchers have less information about an emergency call than a hungry customer has about a pizza order, including status and location information. An emergency communications company wants to make those emergency calls more information rich by using cloud technology,",
@@ -812,210 +1002,6 @@
       "topics": [
         "Google Cloud",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-how-our-community-is-responding-to-covid-19-fostering-community-engagement.md",
-      "title": "How our community is responding to COVID-19: Fostering community engagement",
-      "excerpt": "Editor’s Note:This is the second post of a series highlighting the inspiring response to COVID-19 from the Google Maps Platform community. This week we’re focusing on projects that help individuals help others in their local communities. You can take a look back at projects that aim to keep communities",
-      "heat": 120,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-our-community-responding-covid-19-fostering-community-engagement/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/039-MAP-COVID19-Fostering-Community-engagement-SL-01.png",
-          "width": 2880,
-          "height": 1200,
-          "title": "How our community is responding to COVID-19: Fostering community engagement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-last-month-today-google-cloud-in-april.md",
-      "title": "Last month today: Google Cloud in April",
-      "excerpt": "This month brought spring flowers, and plenty of adaptations to a work-from-home, virtually powered routine. At Google Cloud, we welcomed news of new certifications, lots of updates and news on conferencing with Google Meet, and security additions. Here’s a look at the top stories.Meet online, securely",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/gcp/last-month-today-google-cloud-in-april-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_10.jpg",
-          "width": 6000,
-          "height": 2500,
-          "title": "Last month today: Google Cloud in April",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-googles-charitable-arm-ups-coronavirus-relief-to-100-million.md",
-      "title": "Google's charitable arm ups coronavirus relief to $100 million",
-      "excerpt": "Google's charitable arm, Google.org, is pledging another $50 million in grants for COVID-19 relief. In a blogpost Wednesday, Google.org vice president Jacquelline Fuller said the",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/googles-charitable-arm-ups-coronavirus-relief-to-100-million/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-charitable-arm-ups-coronavirus-relief-to-100-million/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-charitable-arm-ups-coronavirus-relief-to-100-million/",
-      "publishedDateTime": "2020-05-06T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/MFLT6rx2GFLOe1gR08eDHpmjdcA=/756x567/2019/09/10/2e5b33b9-5b16-46a4-89d0-b7251ace8e71/google-logo-5.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Google's charitable arm ups coronavirus relief to $100 million",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-3-top-cloud-computing-stocks-to-buy-in-may.md",
-      "title": "3 Top Cloud Computing Stocks to Buy in May",
-      "excerpt": "Three such examples in the cloud computing market are Microsoft (NASDAQ:MSFT), Amazon.com (NASDAQ:AMZN), and Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL). Here's why.  Image source: . It's hard to find a large tech company that's executed its cloud computing strategy as well as Microsoft.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx",
-      "publishedDateTime": "2020-05-06T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "3 Top Cloud Computing Stocks to Buy in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location.md",
-      "title": "Apple and Google to prevent contact tracing apps from tracking your location",
-      "excerpt": "The built-in technology would ban the use of GPS location data to monitor contact with people who test positive for COVID-19.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/apple-and-google-to-prevent-contact-tracing-apps-from-tracking-your-location/",
-      "publishedDateTime": "2020-05-06T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/21/14e14661-cdb5-4308-8cf9-3bc3a07471b5/thumbnail/1200x675/fe9a24b34992db55e7d7add977f199f8/20200420-dallon-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Apple and Google to prevent contact tracing apps from tracking your location",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

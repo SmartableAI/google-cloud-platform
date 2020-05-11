@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-11-get-to-know-google-cloud-with-our-new-architecture-framework.md",
+      "title": "Get to know Google Cloud with our new Architecture Framework",
+      "excerpt": "Are you using Google Cloud or thinking about making the move to the cloud? Are you a cloud architect or cloud engineer who needs to ensure your services are secure and reliable yet also manageable during day-to-day operations? We have heard feedback from many of you that you need a structured approach",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/gcp/new-google-cloud-architecture-framework-guide/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_CkvXMRW.max-1000x1000.jpg",
+          "width": 1000,
+          "height": 555,
+          "title": "Get to know Google Cloud with our new Architecture Framework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-the-case-of-the-missing-dns-packets-a-google-cloud-support-story.md",
+      "title": "The case of the missing DNS packets: a Google Cloud support story",
+      "excerpt": "Editor’s note: Ever wonder how Google Cloud Technical Solutions Engineers (TSE) approach your support cases? TSEs are the support engineers responsible for troubleshooting and identifying the technical root cause of issues reported by customers. Some are fairly simple, but, every once in a while, a support",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_11.jpg",
+          "width": 4167,
+          "height": 2313,
+          "title": "The case of the missing DNS packets: a Google Cloud support story",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-using-logging-for-your-apps-running-on-kubernetes-engine.md",
+      "title": "Using logging for your apps running on Kubernetes Engine",
+      "excerpt": "Whether you’re a developer debugging an application or on the DevOps team monitoring applications across several production clusters, logs are the lifeblood of the IT organization. And if you run on top of Google Kubernetes Engine (GKE), you can use Cloud Logging, one of the many services integrated",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/management-tools/using-logging-your-apps-running-kubernetes-engine/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Blog_Containers_08_Toz0BRc.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Using logging for your apps running on Kubernetes Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-google-cloud-appoints-anil-bhansali-as-vp-engineering-in-india.md",
+      "title": "Google Cloud appoints Anil Bhansali as VP Engineering in India",
+      "excerpt": "The new VP will coordinate all software development support efforts for Google Cloud in the country, according to a company statement.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/05/google-cloud-appoints-anil-bhansali-vp-engineer",
+      "ampWebUrl": "https://yourstory.com/2020/05/google-cloud-appoints-anil-bhansali-vp-engineer/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/google-cloud-appoints-anil-bhansali-vp-engineer/amp",
+      "publishedDateTime": "2020-05-11T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imageqdzp-1589208696650.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Google Cloud appoints Anil Bhansali as VP Engineering in India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-memsql-raises-50m-in-debt-facility-for-its-real-time-database-platform.md",
+      "title": "MemSQL raises $50M in debt facility for its real-time database platform",
+      "excerpt": "As a number of startups get back into fundraising in earnest, one that is on a growth tear has closed a substantial debt round to hold on to more equity in the company as it inches to being cash-flow positive.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/11/memsql-raises-50m-in-debt-facility-for-its-real-time-database-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/11/memsql-raises-50m-in-debt-facility-for-its-real-time-database-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/memsql-raises-50m-in-debt-facility-for-its-real-time-database-platform/amp/",
+      "publishedDateTime": "2020-05-11T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1213764552-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "MemSQL raises $50M in debt facility for its real-time database platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-cloud-platform-modernizes-911-system-by-adding-location-data-chat-and-video-to-emergency-calls.md",
       "title": "Cloud platform modernizes 911 system by adding location data, chat and video to emergency calls",
       "excerpt": "Most 911 dispatchers have less information about an emergency call than a hungry customer has about a pizza order, including status and location information. An emergency communications company wants to make those emergency calls more information rich by using cloud technology,",
@@ -1007,210 +1197,6 @@
           "width": 1200,
           "height": 675,
           "title": "Apple and Google to prevent contact tracing apps from tracking your location",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-thales-selects-google-cloud-to-expand-its-esim-management-solution.md",
-      "title": "Thales selects Google Cloud to expand its eSIM management solution",
-      "excerpt": "The Thales-operated solution provides secure eSIM management services and provides compliance with data protection and privacy requirements.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Thales_selects_Google_Cloud_to_expand_its_eSIM_management_solution-ZAWYA20200506073300/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/",
-      "publishedDateTime": "2020-05-06T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Thales selects Google Cloud to expand its eSIM management solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-microsoft-word-vs-google-docs.md",
-      "title": "Microsoft Word vs. Google Docs",
-      "excerpt": "Word or Docs? The decision may seem simple if you're already integrated into either Microsoft or Google services, but there are other factors to consider.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/computing/microsoft-word-versus-google-docs/",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-word-versus-google-docs/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-versus-google-docs/?amp",
-      "publishedDateTime": "2020-05-05T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/how-to-use-microsoft-office-for-free-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Microsoft Word vs. Google Docs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-googles-stadia-controller-will-finally-work-wirelessly-with-computers-starting-this-week.md",
-      "title": "Google’s Stadia controller will finally work wirelessly with computers starting this week",
-      "excerpt": "Google’s Stadia Controller will finally work wirelessly with laptops and desktops starting this week, the company announced today (via Engadget). Since the cloud gaming services",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/5/21248769/google-stadia-controller-wireless-computers-desktop-laptop",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/5/21248769/google-stadia-controller-wireless-computers-desktop-laptop",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/5/21248769/google-stadia-controller-wireless-computers-desktop-laptop",
-      "publishedDateTime": "2020-05-05T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/yxc7GCwTB6kZozLpIjAiyK9YRwc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66756942/akrales_191113_3779_0163.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Google’s Stadia controller will finally work wirelessly with computers starting this week",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-providing-transparency-into-government-requests-for-enterprise-data.md",
-      "title": "Providing transparency into government requests for enterprise data",
-      "excerpt": "At Google Cloud, we’re committed to being transparent about when governments request our enterprise customers’ data. Today, to continue our company-wide efforts to build trust through transparency, Google published its semi-annual Requests for user information transparency report. This version of the",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/identity-security/google-clouds-semi-annual-transparency-report-now-available/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_security_1.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Providing transparency into government requests for enterprise data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
-      "title": "Splunk Cloud comes to Google Cloud",
-      "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
-      "publishedDateTime": "2020-05-05T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/big_data_analytics_analysis_statistics_thinkstock_626673360-100749740-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Splunk Cloud comes to Google Cloud",
           "attribution": null
         }
       ],

@@ -2,6 +2,196 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-29-synamedia-partners-with-google-cloud-on-video-network-offering.md",
+      "title": "Synamedia Partners With Google Cloud on Video Network Offering",
+      "excerpt": "Synamedia has announced a partnership with Google Cloud, expanding its video network portfolio with a new over-the-top (OTT) as-a-service offering. The partnership, which enhances service availability and scalability,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvtechnology.com/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/synamedia-partners-with-google-cloud-on-video-network-offering",
+      "publishedDateTime": "2020-04-29T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nyqctXWHsEyvxvPW4b5Gxg-1200-80.jpg",
+          "width": 478,
+          "height": 269,
+          "title": "Synamedia Partners With Google Cloud on Video Network Offering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-explore-anthos-with-a-sample-deployment.md",
+      "title": "Explore Anthos with a sample deployment",
+      "excerpt": "Last week, we announced important updates to Anthos, our multi-cloud application management platform. Many of you reached out to find out how you could try Anthos, out today so we’re sharing the Anthos Sample Deployment on Google Cloud, a simple way to explore the platform and its components.Available",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/anthos/explore-anthos-with-a-sample-deployment/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Anthos_migrate.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Explore Anthos with a sample deployment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-optimize-dataproc-costs-using-vm-machine-type.md",
+      "title": "Optimize Dataproc costs using VM machine type",
+      "excerpt": "Dataproc is a fast, easy-to-use, fully managed cloud service for running managed open source, such as Apache Spark, Apache Presto, and Apache Hadoop clusters, in a simpler, more cost-efficient way. We hear that enterprises are migrating their big data workloads to the cloud to gain cost advantages with",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/data-analytics/optimize-dataproc-costs-using-vm-machine-type/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_Data_Analytics_3JbvWMR.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Optimize Dataproc costs using VM machine type",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-viva-las-vegas-with-our-latest-google-cloud-platform-region.md",
+      "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
+      "excerpt": "If you’re running in the cloud, more regions means being able to build reliable, fast applications that can serve your local customers. Today, we’re launching our newest Google Cloud Platform region in Las Vegas, bringing a fourth region to the western United States, the seventh nationally, and our global",
+      "heat": 182,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/infrastructure/google-clouds-las-vegas-region-is-now-open/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_las_vegas.jpg",
+          "width": 1999,
+          "height": 834,
+          "title": "Viva Las Vegas, with our latest Google Cloud Platform region",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-oracle-launches-cloud-e3-platform-built-on-second-gen-amd-epyc-processors.md",
+      "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
+      "excerpt": "Oracle on Wednesday launched the Oracle Cloud Infrastructure Compute E3 platform, a new family of bare metal and standard instances powered by AMD's 2nd Gen Epyc processors. With the high core count and memory bandwidth delivered by the AMD chips,",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-launches-cloud-e3-platform-built-on-2nd-gen-amd-epyc-processors/",
+      "publishedDateTime": "2020-04-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/10/25/93c8b76a-bd36-484e-82b6-7e8530b0aaca/thumbnail/1200x675/57ac64ca97ef5bec30bc41af38b3d033/20191025-steph-karen-oracle.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Oracle launches Cloud E3 platform, built on second-gen AMD Epyc processors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-google-makes-meet-video-conferencing-free-to-all-users-challenging-zoom.md",
       "title": "Google makes Meet video conferencing free to all users, challenging Zoom",
       "excerpt": "Alphabet Inc's Google on Wednesday said any user will soon be able to host free video conferences on Meet, turning its previously business-only tool into a bigger rival to Zoom and others battling for users during the coronavirus outbreak.",
@@ -863,189 +1053,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-6-new-device-data-and-user-controls-to-help-g-suite-customers-stay-secure.md",
-      "title": "6 new device, data, and user controls to help G Suite customers stay secure",
-      "excerpt": "At G Suite, we know that there’s a new reality facing many IT admins: with an increasingly remote workforce, you’re balancing priorities from business leaders focused on meeting business goals and your CISO focused on security, all while keeping your users online and productive. You’re doing you best,",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/g-suite/6-new-controls-to-help-g-suite-customers-stay-secure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Security-identity-04.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "6 new device, data, and user controls to help G Suite customers stay secure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-online-event-helping-financial-services-organizations-deliver-the-foundations-for-true-resilience.md",
-      "title": "Online event: Helping financial services organizations deliver the foundations for true resilience",
-      "excerpt": "Financial services firms are increasingly turning to the cloud to create digital banking solutions and to build resiliency and agility into their core business infrastructure. This trend has only accelerated as the world adapts to virtual working environments and entirely new ways of doing business. To",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/financial-services/helping-financial-services-organizations-deliver-foundations-true-resilience/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/0710_Bankingonthecloud-BlogHeader.max-1300.max-2800x2800.png",
-          "width": 2800,
-          "height": 1555,
-          "title": "Online event: Helping financial services organizations deliver the foundations for true resilience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-your-top-network-performance-problems-and-how-to-fix-them.md",
-      "title": "Your top network performance problems and how to fix them",
-      "excerpt": "Got network trouble, and don’t know where to start? Whether you’re trying to troubleshoot a performance problem or understand your network performance in order to make optimal deployment decisions, Google Cloud has a comprehensive set of tools for network monitoring, verification and optimization. With",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/your-top-network-performance-problems-and-how-to-fix-them/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "Your top network performance problems and how to fix them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-explaining-model-predictions-on-image-data.md",
-      "title": "Explaining model predictions on image data",
-      "excerpt": "Editor's note: This is the second blog post in a series covering how to use AI Explanations with different data types. The first post explained how to use Explainable AI with tabular data.As machine learning technology continues to improve and models become increasingly accurate, we’re using ML to solve",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/ai-machine-learning/explaining-model-predictions-on-image-data/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_explainable_ai.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Explaining model predictions on image data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-security-simplified-making-shielded-vm-the-default-for-compute-engine.md",
-      "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
-      "excerpt": "Last April we announced the general availability of Shielded VM—virtual machine instances that are hardened with a set of easily configurable security features to ensure that when your VM boots, it’s running a verified bootloader and kernel. To make it accessible to everyone, we offered Shielded VM at",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/identity-security/security-simplified-making-shielded-vm-default-compute-engine/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/gcp_shielded_vms.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Security, simplified: Making Shielded VM the default for Compute Engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Compute"
       ]
     }
   ],

@@ -2,6 +2,218 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-28-can-googles-new-pixel-buds-finally-challenge-apples-airpods-dominance.md",
+      "title": "Can Google's New Pixel Buds Finally Challenge Apple's AirPods Dominance?",
+      "excerpt": "About two and a half years after Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) subsidiary Google launched its original Pixel Buds, the search juggernaut is finally releasing a revamped second-generation model that has high hopes of challenging Apple's (NASDAQ:AAPL) AirPods,",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/28/can-googles-new-pixel-buds-finally-challenge-apple.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/28/can-googles-new-pixel-buds-finally-challenge-apple.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/can-googles-new-pixel-buds-finally-challenge-apple.aspx",
+      "publishedDateTime": "2020-04-28T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569863%2Fpixel-buds-2.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 600,
+          "title": "Can Google's New Pixel Buds Finally Challenge Apple's AirPods Dominance?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-cloud-security-company-cloudflare-makes-maverick-big-bet-on-china.md",
+      "title": "Cloud Security Company Cloudflare Makes ‘Maverick’ Big Bet On China",
+      "excerpt": "With U.S.-China relations at a frigid moment as the COVID-19 pandemic grinds world trade to a trickle, it might seem an unlikely moment for a Silicon Valley tech company to make a big China push. But to hear Cloudflare CEO Matthew Prince tell it,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davidjeans/2020/04/28/cloud-security-company-cloudflare-makes-maverick-big-bet-on-china/",
+      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2020/04/28/cloud-security-company-cloudflare-makes-maverick-big-bet-on-china/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/04/28/cloud-security-company-cloudflare-makes-maverick-big-bet-on-china/amp/",
+      "publishedDateTime": "2020-04-28T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea856ec165a170006a5e90e%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": "Cloud Security Company Cloudflare Makes ‘Maverick’ Big Bet On China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia.md",
+      "title": "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia",
+      "excerpt": "Google revealed today during its latest Google Stadia Connect presentation that Electronic Arts is bringing some big games to the cloud gaming service.",
+      "heat": 172,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/ea-is-bringing-jedi-fallen-order-madden-and-fifa-to-google-stadia/amp/",
+      "publishedDateTime": "2020-04-28T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/greez.jpg?fit=1391%2C941&strip=all",
+          "width": 1391,
+          "height": 941,
+          "title": "EA is bringing Jedi: Fallen Order, Madden, and FIFA to Google Stadia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-pubg-comes-to-google-stadia.md",
+      "title": "PUBG comes to Google Stadia",
+      "excerpt": "Google revealed during today's Stadia Connect video presentation that PUBG is now available for the cloud gaming platform.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/pubg-comes-to-google-stadia/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/pubg-comes-to-google-stadia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/pubg-comes-to-google-stadia/amp/",
+      "publishedDateTime": "2020-04-28T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/PUBG-E3-2018-02.jpg?fit=1159%2C651&strip=all",
+          "width": 1159,
+          "height": 651,
+          "title": "PUBG comes to Google Stadia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-improving-your-security-posture-with-centralized-secrets-management.md",
+      "title": "Improving your security posture with centralized secrets management",
+      "excerpt": "Adopting centralized secrets management is an important step in improving your organization's security posture. Centralized solutions provide unified auditing, access controls, and policy management, but many organizations struggle to install, configure, and drive internal adoption of these solutions",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/identity-security/improving-your-security-posture-with-centralized-secrets-management/amp/",
+      "publishedDateTime": "2020-04-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/secret-manager-ga-blog-hero.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Improving your security posture with centralized secrets management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-introducing-plus-codes-in-place-autocomplete-place-details-and-geocoding-to-help-you-serve-users-everywhere.md",
       "title": "Introducing plus codes in Place Autocomplete, Place Details and Geocoding to help you serve users everywhere",
       "excerpt": "Although we’re constantly mapping the world–adding addresses, points of interest, roads, and more–there are many places without traditional addressing systems and some areas with no addresses or road names at all. This can be a challenge for businesses such as food delivery or on-demand transportation,",
@@ -999,211 +1211,6 @@
       "topics": [
         "Google Cloud",
         "Hybrid Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-modernize-legacy-apps-with-migrate-for-anthos-introducing-support-for-day-two-operations.md",
-      "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
-      "excerpt": "Not all application modernization strategies are created equal. One of the simplest approaches is to take an existing virtual machine and save it as a container. But while the resulting container will work, it won’t give you the benefits of more sophisticated modernization techniques—both in terms of",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/migrate-for-anthos-1-3-accelerates-modernization/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png",
-          "width": 2000,
-          "height": 1000,
-          "title": "Modernize legacy apps with Migrate for Anthos: Introducing support for “day-two” operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-were-rolling-out-4-top-requested-google-meet-features.md",
-      "title": "We’re rolling out 4 top-requested Google Meet features",
-      "excerpt": "Remote work has become increasingly necessary for public safety and wellbeing—which makes staying connected, even while we’re apart, more important than ever. Each day, a rapidly growing number of people connect on Google Meet, and we want to make sure they have the features they need to share and be",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/productivity-collaboration/introducing-tiled-view-and-other-top-requested-features-in-google-meet/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Meet_16.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "We’re rolling out 4 top-requested Google Meet features",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-cloud-made-its-healthcare-api-available-to-providers-amid-the-pandemic.md",
-      "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
-      "excerpt": "Google Cloud made its Healthcare API generally available to healthcare organizations in response to the coronavirus pandemic.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/google-cloud-opens-healthcare-api-to-providers-amid-pandemic-2020-4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5db72045dee0190c79375578?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Cloud made its Healthcare API available to providers amid the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-cloud-anthos-now-available-for-aws-with-azure-to-follow.md",
-      "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
-      "excerpt": "Google Cloud has announced that Anthos — the company’s software for deploying and managing Kubernetes workloads across multiple on-prem and cloud environments — now supports running workloads on rival cloud platform Amazon Web Services (AWS), with Microsoft Azure support still in preview for now. Speaking to InfoWorld, Jennifer Lin ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html",
-      "publishedDateTime": "2020-04-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/ship_wheel_captain_leadership-100714989-large.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "Google Cloud Anthos now available for AWS, with Azure to follow",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-computing-platform-will-optimize-renewable-energy-use-in-datacenters.md",
-      "title": "Google computing platform will optimize renewable energy use in datacenters",
-      "excerpt": "As part of an ongoing effort to reduce the environmental impact of cloud computing, Google announced that it has developed a platform that maximizes the use of alternative energy sources at its sprawling network of datacenters. In a blog post, Google officials described the system as a “carbon-intelligent computing platform.” The system ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-computing-platform-will-optimize-renewable-energy-use-in-datacenters/amp/",
-      "publishedDateTime": "2020-04-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google computing platform will optimize renewable energy use in datacenters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
       ]
     }
   ],

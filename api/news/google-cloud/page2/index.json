@@ -2,6 +2,210 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-06-thales-selects-google-cloud-to-expand-its-esim-management-solution.md",
+      "title": "Thales selects Google Cloud to expand its eSIM management solution",
+      "excerpt": "The Thales-operated solution provides secure eSIM management services and provides compliance with data protection and privacy requirements.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Thales_selects_Google_Cloud_to_expand_its_eSIM_management_solution-ZAWYA20200506073300/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/",
+      "publishedDateTime": "2020-05-06T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Thales selects Google Cloud to expand its eSIM management solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-microsoft-word-vs-google-docs.md",
+      "title": "Microsoft Word vs. Google Docs",
+      "excerpt": "Word or Docs? The decision may seem simple if you're already integrated into either Microsoft or Google services, but there are other factors to consider.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-word-versus-google-docs/",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-word-versus-google-docs/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-versus-google-docs/?amp",
+      "publishedDateTime": "2020-05-05T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/how-to-use-microsoft-office-for-free-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Microsoft Word vs. Google Docs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-googles-stadia-controller-will-finally-work-wirelessly-with-computers-starting-this-week.md",
+      "title": "Google’s Stadia controller will finally work wirelessly with computers starting this week",
+      "excerpt": "Google’s Stadia Controller will finally work wirelessly with laptops and desktops starting this week, the company announced today (via Engadget). Since the cloud gaming services",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/5/21248769/google-stadia-controller-wireless-computers-desktop-laptop",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/5/21248769/google-stadia-controller-wireless-computers-desktop-laptop",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/5/21248769/google-stadia-controller-wireless-computers-desktop-laptop",
+      "publishedDateTime": "2020-05-05T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/yxc7GCwTB6kZozLpIjAiyK9YRwc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66756942/akrales_191113_3779_0163.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google’s Stadia controller will finally work wirelessly with computers starting this week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-providing-transparency-into-government-requests-for-enterprise-data.md",
+      "title": "Providing transparency into government requests for enterprise data",
+      "excerpt": "At Google Cloud, we’re committed to being transparent about when governments request our enterprise customers’ data. Today, to continue our company-wide efforts to build trust through transparency, Google published its semi-annual Requests for user information transparency report. This version of the",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/products/identity-security/google-clouds-semi-annual-transparency-report-now-available/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_security_1.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": "Providing transparency into government requests for enterprise data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-splunk-cloud-comes-to-google-cloud.md",
+      "title": "Splunk Cloud comes to Google Cloud",
+      "excerpt": "Splunk’s cloud-based platform will provide natively integrated log analysis and metrics for Google Cloud Platform users",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541754/splunk-cloud-comes-to-google-cloud.amp.html",
+      "publishedDateTime": "2020-05-05T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/big_data_analytics_analysis_statistics_thinkstock_626673360-100749740-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Splunk Cloud comes to Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-anthos-in-depth-toward-a-service-based-architecture.md",
       "title": "Anthos in depth: Toward a service-based architecture",
       "excerpt": "Two weeks ago, we announced many new advancements we are making to Anthos, including new capabilities that let you better run and manage loosely coupled microservices anywhere you need them. Today, we’re diving deeper into this world of services, and how we have been helping customers on their journey",
@@ -1054,195 +1258,6 @@
       ],
       "topics": [
         "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans.md",
-      "title": "Google rolls out new AI-powered product for banks processing PPP loans",
-      "excerpt": "The PPP Lending AI solution is designed for lending institutions that have been overwhelmed by loan applications from small businesses seeking COVID-19 pandemic relief.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-new-ai-powered-product-for-banks-processing-ppp-loans/",
-      "publishedDateTime": "2020-05-01T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/04/4e268e10-4522-42b7-8bc2-bc8d2906ced3/thumbnail/1200x675/f8dfa2c860a8294900066251d8d4c6fe/computer-power-supply-unit.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google rolls out new AI-powered product for banks processing PPP loans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-designing-distributed-systems-using-nalsd-flashcards.md",
-      "title": "Designing distributed systems using NALSD flashcards",
-      "excerpt": "There are many ways to design distributed systems. One way involves growing systems organically—components are rewritten or redesigned as the system handles more requests. Another method starts with a proof of concept. Once the system adds value to the business, a second version is designed from the",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/management-tools/sre-principles-and-flashcards-to-design-nalsd/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_Management_tools.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Designing distributed systems using NALSD flashcards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-to-improve-the-delivery-and-ecommerce-experience-with-google-maps-platform.md",
-      "title": "How to improve the delivery and ecommerce experience with Google Maps Platform",
-      "excerpt": "Editor's note: To support companies and developers addressing changing consumer and business needs, we’re sharing our best practices for adding new functionality to your apps and websites.With many restaurants and stores around the world unable to open for business as usual, a common question we hear",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/maps-platform/how-improve-delivery-and-ecommerce-experience-google-maps-platform/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Delivery_GettyImages-930002622_2.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 1467,
-          "title": "How to improve the delivery and ecommerce experience with Google Maps Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-learn-3-in-demand-cloud-skills-in-30-days-at-no-cost-during-the-month-of-may.md",
-      "title": "Learn 3 in-demand cloud skills in 30 days at no cost during the month of May",
-      "excerpt": "In April, we announced we were expanding our Google Cloud learning resources to support the growing number of people working and learning from home. Today, we are excited to announce that if you sign up by May 31, 20201, you can still enroll in Google Cloud training on both Pluralsight and Qwiklabs at",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-training-available-at-no-cost-for-30-days/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_HowTo_02.max-1500x1500.jpg",
-          "width": 1500,
-          "height": 625,
-          "title": "Learn 3 in-demand cloud skills in 30 days at no cost during the month of May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-understanding-forwarding-peering-and-private-zones-in-cloud-dns.md",
-      "title": "Understanding forwarding, peering, and private zones in Cloud DNS",
-      "excerpt": "The Domain Name System, or DNS, is one of the most foundational services of the Internet, turning human-friendly domain names into IP addresses. Often handled by specialized network engineers within an organization, DNS can feel like a black box to people who don’t deal with it often. For one, DNS terminology",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/networking/cloud-forwarding-peering-and-zones/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google-networking.max-2200x2200.jpg",
-          "width": 2200,
-          "height": 917,
-          "title": "Understanding forwarding, peering, and private zones in Cloud DNS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Networking"
       ]
     }
   ],

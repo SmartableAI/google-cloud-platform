@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-11-the-case-of-the-missing-dns-packets-a-google-cloud-support-story.md",
+      "title": "The case of the missing DNS packets: a Google Cloud support story",
+      "excerpt": "Editor’s note: Ever wonder how Google Cloud Technical Solutions Engineers (TSE) approach your support cases? TSEs are the support engineers responsible for troubleshooting and identifying the technical root cause of issues reported by customers. Some are fairly simple, but, every once in a while, a support",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/GCP_11.jpg",
+          "width": 4167,
+          "height": 2313,
+          "title": "The case of the missing DNS packets: a Google Cloud support story",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-anthos-in-depth-toward-a-service-based-architecture.md",
       "title": "Anthos in depth: Toward a service-based architecture",
       "excerpt": "Two weeks ago, we announced many new advancements we are making to Anthos, including new capabilities that let you better run and manage loosely coupled microservices anywhere you need them. Today, we’re diving deeper into this world of services, and how we have been helping customers on their journey",
