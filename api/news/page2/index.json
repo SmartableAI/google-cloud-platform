@@ -2,6 +2,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-06-thales-selects-google-cloud-to-expand-its-esim-management-solution.md",
+      "title": "Thales selects Google Cloud to expand its eSIM management solution",
+      "excerpt": "The Thales-operated solution provides secure eSIM management services and provides compliance with data protection and privacy requirements.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Thales_selects_Google_Cloud_to_expand_its_eSIM_management_solution-ZAWYA20200506073300/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200506073300/",
+      "publishedDateTime": "2020-05-06T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Thales selects Google Cloud to expand its eSIM management solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-microsoft-word-vs-google-docs.md",
       "title": "Microsoft Word vs. Google Docs",
       "excerpt": "Word or Docs? The decision may seem simple if you're already integrated into either Microsoft or Google services, but there are other factors to consider.",
@@ -993,50 +1029,6 @@
           "width": 2400,
           "height": 1350,
           "title": "I Can’t Stop Escaping Into Google Photos’ Nostalgia Vortex",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-free-cloud-storage-which-providers-offer-the-most-space.md",
-      "title": "Free cloud storage: Which providers offer the most space",
-      "excerpt": "The most generous free storage provider offers a whopping 100GB of space for your images, videos, and other files.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/best-free-cloud-storage-1113950/",
-      "ampWebUrl": "https://www.androidauthority.com/best-free-cloud-storage-1113950/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/best-free-cloud-storage-1113950/amp/",
-      "publishedDateTime": "2020-05-02T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/google-cloud-platform/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/Google-Drive-icon-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Free cloud storage: Which providers offer the most space",
           "attribution": null
         }
       ],
