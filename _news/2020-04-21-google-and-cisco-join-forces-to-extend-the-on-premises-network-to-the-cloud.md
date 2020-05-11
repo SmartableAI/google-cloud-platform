@@ -23,21 +23,6 @@ images:
     title: "Google and Cisco join forces to extend the on-premises network to the cloud"
 
 related:
-  - title: "Cisco expands Google Cloud partnership with new SD-WAN cloud hub"
-    excerpt: "This latest integration is centered around Google Anthos, a platform launched last year for managing applications on premise or in any cloud environment. By tightly integrating Cisco SD-WAN services with Google Cloud and Anthos, the companies said they can offer a new turnkey, multicloud networking fabric called the Cisco SD-WAN Cloud Hub ..."
-    publishedDateTime: 2020-04-21T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-expands-google-cloud-partnership-with-new-sd-wan-cloud-hub/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/ce6814ff-ce69-44ef-b6a8-89993fd7e787/thumbnail/1200x675/90a7834e7d694a76c76eaaced038ebe8/istock-1092964846.jpg"
-        width: 1200
-        height: 675
   - title: "Google and Cisco join forces to extend the on-premise network to the cloud"
     excerpt: "Google LLC and Cisco Systems Inc. today announced a push to build broad new integrations between their products that will give enterprises the ability to centrally manage on-premises and public cloud networks. The product integrations will be delivered in the form of an offering dubbed Cisco SD-WAN Cloud Hub with Google Cloud, the companies said."
     publishedDateTime: 2020-04-21T20:25:00Z

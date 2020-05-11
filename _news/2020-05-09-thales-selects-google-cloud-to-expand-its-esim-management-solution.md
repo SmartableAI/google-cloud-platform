@@ -7,7 +7,7 @@ webUrl: "https://www.commsmea.com/technology/projects/21846-thales-selects-googl
 ampWebUrl: "https://www.commsmea.com/technology/projects/21846-thales-selects-google-cloud-to-expand-its-esim-management-solution?amp"
 cdnAmpWebUrl: "https://www-commsmea-com.cdn.ampproject.org/c/s/www.commsmea.com/technology/projects/21846-thales-selects-google-cloud-to-expand-its-esim-management-solution?amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 
 topics:
   - Google Cloud
+
+images:
+  - url: "https://www.commsmea.com/s3/files/styles/fb_share_style_image/public/images/2018/03/18/cloud.jpg?itok=9r6PeJ9k"
+    width: 1200
+    height: 630
+    title: "Thales selects Google Cloud to expand its eSIM management solution"
 
 related:
   - title: "Thales selects Google Cloud to expand its eSIM management solution"
@@ -48,6 +54,6 @@ related:
         width: 1200
         height: 627
 
-secured: "Q+rz8DsjmbeFEN6IvlZdvELDKtE2F4ebCKnmh/k0f2XWy+2/pONg1xg+q+xeJ69jniEfWAzQnfTfR5gWAX9XEAN8is9FVEcHwuM7KQ7gFXLuIhO6PkAV2y/cm1UhtMPpMjZxv5+u/K+OkKwW5ntPGPT52o9Lgj/hqHzGEMz8BY4yo53zkl7kLclmFco9on2eRRIGcFb4fFyxRrJa4Ef4Ic9Ez0qRYo9r9qri4sWNJ53YXk1J4cHgyHW5NuwtGzYVkykSJ1JitsnvjD+3hJCrUrAKuA4w6tVXc5SSOhZ3GrVEoGH4vZkbpt7/5FQG15Mu;gHQW7AuWxLyRA3SuuRd5jw=="
+secured: "zrGXT05/tqib+pfFbbzS6NsROKwo2nTKPqATke3AvFafNiGG4oryOYGS8kC+R9FlYzS5ocKKkpVofms8sLebzSyhK7F2PDofTQN70YHNPDoqY53OVYcjENwrI/AAWXvMVccDmcetjhFATS/3ur1E8botH3mclQKbUZk/lgaXp1LqG14VcrEIx8+S3qAkNJ4tNAIp2DV8c8FdtaxhL2AFbSqv1pQNyLHd8jklipSwIBXoLEozvvVZC3TS4ifPUg3rC7yAv37fce3v/tLCz6ZjLX7HSPLpnh3M5KesHiuOOEdmEwDcyDIrRFzI61en45Wq;vaoQGf7XqcOcrD5N91IxGA=="
 ---
 

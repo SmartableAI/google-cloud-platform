@@ -2,6 +2,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-11-google-cloud-appoints-anil-bhansali-as-vice-president-engineering-in-india.md",
+      "title": "Google Cloud appoints Anil Bhansali as Vice President Engineering in India",
+      "excerpt": "Google Cloud on Monday said it has appointed former Microsoft executive Anil Bhansali as Vice President of Engineering in India.He will coordinate all software development support efforts for Google C",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/companies/google-cloud-appoints-anil-bhansali-as-vice-president-engineering-in-india/article31555582.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/google-cloud-appoints-anil-bhansali-as-vice-president-engineering-in-india/article31555582.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/google-cloud-appoints-anil-bhansali-as-vice-president-engineering-in-india/article31555582.ece/amp/",
+      "publishedDateTime": "2020-05-11T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Google Cloud appoints Anil Bhansali as Vice President Engineering in India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6.md",
       "title": "What Are The Best Big Data Cloud Storage Providers? Here Are The Top 6",
       "excerpt": "The amounts of data organizations accumulate is growing exponentially. This means we need to find the right place to store the data. In this article, we look at the best cloud storage providers for your big data.",
@@ -1169,43 +1205,6 @@
       "topics": [
         "Google Cloud",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-windows-server-containers-on-gke-now-ga-with-ecosystem-support.md",
-      "title": "Windows Server containers on GKE now GA, with ecosystem support",
-      "excerpt": "As organizations look to modernize their Windows Server applications to achieve improved scalability and smoother operations, migrating them into Windows containers has become a leading solution. And orchestrating these containers with Kubernetes has become the industry norm, just as it has with Linux. We",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cloud.google.com/blog/products/containers-kubernetes/windows-server-containers-on-gke-now-ga/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Official Blog",
-        "domain": "cloud.google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Containers_Uy53clo.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": "Windows Server containers on GKE now GA, with ecosystem support",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google Cloud",
-        "Containers"
       ]
     }
   ],
