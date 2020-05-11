@@ -2,6 +2,43 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2019-11-20-dont-just-move-to-the-cloud-modernize-with-google-cloud.md",
+      "title": "Don’t just move to the cloud, modernize with Google Cloud",
+      "excerpt": "Our customers tell us they don’t just want to migrate their applications from point A to point B, they want to modernize their applications with cloud-native technologies and techniques, wherever those applications may be. Today, we’re excited to tell you about a variety of new customers that are using",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/",
+      "ampWebUrl": "https://cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
+      "cdnAmpWebUrl": "https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/topics/hybrid-cloud/move-and-modernize-your-apps-with-anthos/amp/",
+      "publishedDateTime": "2019-11-20T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Official Blog",
+        "domain": "cloud.google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_GCP_HLl2OQm.png",
+          "width": 2880,
+          "height": 1200,
+          "title": "Don’t just move to the cloud, modernize with Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google Cloud",
+        "Hybrid Cloud"
+      ]
+    },
+    {
       "path": "_news/2019-11-20-key-access-justifications-a-new-level-of-control-and-visibility.md",
       "title": "Key Access Justifications: a new level of control and visibility",
       "excerpt": "Editor’s note: The following post was updated on 1/08/20 to provide additional clarity on Cloud External Key Manager and Key Access Justifications.As enterprises move to the cloud, they want to control when and how their data is accessed. At Google Cloud, we believe that customers should have the strongest",

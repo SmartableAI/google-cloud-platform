@@ -116,7 +116,7 @@
       "path": "_news/2020-04-21-modernize-enterprise-networking-with-cisco-sd-wan-and-google-cloud.md",
       "title": "Modernize Enterprise Networking with Cisco SD-WAN and Google Cloud",
       "excerpt": "Enterprises are increasingly adopting hybrid and multi-cloud to deliver the best experiences for their customers. The network is at the foundation of this transformation, but is getting exponentially more complex to manage, secure, and scale throughout an enterprise footprint that can include multiple",
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "type": "article",
       "webUrl": "https://cloud.google.com/blog/topics/partners/introducing-cisco-sd-wan-cloud-hub-with-google-cloud/",

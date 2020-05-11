@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-24T18:17:00Z
 webUrl: "https://www.zdnet.com/video/google-wants-to-make-it-easier-to-analyse-health-data-in-the-cloud/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       - url: "https://www.healthcaredive.com/user_media/cache/62/3d/623d00073afa24c8126504008280c438.jpg"
         width: 770
         height: 362
-  - title: "Google opens Cloud Healthcare API to health systems to support data exchange"
-    excerpt: "\"We’re in a time where technology needs to work fast, securely, and most importantly in a way that furthers our dedication to our patients,” said John Halamka, M.D., president of Mayo Clinic Platform, in a statement. “Google Cloud’s Healthcare API accelerates data liquidity among stakeholders, and in return, will help us better serve ..."
-    publishedDateTime: 2020-04-21T11:24:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/google-opens-up-cloud-healthcare-api-to-health-systems-to-support-data-exchange"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 19
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1587413098/shutterstock_552493561.jpg/shutterstock_552493561.jpg?ql2heY1V4vL6LRM5WmDVvIOo9aCLJtgS"
-        width: 1000
-        height: 667
 
 secured: "useUz7rBUBNmCwnVeE7BQ1qxKVNApyzVZrYitgRS7HqINxYd9GNs7ne6i25sucM0Yc88l+S2UufE36014T1ZQrrMMYpBhaPSxtBbMtxLg13MRTpakg984BIoDjo+gmMBWX4xcl9LtzE5C+nQk0XmpAVLjEMbAGX1yrG3ucyxPXkIJq/4tfzpTqKuT2klpVEfPkvevpqlgO41yNm518ZKOf0sDF0XjxtT9xrgKxhI75IEWjNWnH9+uCV9W6VpydrYPf/fHkGmhhGBeQ1Qjc35jEA4fqtlKAIuK22u7BEPzzT8OReoQIf0r7MqSs8UEOXC/svyZimrAEl30r4boHKvR8Eumax+BfwPO2QP+nvMRw9U+iG2tH68HxpccbtOxBg9Rnake856YUPS7F4JyZ+tWSKCwl5jFoOXK0EXX6GAdfCTu+0dg5mtq+FM6xVIqZe8sl71vEehaXTOGrJ1U9iVM6BfToZPRfPCE2MFHlQikcY=;BF16DkMAvQN2nJw5OKubTQ=="
 ---
